@@ -40,7 +40,7 @@
 
 ## System Flow
 
-![](https://github.com/r03921081/Multi-threaded-PTT-Crawler/blob/master/Image/Crawler.png)
+![](https://github.com/r03921081/Multi-threaded-Crawler/blob/master/pttCrawler/Image/Crawler.png)
 
 ## Threads life
 	1. Dispatcher
