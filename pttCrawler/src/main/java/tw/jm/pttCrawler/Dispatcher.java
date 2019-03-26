@@ -50,31 +50,29 @@ public class Dispatcher implements Runnable {
 					Elements target = doc.select(".r-ent");
 
 					for (Element line : target) {
-						String articleDate = line.select(".meta .date").text();
-						if (compareDate(articleDate)) {
-							String articleUrl = line.select(".title a").attr("href");
-							String articlePop = line.select(".nrec span").text();
+						
+						String articleUrl = line.select(".title a").attr("href");
+						String articlePop = line.select(".nrec span").text();
 
-							if (articlePop.length() > 0) {
-								if (articlePop.equals("爆")) {
+						if (articlePop.length() > 0) {
+							if (articlePop.equals("爆")) {
+								try {
+									if (doneMap.containsKey(articleUrl) == false && articleUrl.length() > 0) {
+										taskList.setTask(createTask(line, board));
+									}
+
+								} catch (InterruptedException e) {
+									e.printStackTrace();
+								}
+							}
+							if (isNumber(articlePop)) {
+								if (Integer.parseInt(articlePop) >= popularity) {
 									try {
 										if (doneMap.containsKey(articleUrl) == false && articleUrl.length() > 0) {
 											taskList.setTask(createTask(line, board));
 										}
-
 									} catch (InterruptedException e) {
 										e.printStackTrace();
-									}
-								}
-								if (isNumber(articlePop)) {
-									if (Integer.parseInt(articlePop) >= popularity) {
-										try {
-											if (doneMap.containsKey(articleUrl) == false && articleUrl.length() > 0) {
-												taskList.setTask(createTask(line, board));
-											}
-										} catch (InterruptedException e) {
-											e.printStackTrace();
-										}
 									}
 								}
 							}
@@ -123,24 +121,25 @@ public class Dispatcher implements Runnable {
 		return true;
 	}
 
-	public static boolean compareDate(String articleDate) {
-
-		int todayM = Calendar.getInstance().get(Calendar.MONTH) + 1;
-		int todayD = Calendar.getInstance().get(Calendar.DAY_OF_MONTH);
-
-		int articleM = Integer.parseInt(articleDate.split("/")[0]);
-		int articleD = Integer.parseInt(articleDate.split("/")[1]);
-
-		if (todayM == articleM && todayD - articleD == 1) {
-			return true;
-		} else if (todayM == articleM && todayD == articleD) {
-			return true;
-		} else if (todayM - articleM == 1 && todayD < articleD) {
-			return true;
-		} else {
-			return false;
-		}
-
-	}
+//  Old version
+//	public static boolean compareDate(String articleDate) {
+//
+//		int todayM = Calendar.getInstance().get(Calendar.MONTH) + 1;
+//		int todayD = Calendar.getInstance().get(Calendar.DAY_OF_MONTH);
+//
+//		int articleM = Integer.parseInt(articleDate.split("/")[0]);
+//		int articleD = Integer.parseInt(articleDate.split("/")[1]);
+//
+//		if (todayM == articleM && todayD - articleD == 1) {
+//			return true;
+//		} else if (todayM == articleM && todayD == articleD) {
+//			return true;
+//		} else if (todayM - articleM == 1 && todayD < articleD) {
+//			return true;
+//		} else {
+//			return false;
+//		}
+//
+//	}
 
 }
