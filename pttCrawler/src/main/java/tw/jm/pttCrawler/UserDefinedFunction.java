@@ -10,7 +10,6 @@ public class UserDefinedFunction {
 	private static final Logger logger = LogManager.getLogger("Crawler");
 	
 	public static final String doneListPath = "config\\doneList";
-	public static final String pageListPath = "config\\pageList";
 	public static final String pttBoardPath = "config\\pttBoard";
 
 	public static final Integer popularity = 50;
@@ -21,7 +20,7 @@ public class UserDefinedFunction {
 		logger.info(article.toString());
 	}
 	
-//	Parser one article.
+//	Parse one article.
 	public void crawlArticle() {
 		String url = "https://www.ptt.cc/bbs/joke/M.1552840011.A.851.html";
 		

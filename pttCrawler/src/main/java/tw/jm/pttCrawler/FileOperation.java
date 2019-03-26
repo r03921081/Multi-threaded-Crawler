@@ -11,7 +11,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class FileOperation {
+	
+	private static final Logger logger = LogManager.getLogger("Crawler");
 
 	public List<String> getPttBoardConfig() {
 		List<String> pttBoard = new ArrayList<>();
@@ -23,7 +28,7 @@ public class FileOperation {
 			}
 			br.close();
 		} catch (IOException e) {
-			e.printStackTrace();
+			logger.error("FileReader", e);
 		}
 		return pttBoard;
 	}
@@ -45,7 +50,7 @@ public class FileOperation {
 			}
 			br.close();
 		} catch (IOException e) {
-			e.printStackTrace();
+			logger.error("FileReader", e);
 		}
 	}
 
@@ -69,7 +74,7 @@ public class FileOperation {
 			}
 			out.close();
 		} catch (IOException e) {
-			e.printStackTrace();
+			logger.error("FileWriter", e);
 		}
 	}
 

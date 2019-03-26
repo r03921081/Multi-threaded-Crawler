@@ -51,7 +51,19 @@ public class DoneList {
 		FileOperation f = new FileOperation();
 		f.setDoneListConfig();
 	}
+	
+//	Future improvement
+	public void cleanDoneList() {
 
+		for (Map.Entry<String, Map<String, String>> boardEntrySet : doneMap.entrySet()) {
+			for (Map.Entry<String, String> entry : boardEntrySet.getValue().entrySet()) {
+				if (!compareDate(entry.getValue())) {
+					doneMap.remove(entry.getKey());
+				}
+			}
+		}
+	}
+	
 	public static boolean compareDate(String articleDate) {
 
 		int todayM = Calendar.getInstance().get(Calendar.MONTH) + 1;
@@ -66,18 +78,6 @@ public class DoneList {
 			return false;
 		} else {
 			return true;
-		}
-	}
-	
-//	Future improvement
-	public void cleanDoneList() {
-
-		for (Map.Entry<String, Map<String, String>> boardEntrySet : doneMap.entrySet()) {
-			for (Map.Entry<String, String> entry : boardEntrySet.getValue().entrySet()) {
-				if (!compareDate(entry.getValue())) {
-					doneMap.remove(entry.getKey());
-				}
-			}
 		}
 	}
 
