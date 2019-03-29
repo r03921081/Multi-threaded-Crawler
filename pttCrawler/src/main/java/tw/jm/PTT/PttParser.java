@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.PTT;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
@@ -11,13 +11,13 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class Parser {
+public class PttParser {
 	
 	private static final Logger logger = LogManager.getLogger("Crawler");
 	
-	public Article parseArticle(String url) {
+	public PttArticle parseArticle(String url) {
 
-		Article article = new Article();
+		PttArticle article = new PttArticle();
 
 		try {
 

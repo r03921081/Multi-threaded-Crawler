@@ -1,9 +1,9 @@
-package tw.jm.pttCrawler;
+package tw.jm.PTT;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Article {
+public class PttArticle {
 	
 	private String author;
 	private String title;
@@ -65,7 +65,7 @@ public class Article {
 	
 	@Override
 	public String toString() {
-		return "Article [author=" + author + ", title=" + title + ", board=" + board + ", content=" + content
+		return "PttArticle [author=" + author + ", title=" + title + ", board=" + board + ", content=" + content
 				+ ", date=" + date + ", ip=" + ip + ", url=" + url + ", pushList=" + pushList + "]";
 	}
 	

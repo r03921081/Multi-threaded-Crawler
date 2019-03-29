@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.PTT;
 
 public class PushMessage {
 	

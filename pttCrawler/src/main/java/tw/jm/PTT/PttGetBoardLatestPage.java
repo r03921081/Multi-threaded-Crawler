@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.PTT;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
@@ -10,19 +10,22 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-public class GetBoardLatestPage implements Runnable {
+public class PttGetBoardLatestPage implements Runnable {
 	
 	private static final Logger logger = LogManager.getLogger("Crawler");
 
 	private String board;
 
-	public GetBoardLatestPage(String board) {
+	public PttGetBoardLatestPage(String board) {
 		this.board = board;
 	}
 
 	@Override
 	public void run() {
-		String url = "https://www.ptt.cc/bbs/" + board + "/index.html";
+		
+		String urlBoard = board.split("-")[1];
+		String url = "https://www.ptt.cc/bbs/" + urlBoard + "/index.html";
+		logger.info(url);
 
 		Document doc;
 		Integer latestPage = 0;
@@ -37,7 +40,7 @@ public class GetBoardLatestPage implements Runnable {
 
 			if (matcher.find()) {
 				latestPage = Integer.parseInt(matcher.group(0)) + 1;
-				PageList.getInstance().setBoardLatePages(board, latestPage);
+				PttPageList.getInstance().setBoardLatePages(board, latestPage);
 				logger.info(board + "'s latestPage is " + latestPage);
 			}
 

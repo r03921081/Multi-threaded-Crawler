@@ -1,9 +1,11 @@
-package tw.jm.pttCrawler;
+package tw.jm.Crawler;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import tw.jm.pttCrawler.Article;
+import tw.jm.AppleNews.AppleArticle;
+import tw.jm.PTT.PttArticle;
+import tw.jm.PTT.PttParser;
 
 public class UserDefinedFunction {
 	
@@ -16,16 +18,20 @@ public class UserDefinedFunction {
 	public static final Integer needPages = 10;
 	
 //	An "article" is an object that contains all the information about each article.
-	public void crawlFunction(Article article) {
+	public void crawlPTT(PttArticle article) {
+		logger.info(article.toString());
+	}
+	
+	public void crawlAPPLE(AppleArticle article) {
 		logger.info(article.toString());
 	}
 	
 //	Parse one article.
-	public void crawlArticle() {
+	public void crawlPTTArticle() {
 		String url = "https://www.ptt.cc/bbs/joke/M.1552840011.A.851.html";
 		
-		Parser parser = new Parser();
-		Article article = parser.parseArticle(url);
+		PttParser parser = new PttParser();
+		PttArticle article = parser.parseArticle(url);
 		logger.info(article.toString());
 	}
 }

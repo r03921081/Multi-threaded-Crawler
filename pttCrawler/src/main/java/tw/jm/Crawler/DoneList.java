@@ -1,6 +1,5 @@
-package tw.jm.pttCrawler;
+package tw.jm.Crawler;
 
-import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -53,32 +52,32 @@ public class DoneList {
 	}
 	
 //	Future improvement
-	public void cleanDoneList() {
-
-		for (Map.Entry<String, Map<String, String>> boardEntrySet : doneMap.entrySet()) {
-			for (Map.Entry<String, String> entry : boardEntrySet.getValue().entrySet()) {
-				if (!compareDate(entry.getValue())) {
-					doneMap.remove(entry.getKey());
-				}
-			}
-		}
-	}
-	
-	public static boolean compareDate(String articleDate) {
-
-		int todayM = Calendar.getInstance().get(Calendar.MONTH) + 1;
-		int todayD = Calendar.getInstance().get(Calendar.DAY_OF_MONTH);
-
-		int articleM = Integer.parseInt(articleDate.split("/")[0]);
-		int articleD = Integer.parseInt(articleDate.split("/")[1]);
-
-		if (todayM == articleM && todayD == articleD) {
-			return false;
-		} else if (todayM == articleM && todayD - articleD == 1) {
-			return false;
-		} else {
-			return true;
-		}
-	}
+//	public void cleanDoneList() {
+//
+//		for (Map.Entry<String, Map<String, String>> boardEntrySet : doneMap.entrySet()) {
+//			for (Map.Entry<String, String> entry : boardEntrySet.getValue().entrySet()) {
+//				if (!compareDate(entry.getValue())) {
+//					doneMap.remove(entry.getKey());
+//				}
+//			}
+//		}
+//	}
+//	
+//	public static boolean compareDate(String articleDate) {
+//
+//		int todayM = Calendar.getInstance().get(Calendar.MONTH) + 1;
+//		int todayD = Calendar.getInstance().get(Calendar.DAY_OF_MONTH);
+//
+//		int articleM = Integer.parseInt(articleDate.split("/")[0]);
+//		int articleD = Integer.parseInt(articleDate.split("/")[1]);
+//
+//		if (todayM == articleM && todayD == articleD) {
+//			return false;
+//		} else if (todayM == articleM && todayD - articleD == 1) {
+//			return false;
+//		} else {
+//			return true;
+//		}
+//	}
 
 }

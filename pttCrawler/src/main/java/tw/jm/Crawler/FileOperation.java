@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.Crawler;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -15,10 +15,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class FileOperation {
-	
+
 	private static final Logger logger = LogManager.getLogger("Crawler");
 
-	public List<String> getPttBoardConfig() {
+	public List<String> getBoardConfig() {
 		List<String> pttBoard = new ArrayList<>();
 		String file = UserDefinedFunction.pttBoardPath;
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
@@ -66,7 +66,7 @@ public class FileOperation {
 				for (Map.Entry<String, String> entry : articleSet.getValue().entrySet()) {
 					String url = entry.getKey();
 					String date = entry.getValue();
-					
+
 					String writeTemplate = board + " " + url + " " + date;
 					out.write(writeTemplate);
 					out.newLine();

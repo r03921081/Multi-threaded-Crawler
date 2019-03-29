@@ -1,20 +1,20 @@
-package tw.jm.pttCrawler;
+package tw.jm.PTT;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class PageList {
+public class PttPageList {
 
-	private static PageList instance = null;
+	private static PttPageList instance = null;
 
-	private PageList() {
+	private PttPageList() {
 	}
 
-	public static PageList getInstance() {
+	public static PttPageList getInstance() {
 		if (instance == null) {
-			synchronized (PageList.class) {
+			synchronized (PttPageList.class) {
 				if (instance == null) {
-					instance = new PageList();
+					instance = new PttPageList();
 				}
 			}
 		}

@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.Crawler;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

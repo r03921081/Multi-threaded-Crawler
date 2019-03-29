@@ -1,4 +1,4 @@
-package tw.jm.pttCrawler;
+package tw.jm.Crawler;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -17,19 +17,15 @@ public class Crawler implements Runnable {
 	@Override
 	public void run() {
 
-		while (true) {			
-			Task task;
+		while (true) {
 			try {
 				
 				Thread.sleep((int) (Math.random() * 1000));
 				
-				task = taskList.getTask();
-				UserDefinedFunction u = new UserDefinedFunction();
-				String url = "https://www.ptt.cc/" + task.getUrl();
+				Task task = taskList.getTask();
 				
-				Parser parser = new Parser();
-				Article article = parser.parseArticle(url);								
-				u.crawlFunction(article);
+				Processor processor = Configuration.getInstance().setCrawler(task);
+				processor.execute();
 				
 			} catch (InterruptedException e) {
 				logger.warn(Thread.currentThread().getName() + " is interrupted.");
@@ -37,4 +33,5 @@ public class Crawler implements Runnable {
 			}
 		}
 	}
+	
 }
