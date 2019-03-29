@@ -15,9 +15,7 @@ public class AppleParser {
 private static final Logger logger = LogManager.getLogger("Crawler");
 	
 	public AppleArticle parseArticle(String url) {
-		
 		AppleArticle article = new AppleArticle();
-		
 		try {
 			Document doc = Jsoup.connect(url).get();
 			Elements list = doc.select(".ndArticle_leftColumn");

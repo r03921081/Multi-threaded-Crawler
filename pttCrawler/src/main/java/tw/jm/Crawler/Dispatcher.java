@@ -26,13 +26,10 @@ public class Dispatcher implements Runnable  {
 
 	@Override
 	public void run() {
-
 		while (true) {
-			
 			if(waitingPages.getCount() == 0) {				
 				break;
 			}
-			
 			try {
 				Integer currentPage = PageQueue.getInstance().getPage();
 				logger.info(Thread.currentThread().getName() + " dispatch " + currentPage);
@@ -47,7 +44,5 @@ public class Dispatcher implements Runnable  {
 			}
 		}
 	}
-
-	
 
 }

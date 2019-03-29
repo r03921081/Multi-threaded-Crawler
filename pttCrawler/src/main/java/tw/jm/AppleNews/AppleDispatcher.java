@@ -32,7 +32,6 @@ public class AppleDispatcher implements Processor {
 
 	@Override
 	public void execute() {
-
 		String url = "https://tw.appledaily.com/new/realtime/" + currentPage;
 		Map<String, String> doneMap = DoneList.getInstance().getDoneMap(board);
 

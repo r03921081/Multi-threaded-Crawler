@@ -25,30 +25,24 @@ public class App {
 		Configuration.getInstance().initDoneList();
 		
 		TaskList taskList = Configuration.getInstance().getTaskList();
-
 		Crawler crawler = new Crawler(taskList);
 		executeThreads(crawler);
 
 		for (String target : Configuration.getInstance().getWaitingTargets()) {
-
 			while (canExecuteNextBoard != true) {
 			}
 
 			logger.info("--- Process " + target + " ---");
-
 			canExecuteNextBoard = false;
 			
 			Configuration.getInstance().initDispatcher(target);
 			CountDownLatch waitingPages = new CountDownLatch(UserDefinedFunction.needPages);
 			Dispatcher dispatcher = new Dispatcher(taskList, target, waitingPages);
-//					Configuration.getInstance().setDispatcher(taskList, target);
 			executeThreads(dispatcher);
 
 			while (waitingPages.getCount() > 0) {
 			}
-
 			canExecuteNextBoard = true;
-
 			logger.info("--- Stop " + target + " ---");
 		}
 

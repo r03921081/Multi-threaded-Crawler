@@ -19,14 +19,11 @@ public class Crawler implements Runnable {
 
 		while (true) {
 			try {
-				
 				Thread.sleep((int) (Math.random() * 1000));
-				
 				Task task = taskList.getTask();
 				
 				Processor processor = Configuration.getInstance().setCrawler(task);
 				processor.execute();
-				
 			} catch (InterruptedException e) {
 				logger.warn(Thread.currentThread().getName() + " is interrupted.");
 				break;

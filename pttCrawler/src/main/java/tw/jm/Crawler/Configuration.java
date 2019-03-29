@@ -1,7 +1,6 @@
 package tw.jm.Crawler;
 
 import java.util.List;
-import java.util.concurrent.CountDownLatch;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -63,7 +62,6 @@ public class Configuration {
 	}
 
 	public void initDispatcher(String target) {
-
 		if (target.contains("PTT")) {
 			try {
 				Thread getLastPage = new Thread(new PttGetBoardLatestPage(target));
@@ -72,30 +70,26 @@ public class Configuration {
 				PageQueue.getInstance().setPage(
 						PttPageList.getInstance().getPage(target) - UserDefinedFunction.needPages + 1,
 						PttPageList.getInstance().getPage(target));
-				logger.info(PageQueue.getInstance().toString());
 			} catch (InterruptedException e) {
 				logger.error("Initial", e);
 			}
 		} else if (target.contains("APPLE")) {
 			try {
 				PageQueue.getInstance().setPage(1, UserDefinedFunction.needPages);
-				logger.info(PageQueue.getInstance().toString());
 			} catch (InterruptedException e) {
 				logger.error("Initial", e);
 			}
 		} else {
 			try {
 				PageQueue.getInstance().setPage(1, UserDefinedFunction.needPages);
-				logger.info(PageQueue.getInstance().toString());
 			} catch (InterruptedException e) {
 				logger.error("Initial", e);
 			}
 		}
-
+		logger.info(PageQueue.getInstance().toString());
 	}
 
 	public Processor setDispatcher(TaskList taskList, String target, Integer currentPage) {
-
 		if (target.contains("PTT")) {
 			DoneList.getInstance().checkBoardInDoneMap(target);
 			return new PttDispatcher(taskList, target, UserDefinedFunction.popularity, currentPage);
@@ -105,7 +99,6 @@ public class Configuration {
 		} else {
 			return new AnotherDispatcher();
 		}
-
 	}
 
 	public Processor setCrawler(Task task) {
@@ -116,7 +109,6 @@ public class Configuration {
 		} else {
 			return new AnotherCrawler();
 		}
-
 	}
 
 }
