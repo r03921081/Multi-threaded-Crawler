@@ -1,0 +1,1265 @@
+{
+  "title" : "[問卦] 當前台灣最像岳不群的人是誰？",
+  "author" : "askaleroux",
+  "board" : "Gossiping",
+  "content" : "如題 岳不群 偽君子劍 重視自己的名聲 但是心中有極大的貪念 但又不願意做得太明顯，因此極度虛偽 說很多漂亮話 來掩飾自己的意圖 這個問題如果是幾年前問 那肯定另有答案 如果是現在問 想說誰才是台灣最像偽君子岳不群的人？ -- ",
+  "date" : "Sat Mar 30 19:53:29 2019",
+  "ip" : "42.72.200.85",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553946812.A.DBC.html",
+  "pushList" : [ {
+    "push_userid" : "flavorBZ",
+    "push_content" : ": 蔡",
+    "push_ipdatetime" : "03/30 19:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kawazakiz2",
+    "push_content" : ": 頭",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QBey",
+    "push_content" : ": 粿",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "demo3399",
+    "push_content" : ": 林平之",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ch333",
+    "push_content" : ": 這問題是不是在釣魚阿",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ABuJiuHaoBun",
+    "push_content" : ": 賴韓蔡柯 反正等等就這幾個答案",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andrewyllee",
+    "push_content" : ": 五嶽劍派 同文同種 血濃於水",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rednah",
+    "push_content" : ": 虛偽噁男賴功德，逼宮小英要不得，做夢屌打柯文哲。",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lmf770410",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "flare5566",
+    "push_content" : ": 呵呵 我敢肯定不是韓 因為它野心是寫在臉上",
+    "push_ipdatetime" : "03/30 19:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "herikocat",
+    "push_content" : ": 蚵",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ams9",
+    "push_content" : ": [新聞] 賴清德哽咽：我寧願輸掉初選　也絕不傷害蔡英文總統",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "r0ck123",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ismydear",
+    "push_content" : ": 阿不就賴清德",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tmlisgood",
+    "push_content" : ": 柯痞",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "herikocat",
+    "push_content" : ": 寒流很冷 就 左冷禪",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "derrick1220",
+    "push_content" : ": 宋排第一 謝排第二",
+    "push_ipdatetime" : "03/30 19:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zixiang",
+    "push_content" : ": 太好猜了",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "awesomeSS66",
+    "push_content" : ": 柯跟賴很難選",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "louis0210",
+    "push_content" : ": 不能說",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 柯文哲阿",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 還有賴清德",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "proprome",
+    "push_content" : ": 馬英九阿",
+    "push_ipdatetime" : "03/30 19:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Leon0810",
+    "push_content" : ": 柯文哲吧",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "john668",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "virgo914",
+    "push_content" : ": 藍馬狗綠賴皮",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "I352",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "revera1992",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "herikocat",
+    "push_content" : ": 賴皮應該是玉璣子",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "u35k6",
+    "push_content" : ": 賴清德",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JakeOdorizzi",
+    "push_content" : ": 賴清德",
+    "push_ipdatetime" : "03/30 19:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yakiko01",
+    "push_content" : ": 面對劉結一孬的跟兒皇帝一樣,回到高雄就窩裡兇",
+    "push_ipdatetime" : "03/30 19:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "loveseawind",
+    "push_content" : ": 怎麼可能是柯 君子劍會亂講話? 現在問不就是賴嗎",
+    "push_ipdatetime" : "03/30 19:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "alinalovers",
+    "push_content" : ": 賴清",
+    "push_ipdatetime" : "03/30 19:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "betty22558",
+    "push_content" : ": 我覺得是朱立倫耶 拔我們柱柱姐",
+    "push_ipdatetime" : "03/30 20:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alinalovers",
+    "push_content" : ": 如果把韓丟到古代，他什麼都當不成啦，就不用費心思",
+    "push_ipdatetime" : "03/30 20:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 2008影帝馬英狗 2014影帝柯痞",
+    "push_ipdatetime" : "03/30 20:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alinalovers",
+    "push_content" : ": 替他想代表人物了",
+    "push_ipdatetime" : "03/30 20:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "loveseawind",
+    "push_content" : ": 一開始表現的對盟主沒興趣 重要關頭就要桶你一刀",
+    "push_ipdatetime" : "03/30 20:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tutuan",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greedypeople",
+    "push_content" : ": 還是馬囧",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 會說柯的只是討厭柯而已 開另外一篇問另一個人物",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "godog",
+    "push_content" : ": 蔡",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "loveseawind",
+    "push_content" : ": 朱是蠻假的啦 但他本來就表達出野心了 比較像左冷禪",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 回答應該還是柯",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 柯的外在形象怎麼看都不像君子劍好嗎XD",
+    "push_ipdatetime" : "03/30 20:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "goddson",
+    "push_content" : ": 就馬阿。滿嘴仁義道德 噁心",
+    "push_ipdatetime" : "03/30 20:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "louis0210",
+    "push_content" : ": https://i.imgur.com/rFAOxj0.jpg",
+    "push_ipdatetime" : "03/30 20:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sbflight",
+    "push_content" : ": 宋",
+    "push_ipdatetime" : "03/30 20:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mikepopkimo",
+    "push_content" : ": 個人覺得是賴神",
+    "push_ipdatetime" : "03/30 20:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meredith001",
+    "push_content" : ": 柯阿",
+    "push_ipdatetime" : "03/30 20:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 柯講話這麼靠北會是君子劍? 別鬧了好不好XD",
+    "push_ipdatetime" : "03/30 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": http://i.imgur.com/YVOmyFW.jpg",
+    "push_ipdatetime" : "03/30 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lysimach",
+    "push_content" : ": 木可",
+    "push_ipdatetime" : "03/30 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "loveseawind",
+    "push_content" : ": 柯比較像黃藥師吧",
+    "push_ipdatetime" : "03/30 20:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "saint5566fan",
+    "push_content" : ": 笑死會說柯的不是沒看過笑傲的就是超級柯黑或者反串",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Billowing",
+    "push_content" : ": 國民黨的每個都像",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "baboosh",
+    "push_content" : ": 叫別人做功德的那個",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nepenthes7",
+    "push_content" : ": 馬跟賴比較符合",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tetsuro",
+    "push_content" : ": 馬柯二人",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "whcat",
+    "push_content" : ": 原本想說賴 但是馬還是遠勝",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "justlikethis",
+    "push_content" : ": 賴啊",
+    "push_ipdatetime" : "03/30 20:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nepenthes7",
+    "push_content" : ": Kmt有這特質的不少",
+    "push_ipdatetime" : "03/30 20:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pcx127",
+    "push_content" : ": 賴啊 噁心至極",
+    "push_ipdatetime" : "03/30 20:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "revera1992",
+    "push_content" : ": 柯，馬",
+    "push_ipdatetime" : "03/30 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "inshadow",
+    "push_content" : ": 以前的馬 現在的賴",
+    "push_ipdatetime" : "03/30 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ams9",
+    "push_content" : ": 柯文哲經常性失言 是要怎麼君子起來",
+    "push_ipdatetime" : "03/30 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awesomeSS66",
+    "push_content" : ": 看吸白粉的還這麼多人怎能說柯不夠岳",
+    "push_ipdatetime" : "03/30 20:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tutuan",
+    "push_content" : ": 也對 柯是真小人 所以應該是左冷禪",
+    "push_ipdatetime" : "03/30 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coimbra",
+    "push_content" : ": 馬不是他的代言人嗎?有馬在，誰都沒機會取代",
+    "push_ipdatetime" : "03/30 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gary2011",
+    "push_content" : ": 柯文哲阿",
+    "push_ipdatetime" : "03/30 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "generally",
+    "push_content" : ": 柯萊爾、",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tutuan",
+    "push_content" : ": 馬的岳不群很難超越了...",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 馬狗: 我覺得王金平是個優秀黨員 (趁人嫁女兒指責關說)",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kgb581",
+    "push_content" : ": 搏名聲 馬英久當仁不讓",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 柯痞: 我覺得韓導510都是好人 (回頭指示政風到北農查帳)",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 柯糞: http://i.imgur.com/YVOmyFW.jpg 阿北好可愛",
+    "push_ipdatetime" : "03/30 20:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zz71",
+    "push_content" : ": 媽應告阿",
+    "push_ipdatetime" : "03/30 20:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "netio",
+    "push_content" : ": 賴功德 明明想選還說不想傷害小英",
+    "push_ipdatetime" : "03/30 20:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 希望有回答你的問題",
+    "push_ipdatetime" : "03/30 20:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "athome1",
+    "push_content" : ": 韓寒含函涵",
+    "push_ipdatetime" : "03/30 20:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Arkadas",
+    "push_content" : ": 當然是lie清德囉",
+    "push_ipdatetime" : "03/30 20:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xian",
+    "push_content" : ": 絕對是lie神",
+    "push_ipdatetime" : "03/30 20:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sy0928997",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 20:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 2008影帝馬英狗 最近影帝就柯痞 傑出優秀導演韓導",
+    "push_ipdatetime" : "03/30 20:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "linhsiuwei",
+    "push_content" : ": 蔡英文",
+    "push_ipdatetime" : "03/30 20:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lyleselena",
+    "push_content" : ": 絕對不是韓國魚 ，因為他想選寵統全台都知道",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "cul287",
+    "push_content" : ": 柯萊爾",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "roktzzt",
+    "push_content" : ": 偽君子",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ywbBetter",
+    "push_content" : ": 岳的特點就是強調自己是君子，馬王都滿像的",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fajita",
+    "push_content" : ": 菜頭粿+柯聖母認證的柯師父",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yoyodio",
+    "push_content" : ": 左冷禪柯、岳不群賴、任我行朱",
+    "push_ipdatetime" : "03/30 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bonfferoni",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 20:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "QQdragon",
+    "push_content" : ": https://tinyurl.com/y8yscdto",
+    "push_ipdatetime" : "03/30 20:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yahappy4u",
+    "push_content" : ": 沒人說韓喔？",
+    "push_ipdatetime" : "03/30 20:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tanby",
+    "push_content" : ": 賴清德 第一 最近哭這麼多次",
+    "push_ipdatetime" : "03/30 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yahappy4u",
+    "push_content" : ": 還是維尼",
+    "push_ipdatetime" : "03/30 20:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HiSop",
+    "push_content" : ": ===賴清德哽咽：寧輸初選 不傷害蔡 就是這咖洨超噁心=====",
+    "push_ipdatetime" : "03/30 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "suyusian",
+    "push_content" : ": 這個名號在馬英九用過後已經永久欠番了",
+    "push_ipdatetime" : "03/30 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "isaka",
+    "push_content" : ": 笑死一堆雲讀者XDD 沒看過硬要湊熱鬧來黑",
+    "push_ipdatetime" : "03/30 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuiweq1999",
+    "push_content" : ": 朱",
+    "push_ipdatetime" : "03/30 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 韓國魚是新銳導演 支那目前der寵兒把柯seafood擠下去惹",
+    "push_ipdatetime" : "03/30 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skiro",
+    "push_content" : ": 朱啦~~我相信他每天看到韓的新聞都7PUPU",
+    "push_ipdatetime" : "03/30 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dageegee",
+    "push_content" : ": 認真會 朱立倫",
+    "push_ipdatetime" : "03/30 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmmu123",
+    "push_content" : ": 竟然沒有活在1124的辣個男人？！",
+    "push_ipdatetime" : "03/30 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awesomeSS66",
+    "push_content" : ": 岳才沒強調自己是君子 是很多岳信徒說岳很君子",
+    "push_ipdatetime" : "03/30 20:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "akway",
+    "push_content" : ": 柯萊爾",
+    "push_ipdatetime" : "03/30 20:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dmezspk",
+    "push_content" : ": 柯說第二沒人敢說第一",
+    "push_ipdatetime" : "03/30 20:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tsungg",
+    "push_content" : ": 絕對馬狗",
+    "push_ipdatetime" : "03/30 20:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eternia0920",
+    "push_content" : ": 賴清德",
+    "push_ipdatetime" : "03/30 20:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PR58",
+    "push_content" : ": 最近應該是lie繩",
+    "push_ipdatetime" : "03/30 20:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "agong",
+    "push_content" : ": 以前新北都沒有什麼怪新聞",
+    "push_ipdatetime" : "03/30 20:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "james1539",
+    "push_content" : ": 賴清德無誤",
+    "push_ipdatetime" : "03/30 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Garbolin",
+    "push_content" : ": 賴 什麼的啊",
+    "push_ipdatetime" : "03/30 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lysimach",
+    "push_content" : ": Claire Seafood",
+    "push_ipdatetime" : "03/30 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Garbolin",
+    "push_content" : ": 岳就稱號君子劍 還沒自稱君子？",
+    "push_ipdatetime" : "03/30 20:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "GivemeApen",
+    "push_content" : ": 蔡賴璨韓朱吳馬 有講到你要的答案嗎",
+    "push_ipdatetime" : "03/30 20:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liiiiiiiio",
+    "push_content" : ": 柯賴",
+    "push_ipdatetime" : "03/30 20:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GivemeApen",
+    "push_content" : ": 抱歉 少一個柯",
+    "push_ipdatetime" : "03/30 20:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jo611",
+    "push_content" : ": 4不4想釣賴...XD",
+    "push_ipdatetime" : "03/30 20:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "evilviolent",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 20:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "creay222",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 20:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 柯痞",
+    "push_ipdatetime" : "03/30 20:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crazyhoho",
+    "push_content" : ": 當然是柯屁啊 超虛偽",
+    "push_ipdatetime" : "03/30 20:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lilavadee",
+    "push_content" : ": 賴啊 搞爛行政院，罵名給蔡背，現在正在逼宮不是嗎",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pencil",
+    "push_content" : ": 馬 柯",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EggAcme",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nidhogg",
+    "push_content" : ": 柯文哲啦 幹",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Yehpin2823",
+    "push_content" : ": 無恥舔共狗殼屁",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "elfindor",
+    "push_content" : ": 跟某黨的人87%像",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linbsing",
+    "push_content" : ": 太多了 怎麼沒有人問真小人 左冷禪是誰",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Posaune",
+    "push_content" : ": 馬囧",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ginobili62",
+    "push_content" : ": 豬",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eeeeee51",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a382",
+    "push_content" : ": 看誰在地震時，身為決策主帥卻拼命受訪講解救災進度....",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mocca000",
+    "push_content" : ": 賴群開不起來 賴不群",
+    "push_ipdatetime" : "03/30 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "planethell",
+    "push_content" : ": 賴清德吧",
+    "push_ipdatetime" : "03/30 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Orfenok",
+    "push_content" : ": 那蔣公要排在哪裡?",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ch404",
+    "push_content" : ": 賴>柯>>>>>>>>>>>其他",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Aerialy",
+    "push_content" : ": KMT好幾個吧",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "King0615",
+    "push_content" : ": 柯跟馬阿不用懷疑",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Manaku",
+    "push_content" : ": 柯P個屁 一個連戲都不會演是偽君子？要黑也黑到點上好嗎？",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 看來現在的年輕人真的沒看過金庸= =",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lariat",
+    "push_content" : ": 看到會哭也太扯",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wesleyin",
+    "push_content" : ": 噁心的賴皮",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "arthur6401",
+    "push_content" : ": 韓",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 08舊影帝馬狗 14年影帝柯痞 18年新銳導演韓導",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c6b7yntz",
+    "push_content" : ": 恰吉阿，使得一手二流劍法，弟子卻個個忠誠",
+    "push_ipdatetime" : "03/30 20:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "e1236699",
+    "push_content" : ": 不就柯文哲",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smartid",
+    "push_content" : ": 馬應該還是勝過賴",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smartid",
+    "push_content" : ": 但是賴這個人比馬差",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wk86186",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "junnn",
+    "push_content" : ": 資進黨 裡頭很多這樣 在中國賺 在台灣罵",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ZIQQ001",
+    "push_content" : ": 賴清",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 真正認真在做事還被當岳不群，難怪台灣人吃餿水油",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chachayu",
+    "push_content" : ": line",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "neighborhood",
+    "push_content" : ": 馬英九",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zzxcasd",
+    "push_content" : ": 蔡英文",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stupidHNG",
+    "push_content" : ": 賴清德",
+    "push_ipdatetime" : "03/30 20:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce2248",
+    "push_content" : ": 馬囧 賴功德",
+    "push_ipdatetime" : "03/30 20:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leon1757tw",
+    "push_content" : ": 賴",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy2546",
+    "push_content" : ": 柯文哲啊",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MasLoty",
+    "push_content" : ": 賴清",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stupidHNG",
+    "push_content" : ": 可以自己去goigle賴清德從以前到現在的言行，就是偽君",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stupidHNG",
+    "push_content" : ": 子一個",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jay0215",
+    "push_content" : ": 柯不可能，因為岳不群很少失言！",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "littlekero",
+    "push_content" : ": 賴神啊",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 台灣繼續空轉根本活該，文化養出的老屁股跟後台狗",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lasciare",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ryanchen1234",
+    "push_content" : ": 賴清德 那句不傷害蔡總統真的噁到吐 滾蛋啦",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "abucat",
+    "push_content" : ": 以前馬英九，再之後韓國瑜，後來賴清德，理性勿戰",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 柯黑邏輯=覺得柯的失言只有他們有辦法察覺 所以柯=偽君子",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cycling",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Darvesi",
+    "push_content" : ": 睿智的柯黑",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "riker729",
+    "push_content" : ": 韓頂多是青城派余滄海",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "doggy2525",
+    "push_content" : ": 馬狗",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hchang186",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Freeven",
+    "push_content" : ": 韓",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Y120372767",
+    "push_content" : ": 巧芯師父馬英九絕對還是第一名的啊 歷久不衰",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aswq17558",
+    "push_content" : ": 柯建銘",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Freeven",
+    "push_content" : ": 阿幹賴清德啦 最近哭成那樣",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "inlanyu",
+    "push_content" : ": 柯文哲",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 這個變態的社會只配讓房產一堆的政客掌權，柯根本出",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 來給大家糟蹋的",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mimimoumou",
+    "push_content" : ": 馬囧還沒退隱之前這排名他絕對第一",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Y120372767",
+    "push_content" : ": 仁醫賴清德救人無數，有像岳不群害人無數嗎？",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rongyaya",
+    "push_content" : ": 功德功德功德",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Omara",
+    "push_content" : ": 馬腦水母，沒有之一",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Y120372767",
+    "push_content" : ": 馬英九不知道害死多少陳文成們！",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shenmue1001",
+    "push_content" : ": 馬 朱 賴共通點都是表面包裝得很漂亮",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yyff",
+    "push_content" : ": 以前是馬 現在是蔡",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dorabb",
+    "push_content" : ": 賴 柯",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Y120372767",
+    "push_content" : ": 樓上罵賴清德的，有誰人類貢獻度比他大的？",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LinkePar",
+    "push_content" : ": 腦海直接浮現賴功德",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oginome",
+    "push_content" : ": 愛因斯坦啊",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ko373328",
+    "push_content" : ": 馬英九肯定第一",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 不喜歡柯的政策很ok，柯的嘴賤很ok，但被黨工洗腦成這",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikepanpan",
+    "push_content" : ": 樣很悲哀",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stuartfamily",
+    "push_content" : ": 寧願輸掉初選也絕不傷害蔡-符合特徴.",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abc57120",
+    "push_content" : ": 阿柯啊",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meto",
+    "push_content" : ": 一直都是馬 這點KMT大勝了",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "armay",
+    "push_content" : ": 彭淮南",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bestrace",
+    "push_content" : ": 賺敵國錢來補台灣請問有什麼問題嗎？",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "forest6601",
+    "push_content" : ": 馬英九 沒有之一",
+    "push_ipdatetime" : "03/30 20:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tengentoppa",
+    "push_content" : ": 當前？",
+    "push_ipdatetime" : "03/30 20:53",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "stuartfamily",
+    "push_content" : ": 岳不群應是形象良好且有腦的幹話王,",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "awesomeSS66",
+    "push_content" : ": 柯的國安講稿事件不夠岳嗎 更何況柯還說他不會說謊",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 08舊影帝馬狗 14年影帝柯痞 18年新銳導演韓導",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 柯糞: http://i.imgur.com/YVOmyFW.jpg 阿北好可愛",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stuartfamily",
+    "push_content" : ": 光有腦+幹話王就刷掉一堆藍綠白政客.",
+    "push_ipdatetime" : "03/30 20:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "GodEyes",
+    "push_content" : ": 柯現在比較像于滄海了",
+    "push_ipdatetime" : "03/30 20:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "JJiaK",
+    "push_content" : ": 現在是君子劍大亂鬥的年代 Lie神柯P馬囧都很強",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stuartfamily",
+    "push_content" : ": 這篇明顯應該是想要釣賴功德的文.",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a630522",
+    "push_content" : ": 馬吧",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "riker729",
+    "push_content" : ": 萬里獨行童仲厭要被抓去關了",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "superprada",
+    "push_content" : ": 現在馬英九跟賴清德比起來，馬英九吃相稍微好看一點",
+    "push_ipdatetime" : "03/30 20:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gutalic",
+    "push_content" : ": 永遠的馬",
+    "push_ipdatetime" : "03/30 21:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "will8149",
+    "push_content" : ": 一定是賴清德 柯文哲比較像莫大",
+    "push_ipdatetime" : "03/30 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "godzilla0918",
+    "push_content" : ": 馬英九",
+    "push_ipdatetime" : "03/30 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "newtonapple",
+    "push_content" : ": 馬英久",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "m4tl6",
+    "push_content" : ": 柯文哲",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Molester5566",
+    "push_content" : ": 馬英九",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ru8ru8",
+    "push_content" : ": 馬，賴，菊",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "hune",
+    "push_content" : ": 馬英九 嘴巴喊愛台 實際上急著讓台灣被中國統",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lversonYA",
+    "push_content" : ": 吳",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "icelandguard",
+    "push_content" : ": 唯一支持馬英九 無人能敵",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "st510193",
+    "push_content" : ": 馬英九",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "poi963841",
+    "push_content" : ": 絕對是韓",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HRyan",
+    "push_content" : ": 柯",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lily7777",
+    "push_content" : ": 無人可以取代馬宗痛在我心中的地位",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a3221715",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiauji",
+    "push_content" : ": 馬...",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wario2014",
+    "push_content" : ": 啊不就那個從深綠騙到深藍正紅的亞斯柏格巨騙白色騙子",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ez0980",
+    "push_content" : ": 蔡英文、賴清德、陳菊、朱立倫",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "haniah",
+    "push_content" : ": 馬英九 毫無懸念",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v2v2123",
+    "push_content" : ": 一定是馬 太噁心了",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "leon80148",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gotohikaru",
+    "push_content" : ": 馬英九已經讓岳不群這背號在台灣政壇退休了",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leon80148",
+    "push_content" : ": 馬英九超級噁心，現在還一直講服貿",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "silentence",
+    "push_content" : ": 絕對是馬英九 見證台灣人的素質",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bemyself",
+    "push_content" : ": 絕對是蔡英文",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkman321",
+    "push_content" : ": 馬",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gotohikaru",
+    "push_content" : ": 光能噱到國民黨一堆人以為他是能操控的白痴而提名他",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "godhand",
+    "push_content" : ": 馬英九",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mow1982",
+    "push_content" : ": 蔡英文，砍死勞工",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gotohikaru",
+    "push_content" : ": 這點就無人能及了 還有他市長任內搞的 到柯P都還在擦",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zardmih",
+    "push_content" : ": 我沒有說是馬宗痛跟柯師父喔別看我（咦",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gotohikaru",
+    "push_content" : ": 屁股 圖利的企業都肥到不行 個人形象還是史上最清廉",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rnazo",
+    "push_content" : ": 柯啊",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "faiya",
+    "push_content" : ": 馬英九，還有法官幫忙護航大水庫",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rickcoo",
+    "push_content" : ": 馬英九 沽名釣譽",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  } ]
+}

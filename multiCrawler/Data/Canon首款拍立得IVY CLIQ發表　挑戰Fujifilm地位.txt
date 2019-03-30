@@ -1,6 +1,6 @@
 {
   "title" : "Canon首款拍立得IVY CLIQ發表　挑戰Fujifilm地位",
-  "view" : "2474",
+  "view" : "2894",
   "date" : "Sat Mar 30 13:58:00 CST 2019",
   "content" : "先前曾報導過Canon將進軍拍立得市場，昨(29)日這間日本相機大廠正式發表旗下首款拍立得IVY CLIQ與IVY CLIQ+，挑戰Fujifilm Instax mini的市場地位，IVY CLIQ系列使用Zink相紙列印，可放入2x2吋、2x3吋兩尺寸、最多可放入10張相紙。 消費者可將照片傳到App「CLIQ+ Instant Camera Printer」，套用濾鏡、打字印出，IVY CLIQ與IVY CLIQ+皆具光學觀景窗，並以microUSB連接埠來為機身充電，相機部分，解析度因型號而異，但採焦距25.4mm、光圈f/2.2的鏡頭，相機可自動曝光及對焦。 較高階的IVY CLIQ+採800萬畫素傳感器，它可透過microSD卡擴充容量，機身具有「reprint」鍵可重複列印，正面相機旁配置迷你自拍鏡及LED燈，讓自拍不再失手，另外也具有無線藍牙連接。Canon將在4月開賣IVY CLIQ，售價159.99美元(約台幣4935元)，顏色有珍珠白、寶石藍與寶石紅。 相對低階的IVY CLIQ則搭載500萬畫素傳感器，同樣可透過microSD擴充，不過它不具有高階版的自拍鏡，IVY CLIQ同樣在4月出貨，售價99美元(約台幣3054元)。要注意的是，Zink相紙對比Fujifilm底片的顯色、解析度(314x600dpi)還是有落差，但其體積(121mm x 80.3 mm x 21.5mm)、重量188公克較Instax mini更為輕巧。 Fujifilm在去年前三季共在全球售出850萬台Instax拍立得，幾乎是2016年的兩倍，雖然Canon較晚加入拍立得市場、能不能瓜分Fujifilm市佔仍是未知數，不過總是提供了消費者一個新的選擇。（廖家葆／綜合報導） 出版時間00:09 更新時間13:58(新增圖片) 更多「消費新鮮事」內容，請點此：http://bit.ly/2GOqTAv  ",
   "url" : "https://tw.lifestyle.appledaily.com/gadget/realtime/20190330/1542300/",

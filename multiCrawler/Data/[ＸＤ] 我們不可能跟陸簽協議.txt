@@ -1,0 +1,880 @@
+{
+  "title" : "[ＸＤ] 我們不可能跟陸簽協議",
+  "author" : "gigayaya",
+  "board" : "joke",
+  "content" : "中午吃飯時看到 https://i.imgur.com/C7iw3k5.jpg 看來連公投都不用就不可能過關了（？ -- ",
+  "date" : "Fri Mar 29 11:55:57 2019",
+  "ip" : "223.137.136.226",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553831760.A.1CC.html",
+  "pushList" : [ {
+    "push_userid" : "zChika",
+    "push_content" : ": 2/3 可以",
+    "push_ipdatetime" : "03/29 12:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LanceOwO",
+    "push_content" : ": TVBS水準不意外",
+    "push_ipdatetime" : "03/29 12:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin10eagle",
+    "push_content" : ": …臺灣新聞品質真的很扯",
+    "push_ipdatetime" : "03/29 12:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Xperia",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/29 12:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "eunhailoveu",
+    "push_content" : ": https://i.imgur.com/R9ydP8X.jpg",
+    "push_ipdatetime" : "03/29 12:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iiiiyouyou",
+    "push_content" : ": 樓下幫貼 超過100%",
+    "push_ipdatetime" : "03/29 12:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bonebonebone",
+    "push_content" : ": 超過100%",
+    "push_ipdatetime" : "03/29 12:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pyrolith",
+    "push_content" : ": http://i.imgur.com/Esg1g1O.jpg",
+    "push_ipdatetime" : "03/29 12:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w9",
+    "push_content" : ": https://i.imgur.com/b1bTthP.jpg",
+    "push_ipdatetime" : "03/29 12:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wantorgasm",
+    "push_content" : ": 連錯兩次不會是巧合",
+    "push_ipdatetime" : "03/29 12:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "LeonardoPika",
+    "push_content" : ": 可以，這很台灣媒體",
+    "push_ipdatetime" : "03/29 12:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tomato40614",
+    "push_content" : ": 這算另類的黑箱嗎",
+    "push_ipdatetime" : "03/29 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "not5566",
+    "push_content" : ": 開來不是手誤",
+    "push_ipdatetime" : "03/29 13:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "not5566",
+    "push_content" : ": 看來",
+    "push_ipdatetime" : "03/29 13:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bobwoodybuzz",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/29 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobwoodybuzz",
+    "push_content" : ": 不對 是可笑吧",
+    "push_ipdatetime" : "03/29 13:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "asxu31",
+    "push_content" : ": 立委3月2日提出，4月3號同意，很難懂？",
+    "push_ipdatetime" : "03/29 13:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Azucat",
+    "push_content" : ": 樓上還好嗎？",
+    "push_ipdatetime" : "03/29 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "StarFox0910",
+    "push_content" : ": 國小數學都不會 哈哈記者哈哈",
+    "push_ipdatetime" : "03/29 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asxu31",
+    "push_content" : ": 而且有效票還要2月1號開才算數",
+    "push_ipdatetime" : "03/29 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "after1",
+    "push_content" : ": 那是三月二號啦",
+    "push_ipdatetime" : "03/29 13:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chris529tw",
+    "push_content" : ": 17樓XDDDDDD",
+    "push_ipdatetime" : "03/29 13:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rishadan",
+    "push_content" : ": 笑了 各位觀眾 超過100%",
+    "push_ipdatetime" : "03/29 13:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": 竟然不是日期嗎XDDDD",
+    "push_ipdatetime" : "03/29 13:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "superivan",
+    "push_content" : ": 樓下幫貼記者面試TVBS圖",
+    "push_ipdatetime" : "03/29 13:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuyumr",
+    "push_content" : ": 這記者",
+    "push_ipdatetime" : "03/29 13:43",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aivc",
+    "push_content" : ": 收視率133趴的腫天，你敢質疑",
+    "push_ipdatetime" : "03/29 13:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ronan113021",
+    "push_content" : ": 那不是日期吧？",
+    "push_ipdatetime" : "03/29 13:49",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "The4sakenOne",
+    "push_content" : ": 17樓不錯",
+    "push_ipdatetime" : "03/29 13:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GodZeus",
+    "push_content" : ": 17樓根本是記者吧",
+    "push_ipdatetime" : "03/29 13:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kslman",
+    "push_content" : ": 就跟對岸一樣，不用投票就先宣布當選",
+    "push_ipdatetime" : "03/29 13:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Crypto",
+    "push_content" : ": 17樓QQ",
+    "push_ipdatetime" : "03/29 13:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 看不懂",
+    "push_ipdatetime" : "03/29 13:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Cybermark",
+    "push_content" : ": 糟了 收視率要破400%了",
+    "push_ipdatetime" : "03/29 13:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nutihe",
+    "push_content" : ": 他是要寫幾分之幾，但是數字左右順序錯了",
+    "push_ipdatetime" : "03/29 14:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cink8",
+    "push_content" : ": 17+20F反諷法... 有某幾樓是在笑自己嗎？",
+    "push_ipdatetime" : "03/29 14:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "don323",
+    "push_content" : ": 幫高調。記者快來抄",
+    "push_ipdatetime" : "03/29 14:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Madao0149",
+    "push_content" : ": 連落選的都可以出來投是吧？",
+    "push_ipdatetime" : "03/29 14:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/29 14:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maxint",
+    "push_content" : ": 大新聞在這，記者快來抄",
+    "push_ipdatetime" : "03/29 14:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AntiCompete",
+    "push_content" : ": 這裡就是八卦二版啊，賤吱綠畜看到這都能高潮",
+    "push_ipdatetime" : "03/29 14:28",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "YcL5566",
+    "push_content" : ": 樓上氣崩==",
+    "push_ipdatetime" : "03/29 14:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vedfolnir",
+    "push_content" : ": 政黑柵欄又鬆了",
+    "push_ipdatetime" : "03/29 14:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guenhwyvar",
+    "push_content" : ": 超過一百分",
+    "push_ipdatetime" : "03/29 14:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hsnu1137",
+    "push_content" : ": anticompete=獨占 很好很棒棒",
+    "push_ipdatetime" : "03/29 14:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "acs81046",
+    "push_content" : ": 17F哪裡的記者?",
+    "push_ipdatetime" : "03/29 14:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Bewho",
+    "push_content" : ": 笑17樓的看一下20樓，他在反諷好嗎",
+    "push_ipdatetime" : "03/29 14:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harry6275",
+    "push_content" : ": 17樓XD 神反串",
+    "push_ipdatetime" : "03/29 14:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pig4306",
+    "push_content" : ": 17樓明顯反串阿 上面都寫90天了還跟你3/2",
+    "push_ipdatetime" : "03/29 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mike2204355",
+    "push_content" : ": Genius",
+    "push_ipdatetime" : "03/29 14:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "david213",
+    "push_content" : ": 應該是3/2、4/3個立委同意吧 所以派兩個立委就通過了",
+    "push_ipdatetime" : "03/29 15:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "herochang",
+    "push_content" : ": 3/2，4/3...這....",
+    "push_ipdatetime" : "03/29 15:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "oliver81405",
+    "push_content" : ": 台灣人真的可悲 我已經不報期望了 台灣人去死一死好",
+    "push_ipdatetime" : "03/29 15:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "oliver81405",
+    "push_content" : ": 了",
+    "push_ipdatetime" : "03/29 15:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "s8624032",
+    "push_content" : ": 這表到底是在寫殺小朋友 XD",
+    "push_ipdatetime" : "03/29 15:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uuwb",
+    "push_content" : ": 不要這樣，記者是文組的",
+    "push_ipdatetime" : "03/29 15:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": 17樓厲害了",
+    "push_ipdatetime" : "03/29 15:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abcde010710",
+    "push_content" : ": 厲害了",
+    "push_ipdatetime" : "03/29 15:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ZirconC",
+    "push_content" : ": 超過100%同意有什麼稀奇的，克里米亞獨立就是",
+    "push_ipdatetime" : "03/29 15:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "std94011",
+    "push_content" : ": 17樓笑點",
+    "push_ipdatetime" : "03/29 15:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hchs31705",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/29 15:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AztecMan",
+    "push_content" : ": 我系際盃投籃命中率8/5",
+    "push_ipdatetime" : "03/29 16:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GivemeApen",
+    "push_content" : ": 這改法超屌 有種找1.5倍的立委出來啊",
+    "push_ipdatetime" : "03/29 16:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "psypoorer",
+    "push_content" : ": 17樓專業記者",
+    "push_ipdatetime" : "03/29 16:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkk258",
+    "push_content" : ": 17樓專心點 別抄錯新聞",
+    "push_ipdatetime" : "03/29 16:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uwptd",
+    "push_content" : ": 17樓反串成功",
+    "push_ipdatetime" : "03/29 16:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wryyyyyyyy",
+    "push_content" : ": 扯文組的是不是念學店理組的記者啊",
+    "push_ipdatetime" : "03/29 16:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "akumahirosi",
+    "push_content" : ": 厲害了我的17樓",
+    "push_ipdatetime" : "03/29 16:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spiker520",
+    "push_content" : ": 17F高級酸哈哈哈",
+    "push_ipdatetime" : "03/29 16:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Brabus700G",
+    "push_content" : ": 剛剛沒仔細看也以為是日前XDD",
+    "push_ipdatetime" : "03/29 16:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Brabus700G",
+    "push_content" : ": 日期",
+    "push_ipdatetime" : "03/29 16:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "e1q3z9c7",
+    "push_content" : ": 幽靈立委",
+    "push_ipdatetime" : "03/29 16:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ColaLing",
+    "push_content" : ": 又有突破性的數學發現！",
+    "push_ipdatetime" : "03/29 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "verducci",
+    "push_content" : ": 噓記者，幫可悲高調QQ",
+    "push_ipdatetime" : "03/29 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chenyoung411",
+    "push_content" : ": 17樓反串啦一堆看不懂的",
+    "push_ipdatetime" : "03/29 17:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thinkornot",
+    "push_content" : ": 傳說中的5投8中，3打數5安打",
+    "push_ipdatetime" : "03/29 17:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fcz973",
+    "push_content" : ": 3月2號前90提出，一年只有一次機會",
+    "push_ipdatetime" : "03/29 17:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jj782995",
+    "push_content" : ": 17樓真的可以當記者喔",
+    "push_ipdatetime" : "03/29 17:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 17真滴可悲",
+    "push_ipdatetime" : "03/29 17:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chenziyun",
+    "push_content" : ": 17樓幽默",
+    "push_ipdatetime" : "03/29 17:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pharhan",
+    "push_content" : ": 17樓反串結果一堆人見獵心喜 笑死",
+    "push_ipdatetime" : "03/29 17:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Gokudo",
+    "push_content" : ": 現在連反串都看不懂了喔XD",
+    "push_ipdatetime" : "03/29 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "itoh",
+    "push_content" : ": tvbs不意外",
+    "push_ipdatetime" : "03/29 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imgenebaby",
+    "push_content" : ": 問題出在哪？？",
+    "push_ipdatetime" : "03/29 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "IEEE1394",
+    "push_content" : ": 很可以",
+    "push_ipdatetime" : "03/29 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laybear",
+    "push_content" : ": 17樓高級酸釣到一堆白癡",
+    "push_ipdatetime" : "03/29 17:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flowersuger",
+    "push_content" : ": 笑不出來啊垃圾智障媒體！",
+    "push_ipdatetime" : "03/29 18:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yiayia0333",
+    "push_content" : ": 幹這哪一台啊= =",
+    "push_ipdatetime" : "03/29 18:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liquidbox",
+    "push_content" : ": 一群人連反串都看不出來，自卑到拚命到處找嘲諷點？",
+    "push_ipdatetime" : "03/29 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "osk2",
+    "push_content" : ": 17樓比較好笑XD",
+    "push_ipdatetime" : "03/29 18:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "TimeEngine",
+    "push_content" : ": 17樓有梗，好心幫記者解套",
+    "push_ipdatetime" : "03/29 18:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bbbkzai",
+    "push_content" : ": 推17樓好心",
+    "push_ipdatetime" : "03/29 18:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smallbbzz",
+    "push_content" : ": 什麼？不是日期嗎？",
+    "push_ipdatetime" : "03/29 18:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liaon98",
+    "push_content" : ": 幹 17樓數好久",
+    "push_ipdatetime" : "03/29 18:45",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 17樓專業反串",
+    "push_ipdatetime" : "03/29 18:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "knightage",
+    "push_content" : ": 小時不讀書 長大當17樓",
+    "push_ipdatetime" : "03/29 18:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "pilifonbao",
+    "push_content" : ": 嘻嘻",
+    "push_ipdatetime" : "03/29 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "icome",
+    "push_content" : ": 超過1.5位立委就可通過 門檻也太低",
+    "push_ipdatetime" : "03/29 19:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nightjoker",
+    "push_content" : ": 女支者真可悲",
+    "push_ipdatetime" : "03/29 19:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yutakasnow",
+    "push_content" : ": 17樓台灣記者",
+    "push_ipdatetime" : "03/29 19:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "trchen",
+    "push_content" : ": 滾回八卦板",
+    "push_ipdatetime" : "03/29 19:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stanley86300",
+    "push_content" : ": 和南極大陸簽我可以",
+    "push_ipdatetime" : "03/29 19:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shindi",
+    "push_content" : ": TVBS: 17樓，你錄取了！",
+    "push_ipdatetime" : "03/29 19:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trenteric",
+    "push_content" : ": 17樓那面厲害的餌哪買的啊",
+    "push_ipdatetime" : "03/29 20:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "johnpage",
+    "push_content" : ": 公投僅供参考，不需遵守",
+    "push_ipdatetime" : "03/29 20:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 想說這篇怎麼這麼多推，17樓厲害了",
+    "push_ipdatetime" : "03/29 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mystiarun",
+    "push_content" : ": 17樓太好笑",
+    "push_ipdatetime" : "03/29 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "g9122xj",
+    "push_content" : ": 數學棒棒的",
+    "push_ipdatetime" : "03/29 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tw88",
+    "push_content" : ": 搞笑",
+    "push_ipdatetime" : "03/29 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frf2pujols17",
+    "push_content" : ": 記者什麼時候要從中班畢業啦 等好久",
+    "push_ipdatetime" : "03/29 21:06",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "massrelay",
+    "push_content" : ": 這樣我就放心了",
+    "push_ipdatetime" : "03/29 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vilehawk",
+    "push_content" : ": 17樓XD 我一開始沒認真看還真以為是日期 想說笑點在哪",
+    "push_ipdatetime" : "03/29 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Knudsen",
+    "push_content" : ": 小時不讀書 長大當記者（和17樓）",
+    "push_ipdatetime" : "03/29 21:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HT2",
+    "push_content" : ": 現行立委人數117人，只要有176位立委連署提出協商",
+    "push_ipdatetime" : "03/29 22:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HT2",
+    "push_content" : ": 156位立委同意，就可以到達第三關公投了",
+    "push_ipdatetime" : "03/29 22:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "billy19",
+    "push_content" : ": 怎麼這麼多人看不懂17樓反串 太失敗了吧..",
+    "push_ipdatetime" : "03/29 22:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kanzerbee",
+    "push_content" : ": 天才有極限 愚蠢則無",
+    "push_ipdatetime" : "03/29 22:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxzzzzzzzzzz",
+    "push_content" : ": 文組記者 這可以理解",
+    "push_ipdatetime" : "03/29 22:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "adamsung",
+    "push_content" : ": 17樓不去當記者太可惜了",
+    "push_ipdatetime" : "03/29 23:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vek1112",
+    "push_content" : ": 17樓到底是不是反串",
+    "push_ipdatetime" : "03/29 23:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vram",
+    "push_content" : ": 17樓是天才嗎！！！！！！",
+    "push_ipdatetime" : "03/29 23:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "richjf",
+    "push_content" : ": 推17 樓",
+    "push_ipdatetime" : "03/29 23:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oneofhsueh",
+    "push_content" : ": 17樓反串結果一堆人沒看出來",
+    "push_ipdatetime" : "03/29 23:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ok020402",
+    "push_content" : ": 17樓更可愛",
+    "push_ipdatetime" : "03/29 23:48",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "TobyH4cker",
+    "push_content" : ": 每一個像素都有可以吐槽的點，智商何在",
+    "push_ipdatetime" : "03/29 23:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s1030406",
+    "push_content" : ": 看不懂的數學不好喔哈哈哈",
+    "push_ipdatetime" : "03/29 23:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DazaiOsamu",
+    "push_content" : ": 素質就很差所以才當記者啊",
+    "push_ipdatetime" : "03/30 00:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "DazaiOsamu",
+    "push_content" : ": 寫稿也不會 打字幕也不會 整天農場標題",
+    "push_ipdatetime" : "03/30 00:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "RogueOne",
+    "push_content" : ": 超過100% XD",
+    "push_ipdatetime" : "03/30 00:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LoserLee",
+    "push_content" : ": 只有賣台媒素質能比台媒更低...難怪9.25毛無腦韓粉考不",
+    "push_ipdatetime" : "03/30 00:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "LoserLee",
+    "push_content" : ": 上台大...",
+    "push_ipdatetime" : "03/30 00:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ugy123",
+    "push_content" : ": 民進黨 卓越的一步",
+    "push_ipdatetime" : "03/30 00:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Cybershit",
+    "push_content" : ": 沒寫錯啊 只要中國的人大代表也能投 就能超過分母惹",
+    "push_ipdatetime" : "03/30 01:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cisyong",
+    "push_content" : ": 戶愚呂 120%",
+    "push_ipdatetime" : "03/30 01:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "r124193767",
+    "push_content" : ": 看來有些人的閱讀能力需要去小學重讀一次",
+    "push_ipdatetime" : "03/30 01:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gino9955",
+    "push_content" : ": 17明天來韓天腥聞台上班",
+    "push_ipdatetime" : "03/30 02:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zardmih",
+    "push_content" : ": 厲害啦我的17樓 XDD",
+    "push_ipdatetime" : "03/30 04:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiwang",
+    "push_content" : ": 讚嘆17F",
+    "push_ipdatetime" : "03/30 05:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yaiwuyi",
+    "push_content" : ": 一堆人看不出17樓反串 難怪kmt不倒",
+    "push_ipdatetime" : "03/30 07:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hstf",
+    "push_content" : ": 17樓秀下限 看來跟T差不多",
+    "push_ipdatetime" : "03/30 08:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Souseasou3",
+    "push_content" : ": 這可以檢舉NCC嗎",
+    "push_ipdatetime" : "03/30 08:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "icou",
+    "push_content" : ": 影分身之術",
+    "push_ipdatetime" : "03/30 08:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gameboyaz",
+    "push_content" : ": 五樓快笑死",
+    "push_ipdatetime" : "03/30 08:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "garfunkel",
+    "push_content" : ": 中天：17樓你明天來上班",
+    "push_ipdatetime" : "03/30 09:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "david1230",
+    "push_content" : ": 3/2立委 這是黨國時期才有的東西 是你不懂tv85",
+    "push_ipdatetime" : "03/30 09:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "capazek",
+    "push_content" : ": 17的邏輯符合記者",
+    "push_ipdatetime" : "03/30 10:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "redin2001",
+    "push_content" : ": 笑死 17樓厲害了",
+    "push_ipdatetime" : "03/30 10:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dreamsky33",
+    "push_content" : ": https://i.imgur.com/gfo1iuF.jpg",
+    "push_ipdatetime" : "03/30 10:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asas1asas200",
+    "push_content" : ": 小時不讀書 長大當記者",
+    "push_ipdatetime" : "03/30 10:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chichi84",
+    "push_content" : ": 17樓幽默反串還被笑哈哈哈",
+    "push_ipdatetime" : "03/30 11:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cosmite",
+    "push_content" : ": 記者水準",
+    "push_ipdatetime" : "03/30 11:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mailbox8585",
+    "push_content" : ": 正想說3/2和4/3看得我頭好痛 原來笑點是這個",
+    "push_ipdatetime" : "03/30 11:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TaiWeiT",
+    "push_content" : ": 幹，公投ㄌㄟ",
+    "push_ipdatetime" : "03/30 12:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qazswsx607",
+    "push_content" : ": 酸17樓的智商被人釣到",
+    "push_ipdatetime" : "03/30 12:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miner1512",
+    "push_content" : ": 推17樓反串",
+    "push_ipdatetime" : "03/30 12:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "insingW",
+    "push_content" : ": 很好笑",
+    "push_ipdatetime" : "03/30 12:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "as54",
+    "push_content" : ": 17樓專業騙到一堆智障",
+    "push_ipdatetime" : "03/30 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheng31507",
+    "push_content" : ": 超過100%",
+    "push_ipdatetime" : "03/30 13:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markkao456",
+    "push_content" : ": 17樓神",
+    "push_ipdatetime" : "03/30 13:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kaichou1003",
+    "push_content" : ": 國民黨的全國有沒有包含隔壁中國啊？",
+    "push_ipdatetime" : "03/30 15:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "needshe520",
+    "push_content" : ": 原來如此",
+    "push_ipdatetime" : "03/30 15:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ltl1221",
+    "push_content" : ": 這我就放心了",
+    "push_ipdatetime" : "03/30 16:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryanbin",
+    "push_content" : ": 只有17樓看的懂",
+    "push_ipdatetime" : "03/30 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GGINDOWBOW",
+    "push_content" : ": 17樓很厲害喔",
+    "push_ipdatetime" : "03/30 17:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "eqhibiki",
+    "push_content" : ": 可能是連同對岸政委一起算",
+    "push_ipdatetime" : "03/30 17:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": 呼 還好不通過了",
+    "push_ipdatetime" : "03/30 18:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alanton2003",
+    "push_content" : ": 就算只有100/1的機會我也要告白",
+    "push_ipdatetime" : "03/30 18:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pulpyperry",
+    "push_content" : ": 17樓不是反串嗎 怎麼前面一堆新警察",
+    "push_ipdatetime" : "03/30 18:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiwa",
+    "push_content" : ": 17f XD",
+    "push_ipdatetime" : "03/30 19:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spitonface",
+    "push_content" : ": 說17樓智障的ptt刪一刪了拜託",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lcw33242976",
+    "push_content" : ": 笑死，新聞播出前有沒有先審稿",
+    "push_ipdatetime" : "03/30 20:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wensin715",
+    "push_content" : ": 17樓合格了 明天中天上班",
+    "push_ipdatetime" : "03/30 20:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skps920110",
+    "push_content" : ": 17樓高級酸騙到一堆菜比8笑噴",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "boogieman",
+    "push_content" : ": 17樓可以TVBS報到了",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "推"
+  } ]
+}

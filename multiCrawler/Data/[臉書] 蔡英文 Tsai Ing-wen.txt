@@ -1,0 +1,425 @@
+{
+  "title" : "[臉書] 蔡英文 Tsai Ing-wen",
+  "author" : "cheinshin",
+  "board" : "Gossiping",
+  "content" : "卦點: 今年是總統府建築百年，推出百年特展，讓大家可以一次仔細看得過癮，把台灣這一百年 來的重要歷史影像都呈現給大家。 https://goo.gl/9khwPc 蔡英文 Tsai Ing-wen 大家有沒有來過總統府打卡？總統府的必看景點， PopDaily 波波黛莉的異想世界帶大家 精華一次看！原來平常我工作的地方，也有這麼多好拍的地方！ 　　 今年是總統府建築百年，我們推出了百年特展，讓大家可以一次仔細看得過癮，把台灣這 一百年來的重要歷史影像都呈現給大家。過去國慶時，府前的人力排字、踢正步，甚至還 有騎兵隊伍，都在歷史影像中重新回味。 　　 現在的總統府更加的開放，明天就是每個月總統府對外開放的日子，我想邀請大家，一起 來逛總統府看展、打卡！ 　　 總統府建築百年特展 「府100 TELL ME WHAT YOU SEE?」 平日09:00-12:00 假日請參閱總統府公告 03月31日（星期日） 08:00~16:00 大禮堂表演團體：天母國中音樂社團 　　 看更多特展內容 https://bit.ly/2HpzqhW 　　 總統府建築百年主視覺動畫 https://bit.ly/2 　　 總統府建築百年官網 https://bit.ly/2Y1MCyM https://youtu.be/oprcry29sjs -- ",
+  "date" : "Sat Mar 30 21:10:40 2019",
+  "ip" : "101.13.236.252",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553951443.A.E25.html",
+  "pushList" : [ {
+    "push_userid" : "Muqeem",
+    "push_content" : ": 網軍 在這裡 快來",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "OGCOGCOGCOGC",
+    "push_content" : ": 綠畜們通通給我推起來",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rik",
+    "push_content" : ": 以下開放五毛來噓文",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TWilde",
+    "push_content" : ": 絕地聖殿百年特展",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorenhuang",
+    "push_content" : ": 嗯~~~這建築有一百年了，可惜沒住台北，有點想去看",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dostey",
+    "push_content" : ": 推小英! 9.2好好台灣人不當 偏要想做中國人",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pp9960",
+    "push_content" : ": 小編拚命貼，人民無感",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jackie5678",
+    "push_content" : ": 看看這篇幾分鐘推爆 1450認真工作喔",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yue801010",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skywinner",
+    "push_content" : ": 趕快推 越來越覺得妳初選輸定了 幫QQ",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 樓下柯粉喜韓兒崩潰",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sorenhuang",
+    "push_content" : ": 1,2F有事嗎？",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jjoonnyy",
+    "push_content" : ": 噁， 黨工文。 還是讓真性情的賴神",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛柯粉喜韓兒要崩潰了快逃啊",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "takechance",
+    "push_content" : ": DPPer快來推，小英需要你們溫暖~",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "iamyamashi",
+    "push_content" : ": 小英加油",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jackie5678",
+    "push_content" : ": 洗爆文跟中天洗韓文一樣 越看越討厭",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛快來噓 不然黨部不放款喔",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "huai96",
+    "push_content" : ": 展覽不錯",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QQdragon",
+    "push_content" : ": https://tinyurl.com/y8yscdto",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "breaki",
+    "push_content" : ": 推英文",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "paorei",
+    "push_content" : ": 五毛手速依然驚人",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorenhuang",
+    "push_content" : ": 更正~政奴們開始工作了",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "godog",
+    "push_content" : ": 小英: 廠工救我",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ninstagram00",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛柯粉喜韓兒噓文才是工作吧",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dukechiang",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ftn7301",
+    "push_content" : ": 五毛推起來",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "lacoaaa",
+    "push_content" : ": 小英好棒棒",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notnew",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "suihun",
+    "push_content" : ": 沒那麼多中二五毛應該沒那麼多推XD",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qobox",
+    "push_content" : ": 我推",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TSMConduty",
+    "push_content" : ": 放棄拉, 坐等大戰完道歉文連發, red道歉文我還看不夠",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jackie5678",
+    "push_content" : ": 屁咧 噓文的就不能是賴粉喔",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gary2011",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Deanfluenza",
+    "push_content" : ": 小英加油",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qobox",
+    "push_content" : ": 來湊熱鬧",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛柯粉喜韓兒在噓才會有推",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "whereru",
+    "push_content" : ": 五毛怎沒來",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mariez",
+    "push_content" : ": 推哦",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fowemo",
+    "push_content" : ": 突然藍營變成賴粉了",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "opwang",
+    "push_content" : ": 打手槍俠尻起來",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ps45689",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 怎沒來 噓文那些都黑名單啊",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "forest6601",
+    "push_content" : ": 9.2黨工假日還要上班 辛苦了",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sg2361610",
+    "push_content" : ": 推小英連任",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorenhuang",
+    "push_content" : ": ！！好像不用買票吔",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Liebig",
+    "push_content" : ": 來看五毛噓文",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qwert1629",
+    "push_content" : ": 支那9.2賤畜今天好快",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Chakrit",
+    "push_content" : ": 推推推",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chatterati",
+    "push_content" : ": 中屎之前也捧過賴，快笑死",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Adamcolton",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jeeffrey3688",
+    "push_content" : ": 我要推",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "love90619",
+    "push_content" : ": 五毛呢 ？？",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sazdj",
+    "push_content" : ": 94215 就是愛英文",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gn02022222",
+    "push_content" : ": 五毛週末放假了啦",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sattar",
+    "push_content" : ": 支持小英",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛柯粉喜韓兒要噓幾次啊",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kunker",
+    "push_content" : ": 推小英，唯一支持",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rekakase",
+    "push_content" : ": 推蔡總統",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cosmite",
+    "push_content" : ": 加油",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "worked",
+    "push_content" : ": 今天五毛很有幹勁欸",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jasonmv123",
+    "push_content" : ": 他們不噓會被扣薪QQ",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koala0919",
+    "push_content" : ": 想問五毛翻牆空氣有比較好嗎",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tonycool0309",
+    "push_content" : ": 2020英你而戰",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abaddon",
+    "push_content" : ": 推小英，最親民的總統居然還開放給民眾參觀總統府，推推",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "soisoi",
+    "push_content" : ": 噓的好噁心，真的覺得沾上賴就可以偽裝墨綠",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chhoher",
+    "push_content" : ": 支持小英氣死習近平",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dostey",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SilverFlare",
+    "push_content" : ": 韓粉黨工快來噓啊 對就是說你喔cych",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Birken",
+    "push_content" : ": 支持小英連任",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EggAcme",
+    "push_content" : ": 唯一支持蔡英文",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ims531",
+    "push_content" : ": 就是要推小英 去查我啊",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "great5566",
+    "push_content" : ": 推推小英 推爆",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rekakase",
+    "push_content" : ": 唯一支持小英總統",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abcyting",
+    "push_content" : ": 大家噓起來",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skywinner",
+    "push_content" : ": 推 初選輸不要哭哭喔",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "diaogaro",
+    "push_content" : ": 需要一個不必靠中國走國際的總統就是蔡英文",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 五毛上班了啦 還不快把牆翻過去",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Epimenides",
+    "push_content" : ": 五毛噓得好熱心",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hariclia",
+    "push_content" : ": 五毛噓一次能領多少錢？？",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leolin2",
+    "push_content" : ": 五毛噓屁噓",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "y1896547",
+    "push_content" : ": 這種廢文也要爆?",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "→"
+  } ]
+}

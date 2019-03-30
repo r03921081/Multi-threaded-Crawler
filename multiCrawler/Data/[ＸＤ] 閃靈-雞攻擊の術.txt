@@ -1,0 +1,445 @@
+{
+  "title" : "[ＸＤ] 閃靈-雞攻擊の術",
+  "author" : "b93173",
+  "board" : "joke",
+  "content" : "不知道為什麼聽到Freddy一開口就笑了 https://www.youtube.com/watch?v=N5qwE06P3vA 不知道雞攻擊之術的可以看這個 https://www.youtube.com/watch?v=miomuSGoPzI -- ",
+  "date" : "Wed Mar 27 21:09:49 2019",
+  "ip" : "1.163.84.17",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553692192.A.DAE.html",
+  "pushList" : [ {
+    "push_userid" : "maniaque",
+    "push_content" : ": 真假? 石井真的來台灣了?",
+    "push_ipdatetime" : "03/27 21:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lrhn0289",
+    "push_content" : ": 是阿 上周末大港開唱",
+    "push_ipdatetime" : "03/27 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kenfu0402",
+    "push_content" : ": 有跟到直播給推",
+    "push_ipdatetime" : "03/27 22:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 雖然我知道閃靈是搖滾樂團，不過那歌聲真的是難聽",
+    "push_ipdatetime" : "03/27 22:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 然後影片連結放正版的可以嗎https://youtu.be/miomuSGoPzi",
+    "push_ipdatetime" : "03/27 22:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 打錯網址 https://youtu.be/miomuSGoPzI",
+    "push_ipdatetime" : "03/27 22:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "b93173",
+    "push_content" : ": 已改抱歉",
+    "push_ipdatetime" : "03/27 22:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "caesar12",
+    "push_content" : ": 這個組合是誰想的...",
+    "push_ipdatetime" : "03/27 22:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "STRO",
+    "push_content" : ": 約德爾唱法混黑腔還真是第一次看到...",
+    "push_ipdatetime" : "03/27 23:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b6543212",
+    "push_content" : ": 閃靈不是搖滾樂團好嗎 是政治金屬",
+    "push_ipdatetime" : "03/28 00:01",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 不好意思 我平常只有在聽軟體唱歌 其他都不清楚 感謝指正",
+    "push_ipdatetime" : "03/28 00:02",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "SereneFaith",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 00:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pony3800",
+    "push_content" : ": 政治金屬風？",
+    "push_ipdatetime" : "03/28 00:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "shiwa",
+    "push_content" : ": 這隻雞聽起來好兇R",
+    "push_ipdatetime" : "03/28 02:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 電火球要不要加進去啊？台灣死腔耶",
+    "push_ipdatetime" : "03/28 03:02",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "STRO",
+    "push_content" : ": 黑金本來就常常會涉及社會議題或是政治",
+    "push_ipdatetime" : "03/28 03:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bigrain0930",
+    "push_content" : ": 閃靈是台灣難得紅到國外的樂團，而且Freddy參與政治",
+    "push_ipdatetime" : "03/28 03:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bigrain0930",
+    "push_content" : ": 跟閃靈沒有關係好嗎！",
+    "push_ipdatetime" : "03/28 03:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "maxwell076",
+    "push_content" : ": 異外的很合耶 大愛",
+    "push_ipdatetime" : "03/28 07:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "garfunkel",
+    "push_content" : ": 閃靈也唱民謠風啊 聽過再嗆好嗎",
+    "push_ipdatetime" : "03/28 08:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "devilmanamon",
+    "push_content" : ": 沒知識又想糾正人，糾正人還貼錯，這個更好笑XD",
+    "push_ipdatetime" : "03/28 08:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goldencorn",
+    "push_content" : ": 這組合太經典了 笑死",
+    "push_ipdatetime" : "03/28 08:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hiphopzack",
+    "push_content" : ": 喜歡閃靈，也常聽雞攻擊，但真的有夠不合",
+    "push_ipdatetime" : "03/28 09:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 噓的額度滿了 總之我是真的不清楚",
+    "push_ipdatetime" : "03/28 09:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "johnnyivw",
+    "push_content" : ": 不清楚就不要亂講 很難嗎？",
+    "push_ipdatetime" : "03/28 09:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "freddy50301",
+    "push_content" : ": 蠢就不用出來讓大家都知道 謝謝",
+    "push_ipdatetime" : "03/28 09:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stanley86300",
+    "push_content" : ": 還在政治歸政治音樂歸音樂 你要不要回去戒嚴時代",
+    "push_ipdatetime" : "03/28 09:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 好，對不起，我以後會噓和我不知道的無關的東西",
+    "push_ipdatetime" : "03/28 09:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bloodartanis",
+    "push_content" : ": 想出這組合的人嗑了什麼",
+    "push_ipdatetime" : "03/28 10:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gunny2205",
+    "push_content" : ": 噓文滿好笑的XD",
+    "push_ipdatetime" : "03/28 10:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sxskr1001",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/28 10:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nima000",
+    "push_content" : ": 笑死 無知還不認錯 臉皮有夠厚",
+    "push_ipdatetime" : "03/28 10:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xLiC",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 10:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xeriom57042",
+    "push_content" : ": 噓文ㄏ",
+    "push_ipdatetime" : "03/28 10:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "e150064",
+    "push_content" : ": 因為肥迪的女兒喜歡雞攻擊阿公，才有這個組合 呵呵",
+    "push_ipdatetime" : "03/28 11:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RockCat0218",
+    "push_content" : ": 噓文真的好笑",
+    "push_ipdatetime" : "03/28 11:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ekmund",
+    "push_content" : ": 幹這誰策劃的XDDDDDDD",
+    "push_ipdatetime" : "03/28 11:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shamanlin",
+    "push_content" : ": .....這合唱方法完全毀了這首歌啊....",
+    "push_ipdatetime" : "03/28 11:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Super1022",
+    "push_content" : ": 超屌的啦XDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 12:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "A1S2D3F4",
+    "push_content" : ": 人在現場給推",
+    "push_ipdatetime" : "03/28 12:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "simon0529",
+    "push_content" : ": 聽軟體唱歌就不要出來丟臉了，去聽那種沒溫度沒變化完",
+    "push_ipdatetime" : "03/28 12:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "simon0529",
+    "push_content" : ": 全音準的音樂吧",
+    "push_ipdatetime" : "03/28 12:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "UDK0821",
+    "push_content" : ": 超屌欸XDDDDD",
+    "push_ipdatetime" : "03/28 12:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 呵呵 聽真人唱歌比較高尚是不是 金屬音樂比電子音難聽多了",
+    "push_ipdatetime" : "03/28 12:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 還有完全音準是三小 只有初學者會那樣做",
+    "push_ipdatetime" : "03/28 12:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dontaskme",
+    "push_content" : ": memetal 梗金？",
+    "push_ipdatetime" : "03/28 12:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sasa22444",
+    "push_content" : ": 蠻有梗的啊！ 可惜沒有雞 或是雞人在旁邊狂舞",
+    "push_ipdatetime" : "03/28 12:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r557844689",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/28 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a52655",
+    "push_content" : ": 黑死雞",
+    "push_ipdatetime" : "03/28 14:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skylion",
+    "push_content" : ": 聽不完...不合",
+    "push_ipdatetime" : "03/28 14:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pz5202",
+    "push_content" : ": =====「赤色高棉」台灣版=====",
+    "push_ipdatetime" : "03/28 15:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "IcePhoenix",
+    "push_content" : ": 一堆沒在聽金屬的，笑死",
+    "push_ipdatetime" : "03/28 16:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ccl1707",
+    "push_content" : ": 在現場看的時候快笑死XDDD",
+    "push_ipdatetime" : "03/28 16:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s202655",
+    "push_content" : ": 現場看真的超ㄎ一ㄤ",
+    "push_ipdatetime" : "03/28 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "svcgood",
+    "push_content" : ": 不推閃靈，但雞攻擊超好笑",
+    "push_ipdatetime" : "03/28 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tigerzz3",
+    "push_content" : ": 噓文比較Joke XD",
+    "push_ipdatetime" : "03/28 17:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "reexamor",
+    "push_content" : ": 太屌惹！閃靈推推",
+    "push_ipdatetime" : "03/28 17:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wulaw5566",
+    "push_content" : ": 好多人崩潰",
+    "push_ipdatetime" : "03/28 17:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iMANIA",
+    "push_content" : ": 真的猛XD",
+    "push_ipdatetime" : "03/28 18:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mimiasd0722",
+    "push_content" : ": 滿好聽的 angrybird版",
+    "push_ipdatetime" : "03/28 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HappyBilbo",
+    "push_content" : ": 推閃靈",
+    "push_ipdatetime" : "03/28 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "esaesa",
+    "push_content" : ": 好聽 推",
+    "push_ipdatetime" : "03/28 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t77133562003",
+    "push_content" : ": 幹 這隻雞在兇三小",
+    "push_ipdatetime" : "03/28 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "herro760920",
+    "push_content" : ": 唐老鴨唱什麼雞攻擊",
+    "push_ipdatetime" : "03/28 20:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chris529tw",
+    "push_content" : ": 連搖滾跟金屬都分不清，還在崩潰的也很好笑XDD",
+    "push_ipdatetime" : "03/28 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ox12345xo",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/28 23:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rude",
+    "push_content" : ": 推文有新簽名檔了xddd",
+    "push_ipdatetime" : "03/28 23:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "feather0911",
+    "push_content" : ": 最近的人怎麼都愛用死腔唱奇怪的東西啦XDDD",
+    "push_ipdatetime" : "03/29 01:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "armedlove",
+    "push_content" : ": 死嗆黑嗆明明蠻好聽的 還有人扯政治Zzz",
+    "push_ipdatetime" : "03/29 01:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "armedlove",
+    "push_content" : ": 更正腔",
+    "push_ipdatetime" : "03/29 01:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "YingYing565",
+    "push_content" : ": 還不錯啊",
+    "push_ipdatetime" : "03/29 02:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "end56",
+    "push_content" : ": 噁 真難聽",
+    "push_ipdatetime" : "03/29 02:41",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "giantwen",
+    "push_content" : ": 配殺雞叫很合歌名",
+    "push_ipdatetime" : "03/29 04:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "oliver81405",
+    "push_content" : ": 一群魯蛇在網路上詆毀閃靈成就 真的是可悲的一群蟲",
+    "push_ipdatetime" : "03/29 06:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "angeltear15",
+    "push_content" : ": Gg 餓特",
+    "push_ipdatetime" : "03/29 07:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "l1031179",
+    "push_content" : ": 好聽推 還有某無知推文出來秀好好笑XDD",
+    "push_ipdatetime" : "03/29 08:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcasdjason1",
+    "push_content" : ": 無joke",
+    "push_ipdatetime" : "03/29 11:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "louna2673",
+    "push_content" : ": 我以為噓文那個馬上就道歉了 其實不給台階下沒有比較好",
+    "push_ipdatetime" : "03/29 11:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rock666",
+    "push_content" : ": 很歡樂啊XDD",
+    "push_ipdatetime" : "03/29 11:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WeiMinChen",
+    "push_content" : ": 黑死金都不知道XDD",
+    "push_ipdatetime" : "03/29 12:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rock19940201",
+    "push_content" : ": 黑死金本來就這樣唱的，沒見識就別亂噓",
+    "push_ipdatetime" : "03/29 14:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AntiCompete",
+    "push_content" : ": 垃圾台獨，綠吱賤畜藏東西還敢說是音樂",
+    "push_ipdatetime" : "03/29 14:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "FeO",
+    "push_content" : ": 這FB看過了 不過還是再推一次 超猛",
+    "push_ipdatetime" : "03/29 19:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "VdustR",
+    "push_content" : ": 四樓笑死 下次要開噴之前還是多想幾秒吧不然只會丟臉",
+    "push_ipdatetime" : "03/29 23:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SuperPenguin",
+    "push_content" : ": www",
+    "push_ipdatetime" : "03/30 00:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiaohua",
+    "push_content" : ": 不搭，而且感覺節奏對不上。原本的歌好聽又好笑，這樣",
+    "push_ipdatetime" : "03/30 08:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "winiS",
+    "push_content" : ": 這樣硬套真的不行，至少也編成旋金吧",
+    "push_ipdatetime" : "03/30 10:01",
+    "push_tag" : "噓"
+  } ]
+}

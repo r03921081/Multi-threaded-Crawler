@@ -54,15 +54,9 @@ public class PttParser {
 			}
 
 			Element tmp = mainContent.select("div").remove().get(0);
-			String[] contentObject = tmp.text().split("※");
-			Integer contentSize = contentObject.length;
-
-			String articleContent = "";
-
-			for (int i = 0; i < contentSize - 2; i++) {
-				articleContent += contentObject[i];
-			}
-			article.setContent(articleContent);
+			String[] contentObject = tmp.text().split("※ 發信站");
+			article.setContent(contentObject[0]);
+			
 		} catch (IOException e) {
 			logger.error("Parser Error", e);
 		}

@@ -1,0 +1,430 @@
+{
+  "title" : "[笑話] 不要玩俄羅斯輪盤",
+  "author" : "johnlinp",
+  "board" : "joke",
+  "content" : "我常常和我的孩子說 不要玩俄羅斯輪盤 但你也知道 孩子們總是這樣 左耳進 右耳出 翻譯自Reddit https://www.reddit.com/r/darkjokes/comments/b5ur0a/ -- ",
+  "date" : "Wed Mar 27 12:46:52 2019",
+  "ip" : "180.204.149.73",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553662015.A.5C4.html",
+  "pushList" : [ {
+    "push_userid" : "totemist",
+    "push_content" : ": 哈",
+    "push_ipdatetime" : "03/27 12:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2396494",
+    "push_content" : ": OK",
+    "push_ipdatetime" : "03/27 12:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": ........",
+    "push_ipdatetime" : "03/27 12:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": https://i.imgur.com/NNI6ves.jpg",
+    "push_ipdatetime" : "03/27 13:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 還行",
+    "push_ipdatetime" : "03/27 13:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kirbycopy",
+    "push_content" : ": 比我的好笑",
+    "push_ipdatetime" : "03/27 13:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GuyCool",
+    "push_content" : ": 有",
+    "push_ipdatetime" : "03/27 13:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MimoPile",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LanceHaHa",
+    "push_content" : ": 不懂...",
+    "push_ipdatetime" : "03/27 14:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yugin900524",
+    "push_content" : ": 這個厲害哈哈哈",
+    "push_ipdatetime" : "03/27 14:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce1119",
+    "push_content" : ": 樓上因為先到 這樣懂了嗎",
+    "push_ipdatetime" : "03/27 14:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bbbkzai",
+    "push_content" : ": 說出來就不好笑了",
+    "push_ipdatetime" : "03/27 14:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 不是很懂…先推",
+    "push_ipdatetime" : "03/27 14:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bt022",
+    "push_content" : ": 那你他媽問心酸的？",
+    "push_ipdatetime" : "03/27 14:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bt022",
+    "push_content" : ": 被…被插樓了 可惡",
+    "push_ipdatetime" : "03/27 14:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "alwaysstrong",
+    "push_content" : ": 這翻譯真精準XDDD",
+    "push_ipdatetime" : "03/27 14:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tottoko0908",
+    "push_content" : ": 乾...",
+    "push_ipdatetime" : "03/27 14:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hank850503",
+    "push_content" : ": 為啥留言被刪光了",
+    "push_ipdatetime" : "03/27 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ouuuuuu",
+    "push_content" : ": 是位擅長描述的朋友呢",
+    "push_ipdatetime" : "03/27 15:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JOJOttt",
+    "push_content" : ": 這太深度了",
+    "push_ipdatetime" : "03/27 15:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "satzu0627",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/27 15:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tom282f3",
+    "push_content" : ": 不懂@@",
+    "push_ipdatetime" : "03/27 15:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Zw111196",
+    "push_content" : ": 太血腥了ㄅ",
+    "push_ipdatetime" : "03/27 15:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SentLiTryPay",
+    "push_content" : ": 母湯喔",
+    "push_ipdatetime" : "03/27 15:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GPSAM",
+    "push_content" : ": 應該是右耳進左耳出？",
+    "push_ipdatetime" : "03/27 15:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liu99789",
+    "push_content" : ": 左撇子就是左耳進右耳出了啊",
+    "push_ipdatetime" : "03/27 15:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monkeyeden",
+    "push_content" : ": 母湯喔",
+    "push_ipdatetime" : "03/27 15:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "longkiss0618",
+    "push_content" : ": 笑點是他槍的位置擺在耳朵嗎? 通常都是擺更上面一點",
+    "push_ipdatetime" : "03/27 15:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maplefoxs",
+    "push_content" : ": 很有梗 不錯",
+    "push_ipdatetime" : "03/27 15:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pharhan",
+    "push_content" : ": 推翻譯 這翻得有夠好XD",
+    "push_ipdatetime" : "03/27 15:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kig88",
+    "push_content" : ": 俄羅斯輪盤就是左輪手槍只放一顆子彈打自己頭的遊戲，笑點",
+    "push_ipdatetime" : "03/27 15:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kig88",
+    "push_content" : ": 在於子彈和言語都是左耳進右耳出的東西",
+    "push_ipdatetime" : "03/27 15:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a2156700",
+    "push_content" : ": 這笑話的質量很高",
+    "push_ipdatetime" : "03/27 16:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo5916267",
+    "push_content" : ": 讚喔 給你黑人拇指",
+    "push_ipdatetime" : "03/27 16:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s58111158",
+    "push_content" : ": bang",
+    "push_ipdatetime" : "03/27 16:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aquariuschi",
+    "push_content" : ": 笑了",
+    "push_ipdatetime" : "03/27 16:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/27 16:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lf2nick",
+    "push_content" : ": 可以 哈哈哈",
+    "push_ipdatetime" : "03/27 16:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bonebonebone",
+    "push_content" : ": 蛤",
+    "push_ipdatetime" : "03/27 16:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lucky093150",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/27 16:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "firemm666",
+    "push_content" : ": 不知道俄羅斯輪盤是左輪手槍就不會懂",
+    "push_ipdatetime" : "03/27 16:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 喔喔好像卡通有看過 謝31樓",
+    "push_ipdatetime" : "03/27 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pccheni",
+    "push_content" : ": http://i.imgur.com/WvypIpy.jpg",
+    "push_ipdatetime" : "03/27 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dusty20695",
+    "push_content" : ": 我都用自動手槍玩俄羅斯輪盤",
+    "push_ipdatetime" : "03/27 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s125028939",
+    "push_content" : ": 奈斯",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chister",
+    "push_content" : ": 讚",
+    "push_ipdatetime" : "03/27 17:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cs9850712",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/27 17:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kay0814",
+    "push_content" : ": 懂了",
+    "push_ipdatetime" : "03/27 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 還行",
+    "push_ipdatetime" : "03/27 18:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": xD",
+    "push_ipdatetime" : "03/27 18:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 推個 這個很棒",
+    "push_ipdatetime" : "03/27 18:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "AppleApe",
+    "push_content" : ": 讚 哈哈",
+    "push_ipdatetime" : "03/27 19:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Baby",
+    "push_content" : ": 還以為來到marvel版…",
+    "push_ipdatetime" : "03/27 19:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "exesrtrouble",
+    "push_content" : ": 懂了 看了一陣子才懂...",
+    "push_ipdatetime" : "03/27 19:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trenteric",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/27 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin91223",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/27 19:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k03004748549",
+    "push_content" : ": 無感...",
+    "push_ipdatetime" : "03/27 19:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuyu2020kkk",
+    "push_content" : ": 左耳進右耳出",
+    "push_ipdatetime" : "03/27 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryanlu428",
+    "push_content" : ": 懂推一個",
+    "push_ipdatetime" : "03/27 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuso10582",
+    "push_content" : ": 給的網址留言都被刪光了 所以給箭頭",
+    "push_ipdatetime" : "03/27 20:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a3836367",
+    "push_content" : ": 還以為是賭博的那個輪盤",
+    "push_ipdatetime" : "03/27 20:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jojomickey2",
+    "push_content" : ": 這個太棒了XD",
+    "push_ipdatetime" : "03/27 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "extrachaos",
+    "push_content" : ": XDDDDDDDDDD",
+    "push_ipdatetime" : "03/27 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kioh",
+    "push_content" : ": 我懂他在公三小，但是笑點在哪",
+    "push_ipdatetime" : "03/27 20:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "darkdeus",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/27 21:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jackshadow",
+    "push_content" : ": 我自己想的笑話明明好笑多了 這個哪裡好笑",
+    "push_ipdatetime" : "03/27 21:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "p788751032",
+    "push_content" : ": 熟悉的就可回來ㄖ",
+    "push_ipdatetime" : "03/27 22:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dd123456twtw",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 22:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 爛死了，只有左耳進右耳出雙關到，俄羅斯輪盤三小",
+    "push_ipdatetime" : "03/27 23:14",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "happo529",
+    "push_content" : ": 33樓還沒被發現，樓下可以開始噓了",
+    "push_ipdatetime" : "03/27 23:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxc1357959",
+    "push_content" : ": 質量真高 以下開放噓",
+    "push_ipdatetime" : "03/28 01:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Allenjordan",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a1l12",
+    "push_content" : ": 這個有好笑到",
+    "push_ipdatetime" : "03/28 01:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fishthehuman",
+    "push_content" : ": 推 可惡cd 算了",
+    "push_ipdatetime" : "03/28 02:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "s8800892000",
+    "push_content" : ": 湄公河行動",
+    "push_ipdatetime" : "03/28 03:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q22w",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 07:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QT1020",
+    "push_content" : ": 這個可以",
+    "push_ipdatetime" : "03/28 12:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Feverist",
+    "push_content" : ": 還行",
+    "push_ipdatetime" : "03/28 14:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qwerasd158",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/28 18:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "if4",
+    "push_content" : ": 希望大家一起來噓文",
+    "push_ipdatetime" : "03/28 21:45",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Qorqios",
+    "push_content" : ": 。。。。。。很好",
+    "push_ipdatetime" : "03/29 18:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 19:58",
+    "push_tag" : "→"
+  } ]
+}

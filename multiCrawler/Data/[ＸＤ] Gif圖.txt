@@ -1,0 +1,1815 @@
+{
+  "title" : "[ＸＤ] Gif圖",
+  "author" : "ReiKuromiya",
+  "board" : "joke",
+  "content" : "01 https://i.imgur.com/yNVR5OL.gif 02 https://i.imgur.com/ktB16lM.gif 03 https://i.imgur.com/EN0BxoT.gif 04 https://i.imgur.com/eCPg2aF.gif 05 https://i.imgur.com/HeCtjvQ.gif 06 https://i.imgur.com/J82MupJ.gif 07 https://i.imgur.com/sKKWykJ.gif 08 https://i.imgur.com/IsgZlg6.gif 09 https://i.imgur.com/OxFmg9r.gif 10 https://i.imgur.com/VXtULwe.gif 11 https://i.imgur.com/0qsUaxc.gif -- ",
+  "date" : "Wed Mar 27 08:43:59 2019",
+  "ip" : "220.137.132.194",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553647442.A.711.html",
+  "pushList" : [ {
+    "push_userid" : "testuse",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/27 08:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kikukuki",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 08:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 08:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kendra0606",
+    "push_content" : ": 前五",
+    "push_ipdatetime" : "03/27 09:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liu99789",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ydna666666",
+    "push_content" : ": 10.我看過很多啦",
+    "push_ipdatetime" : "03/27 09:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wade0130",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c22748872",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗炮嗎完成度真高阿",
+    "push_ipdatetime" : "03/27 09:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qaz74109",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "moume",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JETPOWER",
+    "push_content" : ": 無辜的一壘手",
+    "push_ipdatetime" : "03/27 09:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cbh721",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "StanRod1994",
+    "push_content" : ": 6 甲甲的",
+    "push_ipdatetime" : "03/27 09:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射炮嗎？ 完成度真高阿",
+    "push_ipdatetime" : "03/27 09:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tijopig",
+    "push_content" : ": 6 我可以喔，現場直接來",
+    "push_ipdatetime" : "03/27 09:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mstar",
+    "push_content" : ": 新阿姆斯壯旋風噴射阿姆斯壯炮",
+    "push_ipdatetime" : "03/27 09:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "partytonight",
+    "push_content" : ": 質量是三小",
+    "push_ipdatetime" : "03/27 09:48",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "st900219",
+    "push_content" : ": 不好笑",
+    "push_ipdatetime" : "03/27 09:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "st900219",
+    "push_content" : ": 才怪",
+    "push_ipdatetime" : "03/27 09:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "AppleApe",
+    "push_content" : ": 超好笑XD",
+    "push_ipdatetime" : "03/27 09:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greenteakigh",
+    "push_content" : ": 噓支那質量",
+    "push_ipdatetime" : "03/27 09:51",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "greenteakigh",
+    "push_content" : ": 補推",
+    "push_ipdatetime" : "03/27 09:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lee70404",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 09:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oscuro324",
+    "push_content" : ": c22748872: 這不是阿姆斯特朗旋風噴射阿姆斯特朗炮嗎完",
+    "push_ipdatetime" : "03/27 10:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oscuro324",
+    "push_content" : ": 成度真高阿",
+    "push_ipdatetime" : "03/27 10:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Barcode5566",
+    "push_content" : ": 質量？",
+    "push_ipdatetime" : "03/27 10:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "eiuyt2",
+    "push_content" : ": 8是誰",
+    "push_ipdatetime" : "03/27 10:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aquariuschi",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 10:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bill03027",
+    "push_content" : ": 那個3D示意圖到底是三小啦wwwww",
+    "push_ipdatetime" : "03/27 10:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dogsface",
+    "push_content" : ": 韓妹超正",
+    "push_ipdatetime" : "03/27 10:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fatetwister",
+    "push_content" : ": 阿姆斯特朗旋風噴射阿姆斯特朗炮？還原度真高啊",
+    "push_ipdatetime" : "03/27 10:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo2002s",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗炮嗎完成度真高阿",
+    "push_ipdatetime" : "03/27 10:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "soudad255",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 10:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ChunKaiOUO",
+    "push_content" : ": 前50",
+    "push_ipdatetime" : "03/27 10:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lskd",
+    "push_content" : ": 狗狗可愛",
+    "push_ipdatetime" : "03/27 10:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SyunYin",
+    "push_content" : ": 質量有什麼問題嗎[email protected]@？",
+    "push_ipdatetime" : "03/27 10:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "neo030511",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 10:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 10:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RC8377",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/27 10:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ispy03532003",
+    "push_content" : ": 第七是拉下車鈴的意思嗎",
+    "push_ipdatetime" : "03/27 10:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DinDing1129",
+    "push_content" : ": 質量？？？",
+    "push_ipdatetime" : "03/27 10:26",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "PanaS0Nic",
+    "push_content" : ": 質量有什麼沒問題嗎?",
+    "push_ipdatetime" : "03/27 10:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "richard0800",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/27 10:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 優質",
+    "push_ipdatetime" : "03/27 10:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a060119",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/27 10:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 質量真高",
+    "push_ipdatetime" : "03/27 10:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fafanovelist",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射炮嗎？ 完成度真高阿喂",
+    "push_ipdatetime" : "03/27 10:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hj00",
+    "push_content" : ": 9號那個我懷疑是參考動新聞",
+    "push_ipdatetime" : "03/27 10:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Twopoint2",
+    "push_content" : ": 這次的質量有87公斤",
+    "push_ipdatetime" : "03/27 10:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ERiC0308QQ",
+    "push_content" : ": 第十是辣醬嗎 感覺會辣爆",
+    "push_ipdatetime" : "03/27 10:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 質量 就是一個對於物質重量的單位 例如我質量70kg",
+    "push_ipdatetime" : "03/27 10:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nerv3890",
+    "push_content" : ": 幹超多好笑的 XDDDDDDDD",
+    "push_ipdatetime" : "03/27 10:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "huabandd",
+    "push_content" : ": 打翻餐桌的妹子一臉懵逼",
+    "push_ipdatetime" : "03/27 10:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "solemn17",
+    "push_content" : ": 百推內",
+    "push_ipdatetime" : "03/27 10:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shell5566",
+    "push_content" : ": 10也太好笑",
+    "push_ipdatetime" : "03/27 10:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 呵呵，講個質量就害樓主被噓了… Sorry... (要罵我的請",
+    "push_ipdatetime" : "03/27 10:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 私訊好嗎？)",
+    "push_ipdatetime" : "03/27 10:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "s8800892000",
+    "push_content" : ": 打擊者一臉我後有什麼！！！",
+    "push_ipdatetime" : "03/27 10:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s8800892000",
+    "push_content" : ": 後面",
+    "push_ipdatetime" : "03/27 10:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "laybear",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗炮嗎完成度真高阿",
+    "push_ipdatetime" : "03/27 10:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 真的不知道質量被噓的點在哪",
+    "push_ipdatetime" : "03/27 10:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wtfconk",
+    "push_content" : ": 9好想配上音效…拉西…呼呼呼呼…齁齁齁齁…HOLIUKEN",
+    "push_ipdatetime" : "03/27 10:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Martie",
+    "push_content" : ": 那重量咧 高不高?",
+    "push_ipdatetime" : "03/27 11:03",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jennifer4551",
+    "push_content" : ": 不知道質量被噓的點是認真的嗎",
+    "push_ipdatetime" : "03/27 11:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qaz855175b",
+    "push_content" : ": 可能很重吧 ==",
+    "push_ipdatetime" : "03/27 11:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "canonrock99",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 11:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WindSucker",
+    "push_content" : ": ？",
+    "push_ipdatetime" : "03/27 11:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "MINAKAMI",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗砲嗎 完成度還真高",
+    "push_ipdatetime" : "03/27 11:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MINAKAMI",
+    "push_content" : ": 阿喂",
+    "push_ipdatetime" : "03/27 11:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 射惹",
+    "push_ipdatetime" : "03/27 11:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KevinYY",
+    "push_content" : ": 這不是新阿姆斯特朗旋風噴射阿姆斯特朗砲嗎？完成度真高",
+    "push_ipdatetime" : "03/27 11:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KevinYY",
+    "push_content" : ": 啊阿魯",
+    "push_ipdatetime" : "03/27 11:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "SmallWall",
+    "push_content" : ": 原PO抱歉 噓質量",
+    "push_ipdatetime" : "03/27 11:17",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "wjp1003",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 11:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winiS",
+    "push_content" : ": 10跟11一起看…>\\\\\\<",
+    "push_ipdatetime" : "03/27 11:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sdf0323",
+    "push_content" : ": 滿常見到不懂質量的意思，覺得只是因為中國用語而被噓...",
+    "push_ipdatetime" : "03/27 11:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sdf0323",
+    "push_content" : ": ...",
+    "push_ipdatetime" : "03/27 11:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "u211735u",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗砲嗎？完成度挺高的",
+    "push_ipdatetime" : "03/27 11:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "u211735u",
+    "push_content" : ": 啊～",
+    "push_ipdatetime" : "03/27 11:25",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ppuppy",
+    "push_content" : ": 推XD",
+    "push_ipdatetime" : "03/27 11:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ai1robert",
+    "push_content" : ": 推文又不是原PO說的東西是在噓三小，是有多玻璃心",
+    "push_ipdatetime" : "03/27 11:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harry801030",
+    "push_content" : ": 原PO抱歉。不知道質量被噓的點真的是台灣人嗎？",
+    "push_ipdatetime" : "03/27 11:42",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yangjam",
+    "push_content" : ": 就玻璃心而已 不要去踩到碎玻璃反而弄傷自己",
+    "push_ipdatetime" : "03/27 11:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harry801030",
+    "push_content" : ": 補推",
+    "push_ipdatetime" : "03/27 11:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jodawa",
+    "push_content" : ": 中國用語有啥好噓的...",
+    "push_ipdatetime" : "03/27 11:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "demon159000",
+    "push_content" : ": 質量… 對面用語真的很北七",
+    "push_ipdatetime" : "03/27 11:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ganafish",
+    "push_content" : ": 這不是新阿姆斯特朗旋風噴射阿姆斯特朗炮嗎？完成度真",
+    "push_ipdatetime" : "03/27 11:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ganafish",
+    "push_content" : ": 高啊喂",
+    "push_ipdatetime" : "03/27 11:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hollysee",
+    "push_content" : ": 噓原po做啥？是原po說質量的嗎？",
+    "push_ipdatetime" : "03/27 11:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2156700",
+    "push_content" : ": 10 顏面攻擊",
+    "push_ipdatetime" : "03/27 11:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "misaki894420",
+    "push_content" : ": 狗狗到底在派什麼",
+    "push_ipdatetime" : "03/27 11:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qImo",
+    "push_content" : ": 06...",
+    "push_ipdatetime" : "03/27 12:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hansan",
+    "push_content" : ": 蠻可愛的",
+    "push_ipdatetime" : "03/27 12:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "NX9999",
+    "push_content" : ": 質什麼量碗糕啦！！！",
+    "push_ipdatetime" : "03/27 12:08",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "NX9999",
+    "push_content" : ": Rei大真的好謝謝QQ帶給大家歡樂",
+    "push_ipdatetime" : "03/27 12:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lf21560",
+    "push_content" : ": 第一張 狗狗：這到底是什麼反擊 喔吼吼齁齁",
+    "push_ipdatetime" : "03/27 12:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nitration",
+    "push_content" : ": 質你老木量",
+    "push_ipdatetime" : "03/27 12:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "finalqmo",
+    "push_content" : ": 噓 質量",
+    "push_ipdatetime" : "03/27 12:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "surivnoir",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/27 12:16",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "liaon98",
+    "push_content" : ": 噓點是 臺灣質量是指 xx kg 中國的質量 台灣要講 品質",
+    "push_ipdatetime" : "03/27 12:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": 02 https://youtu.be/OnQgoJIvOMI?t=2",
+    "push_ipdatetime" : "03/27 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "papple23g",
+    "push_content" : ": 質量好高wwww (中日混合)",
+    "push_ipdatetime" : "03/27 12:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DeaGoo",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 12:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YoZoR",
+    "push_content" : ": 質量/體積=密度",
+    "push_ipdatetime" : "03/27 12:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "dsa888888",
+    "push_content" : ": 10.11是故意的吼",
+    "push_ipdatetime" : "03/27 12:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bbace",
+    "push_content" : ": 幫補血",
+    "push_ipdatetime" : "03/27 12:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "will1118",
+    "push_content" : ": 7 應該是觸電",
+    "push_ipdatetime" : "03/27 12:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗砲嗎？ 完成度真",
+    "push_ipdatetime" : "03/27 12:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": 高啊喂",
+    "push_ipdatetime" : "03/27 12:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bentaiwanese",
+    "push_content" : ": 11會出現在表特版了",
+    "push_ipdatetime" : "03/27 12:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BlackSocks",
+    "push_content" : ": 10好實用，我已經尻了20次 ==",
+    "push_ipdatetime" : "03/27 12:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Luciel",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 12:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zygophylla",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Krait43",
+    "push_content" : ": 0♂6",
+    "push_ipdatetime" : "03/27 12:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jokethelife",
+    "push_content" : ": 位元儲存不關質量喔 文組",
+    "push_ipdatetime" : "03/27 12:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "etyang",
+    "push_content" : ": 原po抱歉，我不覺得中國用語不該噓",
+    "push_ipdatetime" : "03/27 12:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jeffrey948",
+    "push_content" : ": 早上上課偷滑PTT 第一張gif害我差點大笑出聲音 憋得好",
+    "push_ipdatetime" : "03/27 13:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jeffrey948",
+    "push_content" : ": 痛苦 果斷專心上課下午才敢開來看",
+    "push_ipdatetime" : "03/27 13:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hacker1027",
+    "push_content" : ": 推第11張，期待在表特看到",
+    "push_ipdatetime" : "03/27 13:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hj00",
+    "push_content" : ": 噓質量",
+    "push_ipdatetime" : "03/27 13:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Noxus",
+    "push_content" : ": 這次好多好噁心",
+    "push_ipdatetime" : "03/27 13:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rawle",
+    "push_content" : ": 當外來語使用 我覺得還行吧",
+    "push_ipdatetime" : "03/27 13:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nighthunt",
+    "push_content" : ": 好爽歐 用個質量就可以釣出覺青",
+    "push_ipdatetime" : "03/27 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxc1357959",
+    "push_content" : ": 11表特版推文",
+    "push_ipdatetime" : "03/27 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nighthunt",
+    "push_content" : ": 那些覺得用外來語就會被統一的 到底跟覺得讓同性戀結",
+    "push_ipdatetime" : "03/27 13:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nighthunt",
+    "push_content" : ": 婚就會被同化的有什麼不一樣啊 廠廠",
+    "push_ipdatetime" : "03/27 13:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "people2266",
+    "push_content" : ": 講個質量也要被噓，推原po",
+    "push_ipdatetime" : "03/27 13:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nogod1992",
+    "push_content" : ": 原PO抱歉，噓支那人",
+    "push_ipdatetime" : "03/27 13:23",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "not5566",
+    "push_content" : ": 跟統一沒關係就是不喜歡好嗎 廠",
+    "push_ipdatetime" : "03/27 13:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "brian10097",
+    "push_content" : ": 補血 以後如果每篇有人推個大陸用語好文不就都被噓爆",
+    "push_ipdatetime" : "03/27 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "brian10097",
+    "push_content" : ": 自以為正義結果損的是辛苦PO的樓主",
+    "push_ipdatetime" : "03/27 13:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "t78923t",
+    "push_content" : ": 8是誰？",
+    "push_ipdatetime" : "03/27 13:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "robert0805",
+    "push_content" : ": 謝謝原po帶來很多歡樂~~~~~",
+    "push_ipdatetime" : "03/27 13:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "limyheart",
+    "push_content" : ": 旋風阿姆斯特朗炮",
+    "push_ipdatetime" : "03/27 13:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qwerasd158",
+    "push_content" : ": 質量質量質量",
+    "push_ipdatetime" : "03/27 13:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yyff",
+    "push_content" : ": 質量你個頭",
+    "push_ipdatetime" : "03/27 13:57",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "RedFox",
+    "push_content" : ": 我不排斥中國用語，但容易跟現有詞語混淆又沒梗，很討厭",
+    "push_ipdatetime" : "03/27 13:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "RedFox",
+    "push_content" : ": 抱歉原PO，推回來",
+    "push_ipdatetime" : "03/27 14:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pyrolith",
+    "push_content" : ": https://s19.aconvert.com/convert/p3r68-cdx67/4unvy-h",
+    "push_ipdatetime" : "03/27 14:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pyrolith",
+    "push_content" : ": kwpt.gif",
+    "push_ipdatetime" : "03/27 14:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Lynn1122",
+    "push_content" : ": 品質就品質 在那邊用支那用語",
+    "push_ipdatetime" : "03/27 14:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r901700216",
+    "push_content" : ": 玻璃的程度其實蠻相似的",
+    "push_ipdatetime" : "03/27 14:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "capazek",
+    "push_content" : ": 哈哈 1 讓我笑好久",
+    "push_ipdatetime" : "03/27 14:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "z45678915",
+    "push_content" : ": http://i.imgur.com/ro6uW0F.jpg",
+    "push_ipdatetime" : "03/27 14:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 質量質量質量",
+    "push_ipdatetime" : "03/27 14:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jacky87119",
+    "push_content" : ": 每天等你發文",
+    "push_ipdatetime" : "03/27 14:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TaiyoYuden",
+    "push_content" : ": 質量是三小 那重量高嗎",
+    "push_ipdatetime" : "03/27 14:31",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chean1020",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 14:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chean1020",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 14:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chean1020",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 14:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chean1020",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 14:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chean1020",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 14:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxcbrian",
+    "push_content" : ": 樓上好成熟，該上課了喔，老師教得好好學，別傻傻被洗腦",
+    "push_ipdatetime" : "03/27 14:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alwaysstrong",
+    "push_content" : ": 這質量跟你媽一樣 中國：你媽讚！ 台灣：你媽超胖！",
+    "push_ipdatetime" : "03/27 14:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goodlay5566",
+    "push_content" : ": 品質就品質",
+    "push_ipdatetime" : "03/27 14:41",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sparklekyu",
+    "push_content" : ": 不懂質量是專有名詞還誤用得很爽的是國中沒畢業ㄇ",
+    "push_ipdatetime" : "03/27 14:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy095722",
+    "push_content" : ": 菜雞問個 雲不是也是支那用語 怎麼沒人噓",
+    "push_ipdatetime" : "03/27 14:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youwilldie",
+    "push_content" : ": 阿姆斯特朗砲欸欸欸欸欸欸",
+    "push_ipdatetime" : "03/27 14:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "john29908",
+    "push_content" : ": 11會出現在表特版了",
+    "push_ipdatetime" : "03/27 14:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SmallWall",
+    "push_content" : ": 雲不會跟台灣習慣用法衝突啊",
+    "push_ipdatetime" : "03/27 14:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Hosh",
+    "push_content" : ": 先推！",
+    "push_ipdatetime" : "03/27 14:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "VVay",
+    "push_content" : ": 質量是三小",
+    "push_ipdatetime" : "03/27 14:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "i12348",
+    "push_content" : ": 理組看到會特別討厭 無關中國",
+    "push_ipdatetime" : "03/27 15:00",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yoyo2008yoyo",
+    "push_content" : ": 幫補血 看到用語不一樣就要噓的人怎麼這麼可憐",
+    "push_ipdatetime" : "03/27 15:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wave7410",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/27 15:02",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "dalipkid",
+    "push_content" : ": 每天等+1",
+    "push_ipdatetime" : "03/27 15:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hughes7375",
+    "push_content" : ": 推啦！",
+    "push_ipdatetime" : "03/27 15:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "arthur7463",
+    "push_content" : ": 就只是個名詞 釣出一堆覺青",
+    "push_ipdatetime" : "03/27 15:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Xiaolu0104",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射炮嗎？ 完成度真高阿",
+    "push_ipdatetime" : "03/27 15:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FiveSix911",
+    "push_content" : ": 這不是阿姆斯特朗旋風迴旋阿姆斯特朗砲嗎 完成度真高",
+    "push_ipdatetime" : "03/27 15:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FiveSix911",
+    "push_content" : ": 啊",
+    "push_ipdatetime" : "03/27 15:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "csyhri",
+    "push_content" : ": 質量 體積 密度",
+    "push_ipdatetime" : "03/27 15:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "kuan50118",
+    "push_content" : ": 超好笑",
+    "push_ipdatetime" : "03/27 15:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo821111",
+    "push_content" : ": 質量都沒聽過 ？？？ 一堆人高潮",
+    "push_ipdatetime" : "03/27 16:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joveryant",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 16:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PoBa",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/27 16:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yihanderman",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/27 16:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 我看过段时间有人打简字被嘘",
+    "push_ipdatetime" : "03/27 16:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 也会有某些人跳出来说别人觉青喔",
+    "push_ipdatetime" : "03/27 16:20",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 還是這些人去買RAM都說老闆我要一條8G的內存",
+    "push_ipdatetime" : "03/27 16:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yayaorz",
+    "push_content" : ": 3的IG marutheshiba",
+    "push_ipdatetime" : "03/27 16:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jojozp06",
+    "push_content" : ": 有啥好噓的，怎麼這麼多人內心跟強國人一樣脆弱，都被同",
+    "push_ipdatetime" : "03/27 16:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jojozp06",
+    "push_content" : ": 化成這樣了，真可悲",
+    "push_ipdatetime" : "03/27 16:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bomda",
+    "push_content" : ": 質你媽量",
+    "push_ipdatetime" : "03/27 16:50",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "skygray2",
+    "push_content" : ": PTT覺青真可怕",
+    "push_ipdatetime" : "03/27 16:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ttooffuu",
+    "push_content" : ": 笑點在回文",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 笑點在沒人私訊罵我，全都在噓原po…",
+    "push_ipdatetime" : "03/27 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asdfg5435",
+    "push_content" : ": 質量 質量 質量 質量 質量 質量 質量 質量",
+    "push_ipdatetime" : "03/27 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bmks",
+    "push_content" : ": 第一張水準就很高",
+    "push_ipdatetime" : "03/27 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asdfg5435",
+    "push_content" : ": 玻璃碎光了沒 貓貓可愛",
+    "push_ipdatetime" : "03/27 17:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "littlemooooo",
+    "push_content" : ": 一般來說是講品質吧",
+    "push_ipdatetime" : "03/27 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ceylon0614",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/27 17:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ajoe26",
+    "push_content" : ": 噓原po是有多無聊？",
+    "push_ipdatetime" : "03/27 17:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jackydie1007",
+    "push_content" : ": 居然有人對質量這詞無感...唉",
+    "push_ipdatetime" : "03/27 17:25",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "JaguarViva",
+    "push_content" : ": 原po歹勢 噓沒把理化學好不懂質量的人",
+    "push_ipdatetime" : "03/27 17:25",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "JaguarViva",
+    "push_content" : ": 補推",
+    "push_ipdatetime" : "03/27 17:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "babababala",
+    "push_content" : ": 1的柴柴太87了XDDD 9的動畫是個日本的節目,常常把犯罪",
+    "push_ipdatetime" : "03/27 17:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "babababala",
+    "push_content" : ": 人做的很中二",
+    "push_ipdatetime" : "03/27 17:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "opple",
+    "push_content" : ": 圖的品質很高",
+    "push_ipdatetime" : "03/27 17:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "huangtj",
+    "push_content" : ": 質量真好",
+    "push_ipdatetime" : "03/27 17:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "okbon66",
+    "push_content" : ": 水準很高 講質量很高是物理沒學好吧",
+    "push_ipdatetime" : "03/27 17:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chinobe",
+    "push_content" : ": 這批的質量水平挺高的 吸眼球啊親",
+    "push_ipdatetime" : "03/27 17:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Brabus700G",
+    "push_content" : ": Gif圖必噓",
+    "push_ipdatetime" : "03/27 18:04",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "exparte",
+    "push_content" : ": 有全部動物的動圖嗎~超可愛",
+    "push_ipdatetime" : "03/27 18:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hank6797",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 18:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Wangdy",
+    "push_content" : ": 重質也重量，上面國文不好？",
+    "push_ipdatetime" : "03/27 18:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skingqq",
+    "push_content" : ": 6那個捕手是故意的吧",
+    "push_ipdatetime" : "03/27 18:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/27 18:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kakain",
+    "push_content" : ": 韓職到底是什麼樣的一個聯盟 = =",
+    "push_ipdatetime" : "03/27 19:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lanjack",
+    "push_content" : ": 就很多玻璃心啊，嘴巴罵中國玻璃心，結果人家用一個中國",
+    "push_ipdatetime" : "03/27 19:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lanjack",
+    "push_content" : ": 用詞馬上爆氣怒噓",
+    "push_ipdatetime" : "03/27 19:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Void956",
+    "push_content" : ": 11 後勁好強",
+    "push_ipdatetime" : "03/27 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weido666",
+    "push_content" : ": 幹你質量 支那人滾辣",
+    "push_ipdatetime" : "03/27 19:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "weido666",
+    "push_content" : ": 補推啦幹你支那",
+    "push_ipdatetime" : "03/27 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kilof",
+    "push_content" : ": 質你老母量",
+    "push_ipdatetime" : "03/27 19:22",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "loking",
+    "push_content" : ": 容易被外來語改變的，通常很少看書",
+    "push_ipdatetime" : "03/27 19:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo203699",
+    "push_content" : ": 狗狗好好笑",
+    "push_ipdatetime" : "03/27 19:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kakain",
+    "push_content" : ": 你各位是不是都住在海邊？",
+    "push_ipdatetime" : "03/27 19:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "az564232",
+    "push_content" : ": 這也能吵 joke有凶宅lol",
+    "push_ipdatetime" : "03/27 19:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "windayu",
+    "push_content" : ": 文化同化跟性向同化都可以類比，邏輯真棒",
+    "push_ipdatetime" : "03/27 19:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "veneer",
+    "push_content" : ": 哈哈哈哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "george0921",
+    "push_content" : ": 怎麼存檔啊",
+    "push_ipdatetime" : "03/27 20:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lusheep",
+    "push_content" : ": 我承認我玻璃，支那用語滾啦",
+    "push_ipdatetime" : "03/27 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gtoamdk7",
+    "push_content" : ": 品質可以變成質量mass也不簡單",
+    "push_ipdatetime" : "03/27 20:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chysh",
+    "push_content" : ": 所以質量是幾公斤？品質如何？",
+    "push_ipdatetime" : "03/27 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "charley87110",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WilliamTaft",
+    "push_content" : ": 幫推質量質量質量，一堆人爆氣怎麼沒人噓53樓，更明",
+    "push_ipdatetime" : "03/27 20:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WilliamTaft",
+    "push_content" : ": 顯的對岸用語吧",
+    "push_ipdatetime" : "03/27 20:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "apollon0990",
+    "push_content" : ": 質量三小",
+    "push_ipdatetime" : "03/27 20:38",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "exogeneous01",
+    "push_content" : ": 一堆推文比原文好笑",
+    "push_ipdatetime" : "03/27 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chrisrs0215",
+    "push_content" : ": 幹超多笑到不行",
+    "push_ipdatetime" : "03/27 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SilverFox",
+    "push_content" : ": xd",
+    "push_ipdatetime" : "03/27 21:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whhw",
+    "push_content" : ": 沒事兒沒事",
+    "push_ipdatetime" : "03/27 21:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "qma52015",
+    "push_content" : ": 推2.4 2根本是我家每天上演情節",
+    "push_ipdatetime" : "03/27 21:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "orange0319",
+    "push_content" : ": 看圖好嗎，噓啥用字啊",
+    "push_ipdatetime" : "03/27 22:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a98980ytyt",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 22:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheetah",
+    "push_content" : ": 5超帥 6的表情好慌哈哈哈哈",
+    "push_ipdatetime" : "03/27 22:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "justAS",
+    "push_content" : ": 推5，Puig真的夠賽",
+    "push_ipdatetime" : "03/27 22:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "edisonlala",
+    "push_content" : ": 噓原po幹嘛又不是他講的",
+    "push_ipdatetime" : "03/27 22:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rndsulgye",
+    "push_content" : ": 質量個鬼",
+    "push_ipdatetime" : "03/27 22:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kenay",
+    "push_content" : ": 這不是新阿姆斯特朗旋風噴射阿姆斯特朗砲嗎 完成度挺高的阿",
+    "push_ipdatetime" : "03/27 22:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awaken",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/27 23:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "B9702115",
+    "push_content" : ": 6表情好笑",
+    "push_ipdatetime" : "03/27 23:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linear",
+    "push_content" : ": 質量真的不錯 牛逼",
+    "push_ipdatetime" : "03/27 23:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "happo529",
+    "push_content" : ": 每次看到一堆人噓質量就覺得很低能，品質也不過是比較",
+    "push_ipdatetime" : "03/27 23:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "happo529",
+    "push_content" : ": 早傳進來的中國用語",
+    "push_ipdatetime" : "03/27 23:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "caryamdtom",
+    "push_content" : ": 規覽趴火XD",
+    "push_ipdatetime" : "03/27 23:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wilson31507",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/28 00:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "purplemagic",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/28 00:22",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "leyung",
+    "push_content" : ": 重力真大，空間真彎曲",
+    "push_ipdatetime" : "03/28 00:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onetwo34",
+    "push_content" : ": 就語言文化不同而已，幹嘛噓原PO? 玻璃心說人家玻璃心?",
+    "push_ipdatetime" : "03/28 00:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onetwo34",
+    "push_content" : ": 芭辣有人講水果也有人講手榴彈，不是嗎?",
+    "push_ipdatetime" : "03/28 00:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "simon5327",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 00:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "octopus4406",
+    "push_content" : ": 在台灣把質量當品質用 是不是國中沒畢業？理化課沒上",
+    "push_ipdatetime" : "03/28 01:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "octopus4406",
+    "push_content" : ": 厚？",
+    "push_ipdatetime" : "03/28 01:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxcvfr99",
+    "push_content" : ": 樓上國文大概被當了wwww",
+    "push_ipdatetime" : "03/28 01:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leopam",
+    "push_content" : ": 沒看推文我還真的不知道中國有這個說法XD",
+    "push_ipdatetime" : "03/28 01:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "farly70922",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/28 01:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jhkujhku",
+    "push_content" : ": 重量好高",
+    "push_ipdatetime" : "03/28 02:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 台巴子屌丝们少在那边BB，",
+    "push_ipdatetime" : "03/28 02:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 等韩总当上你们领导湾湾就准备被中国收复了",
+    "push_ipdatetime" : "03/28 02:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "irvingyeh85",
+    "push_content" : ": 把握所剩不久的言论自由吧，还想拒看旺旺中时",
+    "push_ipdatetime" : "03/28 02:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "YenLiKuo",
+    "push_content" : ": 質量好高",
+    "push_ipdatetime" : "03/28 02:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "axz11211",
+    "push_content" : ": 笑死 一個質量釣出一堆玻璃",
+    "push_ipdatetime" : "03/28 02:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunoomstar",
+    "push_content" : ": 狗丟碗沒什麼特別的吧..我家狗每天都在敲/丟碗要喝水",
+    "push_ipdatetime" : "03/28 02:29",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sunoomstar",
+    "push_content" : ": 或吃飯",
+    "push_ipdatetime" : "03/28 02:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "denny932s",
+    "push_content" : ": 用中國用語又怎樣，大驚小怪",
+    "push_ipdatetime" : "03/28 02:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j147589",
+    "push_content" : ": 爽噓就噓 重點是台灣用語質量已經有別的意思了 為啥要用",
+    "push_ipdatetime" : "03/28 02:37",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "j147589",
+    "push_content" : ": 一個更不準確的詞來表示品質",
+    "push_ipdatetime" : "03/28 02:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gin10791",
+    "push_content" : ": 吉娃娃好兇喔",
+    "push_ipdatetime" : "03/28 04:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gin10791",
+    "push_content" : ": 我是說第1張",
+    "push_ipdatetime" : "03/28 04:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bcr1308",
+    "push_content" : ": 韓國的棒球....XDDDDDDD",
+    "push_ipdatetime" : "03/28 04:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crorangeazy",
+    "push_content" : ": 我都說這批純",
+    "push_ipdatetime" : "03/28 05:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Zzzip",
+    "push_content" : ": 3F",
+    "push_ipdatetime" : "03/28 05:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "b10036869",
+    "push_content" : ": 還敢笑別人玻璃心 先掃好自己的",
+    "push_ipdatetime" : "03/28 05:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "momocatonly",
+    "push_content" : ": ————現在的Joke只剩gif了嗎？————",
+    "push_ipdatetime" : "03/28 07:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "takuya1",
+    "push_content" : ": gif",
+    "push_ipdatetime" : "03/28 07:40",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "egg781",
+    "push_content" : ": 質量質量質量質量質量質量",
+    "push_ipdatetime" : "03/28 07:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "luoqr",
+    "push_content" : ": 同樣的字用英文沒問題 用對岸就不行 低能綠腦",
+    "push_ipdatetime" : "03/28 08:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "romai",
+    "push_content" : ": 品質品質品質",
+    "push_ipdatetime" : "03/28 08:12",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "romai",
+    "push_content" : ": 抱歉原po，gif可愛",
+    "push_ipdatetime" : "03/28 08:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CliffHsieh",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/28 08:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mazznia",
+    "push_content" : ": 第一張就讓我笑到美丁美東了",
+    "push_ipdatetime" : "03/28 09:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobyhsu",
+    "push_content" : ": 廢話 台灣有台灣的翻譯 舔共舔到忘記自己住哪了?",
+    "push_ipdatetime" : "03/28 09:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "bobyhsu",
+    "push_content" : ": 啊 ptt常駐5毛可能是住在支那 那用質量沒問題",
+    "push_ipdatetime" : "03/28 09:19",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hanghangboy",
+    "push_content" : ": 噓質量",
+    "push_ipdatetime" : "03/28 09:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "wise2525",
+    "push_content" : ": http://i.imgur.com/41m8IOS.jpg",
+    "push_ipdatetime" : "03/28 10:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "migah",
+    "push_content" : ": 這不是阿姆斯特朗旋風噴射阿姆斯特朗砲嗎?完成度真高啊",
+    "push_ipdatetime" : "03/28 10:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 都強調很多次了，可以不要再噓原po了嗎？目前只有一個人噓",
+    "push_ipdatetime" : "03/28 10:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 3F，0個人寄信罵我。284樓的表現更棒，直接把八掛的風氣直",
+    "push_ipdatetime" : "03/28 10:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": 接帶來joke...",
+    "push_ipdatetime" : "03/28 10:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "girlkissme",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/28 10:50",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "who8177818",
+    "push_content" : ": 也給我一套貓拳XD",
+    "push_ipdatetime" : "03/28 10:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "attitudium",
+    "push_content" : ": 質量的單位是kg (MKS制)",
+    "push_ipdatetime" : "03/28 11:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "attitudium",
+    "push_content" : ": 平衡質量一下",
+    "push_ipdatetime" : "03/28 11:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "luffyaa",
+    "push_content" : ": 自己愛嘴26玻璃心 結果一堆看到質量就崩潰 誰才是真正的",
+    "push_ipdatetime" : "03/28 11:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "luffyaa",
+    "push_content" : ": 玻璃心呢 可悲",
+    "push_ipdatetime" : "03/28 11:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "windayu",
+    "push_content" : ": 連自己國家的語言都不知道怎麼說 真不知道是誰可悲",
+    "push_ipdatetime" : "03/28 11:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "windayu",
+    "push_content" : ": 在台灣質量就是指mass",
+    "push_ipdatetime" : "03/28 11:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wsxwsx77889",
+    "push_content" : ": 我十多年前就在講質量了，還支那用語哩",
+    "push_ipdatetime" : "03/28 11:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awpex127",
+    "push_content" : ": 質量質量質量質量質量質量質量質量質量質量質量質量質量",
+    "push_ipdatetime" : "03/28 11:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awpex127",
+    "push_content" : ": 嘻嘻 氣pupu",
+    "push_ipdatetime" : "03/28 11:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "anoymouse",
+    "push_content" : ": 推文說質量 結果狂噓原文 腦袋有問題？",
+    "push_ipdatetime" : "03/28 12:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "anoymouse",
+    "push_content" : ": 我從來沒看過有人當面指責人質量 是不是只敢在螢幕後面",
+    "push_ipdatetime" : "03/28 12:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "anoymouse",
+    "push_content" : ": 噴啊",
+    "push_ipdatetime" : "03/28 12:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "herryherry",
+    "push_content" : ": 幫原Po QQ",
+    "push_ipdatetime" : "03/28 12:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tomato40614",
+    "push_content" : ": 很可以啊這波，質量挺高的啊，666",
+    "push_ipdatetime" : "03/28 12:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tomato40614",
+    "push_content" : ": 以下開放崩潰",
+    "push_ipdatetime" : "03/28 12:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hj00",
+    "push_content" : ": 噓質量",
+    "push_ipdatetime" : "03/28 12:54",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Ronwill955",
+    "push_content" : ": 看到中國用語就崩潰的是台灣人嗎 我還以為這種智障只",
+    "push_ipdatetime" : "03/28 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ronwill955",
+    "push_content" : ": 有支那人",
+    "push_ipdatetime" : "03/28 12:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jyrpg",
+    "push_content" : ": 請說 品質",
+    "push_ipdatetime" : "03/28 13:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Stunts",
+    "push_content" : ": 哈",
+    "push_ipdatetime" : "03/28 13:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thejackys",
+    "push_content" : ": 第一張笑死",
+    "push_ipdatetime" : "03/28 13:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lazo",
+    "push_content" : ": 狂噓的台獨吱障吉娃娃，大腦的質量真低",
+    "push_ipdatetime" : "03/28 13:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "planethell",
+    "push_content" : ": 阿柴很愛摔碗",
+    "push_ipdatetime" : "03/28 14:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MBAR",
+    "push_content" : ": 在那邊中國用語就崩潰是不是根本沒念過幾本書啊？人家從最底",
+    "push_ipdatetime" : "03/28 14:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MBAR",
+    "push_content" : ": 層文化開始吃掉你台灣了還在那邊一派輕鬆，可悲",
+    "push_ipdatetime" : "03/28 14:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MBAR",
+    "push_content" : ": 然後最好笑的是什麼都台獨，獨你老木",
+    "push_ipdatetime" : "03/28 14:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pinion0796",
+    "push_content" : ": 第一張就笑得不行xDDDDD",
+    "push_ipdatetime" : "03/28 14:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kans9527",
+    "push_content" : ": 讚讚 台灣質量，中國品質",
+    "push_ipdatetime" : "03/28 14:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wu0h9685921",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/28 14:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "wu0h9685921",
+    "push_content" : ": 質量很高 密度也很高？多高",
+    "push_ipdatetime" : "03/28 14:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Saimmy",
+    "push_content" : ": 幫補血， 大陸用語狂噓。日本用語捧高高",
+    "push_ipdatetime" : "03/28 15:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shentotto",
+    "push_content" : ": 品質",
+    "push_ipdatetime" : "03/28 15:38",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "guenhwyvar",
+    "push_content" : ": 賣安捏哪，體諒外國朋友，他們國內就這麼說的啊...",
+    "push_ipdatetime" : "03/28 15:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OxFFFF",
+    "push_content" : ": 好好笑 xd",
+    "push_ipdatetime" : "03/28 16:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pristur",
+    "push_content" : ": 原來大家那麼容易被文化侵略喔 那真的該檢討自己",
+    "push_ipdatetime" : "03/28 16:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "YOLOO",
+    "push_content" : ": 質量高 質量高 質量高不高",
+    "push_ipdatetime" : "03/28 16:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "anoymouse",
+    "push_content" : ": 你那麼聰明還怕被吃掉嗎",
+    "push_ipdatetime" : "03/28 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TraktorDJ",
+    "push_content" : ": 9.春麗百裂腳，桑基爾夫轉，本田百裂掌，肯昇龍裂破。",
+    "push_ipdatetime" : "03/28 17:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "johnson10485",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 17:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "L9C4iO",
+    "push_content" : ": 質你娘量你娘",
+    "push_ipdatetime" : "03/28 20:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "genaro",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/28 21:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twlicn",
+    "push_content" : ": 推文玻璃心真多 這些噓的人還通常是會嗆中國人玻璃心的人",
+    "push_ipdatetime" : "03/28 22:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "morris591",
+    "push_content" : ": 這批gif質量好高啊！",
+    "push_ipdatetime" : "03/28 22:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OOOoo918",
+    "push_content" : ": 質量?",
+    "push_ipdatetime" : "03/28 22:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "aa89028500",
+    "push_content" : ": 質量質量質量",
+    "push_ipdatetime" : "03/28 22:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "buichcmu",
+    "push_content" : ": 支那用語",
+    "push_ipdatetime" : "03/28 23:02",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "coaka",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 23:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "truthmanman",
+    "push_content" : ": 原po算數不好，應該是先11才有10",
+    "push_ipdatetime" : "03/29 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheng31507",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 00:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "labihua",
+    "push_content" : ": 3樓上班不要翹班啦 趕快全八卦噓文",
+    "push_ipdatetime" : "03/29 02:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qmaper",
+    "push_content" : ": 質 品質 量 數量 用質量好高有質跟量都高的意思",
+    "push_ipdatetime" : "03/29 05:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qmaper",
+    "push_content" : ": 不一定要硬解釋成中國用語",
+    "push_ipdatetime" : "03/29 05:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "exca",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/29 06:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "esc0721",
+    "push_content" : ": 質量",
+    "push_ipdatetime" : "03/29 09:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "lowwing3906",
+    "push_content" : ": 6好好笑X XDD",
+    "push_ipdatetime" : "03/29 11:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "beargirl",
+    "push_content" : ": xd",
+    "push_ipdatetime" : "03/29 12:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "traman",
+    "push_content" : ": 質量質量",
+    "push_ipdatetime" : "03/29 14:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sosonice",
+    "push_content" : ": 球場上的SOD",
+    "push_ipdatetime" : "03/29 16:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sosonice",
+    "push_content" : ": 盜壘被抽插了",
+    "push_ipdatetime" : "03/29 16:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "vitaume",
+    "push_content" : ": 質你媽量 但真的好笑",
+    "push_ipdatetime" : "03/29 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Qorqios",
+    "push_content" : ": WWWWWWWW",
+    "push_ipdatetime" : "03/29 21:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "natureman369",
+    "push_content" : ": 質量不錯呀",
+    "push_ipdatetime" : "03/29 22:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c24253994",
+    "push_content" : ": 08懷疑人生XDDDDD",
+    "push_ipdatetime" : "03/29 23:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a126040023",
+    "push_content" : ": 品質就品質",
+    "push_ipdatetime" : "03/30 00:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ken812025",
+    "push_content" : ": 這質量是70kg 嗎?",
+    "push_ipdatetime" : "03/30 09:43",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rong1994",
+    "push_content" : ": 質量你媽",
+    "push_ipdatetime" : "03/30 10:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "fafanovelist",
+    "push_content" : ": 不知道台灣質量定義的是沒上過國中物理課哦…",
+    "push_ipdatetime" : "03/30 10:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "y123824343",
+    "push_content" : ": 質量真高",
+    "push_ipdatetime" : "03/30 11:41",
+    "push_tag" : "推"
+  } ]
+}

@@ -1,0 +1,865 @@
+{
+  "title" : "[ＸＤ] 公視台語台",
+  "author" : "amogha100",
+  "board" : "joke",
+  "content" : "回應粉絲要求的粉專，才是好粉專 志崴，下次段考好好念哦 https://i.imgur.com/NhcmMcY.jpg -- ",
+  "date" : "Tue Mar 26 16:49:12 2019",
+  "ip" : "114.136.51.211",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553590154.A.3F6.html",
+  "pushList" : [ {
+    "push_userid" : "tatata",
+    "push_content" : ": 黃志崴出來打球",
+    "push_ipdatetime" : "03/26 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jumpakira",
+    "push_content" : ": 又是公視XDDDDD",
+    "push_ipdatetime" : "03/26 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": 出來打球",
+    "push_ipdatetime" : "03/26 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2396494",
+    "push_content" : ": 志崴出來打球 你當球",
+    "push_ipdatetime" : "03/26 17:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uohZemllac",
+    "push_content" : ": 好啦幫志崴QQ",
+    "push_ipdatetime" : "03/26 17:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2396494",
+    "push_content" : ": http://i.imgur.com/2hs3f9O.jpg",
+    "push_ipdatetime" : "03/26 17:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2396494",
+    "push_content" : ": http://i.imgur.com/w9nAKFi.jpg",
+    "push_ipdatetime" : "03/26 17:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "timke",
+    "push_content" : ": 便民服務 太優質惹八",
+    "push_ipdatetime" : "03/26 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimicino",
+    "push_content" : ": XD 有求必應",
+    "push_ipdatetime" : "03/26 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ww",
+    "push_content" : ": 馬上會成為徵婚交友頻道",
+    "push_ipdatetime" : "03/26 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobwoodybuzz",
+    "push_content" : ": 公視讚",
+    "push_ipdatetime" : "03/26 18:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce1119",
+    "push_content" : ": 尬廣跟上",
+    "push_ipdatetime" : "03/26 18:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "NTUGinger",
+    "push_content" : ": 小編幫我o了徵友 好害羞>///<",
+    "push_ipdatetime" : "03/26 18:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/26 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jason050117",
+    "push_content" : ": 推公視台語台小編XD",
+    "push_ipdatetime" : "03/26 18:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jin956",
+    "push_content" : ": 沒衛生紙不會上PTT八卦版求援喔.....",
+    "push_ipdatetime" : "03/26 18:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whathefuc",
+    "push_content" : ": 這麼方便 我要去徵女友",
+    "push_ipdatetime" : "03/26 19:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pjhs320279",
+    "push_content" : ": 志崴打球 你當球",
+    "push_ipdatetime" : "03/26 19:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "potatoes",
+    "push_content" : ": 靠腰XDDDD",
+    "push_ipdatetime" : "03/26 19:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lilavadee",
+    "push_content" : ": XDDDDDDDDDDD",
+    "push_ipdatetime" : "03/26 19:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/26 19:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bigheadkobe",
+    "push_content" : ": 幹，快笑死",
+    "push_ipdatetime" : "03/26 19:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "afatpig",
+    "push_content" : ": 媒體近用大概就是這個意思吧XD",
+    "push_ipdatetime" : "03/26 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a5245242003",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 19:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cam0679320",
+    "push_content" : ": 無期限受困廁所XDD",
+    "push_ipdatetime" : "03/26 19:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jellytrick",
+    "push_content" : ": 打球 你當球辣",
+    "push_ipdatetime" : "03/26 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t23212003",
+    "push_content" : ": 公視台語台真的很可愛",
+    "push_ipdatetime" : "03/26 19:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fatfinger2",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 19:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JOJOttt",
+    "push_content" : ": 最近大家都要去許願了嗎XD",
+    "push_ipdatetime" : "03/26 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rita9122037",
+    "push_content" : ": 公視就是優質，梗都很新",
+    "push_ipdatetime" : "03/26 20:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lisa8121",
+    "push_content" : ": XDDDD用到對的小編粉絲專頁就會成功",
+    "push_ipdatetime" : "03/26 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FairPrice",
+    "push_content" : ": 鬧爆",
+    "push_ipdatetime" : "03/26 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c24253994",
+    "push_content" : ": 黃志崴打球！",
+    "push_ipdatetime" : "03/26 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jodawa",
+    "push_content" : ": 推XD",
+    "push_ipdatetime" : "03/26 20:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Cireiat",
+    "push_content" : ": 靠背，公視小編到底是嗑藥了什麼",
+    "push_ipdatetime" : "03/26 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo60606",
+    "push_content" : ": U質媒體",
+    "push_ipdatetime" : "03/26 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mayii1020",
+    "push_content" : ": 不講還以為是靠北粉專XD",
+    "push_ipdatetime" : "03/26 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smarsome5461",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ritalgy",
+    "push_content" : ": 笑死XDDDDD",
+    "push_ipdatetime" : "03/26 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "warden",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 20:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oiolo",
+    "push_content" : ": 這種要求還是第一次看到www",
+    "push_ipdatetime" : "03/26 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wisey",
+    "push_content" : ": 這太有趣啦",
+    "push_ipdatetime" : "03/26 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allan1686611",
+    "push_content" : ": 哈哈蘇派沒男友。",
+    "push_ipdatetime" : "03/26 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "atomstre",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "STARKWANG",
+    "push_content" : ": 志崴打球了!",
+    "push_ipdatetime" : "03/26 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "emmabest",
+    "push_content" : ": 真是便民，感覺就像個里辦公室啊XD",
+    "push_ipdatetime" : "03/26 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yogurtru",
+    "push_content" : ": 尬廣跟上",
+    "push_ipdatetime" : "03/26 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Xperia",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/26 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nogard1012",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/26 21:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "billy19",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 21:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imyoming",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 21:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Yakei",
+    "push_content" : ": 娛樂台？",
+    "push_ipdatetime" : "03/26 21:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "justin901209",
+    "push_content" : ": 幹這三小快笑死",
+    "push_ipdatetime" : "03/26 21:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "misaki894420",
+    "push_content" : ": 好猛偶公視",
+    "push_ipdatetime" : "03/26 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ukyoGoGo",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/26 22:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CliffHsieh",
+    "push_content" : ": 啥洨哈哈哈",
+    "push_ipdatetime" : "03/26 22:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "penguinfuko",
+    "push_content" : ": U質推",
+    "push_ipdatetime" : "03/26 22:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laybear",
+    "push_content" : ": XDDDD公視小編超會",
+    "push_ipdatetime" : "03/26 22:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lunawolke",
+    "push_content" : ": 志崴別管段考了 來打球",
+    "push_ipdatetime" : "03/26 22:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sweetie196",
+    "push_content" : ": 志崴加油好嗎",
+    "push_ipdatetime" : "03/26 22:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PonEdesu",
+    "push_content" : ": 靠杯快笑死",
+    "push_ipdatetime" : "03/26 22:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "benbenstop",
+    "push_content" : ": 志崴的爸媽很火",
+    "push_ipdatetime" : "03/26 22:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QVQ9487",
+    "push_content" : ": 幹XD",
+    "push_ipdatetime" : "03/26 22:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qImo",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 22:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuan50118",
+    "push_content" : ": 靠邀 志威的爸爸媽媽一定爆炸",
+    "push_ipdatetime" : "03/26 22:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koduck10",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/26 22:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rb510691",
+    "push_content" : ": 優質粉專",
+    "push_ipdatetime" : "03/26 22:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 優質",
+    "push_ipdatetime" : "03/26 22:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 沒男友是三小啦！",
+    "push_ipdatetime" : "03/26 23:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuki0629",
+    "push_content" : ": 公視就是優質",
+    "push_ipdatetime" : "03/26 23:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a98980ytyt",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 23:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/26 23:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Gokudo",
+    "push_content" : ": 蘇派是正妹嗎",
+    "push_ipdatetime" : "03/26 23:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiwa",
+    "push_content" : ": 幹 終於有具名的網友了",
+    "push_ipdatetime" : "03/26 23:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tsung0823",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/26 23:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": .........",
+    "push_ipdatetime" : "03/26 23:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QT1020",
+    "push_content" : ": 笑死XDD",
+    "push_ipdatetime" : "03/26 23:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r901700216",
+    "push_content" : ": 志崴打球阿",
+    "push_ipdatetime" : "03/26 23:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "n94ap6999",
+    "push_content" : ": 尬廣哦",
+    "push_ipdatetime" : "03/26 23:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "comawu",
+    "push_content" : ": 哈哈哈具名網友笑死",
+    "push_ipdatetime" : "03/26 23:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iewix",
+    "push_content" : ": 公視真的優質",
+    "push_ipdatetime" : "03/26 23:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ted010573",
+    "push_content" : ": 志崴不要難過，出來打球",
+    "push_ipdatetime" : "03/26 23:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trenteric",
+    "push_content" : ": 台灣媒體清流",
+    "push_ipdatetime" : "03/27 00:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dennyko",
+    "push_content" : ": 公視真妙",
+    "push_ipdatetime" : "03/27 00:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sj113654",
+    "push_content" : ": 笑死幹 我朋友欸",
+    "push_ipdatetime" : "03/27 00:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chenlin925",
+    "push_content" : ": 優質",
+    "push_ipdatetime" : "03/27 00:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kreen",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/27 00:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "phix",
+    "push_content" : ": 公視小編這麼自由嗎？",
+    "push_ipdatetime" : "03/27 00:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aet68933",
+    "push_content" : ": 爸媽：我看報導才知道兒子爆炸了(誤",
+    "push_ipdatetime" : "03/27 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "catclan",
+    "push_content" : ": 小編很ㄎㄧㄤ",
+    "push_ipdatetime" : "03/27 00:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j022015",
+    "push_content" : ": 死囡仔",
+    "push_ipdatetime" : "03/27 00:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tawara",
+    "push_content" : ": 什麼鬼XDDD",
+    "push_ipdatetime" : "03/27 00:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "installbtien",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 00:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "girafa",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/27 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ELV420",
+    "push_content" : ": 笑到拉屎",
+    "push_ipdatetime" : "03/27 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p5323128",
+    "push_content" : ": ....",
+    "push_ipdatetime" : "03/27 00:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w320230",
+    "push_content" : ": 笑 給推",
+    "push_ipdatetime" : "03/27 00:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chch2011",
+    "push_content" : ": 乾笑到爛",
+    "push_ipdatetime" : "03/27 00:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "robert0805",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 01:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ebiya",
+    "push_content" : ": 笑爆",
+    "push_ipdatetime" : "03/27 01:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mikazeray",
+    "push_content" : ": 三洨XD",
+    "push_ipdatetime" : "03/27 01:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Arszut",
+    "push_content" : ": 笑死==",
+    "push_ipdatetime" : "03/27 01:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ganhua",
+    "push_content" : ": 笑死，志葳打球",
+    "push_ipdatetime" : "03/27 01:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "edward4904",
+    "push_content" : ": 公視小編是不是最近吸多了了什麼xDDD",
+    "push_ipdatetime" : "03/27 01:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "opeminbod001",
+    "push_content" : ": 超白癡XDD",
+    "push_ipdatetime" : "03/27 01:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "caffpetiy",
+    "push_content" : ": 好溫馨的粉絲團",
+    "push_ipdatetime" : "03/27 01:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jcluna",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 02:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ru820717",
+    "push_content" : ": 已追蹤 順便學台語讚讚",
+    "push_ipdatetime" : "03/27 02:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "astonic",
+    "push_content" : ": 紅明顯 公視小編就Kinple啊.....",
+    "push_ipdatetime" : "03/27 02:28",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a24573165",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 02:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fghj142",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 02:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "inhumanq",
+    "push_content" : ": 原來公視提供了這麼多便民的服務啊～",
+    "push_ipdatetime" : "03/27 02:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TenGaKu1809",
+    "push_content" : ": 笑死 好溫馨",
+    "push_ipdatetime" : "03/27 03:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "john950146",
+    "push_content" : ": 不管這個小編嗑了甚麼 都不要給我= =",
+    "push_ipdatetime" : "03/27 03:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tiandai",
+    "push_content" : ": 我在馬桶上笑成智障",
+    "push_ipdatetime" : "03/27 03:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lozupomelo",
+    "push_content" : ": 有求必應XDDD",
+    "push_ipdatetime" : "03/27 05:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ImMACACO",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/27 06:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lovehaohao",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/27 06:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "brad0625",
+    "push_content" : ": 公視到底要幹嘛啦XDDD",
+    "push_ipdatetime" : "03/27 06:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ytcc",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/27 07:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yclownking",
+    "push_content" : ": 小編真D優秀",
+    "push_ipdatetime" : "03/27 07:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mamamia0419",
+    "push_content" : ": 因為現在幾乎無成本可以這樣玩XDD",
+    "push_ipdatetime" : "03/27 07:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "syuanling",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 07:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spirit119",
+    "push_content" : ": 真D方便",
+    "push_ipdatetime" : "03/27 08:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jazz19860929",
+    "push_content" : ": XDDDDDD",
+    "push_ipdatetime" : "03/27 08:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wadeCC",
+    "push_content" : ": 真可愛xD",
+    "push_ipdatetime" : "03/27 08:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vini770803",
+    "push_content" : ": 好可愛",
+    "push_ipdatetime" : "03/27 08:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ismytime",
+    "push_content" : ": 到底？？？",
+    "push_ipdatetime" : "03/27 08:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sean0527",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 08:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 好了啦志崴",
+    "push_ipdatetime" : "03/27 08:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yeyun",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/27 09:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chubby31190",
+    "push_content" : ": 黃志崴夠了哦",
+    "push_ipdatetime" : "03/27 09:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dirtypillow",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/27 09:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Apple0230",
+    "push_content" : ": 志崴:我當球 求你打我QQ",
+    "push_ipdatetime" : "03/27 09:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ueiueiuei",
+    "push_content" : ": http://i.imgur.com/UZ9jlBg.jpg",
+    "push_ipdatetime" : "03/27 09:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "markkao456",
+    "push_content" : ": 黃志崴出來打球 球場你帶",
+    "push_ipdatetime" : "03/27 09:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "taco20147",
+    "push_content" : ": 哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andyssfresh",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 09:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "delex0208",
+    "push_content" : ": 笑死XDDD",
+    "push_ipdatetime" : "03/27 09:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "F299",
+    "push_content" : ": 大家揪團來許願",
+    "push_ipdatetime" : "03/27 09:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yujimin",
+    "push_content" : ": 許願台？",
+    "push_ipdatetime" : "03/27 10:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 可以幫我徵女友嗎",
+    "push_ipdatetime" : "03/27 10:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/27 10:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aleezible",
+    "push_content" : ": 志崴出乃玩",
+    "push_ipdatetime" : "03/27 11:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coaka",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/27 11:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "phoebe9517",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/27 11:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "akirachen100",
+    "push_content" : ": 像這種要求 我從來沒見過",
+    "push_ipdatetime" : "03/27 11:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "doggly",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/27 11:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "peichiaC",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/27 11:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AntiCompete",
+    "push_content" : ": 台獨電視台",
+    "push_ipdatetime" : "03/27 12:07",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Ashen19",
+    "push_content" : ": 公視XD",
+    "push_ipdatetime" : "03/27 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mntonmylife",
+    "push_content" : ": 好鬧",
+    "push_ipdatetime" : "03/27 12:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fkukg52155",
+    "push_content" : ": 慟",
+    "push_ipdatetime" : "03/27 15:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fidelity77",
+    "push_content" : ": 留言看到這個笑死 https://i.imgur.com/tQX9PKa.jpg",
+    "push_ipdatetime" : "03/27 16:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "meyerchen",
+    "push_content" : ": 我也要徵友啦",
+    "push_ipdatetime" : "03/27 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "achuouo",
+    "push_content" : ": 笑死www",
+    "push_ipdatetime" : "03/27 19:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flow5168",
+    "push_content" : ": 這啥XD",
+    "push_ipdatetime" : "03/27 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yijhen",
+    "push_content" : ": 啊啊~小編又來了XD",
+    "push_ipdatetime" : "03/27 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weiweitwo",
+    "push_content" : ": 靠北笑死XDDDDD",
+    "push_ipdatetime" : "03/28 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a509170123",
+    "push_content" : ": 認真經營欸",
+    "push_ipdatetime" : "03/28 01:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mamajustgo",
+    "push_content" : ": 笑死XDDDD",
+    "push_ipdatetime" : "03/28 02:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Samia04",
+    "push_content" : ": 推公視小編",
+    "push_ipdatetime" : "03/28 02:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lmf770410",
+    "push_content" : ": 志崴 打球",
+    "push_ipdatetime" : "03/28 08:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hkai",
+    "push_content" : ": 便民服務 哈哈",
+    "push_ipdatetime" : "03/28 10:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxxxxxxxxx",
+    "push_content" : ": 優質",
+    "push_ipdatetime" : "03/28 14:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "demon159000",
+    "push_content" : ": 讚啦~~~XD",
+    "push_ipdatetime" : "03/28 17:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "svcgood",
+    "push_content" : ": 手刀按讚跟追蹤",
+    "push_ipdatetime" : "03/28 17:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cocoyan",
+    "push_content" : ": 笑死XDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/29 08:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mozo",
+    "push_content" : ": 這三小XDD",
+    "push_ipdatetime" : "03/29 12:17",
+    "push_tag" : "推"
+  } ]
+}

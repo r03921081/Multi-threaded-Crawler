@@ -1,0 +1,680 @@
+{
+  "title" : "[耍冷] 光速其實也沒多快",
+  "author" : "b19980117",
+  "board" : "joke",
+  "content" : "如果光速真的很快的話 為什麼我每次騎車都會先看到前面的車轉彎才出現方向燈！！！！ -- ",
+  "date" : "Tue Mar 26 16:05:42 2019",
+  "ip" : "223.138.60.238",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553587545.A.199.html",
+  "pushList" : [ {
+    "push_userid" : "archie403",
+    "push_content" : ": 角度問題",
+    "push_ipdatetime" : "03/26 16:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 撞下去之前聖光會",
+    "push_ipdatetime" : "03/26 16:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 先到",
+    "push_ipdatetime" : "03/26 16:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LawLawDer",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 16:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/26 16:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "uohZemllac",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/26 16:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": 很有創意哦！喜歡這種風格～",
+    "push_ipdatetime" : "03/26 16:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aaagang",
+    "push_content" : ": 小清新",
+    "push_ipdatetime" : "03/26 16:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "azaz3310",
+    "push_content" : ": 這超久了 不過還是好好笑",
+    "push_ipdatetime" : "03/26 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Humor0709",
+    "push_content" : ": 推 有笑",
+    "push_ipdatetime" : "03/26 17:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "murderer007",
+    "push_content" : ": 高級酸",
+    "push_ipdatetime" : "03/26 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MartinJ40",
+    "push_content" : ": 已知用火",
+    "push_ipdatetime" : "03/26 18:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yowhatsupsli",
+    "push_content" : ": 很多台灣人買車應該很便宜，照後鏡跟方向燈都應該選",
+    "push_ipdatetime" : "03/26 18:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yowhatsupsli",
+    "push_content" : ": 配就好",
+    "push_ipdatetime" : "03/26 18:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "porridge17",
+    "push_content" : ": 笑淚",
+    "push_ipdatetime" : "03/26 18:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Accumulator",
+    "push_content" : ": 一堆人看不懂 幫補",
+    "push_ipdatetime" : "03/26 18:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ajie128",
+    "push_content" : ": 這可以",
+    "push_ipdatetime" : "03/26 18:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dantevergil",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 18:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Godmozart",
+    "push_content" : ": 看到光和看到轉彎不是都光速嗎...",
+    "push_ipdatetime" : "03/26 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nucksal401",
+    "push_content" : ": 因為那個人的車速更快",
+    "push_ipdatetime" : "03/26 18:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ex2266",
+    "push_content" : ": 看不懂比較好笑XDDD",
+    "push_ipdatetime" : "03/26 18:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wenxian",
+    "push_content" : ": 說不定他雨刷有動",
+    "push_ipdatetime" : "03/26 18:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ad0101",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 19:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 19:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Cishang",
+    "push_content" : ": 有校友推",
+    "push_ipdatetime" : "03/26 19:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WenD0732",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "king8528",
+    "push_content" : ": 三寶鬼之切入的速度比光還快",
+    "push_ipdatetime" : "03/26 19:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cerberi",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 19:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MotleyCrue",
+    "push_content" : ": ?",
+    "push_ipdatetime" : "03/26 19:25",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "MotleyCrue",
+    "push_content" : ": 靠邀噓錯篇了 待會補",
+    "push_ipdatetime" : "03/26 19:25",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MotleyCrue",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 19:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jason1515",
+    "push_content" : ": 推 笑死",
+    "push_ipdatetime" : "03/26 19:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jehg900207",
+    "push_content" : ": 我都先聽到碰撞聲才看到方向燈",
+    "push_ipdatetime" : "03/26 19:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jay1233560",
+    "push_content" : ": 欸可以喔",
+    "push_ipdatetime" : "03/26 19:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Woohee",
+    "push_content" : ": 還有看到燈光不錯了，一堆連燈都沒有的",
+    "push_ipdatetime" : "03/26 19:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goodboy98",
+    "push_content" : ": 一樓不懂要說",
+    "push_ipdatetime" : "03/26 19:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "edld6211",
+    "push_content" : ": 傻子 轉彎當然看不到 光的直進性都忘了嗎",
+    "push_ipdatetime" : "03/26 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "woodkiwoodki",
+    "push_content" : ": 可以XD",
+    "push_ipdatetime" : "03/26 19:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chishizukuko",
+    "push_content" : ": 22樓專業",
+    "push_ipdatetime" : "03/26 19:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Piercetsai",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/26 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rfdgrfdg",
+    "push_content" : ": 雨刷笑死",
+    "push_ipdatetime" : "03/26 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jordan0428",
+    "push_content" : ": 給過",
+    "push_ipdatetime" : "03/26 20:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RedDracula",
+    "push_content" : ": 一樓笑死",
+    "push_ipdatetime" : "03/26 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markkao456",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 20:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wer90156",
+    "push_content" : ": 一樓認真嗎XD",
+    "push_ipdatetime" : "03/26 20:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Michael8947",
+    "push_content" : ": 一樓好笑",
+    "push_ipdatetime" : "03/26 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KanzakiHAria",
+    "push_content" : ": 新梗推",
+    "push_ipdatetime" : "03/26 20:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ArNan",
+    "push_content" : ": 車速XD",
+    "push_ipdatetime" : "03/26 20:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youngmanh",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wsxe2007",
+    "push_content" : ": 哈哈 三寶真的無所不在",
+    "push_ipdatetime" : "03/26 21:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SLBALL",
+    "push_content" : ": 光速三寶俠",
+    "push_ipdatetime" : "03/26 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kobed",
+    "push_content" : ": 台灣的光速比音速還慢啊",
+    "push_ipdatetime" : "03/26 21:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vram",
+    "push_content" : ": 三寶是連燈都不打",
+    "push_ipdatetime" : "03/26 21:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jotp3567",
+    "push_content" : ": 我都只看到雨刷動",
+    "push_ipdatetime" : "03/26 21:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yjocho61",
+    "push_content" : ": 昨天才遇到打左轉燈但右轉的 差點撞到",
+    "push_ipdatetime" : "03/26 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "saorinee",
+    "push_content" : ": 已知用火",
+    "push_ipdatetime" : "03/26 21:53",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a8824031",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/26 22:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Godmyfriend",
+    "push_content" : ": 不好意思 我物理不好 笑不出來",
+    "push_ipdatetime" : "03/26 22:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "christu",
+    "push_content" : ": 你的故事很浪漫",
+    "push_ipdatetime" : "03/26 22:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lunawolke",
+    "push_content" : ": 這跟物理無關 跟腦袋有關",
+    "push_ipdatetime" : "03/26 22:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "GeeBen",
+    "push_content" : ": 因為三寶的腦沒有光的概念",
+    "push_ipdatetime" : "03/26 22:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maygee",
+    "push_content" : ": 有感",
+    "push_ipdatetime" : "03/26 22:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "easyboss8256",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/26 22:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gotohikaru",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/26 22:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hardway",
+    "push_content" : ": 憤怒推",
+    "push_ipdatetime" : "03/26 22:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yses895214",
+    "push_content" : ": 一樓在幹嘛XD",
+    "push_ipdatetime" : "03/26 22:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pserpt",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 22:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pinklolipop",
+    "push_content" : ": 因為鬼之切入比光還快",
+    "push_ipdatetime" : "03/26 22:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HeaDisBiG",
+    "push_content" : ": 幹你三寶",
+    "push_ipdatetime" : "03/26 22:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bestgreat",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/26 23:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abcd1111",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 23:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 23:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aptx9527",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 23:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hcb368",
+    "push_content" : ": 笑了XD感同深受阿",
+    "push_ipdatetime" : "03/26 23:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "idiscc",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/26 23:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mananama",
+    "push_content" : ": 普通",
+    "push_ipdatetime" : "03/26 23:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yjo566",
+    "push_content" : ": 這個可以",
+    "push_ipdatetime" : "03/26 23:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asd60367",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/26 23:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Eastmond",
+    "push_content" : ": 一樓認真三小",
+    "push_ipdatetime" : "03/27 00:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v3rd",
+    "push_content" : ": 這是替身攻擊!",
+    "push_ipdatetime" : "03/27 00:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kiritsugu04",
+    "push_content" : ": 角度XD",
+    "push_ipdatetime" : "03/27 00:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onexxxpiece",
+    "push_content" : ": 火",
+    "push_ipdatetime" : "03/27 00:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imgenebaby",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 00:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joohsieh",
+    "push_content" : ": 這可以XD",
+    "push_ipdatetime" : "03/27 00:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shawnfly199",
+    "push_content" : ": 一樓 超‧反串",
+    "push_ipdatetime" : "03/27 01:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fghj142",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 02:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hank850503",
+    "push_content" : ": 看到轉彎就是光速傳過來…",
+    "push_ipdatetime" : "03/27 03:08",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "himekami",
+    "push_content" : ": 影片支援https://youtu.be/-e5HQOWe1Eg",
+    "push_ipdatetime" : "03/27 03:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pupudice",
+    "push_content" : ": 火爆",
+    "push_ipdatetime" : "03/27 04:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "dd525252tw",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/27 05:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wtlin0099",
+    "push_content" : ": 看不懂的本身就三寶啊",
+    "push_ipdatetime" : "03/27 07:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "DawnDreamer",
+    "push_content" : ": 可以XDDD",
+    "push_ipdatetime" : "03/27 07:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LonyIce",
+    "push_content" : ": 有些轉完灣還沒出現方向燈呢",
+    "push_ipdatetime" : "03/27 08:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tangerine405",
+    "push_content" : ": 好",
+    "push_ipdatetime" : "03/27 08:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s58111158",
+    "push_content" : ": 19樓正確",
+    "push_ipdatetime" : "03/27 08:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 兩個月前就在靠各大北版看過",
+    "push_ipdatetime" : "03/27 08:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 連沒邏輯的文都抄是怎樣",
+    "push_ipdatetime" : "03/27 08:49",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Farjow",
+    "push_content" : ": 這個好笑",
+    "push_ipdatetime" : "03/27 08:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allen7270",
+    "push_content" : ": 笑死哈哈哈",
+    "push_ipdatetime" : "03/27 09:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tom12122323",
+    "push_content" : ": 有共鳴 不錯",
+    "push_ipdatetime" : "03/27 09:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mei5566",
+    "push_content" : ": 方向燈選配的啊",
+    "push_ipdatetime" : "03/27 09:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Kimg",
+    "push_content" : ": 只有19樓有國中畢業",
+    "push_ipdatetime" : "03/27 09:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ckt0830",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/27 10:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 雨刷先動笑死",
+    "push_ipdatetime" : "03/27 10:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ccl1707",
+    "push_content" : ": 推爆",
+    "push_ipdatetime" : "03/27 10:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wasdqqwer",
+    "push_content" : ": 還敢抄阿",
+    "push_ipdatetime" : "03/27 10:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "iamseanli",
+    "push_content" : ": 酸三寶美賣",
+    "push_ipdatetime" : "03/27 10:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pttstupid",
+    "push_content" : ": 喜歡",
+    "push_ipdatetime" : "03/27 10:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laswish",
+    "push_content" : ": 推22樓的雨刷www",
+    "push_ipdatetime" : "03/27 10:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coaka",
+    "push_content" : ": 一樓笑死",
+    "push_ipdatetime" : "03/27 11:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "abcd880201",
+    "push_content" : ": 笑了",
+    "push_ipdatetime" : "03/27 11:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w10211",
+    "push_content" : ": 我覺得看不懂比較好笑欸",
+    "push_ipdatetime" : "03/27 11:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twn65w65",
+    "push_content" : ": 這跟是不是理組沒啥關係了，純粹邏輯問題",
+    "push_ipdatetime" : "03/27 12:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "deugene05",
+    "push_content" : ": 雨刷www",
+    "push_ipdatetime" : "03/27 12:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joeyben",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "piloliq",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/27 12:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Antia691",
+    "push_content" : ": 雨刷lol",
+    "push_ipdatetime" : "03/27 12:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jacky123ooo",
+    "push_content" : ": 有笑",
+    "push_ipdatetime" : "03/27 12:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Taylor4ever",
+    "push_content" : ": 19樓思路清晰哈哈 太理性就不好笑惹",
+    "push_ipdatetime" : "03/27 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b131325",
+    "push_content" : ": 一樓救了這篇",
+    "push_ipdatetime" : "03/27 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seies1989",
+    "push_content" : ": 虛的都是三寶",
+    "push_ipdatetime" : "03/27 13:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "malebito",
+    "push_content" : ": 邏輯不好？",
+    "push_ipdatetime" : "03/27 15:00",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "txai",
+    "push_content" : ": 一樓認真還是來救援?",
+    "push_ipdatetime" : "03/27 15:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "potatobb",
+    "push_content" : ": 一樓是笑點嗎",
+    "push_ipdatetime" : "03/27 15:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MrVaseLine",
+    "push_content" : ": 中肯",
+    "push_ipdatetime" : "03/27 16:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lulu1016",
+    "push_content" : ": 如果光速很慢你連轉彎都看不到",
+    "push_ipdatetime" : "03/27 19:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "flow5168",
+    "push_content" : ": 雨刷比光速還快",
+    "push_ipdatetime" : "03/27 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amber922",
+    "push_content" : ": 22樓笑死",
+    "push_ipdatetime" : "03/28 05:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iluvwaffles",
+    "push_content" : ": 看你不懂的 就是在說你",
+    "push_ipdatetime" : "03/28 13:17",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "svcgood",
+    "push_content" : ": 萬有引力真的很厲害，騎車旁邊的大媽都一直靠過來",
+    "push_ipdatetime" : "03/28 17:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ghrpjjh6es",
+    "push_content" : ": 最好放個有點油的三寶圖",
+    "push_ipdatetime" : "03/28 20:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AceCash",
+    "push_content" : ": 謝謝我笑了",
+    "push_ipdatetime" : "03/28 21:38",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jenny44",
+    "push_content" : ": 可以推",
+    "push_ipdatetime" : "03/28 22:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryanbin",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/30 17:44",
+    "push_tag" : "推"
+  } ]
+}

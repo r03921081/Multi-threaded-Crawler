@@ -1,0 +1,345 @@
+{
+  "title" : "[耍冷] 虛淵玄",
+  "author" : "Eide",
+  "board" : "joke",
+  "content" : "二聲玄 -- ",
+  "date" : "Sat Mar 30 04:29:00 2019",
+  "ip" : "220.142.78.32",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553891343.A.C30.html",
+  "pushList" : [ {
+    "push_userid" : "Owada",
+    "push_content" : ": 有笑",
+    "push_ipdatetime" : "03/30 04:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sevenly",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/30 05:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hoo114",
+    "push_content" : ": chengcti",
+    "push_ipdatetime" : "03/30 06:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hoo114",
+    "push_content" : ": 一聲爹",
+    "push_ipdatetime" : "03/30 06:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LCamel",
+    "push_content" : ": 好",
+    "push_ipdatetime" : "03/30 09:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pjhs320279",
+    "push_content" : ": 平衡",
+    "push_ipdatetime" : "03/30 09:50",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": 不錯ㄚ",
+    "push_ipdatetime" : "03/30 10:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iDiLiP",
+    "push_content" : ": 這本很毒",
+    "push_ipdatetime" : "03/30 10:46",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jack900727",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 11:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Halu5566",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 12:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sukidasummer",
+    "push_content" : ": 笑出來",
+    "push_ipdatetime" : "03/30 12:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 幹笑了",
+    "push_ipdatetime" : "03/30 12:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobwoodybuzz",
+    "push_content" : ": 有笑",
+    "push_ipdatetime" : "03/30 12:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crystal666",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/30 12:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin10eagle",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 13:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 不懂",
+    "push_ipdatetime" : "03/30 13:31",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "aa881104",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 13:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tommytyc",
+    "push_content" : ": 還可",
+    "push_ipdatetime" : "03/30 13:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w9",
+    "push_content" : ": 明明就是虛元玄",
+    "push_ipdatetime" : "03/30 13:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crorangeazy",
+    "push_content" : ": 想多久XD",
+    "push_ipdatetime" : "03/30 13:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kusou7719",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/30 13:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "assassinrex",
+    "push_content" : ": 這梗去年我就在對岸小說看過了",
+    "push_ipdatetime" : "03/30 13:52",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "kig88",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 14:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "saikong",
+    "push_content" : ": 哈哈哈有喔",
+    "push_ipdatetime" : "03/30 14:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "limoncool",
+    "push_content" : ": 這個不錯",
+    "push_ipdatetime" : "03/30 14:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LastDinosaur",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/30 14:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flyblack",
+    "push_content" : ": 不行，笑出聲了XD",
+    "push_ipdatetime" : "03/30 14:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shgreen",
+    "push_content" : ": 小品 還行",
+    "push_ipdatetime" : "03/30 14:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "velownica",
+    "push_content" : ": 還行",
+    "push_ipdatetime" : "03/30 14:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "corydoras09",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 14:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuokevin",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/30 14:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oglms",
+    "push_content" : ": 不懂，盲目推",
+    "push_ipdatetime" : "03/30 14:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ponsheng",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 15:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamoldtwo",
+    "push_content" : ": ㄒㄩㄢˊ 玄，二聲玄。",
+    "push_ipdatetime" : "03/30 15:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamoldtwo",
+    "push_content" : ": 再跟我念一次",
+    "push_ipdatetime" : "03/30 15:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tottoko0908",
+    "push_content" : ": 乾 廢到笑 清流",
+    "push_ipdatetime" : "03/30 15:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LeMirage2000",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 15:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "karles",
+    "push_content" : ": 廢清流",
+    "push_ipdatetime" : "03/30 15:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allenlee6710",
+    "push_content" : ": 有想過這個哏 但不敢po XDD",
+    "push_ipdatetime" : "03/30 15:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "happo529",
+    "push_content" : ": 不敢說+1XD",
+    "push_ipdatetime" : "03/30 15:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "juncc118",
+    "push_content" : ": 哈哈哈跟著唸",
+    "push_ipdatetime" : "03/30 15:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rich22084",
+    "push_content" : ": 去年就看過不就好棒棒 比較宅網路用比較多真厲害",
+    "push_ipdatetime" : "03/30 15:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c22748872",
+    "push_content" : ": 靠北哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/30 16:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "watchdogs",
+    "push_content" : ": 笑惹",
+    "push_ipdatetime" : "03/30 16:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "poiuy66887",
+    "push_content" : ": 對岸有二聲嗎？",
+    "push_ipdatetime" : "03/30 16:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "keny80206",
+    "push_content" : ": 好順口呀",
+    "push_ipdatetime" : "03/30 16:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aq200aq",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noyounome",
+    "push_content" : ": 笑了",
+    "push_ipdatetime" : "03/30 17:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Eric89123",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/30 17:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whhw",
+    "push_content" : ": 支那不是用注音吧",
+    "push_ipdatetime" : "03/30 18:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 靠杯，從昨天看到現在，終於看懂了＝ ＝",
+    "push_ipdatetime" : "03/30 18:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qwer03031",
+    "push_content" : ": 對岸不是用注意 但邏輯一樣",
+    "push_ipdatetime" : "03/30 18:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qwer03031",
+    "push_content" : ": shi:ㄕ a:ㄚ zh:ㄓ 等等",
+    "push_ipdatetime" : "03/30 18:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "blueskymaple",
+    "push_content" : ": XDDDDDD",
+    "push_ipdatetime" : "03/30 18:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": ㄒㄩㄢˊ 二聲玄",
+    "push_ipdatetime" : "03/30 18:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 但是一堆人講話不張嘴 ㄩㄢ不會分開發音",
+    "push_ipdatetime" : "03/30 18:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bigcho",
+    "push_content" : ": 有夠老梗",
+    "push_ipdatetime" : "03/30 18:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "leemt",
+    "push_content" : ": 難怪我每次唸他的名字都有種熟悉感啊！！！",
+    "push_ipdatetime" : "03/30 18:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kiyoshi",
+    "push_content" : ": 我給你的愛寫在虛淵玄~",
+    "push_ipdatetime" : "03/30 19:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 推個這個真的不錯",
+    "push_ipdatetime" : "03/30 19:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/30 19:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tmwolf",
+    "push_content" : ": 幹廢到爆我還是笑了",
+    "push_ipdatetime" : "03/30 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "simplec",
+    "push_content" : ": 哈",
+    "push_ipdatetime" : "03/30 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuan50118",
+    "push_content" : ": 靠杯",
+    "push_ipdatetime" : "03/30 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a100820",
+    "push_content" : ": 笑了",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dk394alal",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamoldtwo",
+    "push_content" : ": spring719大大，你昨天看到現在?可是這篇今天早上發的",
+    "push_ipdatetime" : "03/30 20:55",
+    "push_tag" : "推"
+  } ]
+}

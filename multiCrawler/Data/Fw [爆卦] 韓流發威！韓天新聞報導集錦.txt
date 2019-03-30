@@ -1,0 +1,2250 @@
+{
+  "title" : "Fw: [爆卦] 韓流發威！韓天新聞報導集錦",
+  "author" : "longkiss5566",
+  "board" : "joke",
+  "content" : "※ [本文轉錄自 Gossiping 看板 #1ScpSz-Q ] 作者: v99999 (95至尊) 看板: Gossiping 標題: [爆卦] 韓流發威！韓天新聞報導集錦 時間: Wed Mar 27 16:41:30 2019 特別把網路上收集經典截圖 提供給大家參考參考 證明韓天電視台有多麼的愛韓主席 韓天新聞集錦 https://i.imgur.com/bYSxeBW.jpg https://i.imgur.com/3pgqMhz.jpg https://i.imgur.com/SqQUt4E.jpg https://i.imgur.com/fIVx9Dt.jpg https://i.imgur.com/recZBx6.jpg https://i.imgur.com/5owgSI6.jpg https://i.imgur.com/REN5gHy.jpg https://i.imgur.com/bzV9W2X.jpg https://i.imgur.com/Ykdn499.jpg https://i.imgur.com/FIOPhXQ.jpg https://i.imgur.com/QTt62r4.jpg https://i.imgur.com/N0wMGjv.jpg https://i.imgur.com/me57Ug4.jpg https://i.imgur.com/kczEiEh.jpg https://i.imgur.com/sWAbzU0.jpg https://i.imgur.com/pQRdhtt.jpg https://i.imgur.com/vW5LnvM.jpg https://i.imgur.com/C0HR2H7.jpg https://i.imgur.com/jCGwFJP.jpg https://m.imgur.com/7MEvfaa.jpg 歡迎推文補充其他的 https://i.imgur.com/K5q26UW.jpg https://i.imgur.com/3I50iqn.jpg -- ",
+  "date" : "Wed Mar 27 22:32:30 2019",
+  "ip" : "42.73.31.213",
+  "url" : "/bbs/Gossiping/M.1553676093.A.F9A.html",
+  "pushList" : [ {
+    "push_userid" : "c87636666",
+    "push_content" : ": 統戰的都游過去好不",
+    "push_ipdatetime" : "03/27 16:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "DarkyIsCat",
+    "push_content" : ": 好噁心",
+    "push_ipdatetime" : "03/27 16:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SonyXperiaZ3",
+    "push_content" : ": 韓國瑜打噴嚏和走樓梯也要報導 下次乾脆報導他拉多",
+    "push_ipdatetime" : "03/27 16:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SonyXperiaZ3",
+    "push_content" : ": 少條屎好啦",
+    "push_ipdatetime" : "03/27 16:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "serding",
+    "push_content" : ": 造神電視台",
+    "push_ipdatetime" : "03/27 16:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "i689tw",
+    "push_content" : ": https://i.imgur.com/jwJCO8Q.jpg",
+    "push_ipdatetime" : "03/27 16:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gogoto990",
+    "push_content" : ": 扯爆",
+    "push_ipdatetime" : "03/27 16:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce1119",
+    "push_content" : ": 會看這種新聞不轉台的大概都低能兒或看笑話",
+    "push_ipdatetime" : "03/27 16:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "genius721105",
+    "push_content" : ": 柯p不是也走樓梯",
+    "push_ipdatetime" : "03/27 16:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxc1234529",
+    "push_content" : ": 笑死 flavorBZ ham什麼的 狗狗壩趕快來噓啦",
+    "push_ipdatetime" : "03/27 16:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "macinwould",
+    "push_content" : ": 都叫丹尼爾 笑死",
+    "push_ipdatetime" : "03/27 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ciaadya",
+    "push_content" : ": 那個公仔感覺日本有很多類似的東西",
+    "push_ipdatetime" : "03/27 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cms6384",
+    "push_content" : ": 幹真的長得很醜",
+    "push_ipdatetime" : "03/27 16:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "slamwater",
+    "push_content" : ": 太可怕了",
+    "push_ipdatetime" : "03/27 16:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eipduolc",
+    "push_content" : ": 快笑死XDDDDDDDDDD",
+    "push_ipdatetime" : "03/27 16:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiang2",
+    "push_content" : ": 幹我真的無法想像台灣出現這些東西",
+    "push_ipdatetime" : "03/27 16:49",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "okgod",
+    "push_content" : ": 你贏了",
+    "push_ipdatetime" : "03/27 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spider8320",
+    "push_content" : ": 這應該轉JOKE版吧",
+    "push_ipdatetime" : "03/27 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "henry55566",
+    "push_content" : ": 笑死，世界今日頭條，再多一點。",
+    "push_ipdatetime" : "03/27 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ColiColi",
+    "push_content" : ": 還有包子那個啊xdddd 真是娛樂台",
+    "push_ipdatetime" : "03/27 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "intel9000i",
+    "push_content" : ": 讚讚讚 韓柯配 拼經濟",
+    "push_ipdatetime" : "03/27 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Doub1eK",
+    "push_content" : ": 現在是在文化大革命嗎",
+    "push_ipdatetime" : "03/27 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LordOfCS",
+    "push_content" : ": 幹他媽的越看越噁心",
+    "push_ipdatetime" : "03/27 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Doub1eK",
+    "push_content" : ": 爹親娘親都不如韓市長親",
+    "push_ipdatetime" : "03/27 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wl02433799",
+    "push_content" : ": https://i.imgur.com/K5q26UW.jpg",
+    "push_ipdatetime" : "03/27 16:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wl02433799",
+    "push_content" : ": 支援寒流發威",
+    "push_ipdatetime" : "03/27 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nonick",
+    "push_content" : ": 一頁書那個笑死我了 XDDDD",
+    "push_ipdatetime" : "03/27 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Playorange",
+    "push_content" : ": 荒謬到不可思議",
+    "push_ipdatetime" : "03/27 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winterjoker",
+    "push_content" : ": 他媽的這些是什麼鬼新聞啊…真的很噁心欸…",
+    "push_ipdatetime" : "03/27 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s1777001",
+    "push_content" : ": 造神台",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zu00405479",
+    "push_content" : ": 幹,根本智障集錦",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bogi15058",
+    "push_content" : ": 家裡偏藍 但好險沒看中天",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "demitri",
+    "push_content" : ": 竟然誣蔑我一頁書",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jay1204",
+    "push_content" : ": 根本造神 我還以為我在看北韓的電視台",
+    "push_ipdatetime" : "03/27 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ebeta",
+    "push_content" : ": 到底觀眾是要有多智障才會看這種東西",
+    "push_ipdatetime" : "03/27 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yeeandrew",
+    "push_content" : ": 好狂啊啊啊啊啊",
+    "push_ipdatetime" : "03/27 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dk394alal",
+    "push_content" : ": 韓導放個屁也是在為空氣品質做淨化",
+    "push_ipdatetime" : "03/27 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qq22826588",
+    "push_content" : ": 造神造起來",
+    "push_ipdatetime" : "03/27 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sousake",
+    "push_content" : ": 韓粉柯粉最愛der媒體",
+    "push_ipdatetime" : "03/27 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "demitri",
+    "push_content" : ": 笑到美丁美當",
+    "push_ipdatetime" : "03/27 16:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "send99555",
+    "push_content" : ": 哈哈哈哈哈哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JoshuaAstray",
+    "push_content" : ": Cosplay一頁書真的快笑死",
+    "push_ipdatetime" : "03/27 16:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sasdwezx",
+    "push_content" : ": 我真的不知道該怎麼形容我的驚訝",
+    "push_ipdatetime" : "03/27 16:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LeonardoPika",
+    "push_content" : ": 不是有則韓國瑜跟川普比較圖的",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pikakami",
+    "push_content" : ": 這應該轉joke= =",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MXZR",
+    "push_content" : ": 好猛",
+    "push_ipdatetime" : "03/27 17:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wulaw5566",
+    "push_content" : ": 韓上習下，中國發大財",
+    "push_ipdatetime" : "03/27 17:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sucktime",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/27 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RandyOrlando",
+    "push_content" : ": 翹小指那個太北爛了",
+    "push_ipdatetime" : "03/27 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MXZR",
+    "push_content" : ": https://i.imgur.com/s8mUDZo.jpg",
+    "push_ipdatetime" : "03/27 17:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Bentwo3",
+    "push_content" : ": 有夠噁心",
+    "push_ipdatetime" : "03/27 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "WeGoYuSheng",
+    "push_content" : ": 翹指那個 真的是低能馬屁無恥到 讓人沒有任何詞能形",
+    "push_ipdatetime" : "03/27 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WeGoYuSheng",
+    "push_content" : ": 容內心的感受",
+    "push_ipdatetime" : "03/27 17:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "glion",
+    "push_content" : ": 每一個都有夠低能，徹底展現中國媒體應有的素質www",
+    "push_ipdatetime" : "03/27 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sasa789",
+    "push_content" : ": 笑死 像楊過",
+    "push_ipdatetime" : "03/27 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sasdwezx",
+    "push_content" : ": 這種新聞被拒看居然還有人護航",
+    "push_ipdatetime" : "03/27 17:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ttykimo",
+    "push_content" : ": 柯粉忌妒中",
+    "push_ipdatetime" : "03/27 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a20351",
+    "push_content" : ": 真的有夠噁心",
+    "push_ipdatetime" : "03/27 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cty78221",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/27 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MrBo",
+    "push_content" : ": 誇張誇張誇張",
+    "push_ipdatetime" : "03/27 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s89022190059",
+    "push_content" : ": 噁心至極，我還以為是新聞台，原來是傳教台",
+    "push_ipdatetime" : "03/27 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "philmaru",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/27 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MMyDD",
+    "push_content" : ": https://imgur.com/a/9r7bPxG",
+    "push_ipdatetime" : "03/27 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "scott33",
+    "push_content" : ": 低能電視台 都智障白癡低水準的人口在看",
+    "push_ipdatetime" : "03/27 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ymx3xc",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yaieki",
+    "push_content" : ": 愛看韓天的智商沒正數吧",
+    "push_ipdatetime" : "03/27 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JoshuaAstray",
+    "push_content" : ": 這種新聞台跟北韓有什麼兩樣",
+    "push_ipdatetime" : "03/27 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yfguk6685",
+    "push_content" : ": 浪費小編 應去對岸",
+    "push_ipdatetime" : "03/27 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "empire42s",
+    "push_content" : ": 高雄人就愛選這種的XDDD",
+    "push_ipdatetime" : "03/27 17:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "fcs83210",
+    "push_content" : ": 台灣智障老人最愛的韓總",
+    "push_ipdatetime" : "03/27 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "walkmancat",
+    "push_content" : ": 中天重新定義「監督」說文解字",
+    "push_ipdatetime" : "03/27 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v23332",
+    "push_content" : ": 韓國瑜=習近平潮T啊 中天比大家都早提倡習下韓上",
+    "push_ipdatetime" : "03/27 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v23332",
+    "push_content" : ": https://youtu.be/YC-su2z44AM",
+    "push_ipdatetime" : "03/27 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "vincentsoon",
+    "push_content" : ": 哈哈 真的蠻好笑的",
+    "push_ipdatetime" : "03/27 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "NEIL8278",
+    "push_content" : ": 這造神方式連北韓都驚呆了",
+    "push_ipdatetime" : "03/27 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "roye147",
+    "push_content" : ": 會看韓天電視的 智商堪慮",
+    "push_ipdatetime" : "03/27 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheetahspeed",
+    "push_content" : ": 垃圾高雄人就愛這一味",
+    "push_ipdatetime" : "03/27 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "plbroum88",
+    "push_content" : ": 真他媽噁心 誇張",
+    "push_ipdatetime" : "03/27 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harrishu",
+    "push_content" : ": 智障就愛這一味",
+    "push_ipdatetime" : "03/27 17:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nichtsicher",
+    "push_content" : ": 綜合娛樂台XDDD",
+    "push_ipdatetime" : "03/27 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tatami4931",
+    "push_content" : ": 很中國媒體的報導",
+    "push_ipdatetime" : "03/27 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MMyDD",
+    "push_content" : ": https://imgur.com/7WKQ9si",
+    "push_ipdatetime" : "03/27 17:19",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Semaj543",
+    "push_content" : ": 以前看AV85已經覺得很無恥，果然下限就是用來突破的",
+    "push_ipdatetime" : "03/27 17:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MMyDD",
+    "push_content" : ": https://i.imgur.com/3I50iqn.jpg",
+    "push_ipdatetime" : "03/27 17:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andy2546",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/27 17:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jeffu",
+    "push_content" : ": 感謝有這集錦才知道中夭舔多誇張 這應該傳給所有人看",
+    "push_ipdatetime" : "03/27 17:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "okgod",
+    "push_content" : ": 哈哈，一群低能新聞，但是想到他有可能當總統，笑著笑著就",
+    "push_ipdatetime" : "03/27 17:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "okgod",
+    "push_content" : ": 哭了",
+    "push_ipdatetime" : "03/27 17:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cheaptool",
+    "push_content" : ": 好噁心",
+    "push_ipdatetime" : "03/27 17:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pete0328",
+    "push_content" : ": 這種電視臺還一堆人支持，臺灣真的快倒了",
+    "push_ipdatetime" : "03/27 17:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yankeehater",
+    "push_content" : ": 中夭真是媒體之恥",
+    "push_ipdatetime" : "03/27 17:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thundertiger",
+    "push_content" : ": ㄏㄏ",
+    "push_ipdatetime" : "03/27 17:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "axswin",
+    "push_content" : ": 太噁心了，媒體瘋了",
+    "push_ipdatetime" : "03/27 17:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iceteeth",
+    "push_content" : ": 這系列新聞真的有夠低能 罰得好",
+    "push_ipdatetime" : "03/27 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheniuan",
+    "push_content" : ": 世界偉人",
+    "push_ipdatetime" : "03/27 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "minan",
+    "push_content" : ": 令人作噁",
+    "push_ipdatetime" : "03/27 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lionadon",
+    "push_content" : ": 超級噁心",
+    "push_ipdatetime" : "03/27 17:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andy2546",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/27 17:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "f860506",
+    "push_content" : ": 快笑死",
+    "push_ipdatetime" : "03/27 17:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorrymylove",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/27 17:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yongsyuan",
+    "push_content" : ": 我爸本來韓粉 看到現在都快吐了",
+    "push_ipdatetime" : "03/27 17:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stephenlin",
+    "push_content" : ": 低能反智媒體",
+    "push_ipdatetime" : "03/27 17:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuaiphoto",
+    "push_content" : ": 這篇真的太好笑了，喜憨兒智商堪慮",
+    "push_ipdatetime" : "03/27 17:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcvb0412",
+    "push_content" : ": 前幾天看到中天報韓國瑜與特首同屬雞... 乾這三小",
+    "push_ipdatetime" : "03/27 17:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcvb0412",
+    "push_content" : ": 你他媽屬雞屬鴨是乾我闢室",
+    "push_ipdatetime" : "03/27 17:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kingoftwray",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 17:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "augustyu",
+    "push_content" : ": 怎麼有一張有Tgm3Amon",
+    "push_ipdatetime" : "03/27 17:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tovshang",
+    "push_content" : ": 丹尼爾 哈哈哈哈",
+    "push_ipdatetime" : "03/27 17:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hikikomorili",
+    "push_content" : ": 中天背後的旺中集團就中國的形狀",
+    "push_ipdatetime" : "03/27 17:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jk808631",
+    "push_content" : ": 下次可以標題打慎入嗎 我看到吐",
+    "push_ipdatetime" : "03/27 17:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fxxkmt",
+    "push_content" : ": 幹！看到一半突然想吐",
+    "push_ipdatetime" : "03/27 17:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "histing",
+    "push_content" : ": 不好意思 我實在看不下去了",
+    "push_ipdatetime" : "03/27 17:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sps10513",
+    "push_content" : ": 有夠噁心，標準造神",
+    "push_ipdatetime" : "03/27 17:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iasyt",
+    "push_content" : ": 扯爆 我沒在看中天的 不知道有如此誇張",
+    "push_ipdatetime" : "03/27 17:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iasyt",
+    "push_content" : ": 神雕俠侶那啥？ 丹尼爾墨鏡是真的嗎？",
+    "push_ipdatetime" : "03/27 17:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jjblood",
+    "push_content" : ": 中夭有夠噁",
+    "push_ipdatetime" : "03/27 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chungj",
+    "push_content" : ": 趕羚羊 有夠惡心",
+    "push_ipdatetime" : "03/27 17:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xhung",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 17:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Fongin",
+    "push_content" : ": 不推不行",
+    "push_ipdatetime" : "03/27 17:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "monderschumi",
+    "push_content" : ": 我快吐了",
+    "push_ipdatetime" : "03/27 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nextbit",
+    "push_content" : ": https://m.imgur.com/7MEvfaa",
+    "push_ipdatetime" : "03/27 17:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wowo8854",
+    "push_content" : ": 有夠好笑",
+    "push_ipdatetime" : "03/27 17:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "coffee112",
+    "push_content" : ": 這台真的很好笑",
+    "push_ipdatetime" : "03/27 17:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cathydiumin",
+    "push_content" : ": 宗教台 不意外 喜韓兒智商配這種低能造神新聞剛好而",
+    "push_ipdatetime" : "03/27 17:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cathydiumin",
+    "push_content" : ": 已",
+    "push_ipdatetime" : "03/27 17:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "eric525498",
+    "push_content" : ": 韓天台不是叫假的",
+    "push_ipdatetime" : "03/27 17:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "adroddick",
+    "push_content" : ": 觀眾是白痴嗎",
+    "push_ipdatetime" : "03/27 17:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "glacialfire",
+    "push_content" : ": 無法想像的是台灣有這種新聞 更無法想像的是有人信",
+    "push_ipdatetime" : "03/27 17:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lepidoptera",
+    "push_content" : ": 一頁書會用天龍吼震死這個禿頭",
+    "push_ipdatetime" : "03/27 17:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wayne1120",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/27 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "riddlevii",
+    "push_content" : ": 我爸愛他愛的要死，還說韓導是民族救星",
+    "push_ipdatetime" : "03/27 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sparklekyu",
+    "push_content" : ": 笑著笑著就哭了QW",
+    "push_ipdatetime" : "03/27 17:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iMANIA",
+    "push_content" : ": 被罰100萬真的是剛好而已 幹",
+    "push_ipdatetime" : "03/27 17:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bigkaren",
+    "push_content" : ": ...無法接受 其實覺得有點可怕",
+    "push_ipdatetime" : "03/27 17:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "artdeco1",
+    "push_content" : ": 超噁，難怪一堆人吃飯想吐！",
+    "push_ipdatetime" : "03/27 18:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wowilliam",
+    "push_content" : ": 越快越覺得丟臉 這是正常的ㄇ",
+    "push_ipdatetime" : "03/27 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Droculo",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aska521",
+    "push_content" : ": 我是一頁書的話這種比喻我會想自盡",
+    "push_ipdatetime" : "03/27 18:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "n01377",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/27 18:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Edaw",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/27 18:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Beckhung",
+    "push_content" : ": 跟北韓跟中共電視台差在哪？",
+    "push_ipdatetime" : "03/27 18:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "homer0403",
+    "push_content" : ": PUSH",
+    "push_ipdatetime" : "03/27 18:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "willy90597",
+    "push_content" : ": 厲害了",
+    "push_ipdatetime" : "03/27 18:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dragon50119",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 18:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tasteritz",
+    "push_content" : ": 真的快吐了...",
+    "push_ipdatetime" : "03/27 18:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "heavenkghs",
+    "push_content" : ": 被罰了還控訴綠色恐怖",
+    "push_ipdatetime" : "03/27 18:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Freeven",
+    "push_content" : ": 媽的捧成這樣有夠噁心",
+    "push_ipdatetime" : "03/27 18:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "horseorange",
+    "push_content" : ": 這臺還不收一收喔？",
+    "push_ipdatetime" : "03/27 18:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "liudwan",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/27 18:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vini770803",
+    "push_content" : ": 政黑版可捧他為神喔 捧法真的很噁心",
+    "push_ipdatetime" : "03/27 18:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ul6na",
+    "push_content" : ": 我以為這些是唬爛的..",
+    "push_ipdatetime" : "03/27 18:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a3221715",
+    "push_content" : ": 中資幹",
+    "push_ipdatetime" : "03/27 18:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bobby94507",
+    "push_content" : ": 真是很智障",
+    "push_ipdatetime" : "03/27 18:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "babyMclaren",
+    "push_content" : ": 不止這些吧",
+    "push_ipdatetime" : "03/27 18:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vini770803",
+    "push_content" : ": 乾脆大家繼續向ncc檢舉",
+    "push_ipdatetime" : "03/27 18:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "etiennechiu",
+    "push_content" : ": 他長得真的很醜，不是歧視長相但真的無法盯三秒",
+    "push_ipdatetime" : "03/27 18:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vodkalime607",
+    "push_content" : ": 韓粉們快被中夭台鬧到精神分裂ㄌ",
+    "push_ipdatetime" : "03/27 18:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pppbruce",
+    "push_content" : ": 一頁書跟公仔也太好笑",
+    "push_ipdatetime" : "03/27 18:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amichaell",
+    "push_content" : ": 習下韓上",
+    "push_ipdatetime" : "03/27 18:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Castle88654",
+    "push_content" : ": 你沒收集完整欸",
+    "push_ipdatetime" : "03/27 18:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jigsoso",
+    "push_content" : ": 神串留名",
+    "push_ipdatetime" : "03/27 18:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "st89702",
+    "push_content" : ": 低能台 罰給他倒",
+    "push_ipdatetime" : "03/27 18:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bFirefighter",
+    "push_content" : ": 嘔",
+    "push_ipdatetime" : "03/27 18:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ccjj8",
+    "push_content" : ": 我快笑死了",
+    "push_ipdatetime" : "03/27 18:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a3221715",
+    "push_content" : ": 長大才知道中夭是個垃圾",
+    "push_ipdatetime" : "03/27 18:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "byenewth",
+    "push_content" : ": 我不行 看了幾張實在噁心到看不下去",
+    "push_ipdatetime" : "03/27 18:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hata506",
+    "push_content" : ": 哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 18:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ForPrincess",
+    "push_content" : ": 這到底是什麼腦殘台啊XDDDDDDDDD",
+    "push_ipdatetime" : "03/27 18:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "reynaud",
+    "push_content" : ": 我只覺得悲哀",
+    "push_ipdatetime" : "03/27 18:20",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tenoopy",
+    "push_content" : ": 智障看中夭 越看越智障",
+    "push_ipdatetime" : "03/27 18:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lmf770410",
+    "push_content" : ": 智障造神台 無所不用其極",
+    "push_ipdatetime" : "03/27 18:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skingqq",
+    "push_content" : ": 最公正的媒體",
+    "push_ipdatetime" : "03/27 18:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lorran",
+    "push_content" : ": 中夭韓天 超唬爛超低能認證",
+    "push_ipdatetime" : "03/27 18:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kis28519",
+    "push_content" : ": 有夠噁心",
+    "push_ipdatetime" : "03/27 18:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "handtall",
+    "push_content" : ": 9.2：不管啦三名自一樣啦",
+    "push_ipdatetime" : "03/27 18:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "senstivewu",
+    "push_content" : ": 這篇應該要收精華區，笑史XDDDDDDDD",
+    "push_ipdatetime" : "03/27 18:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kabadada",
+    "push_content" : ": 民智未開",
+    "push_ipdatetime" : "03/27 18:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MW1220",
+    "push_content" : ": 靠 他居然有 \"貝黑利德\" !? 難怪韓的勢力龐大啊！",
+    "push_ipdatetime" : "03/27 18:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OGC218",
+    "push_content" : ": 韓英九",
+    "push_ipdatetime" : "03/27 18:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a3221715",
+    "push_content" : ": 宗教台應該要排很後面吧 52是怎樣?",
+    "push_ipdatetime" : "03/27 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maitang117",
+    "push_content" : ": 韓天宗教台，笑死",
+    "push_ipdatetime" : "03/27 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Cordierite",
+    "push_content" : ": 智障",
+    "push_ipdatetime" : "03/27 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MW1220",
+    "push_content" : ": https://i.imgur.com/vW5LnvM.jpg",
+    "push_ipdatetime" : "03/27 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shi21",
+    "push_content" : ": 什麼都可以扯韓國瑜 根本是給智障看的電台",
+    "push_ipdatetime" : "03/27 18:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Woodstock1",
+    "push_content" : ": 原來台大會拒看不是因為怕洗腦",
+    "push_ipdatetime" : "03/27 18:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Woodstock1",
+    "push_content" : ": 是真的看了噁心",
+    "push_ipdatetime" : "03/27 18:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "david624",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 18:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "steven0121",
+    "push_content" : ": 罰100萬太少了",
+    "push_ipdatetime" : "03/27 18:31",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "HyperJason",
+    "push_content" : ": 幹 笑死",
+    "push_ipdatetime" : "03/27 18:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "preferalie",
+    "push_content" : ": 真的是智障韓台",
+    "push_ipdatetime" : "03/27 18:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "privatelife",
+    "push_content" : ": 中天智障台",
+    "push_ipdatetime" : "03/27 18:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TZephyr",
+    "push_content" : ": 3,26歲 雖然我台獨，但要有辦法好好生活台獨才有意義",
+    "push_ipdatetime" : "03/27 18:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OOQ",
+    "push_content" : ": 韓天造神台",
+    "push_ipdatetime" : "03/27 18:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monkey60391",
+    "push_content" : ": 看了有夠噁心…",
+    "push_ipdatetime" : "03/27 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mayuyuki",
+    "push_content" : ": XDDDDDDD",
+    "push_ipdatetime" : "03/27 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "piercingX",
+    "push_content" : ": 我們的社會好可憐啊 臺灣怎麼會淪落至此",
+    "push_ipdatetime" : "03/27 18:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kerkerlu",
+    "push_content" : ": 家裡韓粉超愛看的，每天光用聽的就想吐 嘔嘔嘔",
+    "push_ipdatetime" : "03/27 18:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Donaldren",
+    "push_content" : ": 沒救了 一群智障聚在一起變成了中天",
+    "push_ipdatetime" : "03/27 18:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TZephyr",
+    "push_content" : ": 幹 推錯篇...",
+    "push_ipdatetime" : "03/27 18:43",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wei23707",
+    "push_content" : ": 噁心 真的噁心",
+    "push_ipdatetime" : "03/27 18:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kuang12",
+    "push_content" : ": 幹 居然把龐德跟哈利波特跟他放一起",
+    "push_ipdatetime" : "03/27 18:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "toty1101",
+    "push_content" : ": 台灣人民素質還是很多製杖阿",
+    "push_ipdatetime" : "03/27 18:45",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "warden",
+    "push_content" : ": 幹真的智障",
+    "push_ipdatetime" : "03/27 18:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "titian1495",
+    "push_content" : ": 這種不應該發照",
+    "push_ipdatetime" : "03/27 18:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "u9161031",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/27 18:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Audien",
+    "push_content" : ": 低能",
+    "push_ipdatetime" : "03/27 18:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hsu1219",
+    "push_content" : ": 嘔嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/27 18:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skuderic",
+    "push_content" : ": 除了好笑 還是很悲哀阿 台灣一群為數不少的人捧他捧到誇",
+    "push_ipdatetime" : "03/27 18:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skuderic",
+    "push_content" : ": 張 還跟你一樣有一票",
+    "push_ipdatetime" : "03/27 18:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "singjin",
+    "push_content" : ": 幹，我看了三小？",
+    "push_ipdatetime" : "03/27 18:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RuinAngel",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/27 18:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BichiB7b7",
+    "push_content" : ": 真的超噁",
+    "push_ipdatetime" : "03/27 18:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s58348292",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 18:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ELV420",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eplovecm",
+    "push_content" : ": 捧成這樣，不是造神是什麼",
+    "push_ipdatetime" : "03/27 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lalawoo712",
+    "push_content" : ": 臺灣反智弱智社會才養的出這種電視台",
+    "push_ipdatetime" : "03/27 18:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maxwu2012",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 18:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nildog",
+    "push_content" : ": 播就算了，但造神牽強附會成這樣，也是厲害了...",
+    "push_ipdatetime" : "03/27 19:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oooo2300",
+    "push_content" : ": https://youtu.be/qxojt2DaE9E",
+    "push_ipdatetime" : "03/27 19:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "orcus927",
+    "push_content" : ": 習下韓上。打倒習近平。",
+    "push_ipdatetime" : "03/27 19:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cokepd",
+    "push_content" : ": https://i.imgur.com/OXJo08j.jpg",
+    "push_ipdatetime" : "03/27 19:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flowerypants",
+    "push_content" : ": 看了頭好痛",
+    "push_ipdatetime" : "03/27 19:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "orange18",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/27 19:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kiwi2711",
+    "push_content" : ": 說真的 +><>在各菜市場跑透透的直播 韓國瑜不知道在哪-",
+    "push_ipdatetime" : "03/27 19:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "kiwi2711",
+    "push_content" : ": -",
+    "push_ipdatetime" : "03/27 19:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cstbb",
+    "push_content" : ": 幹",
+    "push_ipdatetime" : "03/27 19:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "joshualiu",
+    "push_content" : ": 絕對不止",
+    "push_ipdatetime" : "03/27 19:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sample",
+    "push_content" : ": I know you are a reporter, but you used to be a person",
+    "push_ipdatetime" : "03/27 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "askye546388",
+    "push_content" : ": 真的厲害了，我記得還有西遊記的？",
+    "push_ipdatetime" : "03/27 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sample",
+    "push_content" : ": , right? from “Deep Impact”, 1998.",
+    "push_ipdatetime" : "03/27 19:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ArNan",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 19:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q24983416",
+    "push_content" : ": 這篇必須高調，太經典惹XD",
+    "push_ipdatetime" : "03/27 19:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "djdjdnddd",
+    "push_content" : ": 每則新聞都超智障...",
+    "push_ipdatetime" : "03/27 19:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "paullegend",
+    "push_content" : ": 真的是韓天娛樂台",
+    "push_ipdatetime" : "03/27 19:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce2248",
+    "push_content" : ": http://i.imgur.com/eAUF8td.jpg",
+    "push_ipdatetime" : "03/27 19:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HappyKH",
+    "push_content" : ": 看完快吐了",
+    "push_ipdatetime" : "03/27 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yzvr",
+    "push_content" : ": 就是韓教徒專用的宗教台啊，信仰中國",
+    "push_ipdatetime" : "03/27 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stevenkane",
+    "push_content" : ": 事實證明台灣一堆低能兒。KMT遷台遺毒",
+    "push_ipdatetime" : "03/27 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jajoy",
+    "push_content" : ": 哈哈 87",
+    "push_ipdatetime" : "03/27 19:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "klagalas",
+    "push_content" : ": 快笑死 這甚麼低能台",
+    "push_ipdatetime" : "03/27 19:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lfk",
+    "push_content" : ": 不愧是中天，中國式造神手法～跟蔣公看魚兒逆流而上有87%像",
+    "push_ipdatetime" : "03/27 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kondoyu",
+    "push_content" : ": 腦殘假中立蠢蛆快來貼三立新聞囉",
+    "push_ipdatetime" : "03/27 19:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meng0426",
+    "push_content" : ": 這看久智商會降低..",
+    "push_ipdatetime" : "03/27 19:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zarg1043",
+    "push_content" : ": 有沒有韓流新聞產生器 還是封面可以自己上傳照片合成呀",
+    "push_ipdatetime" : "03/27 19:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Atholl",
+    "push_content" : ": 世界奇觀",
+    "push_ipdatetime" : "03/27 19:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lankw219",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "arcred",
+    "push_content" : ": 荒謬到像反串的",
+    "push_ipdatetime" : "03/27 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xy24083",
+    "push_content" : ": 垃圾電視台",
+    "push_ipdatetime" : "03/27 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hall",
+    "push_content" : ": 習下韓上 蔡衍明下臺 韓國瑜上去",
+    "push_ipdatetime" : "03/27 19:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dannyzzz",
+    "push_content" : ": 超越一堆娛樂台",
+    "push_ipdatetime" : "03/27 19:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "morgankhs",
+    "push_content" : ": 9.2最愛",
+    "push_ipdatetime" : "03/27 19:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "meiffy",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/27 19:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevinacc084",
+    "push_content" : ": 韓流發威！",
+    "push_ipdatetime" : "03/27 19:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tomxyz",
+    "push_content" : ": 韓流發威 ncc僅罰中天一百萬不痛不癢",
+    "push_ipdatetime" : "03/27 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "willschlafen",
+    "push_content" : ": 太反智...",
+    "push_ipdatetime" : "03/27 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "soumi520",
+    "push_content" : ": 天阿 每天都要想一個話題誒",
+    "push_ipdatetime" : "03/27 19:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "revera1992",
+    "push_content" : ": 連韓打噴嚏都報，真的有夠誇張",
+    "push_ipdatetime" : "03/27 19:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s0450336",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 19:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dgdgevil",
+    "push_content" : ": 這麼多低能新聞只罰一百萬也是夠悲哀",
+    "push_ipdatetime" : "03/27 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tokyoto",
+    "push_content" : ": 拿麥克風翹小指這麼娘的動昨也要捧 真是夠了",
+    "push_ipdatetime" : "03/27 19:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ktcery",
+    "push_content" : ": zzzzz噁心韓天",
+    "push_ipdatetime" : "03/27 20:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sos667771",
+    "push_content" : ": 監視器",
+    "push_ipdatetime" : "03/27 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sos667771",
+    "push_content" : ": 推錯",
+    "push_ipdatetime" : "03/27 20:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "eric139",
+    "push_content" : ": https://i.imgur.com/Azz083c.jpg",
+    "push_ipdatetime" : "03/27 20:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Bei921",
+    "push_content" : ": 幹 中夭新聞也太噁心 看這個電視台的智商會越來越低",
+    "push_ipdatetime" : "03/27 20:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gj94ek",
+    "push_content" : ": 看正牌的央視還比較多國際新聞……",
+    "push_ipdatetime" : "03/27 20:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crus4781",
+    "push_content" : ": 悲哀9.2跟國兄粉絲一樣可悲",
+    "push_ipdatetime" : "03/27 20:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "clamor88",
+    "push_content" : ": 原來這麼低能的新聞一直在洗腦",
+    "push_ipdatetime" : "03/27 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seafire",
+    "push_content" : ": 悲哀",
+    "push_ipdatetime" : "03/27 20:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "syuanling",
+    "push_content" : ": …",
+    "push_ipdatetime" : "03/27 20:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stanley6209",
+    "push_content" : ": 台灣良心",
+    "push_ipdatetime" : "03/27 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stu25936",
+    "push_content" : ": 真的超噁...",
+    "push_ipdatetime" : "03/27 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b3030826",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/27 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "maxn86",
+    "push_content" : ": 才罰100萬根本便宜他們，不曉得韓粉是在叫幾點",
+    "push_ipdatetime" : "03/27 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sten6053",
+    "push_content" : ": 廢到笑",
+    "push_ipdatetime" : "03/27 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smooth2mj3",
+    "push_content" : ": 超好笑",
+    "push_ipdatetime" : "03/27 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WOWO5566",
+    "push_content" : ": 哈哈 廢到笑",
+    "push_ipdatetime" : "03/27 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cooluckystar",
+    "push_content" : ": 真噁心 到底有誰看得下去",
+    "push_ipdatetime" : "03/27 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "m84524",
+    "push_content" : ": 要多低能才看得下去",
+    "push_ipdatetime" : "03/27 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ching7410",
+    "push_content" : ": 楊過應該會想用右手拍死他...",
+    "push_ipdatetime" : "03/27 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hagi13",
+    "push_content" : ": 看到推文覺得台灣真的還是很多清醒的人",
+    "push_ipdatetime" : "03/27 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "scott33",
+    "push_content" : ": 最造謠的電視台",
+    "push_ipdatetime" : "03/27 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "woods0598",
+    "push_content" : ": 超智障",
+    "push_ipdatetime" : "03/27 21:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Molester5566",
+    "push_content" : ": 幹 垃圾智障電視台",
+    "push_ipdatetime" : "03/27 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a0921387223",
+    "push_content" : ": 韓就是被這種隊友害死的 xd",
+    "push_ipdatetime" : "03/27 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ppphil",
+    "push_content" : ": NCC快罰這些垃圾新聞!",
+    "push_ipdatetime" : "03/27 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "King0615",
+    "push_content" : ": 韓天綜藝台",
+    "push_ipdatetime" : "03/27 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yihsuan1122",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kentshi",
+    "push_content" : ": 噁心到吐",
+    "push_ipdatetime" : "03/27 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wang0301",
+    "push_content" : ": 乾 只差沒有開頭講：我們偉大的高雄領導人 韓市長",
+    "push_ipdatetime" : "03/27 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy0219",
+    "push_content" : ": 幹你娘才罰一百萬",
+    "push_ipdatetime" : "03/27 21:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "abc53",
+    "push_content" : ": 垃圾中天",
+    "push_ipdatetime" : "03/27 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jeffmib",
+    "push_content" : ": 垃圾統媒",
+    "push_ipdatetime" : "03/27 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "elelnino",
+    "push_content" : ": 堪憂ㄚ",
+    "push_ipdatetime" : "03/27 21:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiauji",
+    "push_content" : ": 太屌了吧 我真的跪了",
+    "push_ipdatetime" : "03/27 21:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AttitudeLA",
+    "push_content" : ": https://i.imgur.com/TpZ9LlH.jpg 何時買買多少說清",
+    "push_ipdatetime" : "03/27 21:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "miffysocute",
+    "push_content" : ": 這些記者的名字也該留下來讓後人讚嘆",
+    "push_ipdatetime" : "03/27 21:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "getlonely",
+    "push_content" : ": 噁",
+    "push_ipdatetime" : "03/27 21:51",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "deago",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 21:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AttitudeLA",
+    "push_content" : ": 厲害了",
+    "push_ipdatetime" : "03/27 21:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dulcia",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/27 22:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pippi3946",
+    "push_content" : ": 幹我好久沒笑這麼開心了哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 22:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xiahself",
+    "push_content" : ": 幹你老師韓天電視台",
+    "push_ipdatetime" : "03/27 22:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Aliensoul",
+    "push_content" : ": https://i.imgur.com/HYgGyKV.jpg",
+    "push_ipdatetime" : "03/27 22:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allenlee6710",
+    "push_content" : ": http://i.imgur.com/Gm6xuyT.jpg",
+    "push_ipdatetime" : "03/27 22:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevin791112",
+    "push_content" : ": 智障低能",
+    "push_ipdatetime" : "03/27 22:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FlynnZhang",
+    "push_content" : ": https://i.imgur.com/hdUnYLg.jpg",
+    "push_ipdatetime" : "03/27 22:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FlynnZhang",
+    "push_content" : ": https://i.imgur.com/0416dVJ.jpg",
+    "push_ipdatetime" : "03/27 22:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stanley86300",
+    "push_content" : ": 韓天台的joke屌打就可版",
+    "push_ipdatetime" : "03/27 22:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "z880323",
+    "push_content" : ": 笑不出來...",
+    "push_ipdatetime" : "03/27 22:45",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mepass",
+    "push_content" : ": 噁爛到爆",
+    "push_ipdatetime" : "03/27 22:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fishboy0209",
+    "push_content" : ": 丹尼爾我笑死",
+    "push_ipdatetime" : "03/27 22:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": https://i.imgur.com/ekZSe6Y.jpg",
+    "push_ipdatetime" : "03/27 23:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Annyhinet",
+    "push_content" : ": 我真的是要笑死",
+    "push_ipdatetime" : "03/27 23:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Datow",
+    "push_content" : ": 看了想哭怎麼辦... 台灣人竟然被這等痞子牽著鼻子走",
+    "push_ipdatetime" : "03/27 23:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rb510691",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/27 23:36",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a856445",
+    "push_content" : ": 丹尼爾跟領帶真的笑死",
+    "push_ipdatetime" : "03/27 23:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hchs31705",
+    "push_content" : ": 我吐惹",
+    "push_ipdatetime" : "03/27 23:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "peacesignv",
+    "push_content" : ": 噓中天 唉",
+    "push_ipdatetime" : "03/27 23:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jack250802",
+    "push_content" : ": 寒流發威 ptt驚現超級韓粉",
+    "push_ipdatetime" : "03/28 00:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimicino",
+    "push_content" : ": 越看越噁 嘔嘔嘔",
+    "push_ipdatetime" : "03/28 00:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "potter1529",
+    "push_content" : ": 中天記者應該全部下地獄 甚麼父母養出這群垃圾的",
+    "push_ipdatetime" : "03/28 00:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AEae2014",
+    "push_content" : ": 那公仔，我要做惡夢了",
+    "push_ipdatetime" : "03/28 00:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Xperia",
+    "push_content" : ": 嘔嘔嘔嘔嘔 有夠反智",
+    "push_ipdatetime" : "03/28 00:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dd123456twtw",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/28 00:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "swxswxet",
+    "push_content" : ": 三毀",
+    "push_ipdatetime" : "03/28 01:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "StarFox0910",
+    "push_content" : ": 一想到臺灣有一半以上是這種智障我就笑不出來",
+    "push_ipdatetime" : "03/28 01:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcvfr99",
+    "push_content" : ": 滾回八卦",
+    "push_ipdatetime" : "03/28 01:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "pokemonya",
+    "push_content" : ": ...",
+    "push_ipdatetime" : "03/28 01:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pokemonya",
+    "push_content" : ": https://i.imgur.com/Eog8PUe.jpg",
+    "push_ipdatetime" : "03/28 01:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "itoh",
+    "push_content" : ": 根本笑話",
+    "push_ipdatetime" : "03/28 02:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fishthehuman",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 02:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwwsdf23456",
+    "push_content" : ": 乾瞎到笑不出來",
+    "push_ipdatetime" : "03/28 02:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chu630",
+    "push_content" : ": 高雄人真的很棒XD",
+    "push_ipdatetime" : "03/28 02:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wesley723386",
+    "push_content" : ": 到底是要收多少錢才能做出這些啊 我是記者我真的會",
+    "push_ipdatetime" : "03/28 02:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ArNan",
+    "push_content" : ": 嘔嘔嘔嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/28 02:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ajim36",
+    "push_content" : ": 能不能採訪中天記者",
+    "push_ipdatetime" : "03/28 02:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "godend",
+    "push_content" : ": 最恐怖的點在於，這些竟然都是真的電視台弄得...",
+    "push_ipdatetime" : "03/28 02:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "batis",
+    "push_content" : ": 乾 中舔果然智障",
+    "push_ipdatetime" : "03/28 02:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 不要把這裡也弄的這麼八卦啦= =",
+    "push_ipdatetime" : "03/28 02:46",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rareone",
+    "push_content" : ": XDDDDDD",
+    "push_ipdatetime" : "03/28 03:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "muffinpat",
+    "push_content" : ": 還以為看了北韓的新聞",
+    "push_ipdatetime" : "03/28 03:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deeplythink",
+    "push_content" : ": 就是中共傳聲筒",
+    "push_ipdatetime" : "03/28 05:25",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ImaiLisa",
+    "push_content" : ": 台灣人要看這種新聞台真他媽可憐",
+    "push_ipdatetime" : "03/28 06:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cky0963",
+    "push_content" : ": 真他媽噁",
+    "push_ipdatetime" : "03/28 06:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s304029",
+    "push_content" : ": 垃圾媒體",
+    "push_ipdatetime" : "03/28 06:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "gincod",
+    "push_content" : ": 垃圾新聞趕快倒一倒",
+    "push_ipdatetime" : "03/28 07:14",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yao19891229",
+    "push_content" : ": 噁心 嘔嘔嘔嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/28 07:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ww",
+    "push_content" : ": 不愧是電視笑話冠軍！",
+    "push_ipdatetime" : "03/28 07:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 還有S腰帶",
+    "push_ipdatetime" : "03/28 08:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "traman",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 08:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RyanLeeoh",
+    "push_content" : ": 踩著韓國瑜的臉賺收視率的新聞台",
+    "push_ipdatetime" : "03/28 08:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HowieH",
+    "push_content" : ": 噁到笑不出來",
+    "push_ipdatetime" : "03/28 08:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zero81924",
+    "push_content" : ": 噁心文",
+    "push_ipdatetime" : "03/28 09:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dodoga",
+    "push_content" : ": 笑不出來 太噁心了",
+    "push_ipdatetime" : "03/28 09:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Timothy0225",
+    "push_content" : ": 知道中天下流 但不知道這麼下流",
+    "push_ipdatetime" : "03/28 09:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bamm",
+    "push_content" : ": 身為台灣人我真的笑不出來 幹",
+    "push_ipdatetime" : "03/28 09:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hollister",
+    "push_content" : ": 廢新聞XD",
+    "push_ipdatetime" : "03/28 10:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ccchenny",
+    "push_content" : ": 幹真的噁",
+    "push_ipdatetime" : "03/28 10:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liao18",
+    "push_content" : ": 真的夠低能 笑死我",
+    "push_ipdatetime" : "03/28 10:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "john950146",
+    "push_content" : ": 突然覺得罰一百萬已經很給面子了",
+    "push_ipdatetime" : "03/28 10:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AntiCompete",
+    "push_content" : ": 廠工二版，已遭賤吱綠畜攻陷",
+    "push_ipdatetime" : "03/28 10:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a39452011",
+    "push_content" : ": 禿子導演還來啊",
+    "push_ipdatetime" : "03/28 11:01",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yehiso",
+    "push_content" : ": 有這種媒體真的很丟臉",
+    "push_ipdatetime" : "03/28 11:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aryawhishe",
+    "push_content" : ": 看了完全不知道到底是不是反串...",
+    "push_ipdatetime" : "03/28 11:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gingivectomy",
+    "push_content" : ": 噁心的新聞台",
+    "push_ipdatetime" : "03/28 11:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aOwOa",
+    "push_content" : ": 噁心噁心",
+    "push_ipdatetime" : "03/28 11:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 終於有人整理出來了",
+    "push_ipdatetime" : "03/28 12:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s8624032",
+    "push_content" : ": 無恥低能到極點的新聞 XDDDDDD",
+    "push_ipdatetime" : "03/28 12:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dorabb",
+    "push_content" : ": 比中共電視臺低能",
+    "push_ipdatetime" : "03/28 12:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TaiyoYuden",
+    "push_content" : ": 從這篇噓文看的出愛支病患滲透台灣人情形",
+    "push_ipdatetime" : "03/28 12:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skrexepz",
+    "push_content" : ": https://i.imgur.com/2vl7aJ2.jpghttps://i.imgur.com/W",
+    "push_ipdatetime" : "03/28 12:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skrexepz",
+    "push_content" : ": UEkV3c.jpg",
+    "push_ipdatetime" : "03/28 12:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nightjoker",
+    "push_content" : ": 看到這篇還護航的下去根本腦子有病吧",
+    "push_ipdatetime" : "03/28 12:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s8905149",
+    "push_content" : ": 低能又噁心的 還是一堆腦粉愛看",
+    "push_ipdatetime" : "03/28 12:57",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "whu328",
+    "push_content" : ": 老人、低學歷、軍體系、中國人最愛這味",
+    "push_ipdatetime" : "03/28 13:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "goodboy98",
+    "push_content" : ": 這篇看到想吐，請刪文謝謝",
+    "push_ipdatetime" : "03/28 13:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tkhunter",
+    "push_content" : ": 什麼東西太超過就會令人反感 幹他媽中天",
+    "push_ipdatetime" : "03/28 13:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "johnson44",
+    "push_content" : ": 真的很扯耶！可見台灣新聞超自由",
+    "push_ipdatetime" : "03/28 13:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "family2909",
+    "push_content" : ": 是不是故意的啊 有好感都被弄噁心了",
+    "push_ipdatetime" : "03/28 13:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lovervwendy",
+    "push_content" : ": 超好笑 但我家深藍長輩都被媒體洗腦 把韓當救世主了",
+    "push_ipdatetime" : "03/28 16:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SLK350",
+    "push_content" : ": 中x",
+    "push_ipdatetime" : "03/28 16:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vivi3018",
+    "push_content" : ": 天天看的人是有什麼抗嘔吐基因嗎？",
+    "push_ipdatetime" : "03/28 16:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "time3412",
+    "push_content" : ": 一句話！ 就是噁心！",
+    "push_ipdatetime" : "03/28 18:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deamer",
+    "push_content" : ": 笑不出來。台灣居然存在這種電視台",
+    "push_ipdatetime" : "03/28 18:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deamer",
+    "push_content" : ": 感覺北韓電視台在捧金正恩一樣扯",
+    "push_ipdatetime" : "03/28 18:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deago",
+    "push_content" : ": 噁心造神，無恥之恥",
+    "push_ipdatetime" : "03/28 18:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "momowawa1981",
+    "push_content" : ": 原本以為ncc太誇張，看完這篇才知道...笑死",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "po111840921",
+    "push_content" : ": 垃圾",
+    "push_ipdatetime" : "03/28 19:22",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sam66622",
+    "push_content" : ": 這電視台在汙辱台人智商耶",
+    "push_ipdatetime" : "03/28 19:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stye08114",
+    "push_content" : ": 白癡電視台",
+    "push_ipdatetime" : "03/28 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AliceHsu",
+    "push_content" : ": 真的太瘋狂了好好笑",
+    "push_ipdatetime" : "03/28 19:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CafeRhyme",
+    "push_content" : ": 乍看好笑 但想來真的是很噁",
+    "push_ipdatetime" : "03/28 20:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twmarstw7758",
+    "push_content" : ": 韓粉不知道智商有多低才信這個",
+    "push_ipdatetime" : "03/28 20:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "moko1996",
+    "push_content" : ": 超討厭韓",
+    "push_ipdatetime" : "03/28 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "natasha50927",
+    "push_content" : ": 看到一半就笑不出來了，太荒謬",
+    "push_ipdatetime" : "03/28 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deamer",
+    "push_content" : ": 這搞笑咖居然民調還很高 民智未開",
+    "push_ipdatetime" : "03/28 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kurt90406",
+    "push_content" : ": 豆頁痛",
+    "push_ipdatetime" : "03/28 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kentwu99",
+    "push_content" : ": 一對夫妻坐在餐廳最前面一起看中天，好噁心的畫面",
+    "push_ipdatetime" : "03/28 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jokopa",
+    "push_content" : ": 反智社會的悲哀",
+    "push_ipdatetime" : "03/28 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pk90290",
+    "push_content" : ": 喜韓兒真他媽的多",
+    "push_ipdatetime" : "03/28 21:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fxxkgov",
+    "push_content" : ": 笑到並軌",
+    "push_ipdatetime" : "03/28 21:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunwit",
+    "push_content" : ": 跟北韓新聞台差不多吧",
+    "push_ipdatetime" : "03/28 21:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hunter05469",
+    "push_content" : ": 中天記者到底有沒有一點良知...",
+    "push_ipdatetime" : "03/28 22:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "cuin722",
+    "push_content" : ": 柯不是早就爬樓梯了韓爬就很厲害？",
+    "push_ipdatetime" : "03/28 22:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dd525252tw",
+    "push_content" : ": 最可悲的是推文的人其實是少數",
+    "push_ipdatetime" : "03/28 22:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markkao456",
+    "push_content" : ": 到底是三小",
+    "push_ipdatetime" : "03/28 22:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "freedomnavy",
+    "push_content" : ": 不要侮辱一頁書好嗎!!!http://i.imgur.com/Htzxwse.j",
+    "push_ipdatetime" : "03/28 23:03",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "freedomnavy",
+    "push_content" : ": pg",
+    "push_ipdatetime" : "03/28 23:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sh0032385",
+    "push_content" : ": 到底哪種人會去中夭上班啊？！",
+    "push_ipdatetime" : "03/28 23:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "toyota2211",
+    "push_content" : ": 為什麼韓不推銷台灣的麵包呢？",
+    "push_ipdatetime" : "03/28 23:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xiaoniu85",
+    "push_content" : ": 看到這些真的會生氣",
+    "push_ipdatetime" : "03/28 23:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "revise",
+    "push_content" : ": 滿滿智障新聞==",
+    "push_ipdatetime" : "03/29 00:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "htill",
+    "push_content" : ": 沒救了",
+    "push_ipdatetime" : "03/29 00:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gohey",
+    "push_content" : ": 真是噁心",
+    "push_ipdatetime" : "03/29 00:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nari8529",
+    "push_content" : ": 好恐怖到底有什麼毛病",
+    "push_ipdatetime" : "03/29 01:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wind80053",
+    "push_content" : ": 高雄人 想哭",
+    "push_ipdatetime" : "03/29 01:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t9592803",
+    "push_content" : ": 專給喜韓兒看的",
+    "push_ipdatetime" : "03/29 01:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "blackbottle",
+    "push_content" : ": 然後還是有人覺得這些很合理…台灣最不缺的真的就是",
+    "push_ipdatetime" : "03/29 02:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "blackbottle",
+    "push_content" : ": 智障",
+    "push_ipdatetime" : "03/29 02:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 真的不敢相信有人認為這是合理正常的",
+    "push_ipdatetime" : "03/29 03:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 這根本不是一個媒體電視台而是八卦粉絲專頁了吧",
+    "push_ipdatetime" : "03/29 03:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 這根本就是古裝劇裡面妖言惑眾的真實版啊",
+    "push_ipdatetime" : "03/29 03:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 場景換成古裝 中夭就像邪惡反派大宰相",
+    "push_ipdatetime" : "03/29 03:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 到處跟世人說:此人生來帝王之相，天顯鳳凰吉兆，若",
+    "push_ipdatetime" : "03/29 03:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 不由此人統帥百姓，便會禍國禍民，家破人亡，百姓流",
+    "push_ipdatetime" : "03/29 03:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 離失所，朝廷盛世之於不復啊!!",
+    "push_ipdatetime" : "03/29 03:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "q623280",
+    "push_content" : ": 閱讀此篇時感到身體不適",
+    "push_ipdatetime" : "03/29 04:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cerwvk",
+    "push_content" : ": 明顯造神",
+    "push_ipdatetime" : "03/29 07:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "geng7030",
+    "push_content" : ": 到底在衝三小啦 哈哈哈",
+    "push_ipdatetime" : "03/29 08:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hope0963",
+    "push_content" : ": 你確定中夭不是請喜憨兒上班嗎？",
+    "push_ipdatetime" : "03/29 08:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "extrachaos",
+    "push_content" : ": 扯到不行",
+    "push_ipdatetime" : "03/29 08:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monderschumi",
+    "push_content" : ": 完全把台灣人當智障在餵",
+    "push_ipdatetime" : "03/29 09:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monderschumi",
+    "push_content" : ": 重點一堆人還能覺得正常，最近看這些人發言真的智",
+    "push_ipdatetime" : "03/29 09:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monderschumi",
+    "push_content" : ": 商下降中，心累==",
+    "push_ipdatetime" : "03/29 09:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jenqhau",
+    "push_content" : ": 超越以前朱立倫吃早餐、朱立倫搭公車了。真是青出於藍",
+    "push_ipdatetime" : "03/29 11:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ZBeta",
+    "push_content" : ": 嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/29 14:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cattony710",
+    "push_content" : ": 噁心，有夠噁心",
+    "push_ipdatetime" : "03/29 15:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "horse2819",
+    "push_content" : ": 新聞真的這樣報歐 沒救了..",
+    "push_ipdatetime" : "03/29 16:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OKBow",
+    "push_content" : ": 造神造起來 世界發大財",
+    "push_ipdatetime" : "03/29 17:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GrowUp",
+    "push_content" : ": 看一半就受不了，正常一點的人根本無法，太誇張噁心了",
+    "push_ipdatetime" : "03/29 22:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "almondchoco",
+    "push_content" : ": 噁心 幹",
+    "push_ipdatetime" : "03/30 02:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vivihk215",
+    "push_content" : ": 太扯，新聞媒體真的無下限",
+    "push_ipdatetime" : "03/30 10:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "labihua",
+    "push_content" : ": 有夠噁心 看沒幾張就end",
+    "push_ipdatetime" : "03/30 15:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "fr5411",
+    "push_content" : ": 幹 笑死",
+    "push_ipdatetime" : "03/30 16:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shinchu329",
+    "push_content" : ": 台灣新聞好可悲 中夭做這些新聞的可以游過去對面了",
+    "push_ipdatetime" : "03/30 17:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shinchu329",
+    "push_content" : ": 慢走不送",
+    "push_ipdatetime" : "03/30 17:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": 習下韓上",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  } ]
+}

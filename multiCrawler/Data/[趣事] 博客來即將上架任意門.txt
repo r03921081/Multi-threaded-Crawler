@@ -1,0 +1,810 @@
+{
+  "title" : "[趣事] 博客來即將上架任意門",
+  "author" : "neil987",
+  "board" : "joke",
+  "content" : "https://www.books.com.tw/products/N001040450 https://i.imgur.com/EbqLETr.png 品牌:多拉AA好夢 上市日期:4/01 2000萬買任意門 太划算啦 商品介紹: https://i.imgur.com/Viugp2k.jpg https://i.imgur.com/hSG28vL.gif 免WiFi也能操作 https://i.imgur.com/fd5vsAE.gif 雖然榮獲各項大獎(WRONGDESIGN XD) 但是請謹慎使用 https://i.imgur.com/KX91kmD.jpg 本產品沒有包含櫻花妹 韓國老婆 https://i.imgur.com/jhB70iz.png 愚人節快樂 鬧XD -- ",
+  "date" : "Thu Mar 28 12:17:31 2019",
+  "ip" : "163.18.49.40",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553746674.A.BD5.html",
+  "pushList" : [ {
+    "push_userid" : "sixB",
+    "push_content" : ": 我訂了 樓下跟上",
+    "push_ipdatetime" : "03/28 12:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 我還沒訂，要團購的+1，我想賺信用卡回饋金",
+    "push_ipdatetime" : "03/28 12:28",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "genelin",
+    "push_content" : ": 21120903...多啦A夢的生日... XDD",
+    "push_ipdatetime" : "03/28 12:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pyrolith",
+    "push_content" : ": 這三小",
+    "push_ipdatetime" : "03/28 12:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FreeWiFi",
+    "push_content" : ": 針對三小啊 我就想用WiFi啊",
+    "push_ipdatetime" : "03/28 13:07",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mayijie",
+    "push_content" : ": 哈哈哈",
+    "push_ipdatetime" : "03/28 13:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chith",
+    "push_content" : ": 太貴了想跟人合資買一個",
+    "push_ipdatetime" : "03/28 13:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chith",
+    "push_content" : ": 我出10元",
+    "push_ipdatetime" : "03/28 13:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tom282f3",
+    "push_content" : ": 笑死XD",
+    "push_ipdatetime" : "03/28 13:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ali810622",
+    "push_content" : ": 好東西欸",
+    "push_ipdatetime" : "03/28 13:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Xperia",
+    "push_content" : ": XDDD這個不錯",
+    "push_ipdatetime" : "03/28 13:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whitebe6",
+    "push_content" : ": XDDD也太早公佈了吧",
+    "push_ipdatetime" : "03/28 14:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RicciCurvatu",
+    "push_content" : ": 有任意門為什麼還要物流選項...?",
+    "push_ipdatetime" : "03/28 14:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chanceiam",
+    "push_content" : ": 今天才328",
+    "push_ipdatetime" : "03/28 14:15",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jack011900",
+    "push_content" : ": 用一萬次不會壞 找一萬人合買 一人兩萬用一次 便宜",
+    "push_ipdatetime" : "03/28 14:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allenlee6710",
+    "push_content" : ": 太早啦 XDD",
+    "push_ipdatetime" : "03/28 14:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jack011900",
+    "push_content" : ": 兩千才對",
+    "push_ipdatetime" : "03/28 14:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bt022",
+    "push_content" : ": 22K小資男孩怎麼買得起啦！",
+    "push_ipdatetime" : "03/28 14:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oncemore",
+    "push_content" : ": 我記得有一集大雄跟哆啦A夢自己做一個任意門",
+    "push_ipdatetime" : "03/28 14:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miyokumiyoko",
+    "push_content" : ": 這篇釣的到多拉王嗎？",
+    "push_ipdatetime" : "03/28 14:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiwa",
+    "push_content" : ": 想要",
+    "push_ipdatetime" : "03/28 14:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nic5566",
+    "push_content" : ": 15樓，還要算回程（給下一個人）。除非門一直放在原位，",
+    "push_ipdatetime" : "03/28 14:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nic5566",
+    "push_content" : ": 並保持開啟狀態，所以應該是四萬塊，兩次開關/每人。",
+    "push_ipdatetime" : "03/28 14:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jjomj666",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 14:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "minaminojill",
+    "push_content" : ": 好便宜想買",
+    "push_ipdatetime" : "03/28 14:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jareds123",
+    "push_content" : ": 有通往靜香家浴室的門嗎？",
+    "push_ipdatetime" : "03/28 14:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ikea1261",
+    "push_content" : ": 想買",
+    "push_ipdatetime" : "03/28 14:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joyceeee12",
+    "push_content" : ": 還有翻譯蒟蒻到底是三小xD",
+    "push_ipdatetime" : "03/28 14:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "albert7387",
+    "push_content" : ": 樓下跟我說一萬乘2萬是不是2000萬",
+    "push_ipdatetime" : "03/28 14:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onepiece957",
+    "push_content" : ": 買了",
+    "push_ipdatetime" : "03/28 14:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "angel0328",
+    "push_content" : ": 還有其餘超值商品可選購喔 平常文案都沒那麼認真xD",
+    "push_ipdatetime" : "03/28 14:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rockpepper",
+    "push_content" : ": 樓下多啦王",
+    "push_ipdatetime" : "03/28 15:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nutted",
+    "push_content" : ": 插一點",
+    "push_ipdatetime" : "03/28 15:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 團購啦",
+    "push_ipdatetime" : "03/28 15:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "miwy",
+    "push_content" : ": https://www.books.com.tw/products/N001039020 記憶吐司XD",
+    "push_ipdatetime" : "03/28 15:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pewsggl",
+    "push_content" : ": 博客來最近滿好笑的",
+    "push_ipdatetime" : "03/28 15:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "felix1031",
+    "push_content" : ": 兩千萬買未來黑科技，便宜！",
+    "push_ipdatetime" : "03/28 15:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chith",
+    "push_content" : ": 仔細看網站還有竹蜻蜓 縮小燈 記憶吐司XDD",
+    "push_ipdatetime" : "03/28 15:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cs9850712",
+    "push_content" : ": 這麼早就慶祝喔",
+    "push_ipdatetime" : "03/28 15:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youGG",
+    "push_content" : ": 真有的話一億我也買，買了先去銀行搬錢",
+    "push_ipdatetime" : "03/28 15:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "patoheart",
+    "push_content" : ": 圖片好用心XDDD",
+    "push_ipdatetime" : "03/28 15:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yanguikao",
+    "push_content" : ": 小資男買得起才怪啦XDD",
+    "push_ipdatetime" : "03/28 15:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pepro",
+    "push_content" : ": 仔細看標價其實是在指22世紀 也就是多啦A夢誕生的年代",
+    "push_ipdatetime" : "03/28 15:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "neil112379",
+    "push_content" : ": 怎麼沒攜帶式靜香",
+    "push_ipdatetime" : "03/28 15:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": 好ㄎㄧㄤ啊 XDDD",
+    "push_ipdatetime" : "03/28 15:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yanguikao",
+    "push_content" : ": https://i.imgur.com/ml2VOLD.jpg",
+    "push_ipdatetime" : "03/28 15:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sanewnew",
+    "push_content" : ": 哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 15:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nekohao",
+    "push_content" : ": 可惡啊超想買",
+    "push_ipdatetime" : "03/28 15:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tyybac",
+    "push_content" : ": 太有趣了吧XDD",
+    "push_ipdatetime" : "03/28 15:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "getx105",
+    "push_content" : ": 我想下單R～乾",
+    "push_ipdatetime" : "03/28 15:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "acs81046",
+    "push_content" : ": 偷跑了啦",
+    "push_ipdatetime" : "03/28 15:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nekohao",
+    "push_content" : ": https://i.imgur.com/S66KIMw.jpg",
+    "push_ipdatetime" : "03/28 15:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "meowchen",
+    "push_content" : ": 偷跑啦",
+    "push_ipdatetime" : "03/28 15:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chith",
+    "push_content" : ": 記憶吐司跟翻譯蒟蒻的文案感覺嗑了很多www",
+    "push_ipdatetime" : "03/28 16:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "keith780902",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 16:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mayday218",
+    "push_content" : ": 我需要記憶吐司",
+    "push_ipdatetime" : "03/28 16:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kreen",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/28 16:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imgenebaby",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 16:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mm0107386",
+    "push_content" : ": 我也想賺信用卡回饋金",
+    "push_ipdatetime" : "03/28 16:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "che412100",
+    "push_content" : ": 盜版的 門把是圓的才對",
+    "push_ipdatetime" : "03/28 16:37",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "juncc118",
+    "push_content" : ": 被禁錮的心靈好想深呼吸",
+    "push_ipdatetime" : "03/28 16:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "knightage",
+    "push_content" : ": 4/1 特別企劃？",
+    "push_ipdatetime" : "03/28 16:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "DyBrUzAwA",
+    "push_content" : ": 分期分好久",
+    "push_ipdatetime" : "03/28 16:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "skyfall007",
+    "push_content" : ": 不支援5G不行！",
+    "push_ipdatetime" : "03/28 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HaHaPoint",
+    "push_content" : ": 抵用購物金最多再省$6336271 詳情",
+    "push_ipdatetime" : "03/28 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CrazyBug",
+    "push_content" : ": 樓下哆啦王",
+    "push_ipdatetime" : "03/28 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunnywing",
+    "push_content" : ": 買來開旅行社 2千萬馬上回本",
+    "push_ipdatetime" : "03/28 17:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "luke7212",
+    "push_content" : ": 喔我的天啊我也笑死了XDDD",
+    "push_ipdatetime" : "03/28 17:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuhurefu",
+    "push_content" : ": 記憶吐司哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "feedcat",
+    "push_content" : ": 一萬乘兩萬",
+    "push_ipdatetime" : "03/28 17:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lcw33242976",
+    "push_content" : ": 有內建靜香家浴室我就買",
+    "push_ipdatetime" : "03/28 17:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chenyoung411",
+    "push_content" : ": 超便宜，有人要合購嗎",
+    "push_ipdatetime" : "03/28 17:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "brian910615",
+    "push_content" : ": 樓下哆啦王",
+    "push_ipdatetime" : "03/28 17:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "girafa",
+    "push_content" : ": 突然覺得好便宜喔 哈哈",
+    "push_ipdatetime" : "03/28 17:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "iamseanli",
+    "push_content" : ": 哈哈哈哈哈哈 靠腰我笑到美叮美噹",
+    "push_ipdatetime" : "03/28 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whocarescoco",
+    "push_content" : ": 文案也太用心XDDDDDD",
+    "push_ipdatetime" : "03/28 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cabron",
+    "push_content" : ": 想要竹蜻蜓",
+    "push_ipdatetime" : "03/28 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "namis77",
+    "push_content" : ": 竟然沒有猶豫期，上消保會了啦",
+    "push_ipdatetime" : "03/28 18:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AlvaroMorata",
+    "push_content" : ": 還不買爆",
+    "push_ipdatetime" : "03/28 18:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "icexfox",
+    "push_content" : ": 買起來",
+    "push_ipdatetime" : "03/28 18:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zswfrk",
+    "push_content" : ": 多啦王買我就買",
+    "push_ipdatetime" : "03/28 18:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwwsdf23456",
+    "push_content" : ": 嗑了三小",
+    "push_ipdatetime" : "03/28 18:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "conanai",
+    "push_content" : ": 太早啦",
+    "push_ipdatetime" : "03/28 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twinkle36111",
+    "push_content" : ": 好酷",
+    "push_ipdatetime" : "03/28 19:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AmazingRustu",
+    "push_content" : ": 最喜歡認真地胡說八道了XDDDDD",
+    "push_ipdatetime" : "03/28 19:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pixis",
+    "push_content" : ": 21120904",
+    "push_ipdatetime" : "03/28 19:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ZaneLin",
+    "push_content" : ": 為什麼是21120904～",
+    "push_ipdatetime" : "03/28 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EmeraldAZ",
+    "push_content" : ": 哆啦A夢生日啊，西元2112年9月3日",
+    "push_ipdatetime" : "03/28 20:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lskd",
+    "push_content" : ": 樓下哆啦王",
+    "push_ipdatetime" : "03/28 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LoveFN",
+    "push_content" : ": 好喜歡這種胡鬧的",
+    "push_ipdatetime" : "03/28 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LoveFN",
+    "push_content" : ": 對不起樓上 845",
+    "push_ipdatetime" : "03/28 20:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "XseraphimX",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobyth",
+    "push_content" : ": 想要",
+    "push_ipdatetime" : "03/28 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tequlia7616",
+    "push_content" : ": 結果是獲選音樂小老師",
+    "push_ipdatetime" : "03/28 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "woogee",
+    "push_content" : ": 爛業配",
+    "push_ipdatetime" : "03/28 21:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "SeTeVen",
+    "push_content" : ": 昨天有看到，超好笑",
+    "push_ipdatetime" : "03/28 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SeTeVen",
+    "push_content" : ": 還特地做一堆圖檔放介紹",
+    "push_ipdatetime" : "03/28 21:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Scorfish",
+    "push_content" : ": 招喚ffaarr",
+    "push_ipdatetime" : "03/28 22:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popo3809490",
+    "push_content" : ": 想買攜帶式靜香",
+    "push_ipdatetime" : "03/28 22:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zo3chen",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/28 22:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "learnpig",
+    "push_content" : ": 樓下想買放大燈照攔轎",
+    "push_ipdatetime" : "03/28 22:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yanguikao",
+    "push_content" : ": 咦！記憶吐司的頁面不見了",
+    "push_ipdatetime" : "03/28 22:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jodawa",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 22:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LegendaryOli",
+    "push_content" : ": 記憶吐司我快笑死XDD",
+    "push_ipdatetime" : "03/28 23:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "camomie",
+    "push_content" : ": 超想買",
+    "push_ipdatetime" : "03/28 23:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ueiueiuei",
+    "push_content" : ": 愚人節還沒到，你跟我說愚人？給我往死裡打",
+    "push_ipdatetime" : "03/29 00:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "afrazhao",
+    "push_content" : ": 好貴...只好坐等開箱",
+    "push_ipdatetime" : "03/29 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QVQ9487",
+    "push_content" : ": 我只買時間停止器",
+    "push_ipdatetime" : "03/29 00:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "olaftofu",
+    "push_content" : ": 想買",
+    "push_ipdatetime" : "03/29 01:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": ㄎㄧㄤ",
+    "push_ipdatetime" : "03/29 01:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "doom3",
+    "push_content" : ": 四月一號還沒到阿...",
+    "push_ipdatetime" : "03/29 02:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "peter0825",
+    "push_content" : ": 1",
+    "push_ipdatetime" : "03/29 03:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pjason",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 04:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "suea",
+    "push_content" : ": 開殺小旅行社 走私一趟就回本了",
+    "push_ipdatetime" : "03/29 07:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frice",
+    "push_content" : ": 能背周期表結果當選音樂小老師",
+    "push_ipdatetime" : "03/29 07:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "edwardtp",
+    "push_content" : ": 記憶吐司下架了！",
+    "push_ipdatetime" : "03/29 08:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rutp6j35566",
+    "push_content" : ": XD 想要",
+    "push_ipdatetime" : "03/29 08:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gfhnrtjpoiuy",
+    "push_content" : ": ㄎㄧㄤ",
+    "push_ipdatetime" : "03/29 08:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "domx",
+    "push_content" : ": 可訂購時通知我(點)",
+    "push_ipdatetime" : "03/29 08:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Secret69",
+    "push_content" : ": 剛好想旅遊了 樓下要衝一波嗎",
+    "push_ipdatetime" : "03/29 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Phattie",
+    "push_content" : ": Joman該開箱了吧",
+    "push_ipdatetime" : "03/29 10:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kop5236",
+    "push_content" : ": 竹蜻蜓直接拿一根竹蜻蜓差在工地安全帽上XDDD",
+    "push_ipdatetime" : "03/29 10:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ebiya",
+    "push_content" : ": 想要！",
+    "push_ipdatetime" : "03/29 12:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rsps1008",
+    "push_content" : ": 坐等開箱",
+    "push_ipdatetime" : "03/29 12:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2156700",
+    "push_content" : ": 2千萬 CP值很高",
+    "push_ipdatetime" : "03/29 12:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eldar",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 12:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "h22412459",
+    "push_content" : ": 愚人節上架……",
+    "push_ipdatetime" : "03/29 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "taleschia",
+    "push_content" : ": 還沒愚人節就偷跑",
+    "push_ipdatetime" : "03/29 13:14",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "k078787878",
+    "push_content" : ": 兩千萬買了不能用可以告他嗎",
+    "push_ipdatetime" : "03/29 13:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "phoebe9517",
+    "push_content" : ": 好認真XDDD",
+    "push_ipdatetime" : "03/29 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vbmtyh",
+    "push_content" : ": 鑑賞期通到銀行金庫，撈完一大筆後退貨",
+    "push_ipdatetime" : "03/29 13:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aivc",
+    "push_content" : ": 有人要集資嗎？私訊我",
+    "push_ipdatetime" : "03/29 13:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobosheep",
+    "push_content" : ": 有沒有賣靜香",
+    "push_ipdatetime" : "03/29 14:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "loveBendzko4",
+    "push_content" : ": 幽默XDD",
+    "push_ipdatetime" : "03/29 14:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yurmom",
+    "push_content" : ": 15樓數學老師還好嗎",
+    "push_ipdatetime" : "03/29 14:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "STRO",
+    "push_content" : ": 小編呼麻喔XD",
+    "push_ipdatetime" : "03/29 15:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zeroyang",
+    "push_content" : ": 有如果電話亭我就買",
+    "push_ipdatetime" : "03/29 16:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "P5566",
+    "push_content" : ": 集資買起來",
+    "push_ipdatetime" : "03/29 18:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lgthbo",
+    "push_content" : ": 是不是關掉了?",
+    "push_ipdatetime" : "03/29 18:52",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "cavitylapper",
+    "push_content" : ": 這門把一看就是山寨貨",
+    "push_ipdatetime" : "03/29 18:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coco2501",
+    "push_content" : ": 進不去了QQ",
+    "push_ipdatetime" : "03/29 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "godog3000",
+    "push_content" : ": 小噓一下業配",
+    "push_ipdatetime" : "03/29 21:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "alice1967",
+    "push_content" : ": 那就不用旅行了啊，櫻花看完回家吃晚餐，讚",
+    "push_ipdatetime" : "03/29 21:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "e12401421",
+    "push_content" : ": 那麼 哪裡才買的到呢?",
+    "push_ipdatetime" : "03/29 22:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v320i",
+    "push_content" : ": @@",
+    "push_ipdatetime" : "03/30 00:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "GDert9b",
+    "push_content" : ": 真是太神奇！！",
+    "push_ipdatetime" : "03/30 00:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GDert9b",
+    "push_content" : ": https://blacktea77.pixnet.net/blog/post/267391648",
+    "push_ipdatetime" : "03/30 00:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Eastmond",
+    "push_content" : ": 一千萬根本便宜",
+    "push_ipdatetime" : "03/30 00:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jimhall",
+    "push_content" : ": 四月一日要用的梗吧",
+    "push_ipdatetime" : "03/30 01:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awaken",
+    "push_content" : ": 我要用貨到付款",
+    "push_ipdatetime" : "03/30 07:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "injoyful",
+    "push_content" : ": 我跟男友說要這個 他叫我先買再給我錢....",
+    "push_ipdatetime" : "03/30 08:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "emma102803",
+    "push_content" : ": 推XD文案太好笑",
+    "push_ipdatetime" : "03/30 09:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wishyouhowev",
+    "push_content" : ": 連Wi-Fi可以傳比較遠嗎？",
+    "push_ipdatetime" : "03/30 09:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sillyboytw",
+    "push_content" : ": 原來價格是哆啦A夢的生日",
+    "push_ipdatetime" : "03/30 09:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TommyTora",
+    "push_content" : ": 等等，別提早上架啊喂w",
+    "push_ipdatetime" : "03/30 11:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OGC218",
+    "push_content" : ": 沒有西方極樂世界，但有可能有陰曹地府吧",
+    "push_ipdatetime" : "03/30 11:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crorangeazy",
+    "push_content" : ": 總經理女友有夠靠杯XDD",
+    "push_ipdatetime" : "03/30 13:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PanChen",
+    "push_content" : ": http://i.imgur.com/omy321f.jpg",
+    "push_ipdatetime" : "03/30 13:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": 2000萬 XD 買了就不用買車了",
+    "push_ipdatetime" : "03/30 18:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ww112266",
+    "push_content" : ": 買任意門比較划算",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  } ]
+}

@@ -2,7 +2,7 @@
   "title" : "Fw: [尋人] 朋友媽媽失蹤",
   "author" : "rayray0410",
   "board" : "Gossiping",
-  "content" : " [本文轉錄自 PingTung 看板 #1SdZw24N ] 作者: rayray0410 (D-O-DoubleG) 看板: PingTung 標題: 朋友媽媽失蹤 時間: Fri Mar 29 23:49:20 2019 此人在3/28下午三點左右離開家裡後再也沒有回來！ （家裡住址：屏東縣林邊鄉） 她當天身穿牛仔褲，是徒步離開家裡的且因為喝了大量的酒，意識模糊 患有重度憂鬱症，也有輕生的念頭所以緊急麻煩大家幫忙找一下!! 經常的活動範圍在林邊和東港之間 年齡49歲，短髮女性，身型消瘦，身高158左右 麻煩有看到類似的人請打電話0931761925蘇先生或0979199367蘇小姐 有其他問題也可以留言問我！謝謝 真的麻煩大家幫忙找一下 她的家人們都相當的擔心她！ https://imgur.com/ildtnuw https://imgur.com/r8QAznm --  發信站: 批踢踢實業坊(ptt.cc), 來自: 123.192.103.50  文章網址: https://www.ptt.cc/bbs/PingTung/M.1553874562.A.117.html ",
+  "content" : "更新！已經找到人了 謝謝各位的幫助 —————————————- ※ [本文轉錄自 PingTung 看板 #1SdZw24N ] 作者: rayray0410 (D-O-DoubleG) 看板: PingTung 標題: 朋友媽媽失蹤 時間: Fri Mar 29 23:49:20 2019 此人在3/28下午三點左右離開家裡後再也沒有回來！ （家裡住址：屏東縣林邊鄉） 她當天身穿牛仔褲，是徒步離開家裡的且因為喝了大量的酒，意識模糊 患有重度憂鬱症，也有輕生的念頭所以緊急麻煩大家幫忙找一下!! 經常的活動範圍在林邊和東港之間 年齡49歲，短髮女性，身型消瘦，身高158左右 麻煩有看到類似的人請打電話0931761925蘇先生或0979199367蘇小姐 有其他問題也可以留言問我！謝謝 真的麻煩大家幫忙找一下 她的家人們都相當的擔心她！ https://imgur.com/ildtnuw https://imgur.com/r8QAznm -- ",
   "date" : "Sat Mar 30 00:02:28 2019",
   "ip" : "123.192.103.50",
   "url" : "/bbs/PingTung/M.1553874562.A.117.html",
@@ -620,6 +620,16 @@
     "push_userid" : "sumiho",
     "push_content" : ": 高調",
     "push_ipdatetime" : "03/30 16:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "peggy61133",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chaitomaster",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:40",
     "push_tag" : "推"
   } ]
 }

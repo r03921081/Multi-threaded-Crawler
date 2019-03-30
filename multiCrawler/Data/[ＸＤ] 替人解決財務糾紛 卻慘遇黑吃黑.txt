@@ -1,0 +1,490 @@
+{
+  "title" : "[ＸＤ] 替人解決財務糾紛 卻慘遇黑吃黑",
+  "author" : "AHuuu",
+  "board" : "joke",
+  "content" : "小弟和朋友們一起拍的 大家無聊就看看吧 https://youtu.be/HVX3TEkcnaI 感謝大家上次的支持 希望這次也能娛樂到大家 -- ",
+  "date" : "Fri Mar 29 17:39:59 2019",
+  "ip" : "125.227.5.137",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553852402.A.597.html",
+  "pushList" : [ {
+    "push_userid" : "yan1979",
+    "push_content" : ": 還不錯啦 黑道片應該要用點慢動作吧",
+    "push_ipdatetime" : "03/29 17:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 好笑推",
+    "push_ipdatetime" : "03/29 18:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "po11po11",
+    "push_content" : ": 好笑推",
+    "push_ipdatetime" : "03/29 18:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "samlokiller",
+    "push_content" : ": …模仿炮哥出擊嗎哈哈哈好笑",
+    "push_ipdatetime" : "03/29 18:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shevchenlun",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/29 19:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mcwagamama",
+    "push_content" : ": 還不錯",
+    "push_ipdatetime" : "03/29 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youwilldie",
+    "push_content" : ": 這是酸爆大陸網路爛片吧XDDD",
+    "push_ipdatetime" : "03/29 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SentLiTryPay",
+    "push_content" : ": 還可以",
+    "push_ipdatetime" : "03/29 22:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "airiguodala",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/29 22:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tawa",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/29 22:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "InnGee",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/29 23:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tmd8522",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/29 23:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DieDog",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/29 23:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leeyongdae",
+    "push_content" : ": 不錯啦",
+    "push_ipdatetime" : "03/29 23:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cherish968",
+    "push_content" : ": 類似戲劇之王的收保護費片段吧",
+    "push_ipdatetime" : "03/29 23:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cherish968",
+    "push_content" : ": *喜劇",
+    "push_ipdatetime" : "03/29 23:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "enjoy1718",
+    "push_content" : ": 不錯啦",
+    "push_ipdatetime" : "03/29 23:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DazaiOsamu",
+    "push_content" : ": 馬賽克有打跟沒打一樣==",
+    "push_ipdatetime" : "03/30 00:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "uuuuOPuff",
+    "push_content" : ": 現在才發現這ID 有空會去看之前的影片 最近兩部都不錯",
+    "push_ipdatetime" : "03/30 00:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onelife",
+    "push_content" : ": 還不錯 XD",
+    "push_ipdatetime" : "03/30 00:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oac79228",
+    "push_content" : ": 小夥伴的馬賽克夠爛XD",
+    "push_ipdatetime" : "03/30 00:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kirbykirbyk",
+    "push_content" : ": 葫蘆國小欸，懷念",
+    "push_ipdatetime" : "03/30 01:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kosoj6",
+    "push_content" : ": 老闆叫我來推",
+    "push_ipdatetime" : "03/30 01:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 推文講到喜劇之王我才想到xD",
+    "push_ipdatetime" : "03/30 01:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a989876",
+    "push_content" : ": 有點像大陸的那種裝逼短片",
+    "push_ipdatetime" : "03/30 01:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shyofly",
+    "push_content" : ": 哈哈哈哈 很可以",
+    "push_ipdatetime" : "03/30 01:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pttouch",
+    "push_content" : ": 內容普通 不過節奏蠻好的 先給箭頭等你進步再推",
+    "push_ipdatetime" : "03/30 01:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kkkkkk",
+    "push_content" : ": 比大陸幹片好太多了",
+    "push_ipdatetime" : "03/30 02:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bowenhp1234",
+    "push_content" : ": 不錯啦",
+    "push_ipdatetime" : "03/30 02:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": OK啦",
+    "push_ipdatetime" : "03/30 02:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mariandtmac",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/30 02:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Benado",
+    "push_content" : ": 鳥",
+    "push_ipdatetime" : "03/30 02:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rex20032",
+    "push_content" : ": 親友團？",
+    "push_ipdatetime" : "03/30 02:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "lshcyc",
+    "push_content" : ": 節奏不錯",
+    "push_ipdatetime" : "03/30 02:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xxxqma",
+    "push_content" : ": 廢到笑",
+    "push_ipdatetime" : "03/30 03:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "efbnm753",
+    "push_content" : ": 朋友多了不起？",
+    "push_ipdatetime" : "03/30 03:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "royformac",
+    "push_content" : ": 完全笑不出來啊",
+    "push_ipdatetime" : "03/30 03:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "wowidamajohn",
+    "push_content" : ": 最後嘴角上揚 給個推好了",
+    "push_ipdatetime" : "03/30 03:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sanadakenta",
+    "push_content" : ": 有心創作 給予支持",
+    "push_ipdatetime" : "03/30 03:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamnotme",
+    "push_content" : ": 蠻有趣的XD",
+    "push_ipdatetime" : "03/30 06:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "astraeajie",
+    "push_content" : ": 親友團嗎 哪裡好笑了",
+    "push_ipdatetime" : "03/30 07:06",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "schumy4",
+    "push_content" : ": 我倒覺得挺好笑的，支持續集",
+    "push_ipdatetime" : "03/30 07:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hcln24",
+    "push_content" : ": 哈。拍的品質不錯",
+    "push_ipdatetime" : "03/30 07:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "peter80343",
+    "push_content" : ": 好想把你噓到崩潰",
+    "push_ipdatetime" : "03/30 07:42",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "siangkeith",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/30 08:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "faint308",
+    "push_content" : ": 還不錯啊",
+    "push_ipdatetime" : "03/30 08:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FollowMe6",
+    "push_content" : ": 還行 丟錢的鏡頭不錯",
+    "push_ipdatetime" : "03/30 08:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qazxz0504",
+    "push_content" : ": 模仿娜娜嗎XD",
+    "push_ipdatetime" : "03/30 09:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sailinlaomu",
+    "push_content" : ": 很可以XD",
+    "push_ipdatetime" : "03/30 09:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GreenLabel",
+    "push_content" : ": 推推 上次的也不錯",
+    "push_ipdatetime" : "03/30 09:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chalon",
+    "push_content" : ": 哈哈 不錯笑",
+    "push_ipdatetime" : "03/30 09:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lai777",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/30 09:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "headiron",
+    "push_content" : ": 其實還不錯笑",
+    "push_ipdatetime" : "03/30 09:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo90660jw",
+    "push_content" : ": 建議丟出來的掛號費可以多一張一千。然後只給小夥伴20",
+    "push_ipdatetime" : "03/30 09:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo90660jw",
+    "push_content" : ": 200",
+    "push_ipdatetime" : "03/30 09:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "liquidbox",
+    "push_content" : ": 運鏡不像外行，也蠻有梗",
+    "push_ipdatetime" : "03/30 10:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Antia691",
+    "push_content" : ": 可以耶",
+    "push_ipdatetime" : "03/30 10:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chriswolf",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/30 10:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nichaellin",
+    "push_content" : ": 我覺得不錯阿哈哈哈哈",
+    "push_ipdatetime" : "03/30 10:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "haha1989888",
+    "push_content" : ": 靠杯好好笑XDDD",
+    "push_ipdatetime" : "03/30 10:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "david213",
+    "push_content" : ": 上面那個是傻了嗎？ 收1000給20200幹嘛",
+    "push_ipdatetime" : "03/30 11:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dandy1223",
+    "push_content" : ": 還不錯XDDDDDDDDDD",
+    "push_ipdatetime" : "03/30 11:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iPhoneX",
+    "push_content" : ": 哪有黑吃黑",
+    "push_ipdatetime" : "03/30 11:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wiisonjacky",
+    "push_content" : ": 這次老闆給你的目標是多少讚",
+    "push_ipdatetime" : "03/30 11:25",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "huabandd",
+    "push_content" : ": 唯一笑點馬賽克打得亂七八糟",
+    "push_ipdatetime" : "03/30 11:28",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "islu",
+    "push_content" : ": 從頭到尾笑不出來",
+    "push_ipdatetime" : "03/30 11:47",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jxxk",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/30 12:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "howdo1793",
+    "push_content" : ": 廢到笑",
+    "push_ipdatetime" : "03/30 12:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 朋友很多哦= =這片連要看完都很難…",
+    "push_ipdatetime" : "03/30 12:50",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chenyoung411",
+    "push_content" : ": 看在小朋友可愛的份上給推",
+    "push_ipdatetime" : "03/30 13:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hellk",
+    "push_content" : ": 滿鳥的 去幼稚園放給小班看 或許會有人喜歡",
+    "push_ipdatetime" : "03/30 13:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "IvanLord",
+    "push_content" : ": 尬",
+    "push_ipdatetime" : "03/30 13:41",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "dumdumdum",
+    "push_content" : ": 還行 鼓勵推",
+    "push_ipdatetime" : "03/30 14:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "keynes0420",
+    "push_content" : ": 不錯啊",
+    "push_ipdatetime" : "03/30 14:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Garbolin",
+    "push_content" : ": 還可以啦 有笑",
+    "push_ipdatetime" : "03/30 14:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Garbolin",
+    "push_content" : ": 小孩有加分",
+    "push_ipdatetime" : "03/30 14:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ndk23581",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/30 14:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lougii",
+    "push_content" : ": 節奏很棒",
+    "push_ipdatetime" : "03/30 16:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TaiwanSirius",
+    "push_content" : ": 反詐騙",
+    "push_ipdatetime" : "03/30 16:17",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "augxwp601",
+    "push_content" : ": 節奏不錯，推",
+    "push_ipdatetime" : "03/30 16:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jimmy1101010",
+    "push_content" : ": 推 上次的也不錯",
+    "push_ipdatetime" : "03/30 16:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rtyudj",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/30 16:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "marderly",
+    "push_content" : ": 不錯笑",
+    "push_ipdatetime" : "03/30 16:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kid1a2b3c4d",
+    "push_content" : ": 還不錯",
+    "push_ipdatetime" : "03/30 16:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ly4138",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thpss90187",
+    "push_content" : ": 其實意外的好笑欸",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Cupman",
+    "push_content" : ": 「那個矮矮的」畫面笑死XDDDD",
+    "push_ipdatetime" : "03/30 17:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cmonstarling",
+    "push_content" : ": Xd",
+    "push_ipdatetime" : "03/30 17:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abcrr123",
+    "push_content" : ": ??????",
+    "push_ipdatetime" : "03/30 18:01",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Zeldaman",
+    "push_content" : ": ？",
+    "push_ipdatetime" : "03/30 19:12",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "tom600488",
+    "push_content" : ": 靠 那不是社子的葫蘆國小嗎?",
+    "push_ipdatetime" : "03/30 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rfdgrfdg",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/30 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chubbygreedy",
+    "push_content" : ": 廢到笑",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DrFuck",
+    "push_content" : ": 水準比網路上一堆爛短片好很多。",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sjr500",
+    "push_content" : ": 夠白痴，但我喜歡，有笑給推，有看過大陸這種廢片的會更有",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sjr500",
+    "push_content" : ": 感吧XD",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "→"
+  } ]
+}

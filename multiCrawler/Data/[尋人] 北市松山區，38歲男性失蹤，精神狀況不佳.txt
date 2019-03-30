@@ -2,7 +2,7 @@
   "title" : "[尋人] 北市松山區，38歲男性失蹤，精神狀況不佳",
   "author" : "azoooo",
   "board" : "Gossiping",
-  "content" : "各位大大好，我的朋友【石石】失蹤三天了!! 3/26(二)晚間他從台北市【八德路】附近住家處走出，到現在還沒回家。 家人已報警，但調閱監視器至【撫遠街】即失去蹤跡。 因為他的精神狀況不佳，親友非常擔心， 拜託神通廣大鄉民好朋友們幫忙找人!! 以下是石石的相關資訊，如果您有曾經看到他，或有任何線索， 可留言告知或直接聯繫他母親王小姐0952820148，非常感謝大家的幫忙!! 【相關資訊】 姓名：尹存華 外號：石石 男性38歲，約170cm，中等身材 灰黑色平頭，有鬍子 出門時穿黑色衣服、光腳、沒戴眼鏡、沒帶包包 【照片】 https://imgur.com/sVZPAdt https://imgur.com/gVDU0js 【FB協尋啟示】請幫忙轉發 https://www.facebook.com/yuru.hsieh.9/posts/10156947534646698 拜託大家幫忙了!!謝謝!! --  發信站: 批踢踢實業坊(ptt.cc), 來自: 36.224.5.111 ",
+  "content" : "各位大大好，我的朋友【石石】失蹤三天了!! 3/26(二)晚間他從台北市【八德路】附近住家處走出，到現在還沒回家。 家人已報警，但調閱監視器至【撫遠街】即失去蹤跡。 因為他的精神狀況不佳，親友非常擔心， 拜託神通廣大鄉民好朋友們幫忙找人!! 以下是石石的相關資訊，如果您有曾經看到他，或有任何線索， 可留言告知或直接聯繫他母親王小姐0952820148，非常感謝大家的幫忙!! 【相關資訊】 姓名：尹存華 外號：石石 男性38歲，約170cm，中等身材 灰黑色平頭，有鬍子 出門時穿黑色衣服、光腳、沒戴眼鏡、沒帶包包 【照片】 https://imgur.com/sVZPAdt https://imgur.com/gVDU0js 【FB協尋啟示】請幫忙轉發 https://www.facebook.com/yuru.hsieh.9/posts/10156947534646698 拜託大家幫忙了!!謝謝!! -- ",
   "date" : "Sat Mar 30 00:41:24 2019",
   "ip" : "36.224.5.111",
   "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553877690.A.7E4.html",
@@ -535,6 +535,36 @@
     "push_userid" : "BoYan",
     "push_content" : ": 高調",
     "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tunajia",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "citizen5566",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "peggy61133",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "peedrum",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "howardhope",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 19:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "killbaga",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 20:32",
     "push_tag" : "推"
   } ]
 }

@@ -1,0 +1,1500 @@
+{
+  "title" : "[ＸＤ] 用一部電影名稱形容自己的性生活",
+  "author" : "SeanLyee",
+  "board" : "joke",
+  "content" : "剛剛滑臉書看到的 http://i.imgur.com/eZm9e2A.jpg 底下的留言… http://i.imgur.com/65nn6qd.jpg 五樓馴龍高手 ----- Sent from JPTT on my Samsung SM-G965F. -- ",
+  "date" : "Mon Mar 25 23:08:26 2019",
+  "ip" : "110.50.143.102",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553526510.A.71B.html",
+  "pushList" : [ {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": MISSION IMPOSSIBLE",
+    "push_ipdatetime" : "03/25 23:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alwaysstrong",
+    "push_content" : ": 永遠的0",
+    "push_ipdatetime" : "03/25 23:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": 樓上甲甲",
+    "push_ipdatetime" : "03/25 23:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mjsie",
+    "push_content" : ": 肉食女的是雞不可失",
+    "push_ipdatetime" : "03/25 23:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 玩具總動員啦幹",
+    "push_ipdatetime" : "03/25 23:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "archie403",
+    "push_content" : ": 走錯房門上對床",
+    "push_ipdatetime" : "03/25 23:25",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mouz",
+    "push_content" : ": The 40 year old virgin.",
+    "push_ipdatetime" : "03/25 23:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tkhunter",
+    "push_content" : ": 沉默之邱",
+    "push_ipdatetime" : "03/25 23:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": 斯巴達三百壯士",
+    "push_ipdatetime" : "03/25 23:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lo90066",
+    "push_content" : ": 8厘米",
+    "push_ipdatetime" : "03/26 00:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tartarsauce",
+    "push_content" : ": 綠色奇蹟",
+    "push_ipdatetime" : "03/26 00:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Chihweifu",
+    "push_content" : ": 鐵達尼號",
+    "push_ipdatetime" : "03/26 00:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sq61372py",
+    "push_content" : ": 綠色奇蹟XDDD",
+    "push_ipdatetime" : "03/26 00:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jjackyy321",
+    "push_content" : ": 127小時",
+    "push_ipdatetime" : "03/26 00:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo07172255",
+    "push_content" : ": 神鬼傳奇",
+    "push_ipdatetime" : "03/26 00:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo07172255",
+    "push_content" : ": 第一次嘗試是神鬼奇航",
+    "push_ipdatetime" : "03/26 00:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "goldhan",
+    "push_content" : ": TOP GUN",
+    "push_ipdatetime" : "03/26 00:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "khwa0416",
+    "push_content" : ": 飛機上有蛇",
+    "push_ipdatetime" : "03/26 00:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dageegee",
+    "push_content" : ": 韓索羅 hand solo",
+    "push_ipdatetime" : "03/26 00:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiangpyisme",
+    "push_content" : ": 綠色奇跡我笑了",
+    "push_ipdatetime" : "03/26 00:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tose4433",
+    "push_content" : ": 真愛每一天，我是傳奇，與神同行，鋼鐵人",
+    "push_ipdatetime" : "03/26 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "loonety",
+    "push_content" : ": 第六感生死戀",
+    "push_ipdatetime" : "03/26 00:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chienyu2001",
+    "push_content" : ": 無限之戰",
+    "push_ipdatetime" : "03/26 00:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j52122002",
+    "push_content" : ": 大蟒蛇",
+    "push_ipdatetime" : "03/26 00:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mb670821501",
+    "push_content" : ": 關鍵下一秒",
+    "push_ipdatetime" : "03/26 00:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "STRO",
+    "push_content" : ": 七號房的禮物、雞不可失",
+    "push_ipdatetime" : "03/26 00:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "STRO",
+    "push_content" : ": 都不錯",
+    "push_ipdatetime" : "03/26 00:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kanako5566",
+    "push_content" : ": 秒速五厘米",
+    "push_ipdatetime" : "03/26 00:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "LPCbaimlly",
+    "push_content" : ": 速度與激情",
+    "push_ipdatetime" : "03/26 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maygee",
+    "push_content" : ": 每天回家老婆都在裝死",
+    "push_ipdatetime" : "03/26 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Aerci",
+    "push_content" : ": 樓下是綠燈俠",
+    "push_ipdatetime" : "03/26 00:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Avotor",
+    "push_content" : ": 我是閃電俠",
+    "push_ipdatetime" : "03/26 00:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "minie0114",
+    "push_content" : ": 冰雪奇緣",
+    "push_ipdatetime" : "03/26 00:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jack168168tw",
+    "push_content" : ": 愛愛上雲端",
+    "push_ipdatetime" : "03/26 00:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 白日夢冒險王，大象席地而坐",
+    "push_ipdatetime" : "03/26 01:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "juncc118",
+    "push_content" : ": 讓妳啞傳奇",
+    "push_ipdatetime" : "03/26 01:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tom50617",
+    "push_content" : ": 消失的密室",
+    "push_ipdatetime" : "03/26 01:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ingantai",
+    "push_content" : ": 2樓大莖肛",
+    "push_ipdatetime" : "03/26 01:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fakon",
+    "push_content" : ": 怪獸與牠們的產地",
+    "push_ipdatetime" : "03/26 01:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "kenjack",
+    "push_content" : ": 愛在心裡口難開",
+    "push_ipdatetime" : "03/26 01:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "strayinparis",
+    "push_content" : ": 驚天動地60秒（咦？）",
+    "push_ipdatetime" : "03/26 01:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "microerect",
+    "push_content" : ": 無限之戰",
+    "push_ipdatetime" : "03/26 01:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thomas92173",
+    "push_content" : ": 每天回家老婆都在裝死",
+    "push_ipdatetime" : "03/26 01:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "magicscott",
+    "push_content" : ": 煞不住",
+    "push_ipdatetime" : "03/26 01:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rrrrr123",
+    "push_content" : ": 秒速五釐米",
+    "push_ipdatetime" : "03/26 01:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mmnnoo",
+    "push_content" : ": hand solo是怎麼樣啦… 現在好歹有飛機杯好嗎…",
+    "push_ipdatetime" : "03/26 01:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s201262002",
+    "push_content" : ": 鐵打妳嚎",
+    "push_ipdatetime" : "03/26 01:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s201262002",
+    "push_content" : ": 猛龍過江",
+    "push_ipdatetime" : "03/26 01:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FIREicer",
+    "push_content" : ": 玩命龜頭",
+    "push_ipdatetime" : "03/26 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FIREicer",
+    "push_content" : ": 幹打錯 是關頭",
+    "push_ipdatetime" : "03/26 01:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "JOGIBA",
+    "push_content" : ": 莖肛郎",
+    "push_ipdatetime" : "03/26 01:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GMQQQ",
+    "push_content" : ": 陰地",
+    "push_ipdatetime" : "03/26 01:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CrazyBug",
+    "push_content" : ": 與龍共舞",
+    "push_ipdatetime" : "03/26 01:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kioh",
+    "push_content" : ": 竟然沒人說控制",
+    "push_ipdatetime" : "03/26 01:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zero50147",
+    "push_content" : ": 王蛇大戰巨蟒啊 甲甲專用",
+    "push_ipdatetime" : "03/26 01:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kobers5566",
+    "push_content" : ": 大象席地而坐",
+    "push_ipdatetime" : "03/26 01:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "GOBS",
+    "push_content" : ": 超級八",
+    "push_ipdatetime" : "03/26 01:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Instru01",
+    "push_content" : ": 玩具總動員",
+    "push_ipdatetime" : "03/26 02:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MikeBrown",
+    "push_content" : ": 莖肛沾屎",
+    "push_ipdatetime" : "03/26 02:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "StBeer",
+    "push_content" : ": 我是傳奇",
+    "push_ipdatetime" : "03/26 02:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "petershu",
+    "push_content" : ": 玩命關頭",
+    "push_ipdatetime" : "03/26 02:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qjlutai",
+    "push_content" : ": 驚天動地60秒",
+    "push_ipdatetime" : "03/26 02:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "YuenLin",
+    "push_content" : ": 讓子彈飛一會兒",
+    "push_ipdatetime" : "03/26 02:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sowoso",
+    "push_content" : ": 刺零 QQ",
+    "push_ipdatetime" : "03/26 03:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dertyness",
+    "push_content" : ": 鐘點戰",
+    "push_ipdatetime" : "03/26 03:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pone8111",
+    "push_content" : ": 哥吉拉",
+    "push_ipdatetime" : "03/26 03:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "teise",
+    "push_content" : ": 我是傳奇",
+    "push_ipdatetime" : "03/26 03:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zhalao",
+    "push_content" : ": 大隻佬2",
+    "push_ipdatetime" : "03/26 03:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fire60743",
+    "push_content" : ": 還有個Han(d) solo",
+    "push_ipdatetime" : "03/26 03:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rhonda117",
+    "push_content" : ": 28週毀滅倒數",
+    "push_ipdatetime" : "03/26 03:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qqorzi",
+    "push_content" : ": 野蠻遊戲...",
+    "push_ipdatetime" : "03/26 04:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iewix",
+    "push_content" : ": the hand",
+    "push_ipdatetime" : "03/26 04:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ASSCS",
+    "push_content" : ": 金剛",
+    "push_ipdatetime" : "03/26 04:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "as374550",
+    "push_content" : ": 速成家庭",
+    "push_ipdatetime" : "03/26 04:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jerry3jj",
+    "push_content" : ": 全面啟動 只存在夢裡",
+    "push_ipdatetime" : "03/26 04:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mistsea",
+    "push_content" : ": 異形戰場",
+    "push_ipdatetime" : "03/26 05:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mshockwave",
+    "push_content" : ": 幹 hand solo害我笑好久www",
+    "push_ipdatetime" : "03/26 05:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ph4586",
+    "push_content" : ": 永遠的0好笑",
+    "push_ipdatetime" : "03/26 05:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yhmbcaulp",
+    "push_content" : ": 雞不可失",
+    "push_ipdatetime" : "03/26 05:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "qk2007",
+    "push_content" : ": 不願面對的真相（T - T )",
+    "push_ipdatetime" : "03/26 05:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r124193767",
+    "push_content" : ": 分裂",
+    "push_ipdatetime" : "03/26 05:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sharpshoot",
+    "push_content" : ": 半夜鬼上床",
+    "push_ipdatetime" : "03/26 06:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pcinereus",
+    "push_content" : ": 怪獸與他忙的產道",
+    "push_ipdatetime" : "03/26 06:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Komasan",
+    "push_content" : ": 下水道的美人魚",
+    "push_ipdatetime" : "03/26 06:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a23002001",
+    "push_content" : ": 貞子",
+    "push_ipdatetime" : "03/26 06:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sdamel",
+    "push_content" : ": 烈火的向日葵",
+    "push_ipdatetime" : "03/26 07:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "z67186718",
+    "push_content" : ": 肯定是全面啟動",
+    "push_ipdatetime" : "03/26 07:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fish000542",
+    "push_content" : ": XDDDDDDDDDDDDDDDDD整串笑死",
+    "push_ipdatetime" : "03/26 07:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vhiilrvp",
+    "push_content" : ": 汗味戰士",
+    "push_ipdatetime" : "03/26 07:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "champhon",
+    "push_content" : ": 驚天動地60秒",
+    "push_ipdatetime" : "03/26 07:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eiuyt2",
+    "push_content" : ": 麥胖報告",
+    "push_ipdatetime" : "03/26 07:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "samuel86123",
+    "push_content" : ": 秒速5公分",
+    "push_ipdatetime" : "03/26 07:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jasonvt",
+    "push_content" : ": 刺激1999",
+    "push_ipdatetime" : "03/26 07:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ProSider",
+    "push_content" : ": 綠箭俠",
+    "push_ipdatetime" : "03/26 07:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "eric4309",
+    "push_content" : ": 絕命尬車",
+    "push_ipdatetime" : "03/26 07:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "remix7",
+    "push_content" : ": Hand solo高級梗XD",
+    "push_ipdatetime" : "03/26 08:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": mission impossible",
+    "push_ipdatetime" : "03/26 08:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LouisLEE",
+    "push_content" : ": 雲端情人",
+    "push_ipdatetime" : "03/26 08:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "em60434",
+    "push_content" : ": 兩槍斃命",
+    "push_ipdatetime" : "03/26 08:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youreruhs",
+    "push_content" : ": 人在囧途",
+    "push_ipdatetime" : "03/26 08:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rmow",
+    "push_content" : ": 不可能的任務",
+    "push_ipdatetime" : "03/26 08:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alexliao2027",
+    "push_content" : ": 倚天屠龍記",
+    "push_ipdatetime" : "03/26 08:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chopper511",
+    "push_content" : ": 雞不可失",
+    "push_ipdatetime" : "03/26 08:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "burly",
+    "push_content" : ": 綠巨人浩克",
+    "push_ipdatetime" : "03/26 08:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "acatking98",
+    "push_content" : ": 超時空攔截",
+    "push_ipdatetime" : "03/26 08:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "snoopy8562",
+    "push_content" : ": 煞不住",
+    "push_ipdatetime" : "03/26 08:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mananama",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/26 08:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nakomone",
+    "push_content" : ": 零的執行人",
+    "push_ipdatetime" : "03/26 08:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ascs1122",
+    "push_content" : ": 不可能的任務",
+    "push_ipdatetime" : "03/26 08:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "troy911",
+    "push_content" : ": 2012",
+    "push_ipdatetime" : "03/26 08:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rainrein",
+    "push_content" : ": 神鵰俠侶",
+    "push_ipdatetime" : "03/26 08:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hades1206",
+    "push_content" : ": 肥雞上有舌",
+    "push_ipdatetime" : "03/26 08:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dantevergil",
+    "push_content" : ": 黑蘭嬌",
+    "push_ipdatetime" : "03/26 09:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jacky820602",
+    "push_content" : ": 綠光戰警",
+    "push_ipdatetime" : "03/26 09:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "brian10097",
+    "push_content" : ": 讓子彈飛",
+    "push_ipdatetime" : "03/26 09:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jacky820602",
+    "push_content" : ": 補推",
+    "push_ipdatetime" : "03/26 09:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "virginmary",
+    "push_content" : ": 刺陵",
+    "push_ipdatetime" : "03/26 09:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b05605019",
+    "push_content" : ": 那些年，我們一起追的女孩",
+    "push_ipdatetime" : "03/26 09:31",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a207207",
+    "push_content" : ": 大法師",
+    "push_ipdatetime" : "03/26 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FeO",
+    "push_content" : ": 一級玩家",
+    "push_ipdatetime" : "03/26 09:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ag076810",
+    "push_content" : ": 全面啟動XDD",
+    "push_ipdatetime" : "03/26 09:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "katana89",
+    "push_content" : ": 明天過後",
+    "push_ipdatetime" : "03/26 09:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nero366",
+    "push_content" : ": 金肛狼",
+    "push_ipdatetime" : "03/26 09:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "blackman5566",
+    "push_content" : ": 操人",
+    "push_ipdatetime" : "03/26 10:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LillardTime",
+    "push_content" : ": 每天回家老婆都在裝死XDDDDD 笑爆",
+    "push_ipdatetime" : "03/26 10:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kakain",
+    "push_content" : ": 少林搭帳棚大師",
+    "push_ipdatetime" : "03/26 10:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "greencapave",
+    "push_content" : ": 開心鬼上身",
+    "push_ipdatetime" : "03/26 10:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gxn",
+    "push_content" : ": 不可能的任務",
+    "push_ipdatetime" : "03/26 10:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "apple1235566",
+    "push_content" : ": 莖肛狼",
+    "push_ipdatetime" : "03/26 10:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sui33",
+    "push_content" : ": 捍衛戰士 我是說英文不是中文",
+    "push_ipdatetime" : "03/26 10:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KH91",
+    "push_content" : ": 秒速五公分",
+    "push_ipdatetime" : "03/26 10:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "harry6275",
+    "push_content" : ": 大尾鱸鰻",
+    "push_ipdatetime" : "03/26 10:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "barry60707",
+    "push_content" : ": Toy Story",
+    "push_ipdatetime" : "03/26 10:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "taiwansibia",
+    "push_content" : ": 美國隊長",
+    "push_ipdatetime" : "03/26 10:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andrewhung09",
+    "push_content" : ": 超級8",
+    "push_ipdatetime" : "03/26 10:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 最黑暗的時刻",
+    "push_ipdatetime" : "03/26 10:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "steve2512",
+    "push_content" : ": 功夫",
+    "push_ipdatetime" : "03/26 10:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yangbob1203",
+    "push_content" : ": 飢餓遊戲",
+    "push_ipdatetime" : "03/26 10:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liang94313",
+    "push_content" : ": 這串笑死XDDD",
+    "push_ipdatetime" : "03/26 10:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smallpaw",
+    "push_content" : ": 一級玩家",
+    "push_ipdatetime" : "03/26 10:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hgclnh3",
+    "push_content" : ": 悲慘世界",
+    "push_ipdatetime" : "03/26 11:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lmhlmh",
+    "push_content" : ": 明天過後",
+    "push_ipdatetime" : "03/26 11:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ThorJizz",
+    "push_content" : ": 人形蜈蚣 (誤",
+    "push_ipdatetime" : "03/26 11:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YumingHuang",
+    "push_content" : ": 神出鬼沒大蟒蛇",
+    "push_ipdatetime" : "03/26 11:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kapkan",
+    "push_content" : ": 百萬種硬的方式",
+    "push_ipdatetime" : "03/26 11:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asd5377932",
+    "push_content" : ": 讓子彈飛",
+    "push_ipdatetime" : "03/26 11:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hedgehogs",
+    "push_content" : ": 美女與野獸",
+    "push_ipdatetime" : "03/26 11:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lanslote",
+    "push_content" : ": 怪獸與牠們的產地",
+    "push_ipdatetime" : "03/26 11:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ck960817",
+    "push_content" : ": 超級八",
+    "push_ipdatetime" : "03/26 11:32",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sonia9004",
+    "push_content" : ": 這可以",
+    "push_ipdatetime" : "03/26 11:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yahoomessage",
+    "push_content" : ": 阿里巴巴與四十大盜",
+    "push_ipdatetime" : "03/26 11:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "VonKukuav",
+    "push_content" : ": 一級玩家 XDDDDDD",
+    "push_ipdatetime" : "03/26 11:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobwoodybuzz",
+    "push_content" : ": 童夢騎雞……等一下 我去拿我的歡樂送",
+    "push_ipdatetime" : "03/26 11:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cyalai",
+    "push_content" : ": 淫液殺手 經期隊長",
+    "push_ipdatetime" : "03/26 11:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cyalai",
+    "push_content" : ": 單身動物園",
+    "push_ipdatetime" : "03/26 11:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cksxxb",
+    "push_content" : ": 五歲的心願",
+    "push_ipdatetime" : "03/26 12:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 幹！感覺這一整串都可以當A片標題怎麼辦",
+    "push_ipdatetime" : "03/26 12:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dive6",
+    "push_content" : ": 蟲蟲危機 一夜台北",
+    "push_ipdatetime" : "03/26 12:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 全家就是＊家",
+    "push_ipdatetime" : "03/26 12:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "xchax",
+    "push_content" : ": 攻其不備",
+    "push_ipdatetime" : "03/26 12:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "reality6699",
+    "push_content" : ": http://i.imgur.com/9reGQ9L.jpg",
+    "push_ipdatetime" : "03/26 12:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lskd",
+    "push_content" : ": 推hand aolo",
+    "push_ipdatetime" : "03/26 12:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lskd",
+    "push_content" : ": *solo",
+    "push_ipdatetime" : "03/26 12:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "iamoldtwo",
+    "push_content" : ": 透明人，QQ",
+    "push_ipdatetime" : "03/26 12:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "apeng52",
+    "push_content" : ": 環太平洋",
+    "push_ipdatetime" : "03/26 12:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "phase901",
+    "push_content" : ": 六天七夜",
+    "push_ipdatetime" : "03/26 12:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KONosic",
+    "push_content" : ": 我想念我自己",
+    "push_ipdatetime" : "03/26 12:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jay75615",
+    "push_content" : ": 哥具妹飲",
+    "push_ipdatetime" : "03/26 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sspsmusic05",
+    "push_content" : ": hand solo 求解",
+    "push_ipdatetime" : "03/26 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gydiaw",
+    "push_content" : ": 韓索羅Xdxdxdxd",
+    "push_ipdatetime" : "03/26 12:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kasper0202",
+    "push_content" : ": 單身%%%",
+    "push_ipdatetime" : "03/26 12:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sobigone",
+    "push_content" : ": 驚天動地60秒",
+    "push_ipdatetime" : "03/26 12:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mvp256",
+    "push_content" : ": 搭棚大師",
+    "push_ipdatetime" : "03/26 12:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ri3567",
+    "push_content" : ": 分手信",
+    "push_ipdatetime" : "03/26 12:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maxint",
+    "push_content" : ": 格雷的五十道陰影",
+    "push_ipdatetime" : "03/26 12:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twofish",
+    "push_content" : ": A ki ra!!",
+    "push_ipdatetime" : "03/26 12:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qqqaz9527tw",
+    "push_content" : ": 推hand solo跟綠色奇蹟",
+    "push_ipdatetime" : "03/26 12:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dexgaga",
+    "push_content" : ": 經期隊長",
+    "push_ipdatetime" : "03/26 12:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "diyaya",
+    "push_content" : ": 反詐騙",
+    "push_ipdatetime" : "03/26 12:46",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chubby31190",
+    "push_content" : ": 玩命龜頭xDDD",
+    "push_ipdatetime" : "03/26 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frontier0415",
+    "push_content" : ": 一觸即發",
+    "push_ipdatetime" : "03/26 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryanmulee",
+    "push_content" : ": HF",
+    "push_ipdatetime" : "03/26 13:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "CH3CH2OH",
+    "push_content" : ": 盲探",
+    "push_ipdatetime" : "03/26 13:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ShittyFace",
+    "push_content" : ": home alone",
+    "push_ipdatetime" : "03/26 13:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laswish",
+    "push_content" : ": 推文爆笑wwww",
+    "push_ipdatetime" : "03/26 13:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "devil115789",
+    "push_content" : ": 深夜加油站遇見蘇格拉底",
+    "push_ipdatetime" : "03/26 13:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "summer7983",
+    "push_content" : ": Hand solo太好笑XDD",
+    "push_ipdatetime" : "03/26 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youwilldie",
+    "push_content" : ": 婦仇者聯盟 廢宅酸民用",
+    "push_ipdatetime" : "03/26 13:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LittleNobody",
+    "push_content" : ": 悲慘世界",
+    "push_ipdatetime" : "03/26 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aoc902001",
+    "push_content" : ": 全民情聖",
+    "push_ipdatetime" : "03/26 13:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "taluku",
+    "push_content" : ": 楚門的世界",
+    "push_ipdatetime" : "03/26 13:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zerosword",
+    "push_content" : ": 開戰時刻 > 黑暗騎士 > 黎明升起",
+    "push_ipdatetime" : "03/26 13:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frice",
+    "push_content" : ": 寂寞拍賣師",
+    "push_ipdatetime" : "03/26 14:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AnamnesisNT",
+    "push_content" : ": 龍鳳大雙胞 人生就是個笑話，而且還很難笑QQ",
+    "push_ipdatetime" : "03/26 14:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stockton47",
+    "push_content" : ": 深入絕地 刺激驚爆點",
+    "push_ipdatetime" : "03/26 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 毀滅大作戰",
+    "push_ipdatetime" : "03/26 15:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "takuya1",
+    "push_content" : ": 往天國的倒數計時",
+    "push_ipdatetime" : "03/26 15:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "maxint",
+    "push_content" : ": 功夫",
+    "push_ipdatetime" : "03/26 15:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lovedog0731",
+    "push_content" : ": 大支佬2",
+    "push_ipdatetime" : "03/26 15:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s08k521",
+    "push_content" : ": 變形金鋼",
+    "push_ipdatetime" : "03/26 15:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nccuthor",
+    "push_content" : ": +-2公分",
+    "push_ipdatetime" : "03/26 16:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Bittertabby",
+    "push_content" : ": 這串笑爆",
+    "push_ipdatetime" : "03/26 16:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a7700800",
+    "push_content" : ": 雲端情人",
+    "push_ipdatetime" : "03/26 16:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sfopenbox",
+    "push_content" : ": 零的領域",
+    "push_ipdatetime" : "03/26 16:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gin10791",
+    "push_content" : ": 德克斯特的實驗室",
+    "push_ipdatetime" : "03/26 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "IKURAQ",
+    "push_content" : ": 安娜貝爾",
+    "push_ipdatetime" : "03/26 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winteryoyo",
+    "push_content" : ": 奪魂鋸",
+    "push_ipdatetime" : "03/26 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Xylo1321",
+    "push_content" : ": 怪獸與他們的產地XDDDDDDD",
+    "push_ipdatetime" : "03/26 17:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TobyH4cker",
+    "push_content" : ": 全面啟動",
+    "push_ipdatetime" : "03/26 17:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iopkl147",
+    "push_content" : ": 爸爸去哪兒",
+    "push_ipdatetime" : "03/26 17:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "labourking",
+    "push_content" : ": 與神同行",
+    "push_ipdatetime" : "03/26 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "osiris99",
+    "push_content" : ": 刺激1995",
+    "push_ipdatetime" : "03/26 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "afa5566",
+    "push_content" : ": 比悲傷更悲傷的故事",
+    "push_ipdatetime" : "03/26 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j4258863",
+    "push_content" : ": 月經來了 大蟒蛇2:血蘭花",
+    "push_ipdatetime" : "03/26 18:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "safefree",
+    "push_content" : ": 天外騎雞 ( UP 2009)",
+    "push_ipdatetime" : "03/26 18:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "safefree",
+    "push_content" : ": 私刑教育",
+    "push_ipdatetime" : "03/26 18:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "RonanXidi",
+    "push_content" : ": 鋼鐵人",
+    "push_ipdatetime" : "03/26 18:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dividers0798",
+    "push_content" : ": 黑蘭嬌",
+    "push_ipdatetime" : "03/26 19:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "extrachaos",
+    "push_content" : ": 白日夢冒險王",
+    "push_ipdatetime" : "03/26 19:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tarmac909",
+    "push_content" : ": 華爾街之狼",
+    "push_ipdatetime" : "03/26 19:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "m025885200",
+    "push_content" : ": 鬼機八",
+    "push_ipdatetime" : "03/26 19:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wer90156",
+    "push_content" : ": 每天回家老婆都在裝死XD",
+    "push_ipdatetime" : "03/26 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ken1102",
+    "push_content" : ": YES MAN(沒問題先生)",
+    "push_ipdatetime" : "03/26 19:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leyung",
+    "push_content" : ": 地心冒險",
+    "push_ipdatetime" : "03/26 19:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zack7301428",
+    "push_content" : ": 這串真的超好笑",
+    "push_ipdatetime" : "03/26 19:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harry6275",
+    "push_content" : ": 野蠻遊戲",
+    "push_ipdatetime" : "03/26 19:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "harry6275",
+    "push_content" : ": 讓子彈飛",
+    "push_ipdatetime" : "03/26 19:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "harry6275",
+    "push_content" : ": 玩命快遞",
+    "push_ipdatetime" : "03/26 19:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wesleywesley",
+    "push_content" : ": 當然是 TOP GUN",
+    "push_ipdatetime" : "03/26 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "polo22010",
+    "push_content" : ": 不錯不錯",
+    "push_ipdatetime" : "03/26 19:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnie55",
+    "push_content" : ": 血色海灣",
+    "push_ipdatetime" : "03/26 20:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "verducci",
+    "push_content" : ": 精騎隊長。精騎隊，長～ XDDDD",
+    "push_ipdatetime" : "03/26 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coolchichi",
+    "push_content" : ": 盲探",
+    "push_ipdatetime" : "03/26 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a3338183",
+    "push_content" : ": the lord of the ring",
+    "push_ipdatetime" : "03/26 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Beantownfan",
+    "push_content" : ": 悲慘世界",
+    "push_ipdatetime" : "03/26 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ktoaoeex",
+    "push_content" : ": Heaven's Feel",
+    "push_ipdatetime" : "03/26 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HANJIUN",
+    "push_content" : ": 大蟒蛇 :血蘭花",
+    "push_ipdatetime" : "03/26 21:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "featherable",
+    "push_content" : ": 驚天動地60秒XD",
+    "push_ipdatetime" : "03/26 21:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tm005002",
+    "push_content" : ": 在座各位都是雲端情人吧.....",
+    "push_ipdatetime" : "03/26 22:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "twinl",
+    "push_content" : ": 神串推一下",
+    "push_ipdatetime" : "03/26 22:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bdenken",
+    "push_content" : ": https://i.imgur.com/kkbx4QK.jpg",
+    "push_ipdatetime" : "03/26 22:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "verducci",
+    "push_content" : ": 經期隊長",
+    "push_ipdatetime" : "03/26 22:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Jenny5566",
+    "push_content" : ": 大屌哥",
+    "push_ipdatetime" : "03/26 22:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "krit1009",
+    "push_content" : ": 睡美人...QQ",
+    "push_ipdatetime" : "03/26 23:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JaguarViva",
+    "push_content" : ": 錢不夠用",
+    "push_ipdatetime" : "03/26 23:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a98980ytyt",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/26 23:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tim19131",
+    "push_content" : ": Paycheck",
+    "push_ipdatetime" : "03/26 23:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wz123",
+    "push_content" : ": 葉問1我要打10個",
+    "push_ipdatetime" : "03/26 23:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "woofcat",
+    "push_content" : ": 紅衣小女孩會不會被羈押？",
+    "push_ipdatetime" : "03/27 00:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rainylife",
+    "push_content" : ": 綠光戰警",
+    "push_ipdatetime" : "03/27 00:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miunachafifa",
+    "push_content" : ": 一路玩到掛",
+    "push_ipdatetime" : "03/27 00:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Rhonny",
+    "push_content" : ": 自殺突擊隊",
+    "push_ipdatetime" : "03/27 00:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiguang",
+    "push_content" : ": 閃電俠",
+    "push_ipdatetime" : "03/27 00:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mindy87511",
+    "push_content" : ": 唐山大地震(? 樂來樂愛你(?? 奇蹟男孩 (??? 真愛挑日",
+    "push_ipdatetime" : "03/27 00:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mindy87511",
+    "push_content" : ": 子(????",
+    "push_ipdatetime" : "03/27 00:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "apprentice08",
+    "push_content" : ": Frozen……嗚嗚嗚嗚嗚",
+    "push_ipdatetime" : "03/27 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "doublecheck",
+    "push_content" : ": 快樂腳",
+    "push_ipdatetime" : "03/27 01:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lope304",
+    "push_content" : ": 逃出絕命鎮",
+    "push_ipdatetime" : "03/27 01:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Allison511",
+    "push_content" : ": 一代（痛い）宗師",
+    "push_ipdatetime" : "03/27 02:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a9111075",
+    "push_content" : ": 沉默之丘",
+    "push_ipdatetime" : "03/27 02:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a24573165",
+    "push_content" : ": 你的名字",
+    "push_ipdatetime" : "03/27 02:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mogli",
+    "push_content" : ": 驚天動地60秒",
+    "push_ipdatetime" : "03/27 04:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sd131420",
+    "push_content" : ": 黑暗騎士",
+    "push_ipdatetime" : "03/27 04:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sd131420",
+    "push_content" : ": 海角七號",
+    "push_ipdatetime" : "03/27 04:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sd131420",
+    "push_content" : ": 風之谷",
+    "push_ipdatetime" : "03/27 04:48",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sd131420",
+    "push_content" : ": 靠北，看成一部電影介紹自己生活",
+    "push_ipdatetime" : "03/27 04:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "thomas92173",
+    "push_content" : ": 大隻佬",
+    "push_ipdatetime" : "03/27 05:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Saiger",
+    "push_content" : ": 變形蛇王",
+    "push_ipdatetime" : "03/27 06:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Jarcat",
+    "push_content" : ": 玩命手機",
+    "push_ipdatetime" : "03/27 06:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "johnny3",
+    "push_content" : ": 不可能的任務",
+    "push_ipdatetime" : "03/27 06:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlackBerry10",
+    "push_content" : ": 12猛汗",
+    "push_ipdatetime" : "03/27 08:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuaiphoto",
+    "push_content" : ": hand solo太高級酸了！太傳神啦",
+    "push_ipdatetime" : "03/27 09:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "o22117417tw",
+    "push_content" : ": Hand Solo笑史 哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/27 09:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kknickg8",
+    "push_content" : ": 比悲傷更悲傷的故事",
+    "push_ipdatetime" : "03/27 09:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "four5",
+    "push_content" : ": 刺陵",
+    "push_ipdatetime" : "03/27 09:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sch452000",
+    "push_content" : ": 超級八",
+    "push_ipdatetime" : "03/27 09:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chichi32",
+    "push_content" : ": 大象的眼淚",
+    "push_ipdatetime" : "03/27 10:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jack110156",
+    "push_content" : ": 大隻佬2",
+    "push_ipdatetime" : "03/27 11:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "writerniu",
+    "push_content" : ": 婦仇者聯盟",
+    "push_ipdatetime" : "03/27 12:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coldgotosbb",
+    "push_content" : ": 與龍共舞",
+    "push_ipdatetime" : "03/27 12:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nm768417",
+    "push_content" : ": 飢餓遊戲",
+    "push_ipdatetime" : "03/27 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andachi",
+    "push_content" : ": 男兒當自強",
+    "push_ipdatetime" : "03/27 14:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "svcgood",
+    "push_content" : ": 驚天動地60秒",
+    "push_ipdatetime" : "03/27 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "svcgood",
+    "push_content" : ": hand solo好笑",
+    "push_ipdatetime" : "03/27 18:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "faintyfay",
+    "push_content" : ": 行動代號孫中山",
+    "push_ipdatetime" : "03/27 19:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aa10252233",
+    "push_content" : ": 3D無底洞",
+    "push_ipdatetime" : "03/27 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aaaaaaaaaa",
+    "push_content" : ": 一個人的武林",
+    "push_ipdatetime" : "03/28 01:54",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mamajustgo",
+    "push_content" : ": hand solo XDDD",
+    "push_ipdatetime" : "03/28 02:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lmf770410",
+    "push_content" : ": 綠光戰警",
+    "push_ipdatetime" : "03/28 08:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiwei25",
+    "push_content" : ": 你的名字.......",
+    "push_ipdatetime" : "03/28 12:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Rlyeher",
+    "push_content" : ": 最後的嚼蒂舞舐",
+    "push_ipdatetime" : "03/28 14:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "IceWinds",
+    "push_content" : ": 老闆不是人",
+    "push_ipdatetime" : "03/28 14:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jelly63",
+    "push_content" : ": 錢不夠用XDDDDD每個月發薪前都要Hand Solo....",
+    "push_ipdatetime" : "03/28 16:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "old3peanut",
+    "push_content" : ": 分裂",
+    "push_ipdatetime" : "03/28 17:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dogg0731",
+    "push_content" : ": 一屍到底",
+    "push_ipdatetime" : "03/28 21:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wow9487",
+    "push_content" : ": 陰濕路",
+    "push_ipdatetime" : "03/29 13:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markping0110",
+    "push_content" : ": 一個人的武林",
+    "push_ipdatetime" : "03/29 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xp60319",
+    "push_content" : ": 黑蘭嬌",
+    "push_ipdatetime" : "03/30 12:02",
+    "push_tag" : "推"
+  } ]
+}

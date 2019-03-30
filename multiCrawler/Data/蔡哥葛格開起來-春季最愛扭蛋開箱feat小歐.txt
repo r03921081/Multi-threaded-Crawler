@@ -1,0 +1,420 @@
+{
+  "title" : "蔡哥葛格開起來-春季最愛扭蛋開箱feat小歐",
+  "author" : "coolmantsai",
+  "board" : "joke",
+  "content" : "哈哈哈哈哈 大家今天過得如何 好久沒來跟大家自我推薦了 好懷念呀 這次跟同事一起開箱 想說算有趣 來分享一下 祝大家禮拜四愉快啦 https://youtu.be/D_5Wyd9Paec -- ",
+  "date" : "Thu Mar 28 19:28:11 2019",
+  "ip" : "101.8.204.109",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553772493.A.749.html",
+  "pushList" : [ {
+    "push_userid" : "sixB",
+    "push_content" : ": 親友快樂R><",
+    "push_ipdatetime" : "03/28 19:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": *來= =垃圾自動選字",
+    "push_ipdatetime" : "03/28 19:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 好啦只有18秒 推一下",
+    "push_ipdatetime" : "03/28 19:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s8900117",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 菜哥分類QQ",
+    "push_ipdatetime" : "03/28 19:45",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "BearLong",
+    "push_content" : ": 我以為是濕襪取，猜錯給推",
+    "push_ipdatetime" : "03/28 19:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smarsome5461",
+    "push_content" : ": 推個蔡哥",
+    "push_ipdatetime" : "03/28 20:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abcde010710",
+    "push_content" : ": 自己貼文給推",
+    "push_ipdatetime" : "03/28 20:36",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "comicboy37",
+    "push_content" : ": 推文推起來",
+    "push_ipdatetime" : "03/28 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tedium",
+    "push_content" : ": 我不推没有奶的文章",
+    "push_ipdatetime" : "03/28 21:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pjhs320279",
+    "push_content" : ": 這幕濕了幾雙襪子？",
+    "push_ipdatetime" : "03/28 22:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whathefoxsay",
+    "push_content" : ": 前推",
+    "push_ipdatetime" : "03/28 23:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ap926044",
+    "push_content" : ": 分類ㄋ",
+    "push_ipdatetime" : "03/28 23:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "apporience",
+    "push_content" : ": 居然自po，是不是知道沒有妹子點閱率不會好XDD",
+    "push_ipdatetime" : "03/29 00:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uuuuOPuff",
+    "push_content" : ": 蔡哥的標準 我不懂 為什麼是選這一片回歸就可啦XDDDDD",
+    "push_ipdatetime" : "03/29 00:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevin5603",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 00:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ckhshooligan",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 00:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Muarean",
+    "push_content" : ": 垃圾",
+    "push_ipdatetime" : "03/29 01:04",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "FishGreen",
+    "push_content" : ": 推蔡哥 會不會看到沒爆又走心XDD",
+    "push_ipdatetime" : "03/29 01:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "toa29",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 01:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coolmantsai",
+    "push_content" : ": 哈哈哈哈哈幹太久沒發 結果忘記要分類了抱歉",
+    "push_ipdatetime" : "03/29 02:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mariandtmac",
+    "push_content" : ": 還不快去拖地！關關兒要生氣惹",
+    "push_ipdatetime" : "03/29 03:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mozai",
+    "push_content" : ": 牛肉麵煮太久啦，我要牛肉麵",
+    "push_ipdatetime" : "03/29 04:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hugoweng",
+    "push_content" : ": 好啦幫你推",
+    "push_ipdatetime" : "03/29 05:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GuyCool",
+    "push_content" : ": 粗眉分類",
+    "push_ipdatetime" : "03/29 07:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chx64",
+    "push_content" : ": 我覺得不行",
+    "push_ipdatetime" : "03/29 07:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "chx64",
+    "push_content" : ": 蔡哥你是不是在走下坡????",
+    "push_ipdatetime" : "03/29 07:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "oxkay",
+    "push_content" : ": 走心王，哈哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/29 07:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oxkay",
+    "push_content" : ": 選其他片回歸啦～幹嘛選這部一定會被噓的",
+    "push_ipdatetime" : "03/29 07:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "RyanLeeoh",
+    "push_content" : ": 蔡哥終於回來啦！！",
+    "push_ipdatetime" : "03/29 08:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "NYJeffrey",
+    "push_content" : ": 哈哈哈哈哈 推個蔡哥",
+    "push_ipdatetime" : "03/29 08:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eee60109",
+    "push_content" : ": 蔡哥葛格真得帥，好帥好帥今天的精彩",
+    "push_ipdatetime" : "03/29 08:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "butter1211",
+    "push_content" : ": 所以我說那個扭蛋開箱呢",
+    "push_ipdatetime" : "03/29 08:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "arielhhh",
+    "push_content" : ": 好懷念在這邊的蔡哥！！",
+    "push_ipdatetime" : "03/29 08:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Kevinwuu",
+    "push_content" : ": 只拍18秒勇氣可佳，只好給他推下去啦(單押*1",
+    "push_ipdatetime" : "03/29 09:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "staynero8007",
+    "push_content" : ": 你自己的分類也走心了",
+    "push_ipdatetime" : "03/29 09:51",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "colorpen55",
+    "push_content" : ": 只推蔡哥！",
+    "push_ipdatetime" : "03/29 09:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXSOW",
+    "push_content" : ": 開箱必噓",
+    "push_ipdatetime" : "03/29 10:00",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "bomince",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 10:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "musha1989",
+    "push_content" : ": 18秒高速開箱覺得可以XDDDD",
+    "push_ipdatetime" : "03/29 10:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Williamch",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 10:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tojulo",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 10:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tinymi",
+    "push_content" : ": 這種梗不是蔡哥就不行XDD",
+    "push_ipdatetime" : "03/29 10:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "O080",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 10:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "solafate",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 11:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 11:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stu20002",
+    "push_content" : ": 這看完真的幹了一聲",
+    "push_ipdatetime" : "03/29 11:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "max60209",
+    "push_content" : ": 這個開箱很可以",
+    "push_ipdatetime" : "03/29 11:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GODy1123",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 11:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Xperia",
+    "push_content" : ": 分類",
+    "push_ipdatetime" : "03/29 11:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zz17",
+    "push_content" : ": 蔡哥必須推xd",
+    "push_ipdatetime" : "03/29 12:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PTTerwei",
+    "push_content" : ": 有笑有推xD",
+    "push_ipdatetime" : "03/29 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j6032560325",
+    "push_content" : ": 推 這種梗真的只有蔡哥可以XD",
+    "push_ipdatetime" : "03/29 13:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Jsnailzz",
+    "push_content" : ": 哈哈哈哈哈看過了推個",
+    "push_ipdatetime" : "03/29 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo9638520",
+    "push_content" : ": 蔡哥推！",
+    "push_ipdatetime" : "03/29 13:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ewqazxs",
+    "push_content" : ": 我愛黎明～我愛黎明",
+    "push_ipdatetime" : "03/29 14:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ewqazxs",
+    "push_content" : ": 我後悔推了",
+    "push_ipdatetime" : "03/29 14:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "issanara",
+    "push_content" : ": 有蔡哥就推",
+    "push_ipdatetime" : "03/29 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OneChao",
+    "push_content" : ": 阿蔡，這樣真的不行",
+    "push_ipdatetime" : "03/29 15:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "REGZA",
+    "push_content" : ": 我愛蔡哥，蔡哥NOO.1",
+    "push_ipdatetime" : "03/29 15:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AEae2014",
+    "push_content" : ": 三小",
+    "push_ipdatetime" : "03/29 16:06",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "tp6m4vu04",
+    "push_content" : ": 到底是三小啦 哈哈哈哈",
+    "push_ipdatetime" : "03/29 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "informaly",
+    "push_content" : ": 很師",
+    "push_ipdatetime" : "03/29 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cc88995",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/29 17:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bbbkzai",
+    "push_content" : ": 推蔡哥！！！",
+    "push_ipdatetime" : "03/29 18:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qts655791",
+    "push_content" : ": 不行",
+    "push_ipdatetime" : "03/29 18:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "JustCrazyDog",
+    "push_content" : ": 身爲寶可夢迷，我想看皮卡丘開箱，謝謝合作！",
+    "push_ipdatetime" : "03/29 19:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coco2501",
+    "push_content" : ": 蔡哥分類啦",
+    "push_ipdatetime" : "03/29 19:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yjocho61",
+    "push_content" : ": 沒分類烙賽 久違coolmantsai",
+    "push_ipdatetime" : "03/29 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "genaro",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/29 21:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnietslock",
+    "push_content" : ": 不要再跟小歐混了，好嗎",
+    "push_ipdatetime" : "03/29 21:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nadialove",
+    "push_content" : ": 所以開箱呢XDD",
+    "push_ipdatetime" : "03/29 22:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Akichann",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/29 23:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fanif",
+    "push_content" : ": 哈摟大家好 我是蔡哥啦 我的朋友小歐有個大覽趴",
+    "push_ipdatetime" : "03/29 23:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yzlq",
+    "push_content" : ": 推蔡哥",
+    "push_ipdatetime" : "03/30 00:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qazsedcft",
+    "push_content" : ": 紅了 就無視分類了 真棒",
+    "push_ipdatetime" : "03/30 00:42",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ueru204ru",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/30 01:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin009",
+    "push_content" : ": 沒有拍手不習慣欸 XD",
+    "push_ipdatetime" : "03/30 04:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KarathansiS",
+    "push_content" : ": 蔡哥推",
+    "push_ipdatetime" : "03/30 08:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "johnlinp",
+    "push_content" : ": 竟然敢自己說 \"想說算有趣\"",
+    "push_ipdatetime" : "03/30 10:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skyline1941",
+    "push_content" : ": 推蔡哥XD",
+    "push_ipdatetime" : "03/30 12:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "diablo0021",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 12:46",
+    "push_tag" : "推"
+  } ]
+}

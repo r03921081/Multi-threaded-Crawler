@@ -1,0 +1,675 @@
+{
+  "title" : "[新聞] 蔡總統：堅守主權不冒進不屈服 會獲國際",
+  "author" : "kuro",
+  "board" : "Gossiping",
+  "content" : "蔡總統：堅守主權不冒進不屈服 會獲國際支持 總統蔡英文今天表示，台灣是全世界抵抗中國壓力的最前線，只要堅守主權， 不冒進、不屈服，就是維持區域內的和平與穩定，也會獲得國際社會的支持。 台灣人公共事務會（FAPA）今天在台北舉行台灣關係法 40 週年暨台灣旅行法 １週年慶祝餐會，蔡總統、立法院長蘇嘉全、外交部長吳釗燮、FAPA會長郭正 光與本土社團代表都出席與會。 蔡總統表示，這幾年台美關係越來越好，有目共睹，除了軍售、潛艦關鍵技術 的協助，美國國會也通過許多友台法案。有這麼多成果，她向在場的大家表達 感謝。 總統指出，她日前出訪過境美國夏威夷期間，與美國國會、政府內部挺台的朋 友通電話，他們都說台灣是可以信任的朋友，美國絕對會給予民主台灣很大的 支持。 蔡總統提到，美國國務卿蓬佩奧（Michael Pompeo）日前表示，美國正著手運 用所有工具來阻止中國孤立台灣，以及台灣旅行法是非常重要的立法，相信未 來會看到川普政府有更多作為。台美日前也宣布啟動「印太民主治理諮商機制」 對話。 總統說，這些都證明美國因為跟台灣有共同的民主、自由價值，已將台灣當作 印太區域內，一個可以信任的好朋友。這個信任的基礎，是經過很長的時間， 才累積出來的。 蔡總統表示，國際社會很怕台灣發生２件事情，第１個是遇到壓力就屈服，第 ２個是得到支持就冒進。這些都會影響區域穩定。 她指出，「信任」這兩字，看起來很簡單，做起來很困難。台灣是全世界抵抗 中國壓力的最前線，面對外部壓力，還是堅持在兩岸關係上維持和平現狀，不 冒進、不屈服。 蔡總統說，就是因為台灣用一致的行動，證明台灣是國際社會上穩定、可以信 任的朋友，所以當台灣遇到中國強推「一國兩制」時，才可以大聲將反對「一 國兩制」的主張講出來，並得到國際的支持。 總統說，這代表近３年來，台灣的路線、方向沒有錯；台灣是小國，要拚國際 空間，不單是講立場，更需要靠智慧和處理事情的能力。只要台灣對區域和平、 穩定有貢獻，國際社會就會支持民主台灣，這就是一條正確的路。 郭正光致詞時表示，FAPA未來會全力推動「台灣保證法」，台灣保證法是台灣 關係法的 2.0 版。同時，FAPA 也會努力推動讓台灣總統、副總統、行政院長、 國防部長、外交部長等人訪美，跟美國總統、國防部長等人見面。 蔡總統尋求競選連任，但在黨內提名遭遇前行政院長賴清德挑戰。賴清德今天 未出席餐會，但透過書面表達祝賀，由郭正光代為宣讀。賴清德在書面中說， FAPA 是台美關係的重要推手，藉此表達對 FAPA的感謝，雖然他無法親自參與， 但期望未來有機會與 FAPA 會員在美國或台灣見面，為台灣一起打拚。 FAPA 在 1982年由已故民進黨籍立委蔡同榮等人創立，總部位於美國華府，推 動爭取國際支持，使台灣成為主權獨立的國家。 「台灣保證法」草案日前由美國民主、共和兩黨多名聯邦參議員提出。草案指 出，在台灣關係法 40 週年之際，應反映美台關係現實，法案將強化美台關係 並支持台灣參與國際社會。 https://www.cna.com.tw/news/firstnews/201903300116.aspx -- https://i.imgur.com/Fk1YLV7.png -- ",
+  "date" : "Sat Mar 30 20:37:56 2019",
+  "ip" : "118.168.18.236",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553949479.A.4DD.html",
+  "pushList" : [ {
+    "push_userid" : "cp109",
+    "push_content" : ": 賴上菜下 滾",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Rrrxddd",
+    "push_content" : ": 樓下智障9.2崩潰噓",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "empire42s",
+    "push_content" : ": 台北國的長官",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pz5202",
+    "push_content" : ": https://i.imgur.com/MyL4Y0x.jpg",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "meowchen",
+    "push_content" : ": 上班囉",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "XZXie",
+    "push_content" : ": 講話還是這麼空心 FB小編多教一下我們總統好嗎",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pz5202",
+    "push_content" : ": https://i.imgur.com/8Iq0oZ3.jpg",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "seabox",
+    "push_content" : ": 2020滅東廠 不要阻止我當特區人民的權利",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pz5202",
+    "push_content" : ": https://i.imgur.com/Wtqd0Pq.jpg",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BeNative",
+    "push_content" : ": 中國就是個廢物",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q14721472",
+    "push_content" : ": 所以不改變目前現狀嗎",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "HANAXALICE",
+    "push_content" : ": 真的比國民黨跟一堆男人有種",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BeNative",
+    "push_content" : ": 垃圾中國要打趕快打 美國爸爸先弄死你",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kuoalan0819",
+    "push_content" : ": 推蔡英文，台灣有史以來最好的總統。",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cfceo",
+    "push_content" : ": 又空心菜了嗎",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Areso",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "centra",
+    "push_content" : ": 不卑不亢 這很難做到吧",
+    "push_ipdatetime" : "03/30 20:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a152508",
+    "push_content" : ": 馬的公關公司人勒",
+    "push_ipdatetime" : "03/30 20:42",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "arceus",
+    "push_content" : ": 堅守主權 有沒跟美國嗆聲快承認中華民國主權?",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "JoeStrummer",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ck901372",
+    "push_content" : ": 好煩 每天除了發文治國本事到底在哪 賴功德至少還有政見",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Gamer1028",
+    "push_content" : ": 撿到槍算甚麼",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "inlanyu",
+    "push_content" : ": 推 這篇講稿講得非常好 堅守住台灣立場",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "junnn",
+    "push_content" : ": 資進黨根本治國草包 專講 空。心。幹。話",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dostey",
+    "push_content" : ": ===== 9.2kmter 好好台灣人不當 偏要做中國人 =========",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Gamer1028",
+    "push_content" : ": WHA說要去國務院罰站是罰到哪去了啊",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gary2011",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whitezealman",
+    "push_content" : ": 推 支持小英",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "silentlin",
+    "push_content" : ": 蔡總統真的做得很不錯很有國際觀,歷代最好總統當之無愧",
+    "push_ipdatetime" : "03/30 20:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sam682097",
+    "push_content" : ": 撿到美軍司令部",
+    "push_ipdatetime" : "03/30 20:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "l11111111",
+    "push_content" : ": 五毛黨工崩潰就是支持",
+    "push_ipdatetime" : "03/30 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "changwook",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fallennrise",
+    "push_content" : ": 不論如何，跟美國關係大耀進就是蔡執政的時期",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fallennrise",
+    "push_content" : ": 這應該是既定的事實了",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wn7158",
+    "push_content" : ": 廠工英粉，星期六還要上班，需不需要幫勞檢一下啊！",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "blackdragon",
+    "push_content" : ": 休息",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "andy2546",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Birken",
+    "push_content" : ": 支持小英 ！",
+    "push_ipdatetime" : "03/30 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 小英加油 ！ 這篇五毛一定會噓爆",
+    "push_ipdatetime" : "03/30 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qiaode",
+    "push_content" : ": 就是有內賊愛扯台灣後腿幹",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Anikk",
+    "push_content" : ": 假議題xD",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yue801010",
+    "push_content" : ": 幫推蔡英文，小英加油",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lklk3711",
+    "push_content" : ": 小英加油！",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hariclia",
+    "push_content" : ": 推 垃圾五毛9.2 滾",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yue801010",
+    "push_content" : ": 五毛噓就是要推",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Liebig",
+    "push_content" : ": 9.25毛在急什麼？",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "love90619",
+    "push_content" : ": 為什麼9.2這麼喜歡當狗",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "injanine",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorrywow",
+    "push_content" : ": 中國人來噓囉",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wn7158",
+    "push_content" : ": 樓上id 為什麼會在前面幾篇名單中",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jasonmv123",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laroserose",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxc03211130",
+    "push_content" : ": 五毛崩潰阿",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koala0919",
+    "push_content" : ": 五毛翻牆加班？",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "matthew0129",
+    "push_content" : ": 五毛可憐",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chhoher",
+    "push_content" : ": 可撥五毛",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "croy89",
+    "push_content" : ": 一樓太急了吧",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ginoweng",
+    "push_content" : ": 推連任",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cup18",
+    "push_content" : ": 台灣不會屈服！",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Birken",
+    "push_content" : ": 支持小英連任",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sun41102",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EggAcme",
+    "push_content" : ": 唯一支持蔡英文",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "to255008",
+    "push_content" : ": 自己要站挺才有人會挺你",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 推小英 氣死五毛",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yue801010",
+    "push_content" : ": 我廠工挺小英啦",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yue801010",
+    "push_content" : ": 聽到五毛柯糞喜韓兒崩潰",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "raymondabcd",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hariclia",
+    "push_content" : ": 支持小英連任",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gefroren",
+    "push_content" : ": 噓的在加班所以覺得別人也在加班",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "targoo",
+    "push_content" : ": 來看五毛速度的",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joy2001billy",
+    "push_content" : ": 推總統小英",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QQdragon",
+    "push_content" : ": https://tinyurl.com/y8yscdto",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cothade",
+    "push_content" : ": 噓文以為扯上賴人家就會以為你綠的嗎？",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sorrywow",
+    "push_content" : ": 今天噓的比較少 看來還是有週休 真好",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Liebig",
+    "push_content" : ": 支持小英連任",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kiemets",
+    "push_content" : ": 推推推",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Adamcolton",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamyamashi",
+    "push_content" : ": 高調推",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "love90619",
+    "push_content" : ": 五毛休假 ？輪班？",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shway",
+    "push_content" : ": 我免錢公關來推囉",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b8350580",
+    "push_content" : ": 支持蔡總統連任",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oweno",
+    "push_content" : ": 推小英連任",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamyamashi",
+    "push_content" : ": 我支持蔡英文",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jasonmv123",
+    "push_content" : ": 五毛在不噓就要爆囉",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Bouchard",
+    "push_content" : ": 推哦",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "funccore",
+    "push_content" : ": 習包子對台灣的肖想不能低估",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MXZR",
+    "push_content" : ": 紅跪賓加油啊！怎麼後繼無力了？",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "breaki",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koala0919",
+    "push_content" : ": 五毛業績又要下降囉",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amos30627",
+    "push_content" : ": 增加公關公司工作量 推起來",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "agner",
+    "push_content" : ": 高調推",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "agner",
+    "push_content" : ": 加油",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "qqqr",
+    "push_content" : ": 去他…的一國兩制",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chhoher",
+    "push_content" : ": 幫推爆",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Muqeem",
+    "push_content" : ": 公關公司推快一點好嗎 才幾個字",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "deityfire",
+    "push_content" : ": 會妥協的真的只有中國國民黨然後自己發大財",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kxt970721",
+    "push_content" : ": 支持！",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Birken",
+    "push_content" : ": 支持小英連任",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ez0980",
+    "push_content" : ": https://i.imgur.com/jNjy1kK.jpg",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "coinage",
+    "push_content" : ": 準備推爆 智障紅跪賓又要加班了",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LierX",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rave16",
+    "push_content" : ": 五毛太專業了",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 五毛加班幫QQ",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OutBai",
+    "push_content" : ": 推啦 舔共都去死",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "soisoi",
+    "push_content" : ": 聽說爆了五毛會扣薪真的嗎？",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "billionaire",
+    "push_content" : ": 台灣關係法是美國國內法",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hariclia",
+    "push_content" : ": 那就幫五毛扣薪XD",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thenorth",
+    "push_content" : ": 加油",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimeaharu",
+    "push_content" : ": 習包子好嚴格！害怕！",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MXZR",
+    "push_content" : ": 要爆了囉！紅跪賓快來大喊廠公啊！公關公司啊！",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whereru",
+    "push_content" : ": 五毛好可憐 怎沒叫人",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coinage",
+    "push_content" : ": 推兩次 智障紅跪賓快把我列入廠工名單啊！",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Yanpos",
+    "push_content" : ": 讚讚",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dddc",
+    "push_content" : ": QQ 可是你要下台了",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aph860212",
+    "push_content" : ": 後面要括號台獨不然有人看不懂說假議題",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frozenmoon",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "paorei",
+    "push_content" : ": 你以為你在滅民進黨事實上你在滅中華民國",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mow1982",
+    "push_content" : ": https://i.imgur.com/cCz2RsC.jpg",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wn7158",
+    "push_content" : ": 等初選過，母豬蔡被賴神斬掉，再來看看母豬文還會不會爆",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jazz19860929",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sqark912",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zlot",
+    "push_content" : ": 小英加油",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ftn7301",
+    "push_content" : ": 公關公司速度很快唷",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kunker",
+    "push_content" : ": 推小英，唯一支持",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dukechiang",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lacoaaa",
+    "push_content" : ": 比男人還強 推小英進2020",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "littleaoc",
+    "push_content" : ": 龍在上 鳳在下",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lilavadee",
+    "push_content" : ": 推小英，反觀舔共KMT和逼宮賴",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xingting",
+    "push_content" : ": 台灣絕不向霸凌低頭",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jeeffrey3688",
+    "push_content" : ": 我推",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lwamp",
+    "push_content" : ": 反正小央快掰了 也就只能講講廢話",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Muqeem",
+    "push_content" : ": 公關公司加點油 快爆了",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wiiann",
+    "push_content" : ": 不冒進不屈服跟不統不獨維持現狀有什麼不一樣?",
+    "push_ipdatetime" : "03/30 21:19",
+    "push_tag" : "推"
+  } ]
+}

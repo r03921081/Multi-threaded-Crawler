@@ -1,0 +1,930 @@
+{
+  "title" : "[耍冷] 推特上在夯什麼 Part.112",
+  "author" : "Funghikun",
+  "board" : "joke",
+  "content" : "今天早上家裡養了十幾年的小狗過世了 以後回家再也看不到他在門口迎接 吃東西的時候再也看不到他在旁邊一臉想吃 覺得心裡難受 https://i.imgur.com/dwH0W6b.jpg 總之112集如下 https://rinakawaei.blogspot.com/2019/03/part112.html -- 『 我笑故我在-方吉君速報 粉絲團 https://goo.gl/tcRZgT 方 圖片旁白自由發揮 https://goo.gl/wNH0GF 吉 避 推特上在夯什麼 https://goo.gl/bYhg1x 君 暑 方吉君生活點滴 https://goo.gl/jLdN9l 出 佳 方吉君官方LINE https://goo.gl/1j3Mut 品 作 』 -- ",
+  "date" : "Wed Mar 27 11:58:32 2019",
+  "ip" : "60.248.33.41",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553659116.A.104.html",
+  "pushList" : [ {
+    "push_userid" : "silversnow24",
+    "push_content" : ": 頭推 爽",
+    "push_ipdatetime" : "03/27 12:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mei5566",
+    "push_content" : ": 屌推",
+    "push_ipdatetime" : "03/27 12:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "enjoy1718",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mcwagamama",
+    "push_content" : ": 方吉君拍拍Q_Q",
+    "push_ipdatetime" : "03/27 12:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "y9559",
+    "push_content" : ": 拍拍QAQ",
+    "push_ipdatetime" : "03/27 12:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kongtson",
+    "push_content" : ": 桌球XDDD",
+    "push_ipdatetime" : "03/27 12:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s210576",
+    "push_content" : ": 我家14歲狗狗也在15日離開了，到現在都還不能接受，每天",
+    "push_ipdatetime" : "03/27 12:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s210576",
+    "push_content" : ": 醒來都覺得痛苦。",
+    "push_ipdatetime" : "03/27 12:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ji3g4sm32k7",
+    "push_content" : ": 拍拍 幫QQ",
+    "push_ipdatetime" : "03/27 12:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nvalue",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Superleggera",
+    "push_content" : ": Q_Q",
+    "push_ipdatetime" : "03/27 12:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "px37521",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ikea1261",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bbaian",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 12:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yamazaky",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 狗狗QQ",
+    "push_ipdatetime" : "03/27 12:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iewix",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DeaGoo",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LoveBea",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pm2001",
+    "push_content" : ": https://tokyo2020.org/en/games/sport/olympic/",
+    "push_ipdatetime" : "03/27 12:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pm2001",
+    "push_content" : ": 黑底看起來就很正常",
+    "push_ipdatetime" : "03/27 12:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "PonBoar",
+    "push_content" : ": 幫QQ 養毛孩必經之路",
+    "push_ipdatetime" : "03/27 12:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eiuyt2",
+    "push_content" : ": QQ節哀",
+    "push_ipdatetime" : "03/27 12:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jokethelife",
+    "push_content" : ": R.I.P. 狗狗",
+    "push_ipdatetime" : "03/27 12:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tows0606",
+    "push_content" : ": ペットロス症候群，保重",
+    "push_ipdatetime" : "03/27 12:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Mochi223",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 12:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RC8377",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sandiato",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 12:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "clown0128",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TINA2215698",
+    "push_content" : ": 拍拍QQ 有緣分的話他還是會回來陪你的",
+    "push_ipdatetime" : "03/27 12:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 12:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SSZXIQ96",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wulinuelf",
+    "push_content" : ": 方吉拍拍 line回得好勤3Q",
+    "push_ipdatetime" : "03/27 13:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "janfat",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vgil",
+    "push_content" : ": R.I.P",
+    "push_ipdatetime" : "03/27 13:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LeMirage2000",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 13:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jshengd",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yccm",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "philip200510",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 13:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mars329",
+    "push_content" : ": 拍拍 也感謝你繼續將歡樂帶給大家",
+    "push_ipdatetime" : "03/27 13:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce1119",
+    "push_content" : ": 河豚加皮卡丘那個真的太好笑了",
+    "push_ipdatetime" : "03/27 13:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiftdog",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tylerwang123",
+    "push_content" : ": R.I.P QQ",
+    "push_ipdatetime" : "03/27 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q0928755515",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "katheri",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 13:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "supertalker",
+    "push_content" : ": QQ，沉澱一下心情吧",
+    "push_ipdatetime" : "03/27 13:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coolaru",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 13:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "icou",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SoB2ST",
+    "push_content" : ": 加油~",
+    "push_ipdatetime" : "03/27 13:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thomas890612",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 13:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "airwaves06",
+    "push_content" : ": 幫QQ",
+    "push_ipdatetime" : "03/27 14:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 14:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rhythm1217",
+    "push_content" : ": 節哀",
+    "push_ipdatetime" : "03/27 14:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xwjyj",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 14:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linaslan",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 14:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ebiya",
+    "push_content" : ": Q_Q",
+    "push_ipdatetime" : "03/27 14:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gungunit",
+    "push_content" : ": 寵物過世真的只能靠時間來平復了 加油加油",
+    "push_ipdatetime" : "03/27 14:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "moume",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 14:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 14:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "demon159000",
+    "push_content" : ": 哇…QQ 這樣你也有動力PO令人敬佩",
+    "push_ipdatetime" : "03/27 14:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "queenawu1217",
+    "push_content" : ": 節哀",
+    "push_ipdatetime" : "03/27 14:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XBOX720",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 14:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lumbereddy",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 14:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TeacherGood",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 15:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EF1635mm",
+    "push_content" : ": QAQ狗狗",
+    "push_ipdatetime" : "03/27 15:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hotpeach",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 15:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "romeomonkey",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 15:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pizza0903",
+    "push_content" : ": 很不錯",
+    "push_ipdatetime" : "03/27 15:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MJrun",
+    "push_content" : ": 方吉君請加油",
+    "push_ipdatetime" : "03/27 15:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JodyChing",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 15:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dogppatrick",
+    "push_content" : ": 洋蔥QQ",
+    "push_ipdatetime" : "03/27 15:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hashbrownnn",
+    "push_content" : ": 狗狗去當小天使了QQ",
+    "push_ipdatetime" : "03/27 15:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chadisgood",
+    "push_content" : ": 方吉拍拍",
+    "push_ipdatetime" : "03/27 15:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Yilin158",
+    "push_content" : ": RIP...",
+    "push_ipdatetime" : "03/27 15:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ilvu1l31o4",
+    "push_content" : ": 幫QQ",
+    "push_ipdatetime" : "03/27 15:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "antofie",
+    "push_content" : ": 狗狗....QQQQQQ 方吉加油 _",
+    "push_ipdatetime" : "03/27 15:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a343",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 15:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HaHaPoint",
+    "push_content" : ": 幫拍拍",
+    "push_ipdatetime" : "03/27 15:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dantevergil",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 16:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w9",
+    "push_content" : ": 要說最不幸河豚我覺得還是這個　https://youtu.be/0VaQgy84KbI",
+    "push_ipdatetime" : "03/27 16:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spec55959",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 16:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w9",
+    "push_content" : ": 不過河豚君也是有他的榮光 https://youtu.be/ROpjXpndcAo",
+    "push_ipdatetime" : "03/27 16:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "w9",
+    "push_content" : ": 甚至還可以化身老司機 https://youtu.be/91aHb9iOQ2w",
+    "push_ipdatetime" : "03/27 16:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rainHime",
+    "push_content" : ": 小狗有過很幸福的時光",
+    "push_ipdatetime" : "03/27 16:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "elaine60535",
+    "push_content" : ": 拍拍(TдT)",
+    "push_ipdatetime" : "03/27 16:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q996786",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/27 16:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wjp1003",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 16:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cuan1986",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 16:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cderfv1000",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mcnightcc",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 16:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kukuma",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WhiteWhale",
+    "push_content" : ": 我家小狗12歲了 已經有重聽的現象QQ",
+    "push_ipdatetime" : "03/27 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laswish",
+    "push_content" : ": 拍拍，他這輩子一定很幸福",
+    "push_ipdatetime" : "03/27 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunriseyang",
+    "push_content" : ": 鳥居美雪根本本人吧 XD",
+    "push_ipdatetime" : "03/27 17:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dlsifgww81",
+    "push_content" : ": F",
+    "push_ipdatetime" : "03/27 17:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "luoyi",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 18:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryo2030999",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/27 18:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "picoblaze",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 18:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qso",
+    "push_content" : ": QAQ",
+    "push_ipdatetime" : "03/27 18:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aq200aq",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 18:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "luckiness",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/27 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c22748872",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 18:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "oliverroli",
+    "push_content" : ": 方吉君QQ 牠一定知道你很愛他的",
+    "push_ipdatetime" : "03/27 18:46",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "unicum6",
+    "push_content" : ": RIP",
+    "push_ipdatetime" : "03/27 18:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a44101234",
+    "push_content" : ": 拍",
+    "push_ipdatetime" : "03/27 18:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sensitive",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/27 19:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FLy60169",
+    "push_content" : ": 拍拍，狗狗真的很可愛",
+    "push_ipdatetime" : "03/27 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "silius",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 19:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lmario",
+    "push_content" : ": QAQ 我們家狗狗也是最近...一起拍拍",
+    "push_ipdatetime" : "03/27 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wudatou",
+    "push_content" : ": 看不懂桌球",
+    "push_ipdatetime" : "03/27 19:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fall7213",
+    "push_content" : ": 我靠再養一隻狗狗才走出來的QQ",
+    "push_ipdatetime" : "03/27 19:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ggrreeeenn",
+    "push_content" : ": 我也還在適應回家空無一人",
+    "push_ipdatetime" : "03/27 19:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin91223",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 幫qq",
+    "push_ipdatetime" : "03/27 19:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hydehsiao",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "baker31",
+    "push_content" : ": 節哀",
+    "push_ipdatetime" : "03/27 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hwanger",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 20:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sandvich",
+    "push_content" : ": 他是最棒的狗狗",
+    "push_ipdatetime" : "03/27 20:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sandvich",
+    "push_content" : ": http://i.imgur.com/fM6ZA8O.jpg",
+    "push_ipdatetime" : "03/27 20:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Aerci",
+    "push_content" : ": 日本好美 qq",
+    "push_ipdatetime" : "03/27 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mooffy",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/27 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "canonrock99",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Takuri",
+    "push_content" : ": 拍拍.....",
+    "push_ipdatetime" : "03/27 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kulumi",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Feverist",
+    "push_content" : ": 一進來就放洋蔥，嗚嗚嗚嗚",
+    "push_ipdatetime" : "03/27 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "daisy0804123",
+    "push_content" : ": 牠會去一個幸福的地方的，拍拍",
+    "push_ipdatetime" : "03/27 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "philip09227",
+    "push_content" : ": Q-Q",
+    "push_ipdatetime" : "03/27 21:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fujiapple12",
+    "push_content" : ": 幫QQ",
+    "push_ipdatetime" : "03/27 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "relievezaoc",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jodawa",
+    "push_content" : ": 幫Q",
+    "push_ipdatetime" : "03/27 21:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dnkofe",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 21:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "feketerigo15",
+    "push_content" : ": 方吉君拍拍 狗狗RIP... 他會當個快樂的小天使的QAQ",
+    "push_ipdatetime" : "03/27 21:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "De950805",
+    "push_content" : ": RIP",
+    "push_ipdatetime" : "03/27 22:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fobqoou",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 22:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coolcjy",
+    "push_content" : ": 我家狗也已經十七歲了... 節哀 幫QQ",
+    "push_ipdatetime" : "03/27 22:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j147589",
+    "push_content" : ": 貓要逃出浴室那張怎麼拍的 人不是跟貓在同一間嗎",
+    "push_ipdatetime" : "03/27 22:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryan530tso",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 22:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youre",
+    "push_content" : ": 狗狗QQ",
+    "push_ipdatetime" : "03/27 22:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "suusi",
+    "push_content" : ": 拍拍 他會希望你開心的",
+    "push_ipdatetime" : "03/27 22:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "catherinecol",
+    "push_content" : ": 保重",
+    "push_ipdatetime" : "03/27 22:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markcu",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 22:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 23:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HPwu",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/27 23:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BEEEEE",
+    "push_content" : ": 幫拍拍",
+    "push_ipdatetime" : "03/27 23:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gloria023",
+    "push_content" : ": 方吉拍拍..狗狗只是變小天使陪在你身邊哦..！",
+    "push_ipdatetime" : "03/27 23:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "randy061",
+    "push_content" : ": 拍拍，狗狗超療癒的",
+    "push_ipdatetime" : "03/27 23:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ssimboth",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/27 23:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ivyfisher",
+    "push_content" : ": 拍拍方吉",
+    "push_ipdatetime" : "03/28 00:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weast1943",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/28 00:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AEae2014",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 00:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sweare1001",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 00:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "super1937",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/28 01:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rayman0321",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 01:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lanlinshieh",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/28 01:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "itoh",
+    "push_content" : ": 狗狗R.I.P.",
+    "push_ipdatetime" : "03/28 02:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pcinereus",
+    "push_content" : ": （其實美國大學女生都假素顏 衣服也是大家都穿的一樣看",
+    "push_ipdatetime" : "03/28 02:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pcinereus",
+    "push_content" : ": 起來比較不像異類）方吉拍拍",
+    "push_ipdatetime" : "03/28 02:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Pcinereus",
+    "push_content" : ": Sandvich害我哭了QQQ",
+    "push_ipdatetime" : "03/28 02:22",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wableHD",
+    "push_content" : ": QQAQ",
+    "push_ipdatetime" : "03/28 02:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sd131420",
+    "push_content" : ": 幫方吉拍拍",
+    "push_ipdatetime" : "03/28 04:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "waiter337",
+    "push_content" : ": !",
+    "push_ipdatetime" : "03/28 07:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trf560",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 08:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weizxcvb",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 09:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "elenatasi",
+    "push_content" : ": 拍拍，難以想像我家老狗離開的日子",
+    "push_ipdatetime" : "03/28 09:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nichtsicher",
+    "push_content" : ": 拍拍QQ",
+    "push_ipdatetime" : "03/28 09:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wasitora",
+    "push_content" : ": R.I.P.",
+    "push_ipdatetime" : "03/28 11:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ThreeNG",
+    "push_content" : ": 狗狗轉職小天使守護你了！",
+    "push_ipdatetime" : "03/28 11:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "QT1020",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 12:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cerberi",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 13:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yoyo860219",
+    "push_content" : ": 拍",
+    "push_ipdatetime" : "03/28 14:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuhurefu",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 22:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rain150148",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/28 23:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qmaper",
+    "push_content" : ": 自從小時候家裡養的狗老死之後 就不再養寵物了",
+    "push_ipdatetime" : "03/29 05:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Zaffino",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/29 12:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ihatechina",
+    "push_content" : ": 拍拍",
+    "push_ipdatetime" : "03/29 12:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "usxuk0130",
+    "push_content" : ": 拍拍 3年前養了10年的妹妹也走了現在想起來也還會哭",
+    "push_ipdatetime" : "03/29 13:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shyoulol",
+    "push_content" : ": 狗狗QQ",
+    "push_ipdatetime" : "03/29 15:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hui722767",
+    "push_content" : ": 拍拍 QQ",
+    "push_ipdatetime" : "03/29 22:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a54541354",
+    "push_content" : ": Qq",
+    "push_ipdatetime" : "03/30 08:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TommyTora",
+    "push_content" : ": R.I.P.",
+    "push_ipdatetime" : "03/30 11:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Leaves1014",
+    "push_content" : ": 方吉君拍拍 QQ",
+    "push_ipdatetime" : "03/30 12:42",
+    "push_tag" : "推"
+  } ]
+}

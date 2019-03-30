@@ -1,0 +1,785 @@
+{
+  "title" : "[ＸＤ] 公視台語新聞配音",
+  "author" : "lalilawhite",
+  "board" : "joke",
+  "content" : "原本以為是惡搞 實際找新聞來看實在驚為天人 工作人員太賣力配音了吧XDDD 一個respect送給他！！ 找了幾個片段剪在一起 https://youtu.be/ay_Fqabd5Ro 太喜歡公視了～～～ 更 https://i.imgur.com/tjOuEqN.jpg 哈哈哈哈哈哈哈公視小編太可愛了啦 -- ",
+  "date" : "Thu Mar 28 01:17:33 2019",
+  "ip" : "110.28.197.221",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553707056.A.2C5.html",
+  "pushList" : [ {
+    "push_userid" : "yijhen",
+    "push_content" : ": 什麼啦哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 01:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 他怎麼還沒被火",
+    "push_ipdatetime" : "03/28 03:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Montana01",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 03:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yashiro111",
+    "push_content" : ": 無人機表示：..................",
+    "push_ipdatetime" : "03/28 06:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fymay",
+    "push_content" : ": 乾哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 06:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "erici41",
+    "push_content" : ": 快笑死了 他們到底吸了什麼",
+    "push_ipdatetime" : "03/28 08:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dennyko",
+    "push_content" : ": 這配音員太鬧 配外國人還用外國腔",
+    "push_ipdatetime" : "03/28 08:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skill8808",
+    "push_content" : ": 在恩3小XDDDDDDDD",
+    "push_ipdatetime" : "03/28 09:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "StarFox0910",
+    "push_content" : ": 外國腔是三小XDDD",
+    "push_ipdatetime" : "03/28 09:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": 無人機XD",
+    "push_ipdatetime" : "03/28 09:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jknm0510a",
+    "push_content" : ": 外國腔台語很鬧",
+    "push_ipdatetime" : "03/28 09:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leeyongdae",
+    "push_content" : ": 笑到流淚XDDD",
+    "push_ipdatetime" : "03/28 09:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nerv3890",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 10:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k1k1832002",
+    "push_content" : ": 可以不要連無人機也配音嗎(?",
+    "push_ipdatetime" : "03/28 10:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "newland",
+    "push_content" : ": 外國腔超好笑",
+    "push_ipdatetime" : "03/28 10:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aurorahuangh",
+    "push_content" : ": 無人機ㄥㄥㄥㄥㄥㄥ. XD",
+    "push_ipdatetime" : "03/28 10:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnietslock",
+    "push_content" : ": 配音的是PTT radio的金寶吧，應該是吧，很好認",
+    "push_ipdatetime" : "03/28 10:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "theHum",
+    "push_content" : ": 外國腔講台語啥小XDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 10:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin10eagle",
+    "push_content" : ": 這必須推",
+    "push_ipdatetime" : "03/28 10:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ivyfisher",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 10:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sing0703",
+    "push_content" : ": 好ㄎㄧㄤ",
+    "push_ipdatetime" : "03/28 11:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zon200493",
+    "push_content" : ": G I JOE~~~",
+    "push_ipdatetime" : "03/28 11:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mstar",
+    "push_content" : ": 我想到鄉民配的台語版黑暗騎士裏的警犬 XD",
+    "push_ipdatetime" : "03/28 11:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mstar",
+    "push_content" : ": https://www.youtube.com/watch?v=emo9wu6Rvf8#t=45s",
+    "push_ipdatetime" : "03/28 11:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andyydna",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 11:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "catwu",
+    "push_content" : ": 日本的電視好像也會這樣配！",
+    "push_ipdatetime" : "03/28 11:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "web946719",
+    "push_content" : ": 有夠鬧XDDDDDDD",
+    "push_ipdatetime" : "03/28 11:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jason1515",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 11:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sai307",
+    "push_content" : ": 聲音好像金寶",
+    "push_ipdatetime" : "03/28 11:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fishthehuman",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 11:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kinple",
+    "push_content" : ": YOOOOOO",
+    "push_ipdatetime" : "03/28 11:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rodyplayful",
+    "push_content" : ": 台灣還是習慣聽原版聲音+字幕吧...",
+    "push_ipdatetime" : "03/28 11:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "f051372",
+    "push_content" : ": 笑死 搞啥阿",
+    "push_ipdatetime" : "03/28 11:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "surreallin",
+    "push_content" : ": 哈哈哈 沒問題嗎？！ XDD",
+    "push_ipdatetime" : "03/28 11:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "potcat1111",
+    "push_content" : ": 哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 11:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linthousand",
+    "push_content" : ": 笑死XDDD",
+    "push_ipdatetime" : "03/28 12:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sheepi1019",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/28 12:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vincefan1347",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 12:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Messi100",
+    "push_content" : ": 公視轉型綜藝節目了??XD",
+    "push_ipdatetime" : "03/28 12:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nccupopo1221",
+    "push_content" : ": 外國腔是三小啦哈哈哈哈",
+    "push_ipdatetime" : "03/28 12:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunandmoonof",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 12:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "path1",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 12:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AntiCompete",
+    "push_content" : ": 台毒電視台，吸獨仔最愛",
+    "push_ipdatetime" : "03/28 12:15",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "opsky17",
+    "push_content" : ": 到底在幹嘛啦XDDDDD",
+    "push_ipdatetime" : "03/28 12:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liliyaeva000",
+    "push_content" : ": 求原本的影片",
+    "push_ipdatetime" : "03/28 12:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "myskyfu",
+    "push_content" : ": 43有事喔",
+    "push_ipdatetime" : "03/28 12:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chienyu2001",
+    "push_content" : ": 三小XDDD 公視壞掉了",
+    "push_ipdatetime" : "03/28 12:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tw88",
+    "push_content" : ": 電視直播時應該沒有吧哈哈哈哈好好笑",
+    "push_ipdatetime" : "03/28 12:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qts655791",
+    "push_content" : ": 某樓9.2崩潰囉？",
+    "push_ipdatetime" : "03/28 12:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "strivemax",
+    "push_content" : ": 蝙蝠俠台語超好笑",
+    "push_ipdatetime" : "03/28 12:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Maisie",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/28 12:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "neosnow",
+    "push_content" : ": 最中肯的電視台 智障都討厭 XD",
+    "push_ipdatetime" : "03/28 12:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k33536",
+    "push_content" : ": 好好的念就好 不用學外國人講台語的口音啦",
+    "push_ipdatetime" : "03/28 12:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "singsing1130",
+    "push_content" : ": 笑歪XDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 12:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TORKH",
+    "push_content" : ": 屌到不行",
+    "push_ipdatetime" : "03/28 12:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ashen19",
+    "push_content" : ": 中間一度以為是布袋戲",
+    "push_ipdatetime" : "03/28 12:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chuchnoot",
+    "push_content" : ": 想到日本節目中的外國人也是這樣",
+    "push_ipdatetime" : "03/28 12:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p2p8ppp",
+    "push_content" : ": 靠北喔 今年最好笑",
+    "push_ipdatetime" : "03/28 12:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fujiapple12",
+    "push_content" : ": 無人機哈哈哈哈",
+    "push_ipdatetime" : "03/28 12:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ankuo",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 13:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "geng7030",
+    "push_content" : ": 秋嘎黑姑",
+    "push_ipdatetime" : "03/28 13:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lumbereddy",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a989876",
+    "push_content" : ": 笑死 公視真的屌",
+    "push_ipdatetime" : "03/28 13:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 13:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": 54樓下面的影片54：30",
+    "push_ipdatetime" : "03/28 13:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "astrophy",
+    "push_content" : ": 啥小啦XDD",
+    "push_ipdatetime" : "03/28 13:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onioncat13",
+    "push_content" : ": 可以不要連無人機也配音嗎XXD",
+    "push_ipdatetime" : "03/28 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": 更正54：20",
+    "push_ipdatetime" : "03/28 13:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a1030400",
+    "push_content" : ": 陶資屋烏～～",
+    "push_ipdatetime" : "03/28 13:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sieg2010",
+    "push_content" : ": XDDDDDD",
+    "push_ipdatetime" : "03/28 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skygray2",
+    "push_content" : ": 他口音讓我想起GIJOE",
+    "push_ipdatetime" : "03/28 13:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lingling0000",
+    "push_content" : ": 笑死XDDDDD",
+    "push_ipdatetime" : "03/28 14:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rename",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 14:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iiKryptos",
+    "push_content" : ": 嗯殺小啦笑死XDDDDDDDD",
+    "push_ipdatetime" : "03/28 14:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zeanmar",
+    "push_content" : ": 只有網路直播有啦XD 我記得晚上電視上看是沒有的XD",
+    "push_ipdatetime" : "03/28 14:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gaiaesque",
+    "push_content" : ": 網路直播惡搞到不行 XD",
+    "push_ipdatetime" : "03/28 14:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pttouch",
+    "push_content" : ": 跟日本綜藝節目有87%相似",
+    "push_ipdatetime" : "03/28 14:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tsunana2727",
+    "push_content" : ": 笑死哈哈哈",
+    "push_ipdatetime" : "03/28 14:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "diablo0021",
+    "push_content" : ": 無人機那個好煩XDDDD",
+    "push_ipdatetime" : "03/28 14:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Asucks",
+    "push_content" : ": 太好笑了 XDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 14:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hungryUFO",
+    "push_content" : ": 外國人好煩xD",
+    "push_ipdatetime" : "03/28 14:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rainbowshou",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 14:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sw1569",
+    "push_content" : ": 煩死XDDDDDDDDDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 14:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imogenemuse",
+    "push_content" : ": 配音還偷笑場…",
+    "push_ipdatetime" : "03/28 15:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hanhsiangmax",
+    "push_content" : ": 幹孝到美丁每當XDDDD",
+    "push_ipdatetime" : "03/28 15:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ru820717",
+    "push_content" : ": 笑死XDD",
+    "push_ipdatetime" : "03/28 15:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chu1030",
+    "push_content" : ": 無人機XDDD",
+    "push_ipdatetime" : "03/28 15:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnieW",
+    "push_content" : ": 笑炸在辦公室看到肩膀狂抖XDDD",
+    "push_ipdatetime" : "03/28 15:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "niyobing909",
+    "push_content" : ": 幹嘛配無人機啦XDDDDDD",
+    "push_ipdatetime" : "03/28 15:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chenlin925",
+    "push_content" : ": 哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 15:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yujimin",
+    "push_content" : ": 無人機：？",
+    "push_ipdatetime" : "03/28 15:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "EulerFormula",
+    "push_content" : ": 真的很像GIJOE XDD",
+    "push_ipdatetime" : "03/28 15:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FERRE",
+    "push_content" : ": 可是日本也這樣做",
+    "push_ipdatetime" : "03/28 15:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "St3480",
+    "push_content" : ": 乾 快笑死XDDDD",
+    "push_ipdatetime" : "03/28 16:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kinple",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 16:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fucking",
+    "push_content" : ": 幹 怎麼聽起來像在配gijoe",
+    "push_ipdatetime" : "03/28 16:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": 無人機那個是三小啦",
+    "push_ipdatetime" : "03/28 16:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SLIMELEE",
+    "push_content" : ": 哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mRENm",
+    "push_content" : ": 根本gijoeXDDDDD",
+    "push_ipdatetime" : "03/28 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "woula",
+    "push_content" : ": 我也想到GIJOE.....太好笑XDD",
+    "push_ipdatetime" : "03/28 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youwilldie",
+    "push_content" : ": 靠北磕多少啦XDDDDD",
+    "push_ipdatetime" : "03/28 17:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JJJ09",
+    "push_content" : ": NNNN",
+    "push_ipdatetime" : "03/28 17:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wulaw5566",
+    "push_content" : ": 厲害",
+    "push_ipdatetime" : "03/28 17:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "biosphere",
+    "push_content" : ": 歪果腔臺語是怎樣啦XDDDDDDD",
+    "push_ipdatetime" : "03/28 17:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pigeatsleep",
+    "push_content" : ": 笑死XDDDDDDDDD",
+    "push_ipdatetime" : "03/28 18:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dias7812",
+    "push_content" : ": 我不行了嘴好痛XDDDDDDD",
+    "push_ipdatetime" : "03/28 18:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "robert0805",
+    "push_content" : ": 這個公視我尬意，台灣最優質電視台",
+    "push_ipdatetime" : "03/28 18:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 18:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TZephyr",
+    "push_content" : ": 這好強喔XDDDD",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "libu",
+    "push_content" : ": 這個配音外行感有夠重XDDDDD",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kazh",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 19:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lindada78",
+    "push_content" : ": 這好笑",
+    "push_ipdatetime" : "03/28 19:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwjd198323",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 19:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Poire212",
+    "push_content" : ": 笑死哈哈哈",
+    "push_ipdatetime" : "03/28 20:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "catclan",
+    "push_content" : ": 外國腔笑死XDDDD",
+    "push_ipdatetime" : "03/28 20:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "congaconga",
+    "push_content" : ": ㄎㄧㄤ",
+    "push_ipdatetime" : "03/28 20:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "econist",
+    "push_content" : ": 外國腔很可以XD",
+    "push_ipdatetime" : "03/28 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HowieH",
+    "push_content" : ": 靠背XD",
+    "push_ipdatetime" : "03/28 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": 外國腔笑翻 XDDDDD",
+    "push_ipdatetime" : "03/28 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fang314",
+    "push_content" : ": 超好笑",
+    "push_ipdatetime" : "03/28 21:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Syd",
+    "push_content" : ": 惡搞啊，二林台語才不是那樣",
+    "push_ipdatetime" : "03/28 22:48",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 幹，為什麼他說的台語我完全聽不懂，三小",
+    "push_ipdatetime" : "03/28 22:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nonfly",
+    "push_content" : ": 原來小編是金寶啦",
+    "push_ipdatetime" : "03/28 22:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j110333",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 23:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "souldrinking",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 23:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fantasymay",
+    "push_content" : ": 笑翻",
+    "push_ipdatetime" : "03/28 23:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Repugnant",
+    "push_content" : ": 不管小編喝了什麼 都給我來一打@@",
+    "push_ipdatetime" : "03/29 00:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dora5566",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/29 00:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a29871722",
+    "push_content" : ": 這樣配真的不會怎麼樣嗎",
+    "push_ipdatetime" : "03/29 00:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheng31507",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 00:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vgil",
+    "push_content" : ": 這批很純",
+    "push_ipdatetime" : "03/29 01:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stacy62123",
+    "push_content" : ": 直www升wwww機wwww配www音wwww",
+    "push_ipdatetime" : "03/29 01:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "stacy62123",
+    "push_content" : ": 就是金寶XDDDDD",
+    "push_ipdatetime" : "03/29 01:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "stacy62123",
+    "push_content" : ": 啊，是無人機",
+    "push_ipdatetime" : "03/29 01:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 太純",
+    "push_ipdatetime" : "03/29 01:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "opeminbod001",
+    "push_content" : ": 超好笑XDD",
+    "push_ipdatetime" : "03/29 02:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YingYing565",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 02:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ArNan",
+    "push_content" : ": 77777",
+    "push_ipdatetime" : "03/29 03:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RC8377",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/29 03:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Fengyo1963",
+    "push_content" : ": 鬧爆XDDD",
+    "push_ipdatetime" : "03/29 05:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cocoyan",
+    "push_content" : ": XDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/29 08:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eldar",
+    "push_content" : ": 外國腔XD",
+    "push_ipdatetime" : "03/29 12:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tikowm",
+    "push_content" : ": 配外國腔是怕不知道是外國人嗎...XDDD",
+    "push_ipdatetime" : "03/29 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yasamnoya",
+    "push_content" : ": 沒錢了只好這樣搏曝光找資金嗎XD",
+    "push_ipdatetime" : "03/29 15:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "enjoy1718",
+    "push_content" : ": 幹你辣",
+    "push_ipdatetime" : "03/29 16:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OldYuanshen",
+    "push_content" : ": 公視台語臺小編辦了推特建了D群 還做這個真夠有心XD",
+    "push_ipdatetime" : "03/29 18:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bbblair",
+    "push_content" : ": 靠北XDDD",
+    "push_ipdatetime" : "03/29 18:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "menti",
+    "push_content" : ": 幹外國腔真的好猛笑死我",
+    "push_ipdatetime" : "03/29 19:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FeO",
+    "push_content" : ": 有笑",
+    "push_ipdatetime" : "03/29 19:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kusoman",
+    "push_content" : ": 回憶起撿到一百塊的那群人",
+    "push_ipdatetime" : "03/29 23:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "momogo628",
+    "push_content" : ": 無人機XDD應該配登革熱的新聞吧！",
+    "push_ipdatetime" : "03/30 00:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frankieeeee",
+    "push_content" : ": 無人機XDDDDD",
+    "push_ipdatetime" : "03/30 02:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dennis02",
+    "push_content" : ": 我以為是在看居哀揪，甲土豆！！！",
+    "push_ipdatetime" : "03/30 13:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TangerineYi",
+    "push_content" : ": 啊 貓",
+    "push_ipdatetime" : "03/30 18:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": xd",
+    "push_ipdatetime" : "03/30 19:48",
+    "push_tag" : "推"
+  } ]
+}

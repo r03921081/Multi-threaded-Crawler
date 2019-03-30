@@ -1,0 +1,385 @@
+{
+  "title" : "[ＸＤ] GIF",
+  "author" : "jionghao1224",
+  "board" : "joke",
+  "content" : "有些畫質不好請見諒 01 https://imgur.com/VLb8bHX 02 https://imgur.com/VvJVUK1 03 https://imgur.com/fE84zZr 04 https://imgur.com/UtfbKtS 05 https://imgur.com/MZD07mE 06 https://imgur.com/zvMQsrJ 07 https://imgur.com/MS1sEia 08 https://imgur.com/cQUVzBH 09 https://imgur.com/B9gAruO 10 https://imgur.com/PX7Atkr 11 https://imgur.com/QCSns8N 12 https://imgur.com/0Yeo1lX -- ",
+  "date" : "Wed Mar 27 14:30:16 2019",
+  "ip" : "111.246.39.136",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553668218.A.E1D.html",
+  "pushList" : [ {
+    "push_userid" : "sixB",
+    "push_content" : ": 玉？懶得看啦可是有貓",
+    "push_ipdatetime" : "03/27 14:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuigood",
+    "push_content" : ": 都編輯過了錯字還不改",
+    "push_ipdatetime" : "03/27 15:47",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "asxu31",
+    "push_content" : ": 不好的不只畫質欸",
+    "push_ipdatetime" : "03/27 16:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eddiego",
+    "push_content" : ": 貓貓！",
+    "push_ipdatetime" : "03/27 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ryanlu428",
+    "push_content" : ": 有啦幹",
+    "push_ipdatetime" : "03/27 17:35",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "henry90319",
+    "push_content" : ": 錯字讓我頭好痛",
+    "push_ipdatetime" : "03/27 17:43",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "pokemonya",
+    "push_content" : ": 我覺得不錯",
+    "push_ipdatetime" : "03/27 18:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sanga",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/27 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liu99789",
+    "push_content" : ": 鳥有點好笑",
+    "push_ipdatetime" : "03/27 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GeraldWolf",
+    "push_content" : ": 這質量…",
+    "push_ipdatetime" : "03/27 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notneme159",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/27 19:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nighthunt",
+    "push_content" : ": 樓下覺得質量怎樣",
+    "push_ipdatetime" : "03/27 19:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v2266514",
+    "push_content" : ": 5 的小朋友真是騷操作",
+    "push_ipdatetime" : "03/27 19:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xxctsd",
+    "push_content" : ": 12的無奈XDDD",
+    "push_ipdatetime" : "03/27 19:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MimoPile",
+    "push_content" : ": 有狗有推",
+    "push_ipdatetime" : "03/27 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "newman302",
+    "push_content" : ": 鳥好兇",
+    "push_ipdatetime" : "03/27 19:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "twn65w65",
+    "push_content" : ": 第三個是母獅子覺得怎麼沒撲倒他在上面懷疑嗎",
+    "push_ipdatetime" : "03/27 19:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 貓貓真的很雞掰",
+    "push_ipdatetime" : "03/27 20:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JOJOttt",
+    "push_content" : ": 最後狗狗好無奈XDDDDD",
+    "push_ipdatetime" : "03/27 20:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uuuuOPuff",
+    "push_content" : ": 這篇質量好高XDDD",
+    "push_ipdatetime" : "03/27 20:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kybj",
+    "push_content" : ": 品質很好 水準很高 畫質很高 質量個屁",
+    "push_ipdatetime" : "03/27 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SentLiTryPay",
+    "push_content" : ": 努力 給推",
+    "push_ipdatetime" : "03/27 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a2156700",
+    "push_content" : ": 這篇質量滿高的",
+    "push_ipdatetime" : "03/27 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "darkdeus",
+    "push_content" : ": 第8的鸚鵡我有印象XDDDD",
+    "push_ipdatetime" : "03/27 20:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "herro760920",
+    "push_content" : ": 副檔名要一起寫出來",
+    "push_ipdatetime" : "03/27 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "azer7890",
+    "push_content" : ": 貓貓可愛",
+    "push_ipdatetime" : "03/27 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "huangtj",
+    "push_content" : ": 質量不錯",
+    "push_ipdatetime" : "03/27 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "exparte",
+    "push_content" : ": 3超可愛耶~是大貓咪",
+    "push_ipdatetime" : "03/27 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ambergris",
+    "push_content" : ": 貓貓超可愛啊！！！",
+    "push_ipdatetime" : "03/27 21:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AQUARMAN",
+    "push_content" : ": 很不錯啊",
+    "push_ipdatetime" : "03/27 22:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chanceiam",
+    "push_content" : ": 副檔名一起寫用手機比較方便看",
+    "push_ipdatetime" : "03/27 22:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pelier",
+    "push_content" : ": 連結弄好再來",
+    "push_ipdatetime" : "03/27 22:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "abstract1717",
+    "push_content" : ": 貓真的很機車",
+    "push_ipdatetime" : "03/27 22:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spider8320",
+    "push_content" : ": 10超北爛XD",
+    "push_ipdatetime" : "03/27 22:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FrEezeMe",
+    "push_content" : ": 7.... 咬一定噴血了",
+    "push_ipdatetime" : "03/27 22:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ert135798",
+    "push_content" : ": 鸚鵡XDD",
+    "push_ipdatetime" : "03/27 22:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dbckdf",
+    "push_content" : ": 厚糗",
+    "push_ipdatetime" : "03/27 22:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DeaGoo",
+    "push_content" : ": 貓跟鳥都好機車但很可愛XD",
+    "push_ipdatetime" : "03/27 22:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "samzi",
+    "push_content" : ": 鸚鵡的雞掰程度僅次於貓",
+    "push_ipdatetime" : "03/27 23:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yam30336",
+    "push_content" : ": 最後一張的眼神...",
+    "push_ipdatetime" : "03/27 23:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "photoB1N",
+    "push_content" : ": 貓貓真的很雞掰",
+    "push_ipdatetime" : "03/27 23:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "henry90319",
+    "push_content" : ": 品質品質品質品質",
+    "push_ipdatetime" : "03/27 23:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vitaume",
+    "push_content" : ": 貓真的很雞掰欸",
+    "push_ipdatetime" : "03/27 23:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "casper6013",
+    "push_content" : ": 第五個小朋友那個臉真的好好笑",
+    "push_ipdatetime" : "03/27 23:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abc0922001",
+    "push_content" : ": 我也看過蹲在邊緣大便的貓XDD",
+    "push_ipdatetime" : "03/27 23:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r901700216",
+    "push_content" : ": 那隻鳥真的= =",
+    "push_ipdatetime" : "03/27 23:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lskd",
+    "push_content" : ": 第四張圖我小孩也是這樣思考的呀",
+    "push_ipdatetime" : "03/28 00:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 狗狗<3",
+    "push_ipdatetime" : "03/28 00:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": 無奈的狗 XDDDD",
+    "push_ipdatetime" : "03/28 00:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiguang",
+    "push_content" : ": 那隻鸚鵡太邪惡了",
+    "push_ipdatetime" : "03/28 00:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevin252673",
+    "push_content" : ": 貓真D好笑",
+    "push_ipdatetime" : "03/28 00:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 6跟12都好好笑",
+    "push_ipdatetime" : "03/28 00:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "huabandd",
+    "push_content" : ": 智障貓咪打翻便盆超崩潰的啊啊啊哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 01:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yukong",
+    "push_content" : ": 4 笑死！ 哈哈哈 這小孩是人才",
+    "push_ipdatetime" : "03/28 01:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s8800892000",
+    "push_content" : ": 5的表情很嘲諷",
+    "push_ipdatetime" : "03/28 03:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Twopoint2",
+    "push_content" : ": 這篇超過80公斤",
+    "push_ipdatetime" : "03/28 06:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ronan113021",
+    "push_content" : ": 滿分100公斤嗎？",
+    "push_ipdatetime" : "03/28 08:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "askdrlin",
+    "push_content" : ": 鳥有夠哭XD",
+    "push_ipdatetime" : "03/28 08:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Brian2315",
+    "push_content" : ": 6 看了三分鐘才看到完@@",
+    "push_ipdatetime" : "03/28 08:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bemyself",
+    "push_content" : ": 倒數第三張也太可愛",
+    "push_ipdatetime" : "03/28 08:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WhiteWhale",
+    "push_content" : ": 最後一個超可愛<3",
+    "push_ipdatetime" : "03/28 11:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "UDK0821",
+    "push_content" : ": 連結沒自動開圖給噓",
+    "push_ipdatetime" : "03/28 12:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sh981215",
+    "push_content" : ": 不會貼圖？",
+    "push_ipdatetime" : "03/28 12:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Stunts",
+    "push_content" : ": 。",
+    "push_ipdatetime" : "03/28 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "john29908",
+    "push_content" : ": 有自動開圖了給推",
+    "push_ipdatetime" : "03/28 14:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yuigood",
+    "push_content" : ": 質量高是很重逆",
+    "push_ipdatetime" : "03/28 15:37",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "queenawu1217",
+    "push_content" : ": 倒數兩張好可愛",
+    "push_ipdatetime" : "03/28 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Brabus700G",
+    "push_content" : ": 沒質量守恆 噓",
+    "push_ipdatetime" : "03/28 17:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "energyandpig",
+    "push_content" : ": 建議要標註來源",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chris529tw",
+    "push_content" : ": 機掰鳥",
+    "push_ipdatetime" : "03/28 21:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcasdjason1",
+    "push_content" : ": 舒服",
+    "push_ipdatetime" : "03/29 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trenteric",
+    "push_content" : ": 自動開圖很難？",
+    "push_ipdatetime" : "03/29 08:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Safrian",
+    "push_content" : ": 要自動開圖的是哪個智障App?",
+    "push_ipdatetime" : "03/29 08:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seth582025",
+    "push_content" : ": 2、3、10可愛 幫補血",
+    "push_ipdatetime" : "03/29 11:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "natureman369",
+    "push_content" : ": 高質量，推",
+    "push_ipdatetime" : "03/29 22:16",
+    "push_tag" : "推"
+  } ]
+}

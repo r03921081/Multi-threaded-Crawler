@@ -1,0 +1,700 @@
+{
+  "title" : "[ＸＤ] 雞腿的葡萄牙語怎麼說？",
+  "author" : "TZephyr",
+  "board" : "joke",
+  "content" : "潘仔去幹你娘 google翻譯 https://bit.ly/2FECKUn -- ",
+  "date" : "Thu Mar 28 00:11:23 2019",
+  "ip" : "59.115.65.46",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553703087.A.43E.html",
+  "pushList" : [ {
+    "push_userid" : "XXXXHAY",
+    "push_content" : ": 雞腿的原住民語怎麼說 雞腿的啦",
+    "push_ipdatetime" : "03/28 00:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "k1k1832002",
+    "push_content" : ": 靠北XD",
+    "push_ipdatetime" : "03/28 00:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pjhs320279",
+    "push_content" : ": 哈哈哈哈靠腰",
+    "push_ipdatetime" : "03/28 00:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lucky093150",
+    "push_content" : ": 我們原住民講話根本就不會的啦的啦的啦",
+    "push_ipdatetime" : "03/28 00:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ty0497",
+    "push_content" : ": 下一篇 雞皮的葡萄牙語怎麼說？",
+    "push_ipdatetime" : "03/28 00:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chris04025",
+    "push_content" : ": 雞骨 葡萄牙語=我說去幹你娘",
+    "push_ipdatetime" : "03/28 00:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 有點好笑",
+    "push_ipdatetime" : "03/28 00:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxc1357959",
+    "push_content" : ": 幹這樣也行",
+    "push_ipdatetime" : "03/28 00:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a509170123",
+    "push_content" : ": 居然會找到這個",
+    "push_ipdatetime" : "03/28 01:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MrSuperLP",
+    "push_content" : ": 幹 可以",
+    "push_ipdatetime" : "03/28 01:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mamajustgo",
+    "push_content" : ": 靠杯XDD",
+    "push_ipdatetime" : "03/28 02:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koko22022",
+    "push_content" : ": 清流",
+    "push_ipdatetime" : "03/28 02:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ebiya",
+    "push_content" : ": 三小啦XDDDD",
+    "push_ipdatetime" : "03/28 02:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thumbe25370",
+    "push_content" : ": 學以致用 推",
+    "push_ipdatetime" : "03/28 02:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "steve2512",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 02:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": 雞幹你娘",
+    "push_ipdatetime" : "03/28 03:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mod980",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 03:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "satzu0627",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 03:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youwilldie",
+    "push_content" : ": 靠北你贏了XDDDD",
+    "push_ipdatetime" : "03/28 03:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hgclnh3",
+    "push_content" : ": 靠背喔",
+    "push_ipdatetime" : "03/28 03:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mystyle520",
+    "push_content" : ": 幹笑死哈哈哈哈",
+    "push_ipdatetime" : "03/28 04:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo911344",
+    "push_content" : ": 幹這個超屌",
+    "push_ipdatetime" : "03/28 04:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seedboxs",
+    "push_content" : ": 高雄有人要雞腿一下了XXXD",
+    "push_ipdatetime" : "03/28 04:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pupudice",
+    "push_content" : ": 紅明顯 很多歐洲語言雞聽起來都像髒話",
+    "push_ipdatetime" : "03/28 05:52",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "fatdragonz",
+    "push_content" : ": 我笑了",
+    "push_ipdatetime" : "03/28 06:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "robert0805",
+    "push_content" : ": 吃早餐聽這語音，東西差點噴出來XD",
+    "push_ipdatetime" : "03/28 06:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zoeforce",
+    "push_content" : ": 哈哈哈哈笑了",
+    "push_ipdatetime" : "03/28 06:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lanlinshieh",
+    "push_content" : ": 好像",
+    "push_ipdatetime" : "03/28 06:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "doom3",
+    "push_content" : ": galinha=雞 ==",
+    "push_ipdatetime" : "03/28 06:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Efrenxx",
+    "push_content" : ": 哈哈哈哈哈我在大便笑到噴屎",
+    "push_ipdatetime" : "03/28 06:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mIngaN7013",
+    "push_content" : ": 重聽了好幾次哈哈",
+    "push_ipdatetime" : "03/28 06:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awaken",
+    "push_content" : ": 嗯",
+    "push_ipdatetime" : "03/28 06:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FurTheMore",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 07:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AsTimeGoesBy",
+    "push_content" : ": 發音很標準",
+    "push_ipdatetime" : "03/28 07:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Garbolin",
+    "push_content" : ": ....-.-",
+    "push_ipdatetime" : "03/28 07:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ait5800",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/28 07:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amogha100",
+    "push_content" : ": 乾哈哈哈",
+    "push_ipdatetime" : "03/28 07:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "moemuir",
+    "push_content" : ": 不要玩google好嗎 她們是無辜的（笑死",
+    "push_ipdatetime" : "03/28 07:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 08:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "talk5566",
+    "push_content" : ": 對了問一下 之前雷恩大兵的媽媽不要強姦我 是啥意思??",
+    "push_ipdatetime" : "03/28 08:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "asxu31",
+    "push_content" : ": 為什麼你會去發現這種東西啦XD",
+    "push_ipdatetime" : "03/28 08:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linjin2",
+    "push_content" : ": 雞爪......婊子去幹你娘",
+    "push_ipdatetime" : "03/28 08:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "noname912301",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 08:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HelpMeQQ",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 08:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 雞頭------茭白筍去幹你娘",
+    "push_ipdatetime" : "03/28 08:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "momo1119",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 08:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 烤雞------幹你娘傻的時候",
+    "push_ipdatetime" : "03/28 08:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FlynnZhang",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 08:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ptthao",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 08:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 烤肉-----幹你個懶老的",
+    "push_ipdatetime" : "03/28 08:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 忽然覺得葡萄牙文好親切",
+    "push_ipdatetime" : "03/28 08:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 碎牛肉---幹你妹的",
+    "push_ipdatetime" : "03/28 08:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "bazkrkr",
+    "push_content" : ": 牛雞-------",
+    "push_ipdatetime" : "03/28 08:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "st900219",
+    "push_content" : ": 不錯",
+    "push_ipdatetime" : "03/28 08:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "x6073123",
+    "push_content" : ": 有笑有推xDD",
+    "push_ipdatetime" : "03/28 08:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lacivert",
+    "push_content" : ": 這是巴西葡萄牙語哦......",
+    "push_ipdatetime" : "03/28 08:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seou",
+    "push_content" : ": 老闆來一份個烤番仔幹你娘 要切要辣",
+    "push_ipdatetime" : "03/28 09:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueMoonss",
+    "push_content" : ": 雞皮=陪你去幹你娘",
+    "push_ipdatetime" : "03/28 09:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": ..................",
+    "push_ipdatetime" : "03/28 09:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "NotUniqueSol",
+    "push_content" : ": 拿剛烤好的雞腿去餵狗 真的是潘仔去幹你娘",
+    "push_ipdatetime" : "03/28 09:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "NotUniqueSol",
+    "push_content" : ": 潘仔去幹你娘 潘仔去幹你娘 就是雞腿！",
+    "push_ipdatetime" : "03/28 09:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "NotUniqueSol",
+    "push_content" : ": 哇！ 真的只要三秒就記起來了耶！",
+    "push_ipdatetime" : "03/28 09:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "StarFox0910",
+    "push_content" : ": 三小啦XDDD 有夠無用的",
+    "push_ipdatetime" : "03/28 09:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "megan77622",
+    "push_content" : ": 雞腳 葡萄牙話=白痴去幹你娘",
+    "push_ipdatetime" : "03/28 09:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kimx5",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 09:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yashiro111",
+    "push_content" : ": 西羅表示：幹0涼 好吃",
+    "push_ipdatetime" : "03/28 09:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunriseyang",
+    "push_content" : ": 上面搞甚麼右腦圖像學葡萄牙文啦 XD",
+    "push_ipdatetime" : "03/28 09:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "brrrr42",
+    "push_content" : ": 這個有",
+    "push_ipdatetime" : "03/28 09:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KotobukiMugi",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 10:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "love30118x",
+    "push_content" : ": 外國人嗆台語 op",
+    "push_ipdatetime" : "03/28 10:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lattego",
+    "push_content" : ": 葡語中，雞的念法就很像嘎妮呀",
+    "push_ipdatetime" : "03/28 10:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnietslock",
+    "push_content" : ": 幹，這是什麼左腦還右腦記憶法嗎",
+    "push_ipdatetime" : "03/28 10:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnietslock",
+    "push_content" : ": 昨天看今夜造口業，整個廣告都在播那種聯想式教材",
+    "push_ipdatetime" : "03/28 10:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "miss80423",
+    "push_content" : ": 幹聽到聲音笑死",
+    "push_ipdatetime" : "03/28 10:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gattttt",
+    "push_content" : ": 靠北哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 10:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mstar",
+    "push_content" : ": 搶救雷恩大兵那句「媽媽我不要被強姦」，",
+    "push_ipdatetime" : "03/28 10:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mstar",
+    "push_content" : ": 有人說是 maman, vient me chercher 媽媽，來接我",
+    "push_ipdatetime" : "03/28 10:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dante45678",
+    "push_content" : ": 幹 還真的是",
+    "push_ipdatetime" : "03/28 11:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "longkiss5566",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 11:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "visual",
+    "push_content" : ": XDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 12:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QT1020",
+    "push_content" : ": 三小啦幹XDDD",
+    "push_ipdatetime" : "03/28 12:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spicyjuju",
+    "push_content" : ": 哈哈哈哈哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 12:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hisatotea",
+    "push_content" : ": 超靠杯XDDDDD",
+    "push_ipdatetime" : "03/28 12:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Twone",
+    "push_content" : ": 雞腳 跑去幹你娘",
+    "push_ipdatetime" : "03/28 12:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zeusylee",
+    "push_content" : ": 一樓很討厭謝謝",
+    "push_ipdatetime" : "03/28 12:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kingo2327",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 12:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "madyoungN",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/28 12:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frice",
+    "push_content" : ": 有沒有人畫個圖做圖像學習",
+    "push_ipdatetime" : "03/28 12:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "keith780902",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ekalashi",
+    "push_content" : ": https://i.imgur.com/lI4RGYo.jpg",
+    "push_ipdatetime" : "03/28 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dalipkid",
+    "push_content" : ": 靠邀笑死",
+    "push_ipdatetime" : "03/28 13:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kazh",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 13:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oeibei",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 13:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "astrophy",
+    "push_content" : ": 幹XDD",
+    "push_ipdatetime" : "03/28 13:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "family2909",
+    "push_content" : ": 幹笑死",
+    "push_ipdatetime" : "03/28 13:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kuki0629",
+    "push_content" : ": 看就可長知識",
+    "push_ipdatetime" : "03/28 13:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "daylight9157",
+    "push_content" : ": 右腦學習法，笑死",
+    "push_ipdatetime" : "03/28 13:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wtfconk",
+    "push_content" : ": 你很閒齁wwww",
+    "push_ipdatetime" : "03/28 14:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "guilherme",
+    "push_content" : ": 不道地的腔調，是嘎恁呀",
+    "push_ipdatetime" : "03/28 14:29",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Asucks",
+    "push_content" : ": XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 14:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "PANG920",
+    "push_content" : ": 挖 七秒就一個單字，真的很有效果噎!!!!!!!!",
+    "push_ipdatetime" : "03/28 14:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uland26922",
+    "push_content" : ": 笑到不能好好上班",
+    "push_ipdatetime" : "03/28 15:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sam880629",
+    "push_content" : ": XDXD",
+    "push_ipdatetime" : "03/28 15:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "migah",
+    "push_content" : ": 厲害了Google",
+    "push_ipdatetime" : "03/28 15:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JagabeiRen",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 15:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "poiu5422",
+    "push_content" : ": 我學會了 請問老師下一個單字是什麼",
+    "push_ipdatetime" : "03/28 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "passpotre",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a98980ytyt",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 17:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "azzc1031",
+    "push_content" : ": 沒笑",
+    "push_ipdatetime" : "03/28 17:44",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "positMIT",
+    "push_content" : ": i had learned the word on wto show",
+    "push_ipdatetime" : "03/28 17:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "spring12215",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/28 18:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ccekw807",
+    "push_content" : ": 干乾李涼",
+    "push_ipdatetime" : "03/28 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lf2nick",
+    "push_content" : ": 還行 哈哈",
+    "push_ipdatetime" : "03/28 18:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wglhe",
+    "push_content" : ": 一樓比較好笑",
+    "push_ipdatetime" : "03/28 19:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lindada78",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 19:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a07300",
+    "push_content" : ": 正在使用此ID給推",
+    "push_ipdatetime" : "03/28 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rutp6j35566",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/28 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "likecheese",
+    "push_content" : ": 雞肝 肥狗督雞幹你娘",
+    "push_ipdatetime" : "03/28 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Taylor4ever",
+    "push_content" : ": 笑爛哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/28 22:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AEae2014",
+    "push_content" : ": XDDDDDD",
+    "push_ipdatetime" : "03/28 22:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ViktorGoogle",
+    "push_content" : ": 被拿去幹你娘",
+    "push_ipdatetime" : "03/28 22:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "liaohope",
+    "push_content" : ": ？？？？",
+    "push_ipdatetime" : "03/28 23:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meatballJIM",
+    "push_content" : ": 靠邀太好笑幫推",
+    "push_ipdatetime" : "03/29 02:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RockyLin",
+    "push_content" : ": 甜心的西班牙文怎麼說?",
+    "push_ipdatetime" : "03/29 09:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RockyLin",
+    "push_content" : ": https://bit.ly/2JOTBb7",
+    "push_ipdatetime" : "03/29 09:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MangoGTE",
+    "push_content" : ": 發音還真標準",
+    "push_ipdatetime" : "03/29 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ganynian",
+    "push_content" : ": xD",
+    "push_ipdatetime" : "03/29 09:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "redin2001",
+    "push_content" : ": 一樓0分",
+    "push_ipdatetime" : "03/29 11:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "musiker",
+    "push_content" : ": hola cariña",
+    "push_ipdatetime" : "03/29 12:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c24253994",
+    "push_content" : ": 幹真的有像",
+    "push_ipdatetime" : "03/29 13:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "iPhoneX",
+    "push_content" : ": Cariño 好凶",
+    "push_ipdatetime" : "03/29 13:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TZephyr",
+    "push_content" : ": Cariño也超好笑XDDD",
+    "push_ipdatetime" : "03/29 14:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kai21413",
+    "push_content" : ": 笑死哈哈哈哈",
+    "push_ipdatetime" : "03/29 18:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Nadialove",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/29 22:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "paul40807",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/30 00:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TommyTora",
+    "push_content" : ": 真棒...學會兩個外語單字了w",
+    "push_ipdatetime" : "03/30 11:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shgreen",
+    "push_content" : ": 三小XD",
+    "push_ipdatetime" : "03/30 14:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wern05",
+    "push_content" : ": 原來路上遇到互相幹0糧是在叫對方甜心啊wwwwww",
+    "push_ipdatetime" : "03/30 15:53",
+    "push_tag" : "推"
+  } ]
+}

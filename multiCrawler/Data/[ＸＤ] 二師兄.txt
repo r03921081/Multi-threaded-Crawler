@@ -1,0 +1,1905 @@
+{
+  "title" : "[ＸＤ] 二師兄",
+  "author" : "momo53",
+  "board" : "joke",
+  "content" : "https://goo.gl/fcsWS3 台灣比薩連鎖勢力三方鼎立，競爭激烈，各自有各自的忠實擁護者。 其一，是沒什麼人去買比薩的炸雞店。 其二，是爸爸餓我餓我餓。 其三，是logo長得很像帽子的比薩小屋。 市面上最常見的營銷手段，就是大比薩買一送一，擺明了歧視找不到朋友一起吃比薩的邊 緣人。 雖然我本人沒有這個困擾，還是無法原諒這種喪盡天良的商業手法。 難道我就不能用便宜的價格，只買一份比薩嗎？ https://imgur.com/FhsTBBs https://imgur.com/2BPIeA1 https://imgur.com/WcApd5u https://imgur.com/IZmTQXd https://imgur.com/x23q0Xk https://imgur.com/7wWKMcR https://imgur.com/H5Paffu https://imgur.com/4QcjIPT https://imgur.com/oxpHF35 https://imgur.com/DSr1314 https://imgur.com/jVpwuN6 https://imgur.com/VJVeXBi https://imgur.com/RwJzFFS https://imgur.com/r6Nqsos https://imgur.com/TksMeSA https://imgur.com/zcZXKvS https://imgur.com/LhbpelQ https://imgur.com/DhVn4Zm https://imgur.com/52dxMy0 https://imgur.com/BKluzA3 https://imgur.com/RFzXvoD https://imgur.com/jyZkzWj -- ",
+  "date" : "Thu Mar 28 17:05:42 2019",
+  "ip" : "101.14.204.154",
+  "url" : "https://www.ptt.cc/bbs/joke/M.1553763944.A.C82.html",
+  "pushList" : [ {
+    "push_userid" : "svcgood",
+    "push_content" : ": 台灣內戰寫一半跑去業配",
+    "push_ipdatetime" : "03/28 17:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "polobolo",
+    "push_content" : ": *披薩",
+    "push_ipdatetime" : "03/28 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tenor0118",
+    "push_content" : ": 很鬧",
+    "push_ipdatetime" : "03/28 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "partytonight",
+    "push_content" : ": 台灣內戰呢？",
+    "push_ipdatetime" : "03/28 17:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "archie403",
+    "push_content" : ": 假",
+    "push_ipdatetime" : "03/28 17:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Owada",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 17:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hosh",
+    "push_content" : ": 反正二師兄就是先推再說",
+    "push_ipdatetime" : "03/28 17:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smarsome5461",
+    "push_content" : ": 內戰很閒？",
+    "push_ipdatetime" : "03/28 17:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kingofturtle",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 17:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lisanity",
+    "push_content" : ": 很鬧XDDDD",
+    "push_ipdatetime" : "03/28 17:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "apple7797",
+    "push_content" : ": 幹哈哈哈",
+    "push_ipdatetime" : "03/28 17:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "moccabranco",
+    "push_content" : ": 不夠之前水準",
+    "push_ipdatetime" : "03/28 17:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "laybear",
+    "push_content" : ": 等等加香菜是三小啦",
+    "push_ipdatetime" : "03/28 17:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "morek",
+    "push_content" : ": 前10！",
+    "push_ipdatetime" : "03/28 17:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rcak801",
+    "push_content" : ": 感謝推坑 今晚就來吃拿坡里炸雞",
+    "push_ipdatetime" : "03/28 17:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ilovelol",
+    "push_content" : ": 沒有17直播好笑",
+    "push_ipdatetime" : "03/28 17:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "uohZemllac",
+    "push_content" : ": 這資訊量太多了",
+    "push_ipdatetime" : "03/28 17:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "soudad255",
+    "push_content" : ": 推笑死",
+    "push_ipdatetime" : "03/28 17:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QT1020",
+    "push_content" : ": 塞太多梗了，變沒那麼好笑",
+    "push_ipdatetime" : "03/28 17:47",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tingjj",
+    "push_content" : ": 不如17直播喔 請再加油",
+    "push_ipdatetime" : "03/28 17:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andyydna",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 17:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "redsgm",
+    "push_content" : ": 這次業配我可以",
+    "push_ipdatetime" : "03/28 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crorangeazy",
+    "push_content" : ": 那就是蔥油餅啊幹XD",
+    "push_ipdatetime" : "03/28 17:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "crimsonmoon9",
+    "push_content" : ": 披薩放香菜 嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/28 17:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Jsnailzz",
+    "push_content" : ": 你是哪句聽不懂笑死",
+    "push_ipdatetime" : "03/28 17:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sank",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 17:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tkglobe",
+    "push_content" : ": 都說不要加香菜了",
+    "push_ipdatetime" : "03/28 17:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MrSherlock",
+    "push_content" : ": 我真的很喜歡見業配眼開的態度XDD",
+    "push_ipdatetime" : "03/28 17:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miner1512",
+    "push_content" : ": 必勝哥~",
+    "push_ipdatetime" : "03/28 17:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yyyyy",
+    "push_content" : ": 噁心 真的很噁心 XDDDDDDD",
+    "push_ipdatetime" : "03/28 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rockermo",
+    "push_content" : ": 蔥抓餅那段還各種單押XD",
+    "push_ipdatetime" : "03/28 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RichLook",
+    "push_content" : ": 笑死ww",
+    "push_ipdatetime" : "03/28 18:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RichLook",
+    "push_content" : ": 你不孤單 這個披薩不是只有你一個人吃了",
+    "push_ipdatetime" : "03/28 18:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxcasd328",
+    "push_content" : ": 我覺得可以",
+    "push_ipdatetime" : "03/28 18:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jt52",
+    "push_content" : ": 隨便XDDD",
+    "push_ipdatetime" : "03/28 18:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s96121",
+    "push_content" : ": 推 比某how還好的工商",
+    "push_ipdatetime" : "03/28 18:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "darkdeus",
+    "push_content" : ": 推，等一下來叫披薩",
+    "push_ipdatetime" : "03/28 18:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wres666",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 18:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DazaiOsamu",
+    "push_content" : ": 台灣ARuFa",
+    "push_ipdatetime" : "03/28 18:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "PLS1312",
+    "push_content" : ": 噁心 我不是說鳳梨",
+    "push_ipdatetime" : "03/28 18:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yannicklatte",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/28 18:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "orfan",
+    "push_content" : ": 真的很噁心 我不是在說香菜",
+    "push_ipdatetime" : "03/28 18:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kkes0001",
+    "push_content" : ": 可",
+    "push_ipdatetime" : "03/28 18:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tottoko0908",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 18:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nvalue",
+    "push_content" : ": XDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/28 18:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tawara",
+    "push_content" : ": 內戰富堅",
+    "push_ipdatetime" : "03/28 18:19",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "starjack2001",
+    "push_content" : ": 在幹嘛啦www",
+    "push_ipdatetime" : "03/28 18:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tawara",
+    "push_content" : ": 這是模仿拉菲爾嗎",
+    "push_ipdatetime" : "03/28 18:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dias7812",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 18:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awaydd0929",
+    "push_content" : ": 內戰還沒打完就在吃披薩",
+    "push_ipdatetime" : "03/28 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "edman008ptt",
+    "push_content" : ": 馬的香菜",
+    "push_ipdatetime" : "03/28 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a207207",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 18:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "darkbbyy",
+    "push_content" : ": 內戰是影集不是電影 中間插廣告也是合理",
+    "push_ipdatetime" : "03/28 18:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bemyself",
+    "push_content" : ": 幹我從前面就開始笑了",
+    "push_ipdatetime" : "03/28 18:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rhythm1217",
+    "push_content" : ": 很鬧耶你",
+    "push_ipdatetime" : "03/28 18:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gn00026563",
+    "push_content" : ": 鳳梨另外放笑死",
+    "push_ipdatetime" : "03/28 18:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eric878787",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 18:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WindSucker",
+    "push_content" : ": QQ",
+    "push_ipdatetime" : "03/28 18:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zax5566rb",
+    "push_content" : ": 推！太猛",
+    "push_ipdatetime" : "03/28 18:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Reachard0305",
+    "push_content" : ": 二師兄推一個",
+    "push_ipdatetime" : "03/28 18:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a9997878123",
+    "push_content" : ": (づ′・ω・）づ",
+    "push_ipdatetime" : "03/28 18:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rexagi1988",
+    "push_content" : ": 笑噴XDDD",
+    "push_ipdatetime" : "03/28 18:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pppbruce",
+    "push_content" : ": 學妹那段XDDDD",
+    "push_ipdatetime" : "03/28 18:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "depe5175",
+    "push_content" : ": 笑死XD",
+    "push_ipdatetime" : "03/28 18:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nobloodwar",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/28 18:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vancy2018",
+    "push_content" : ": +1",
+    "push_ipdatetime" : "03/28 18:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwa928",
+    "push_content" : ": 幹！！！披薩加屁加香菜啦！",
+    "push_ipdatetime" : "03/28 18:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rexagi1988",
+    "push_content" : ": 你是哪一句聽不懂XDD",
+    "push_ipdatetime" : "03/28 18:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tsaenogard",
+    "push_content" : ": 吃飽了才好打內戰",
+    "push_ipdatetime" : "03/28 18:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "globe1022",
+    "push_content" : ": 真的噁心。我不是說鳳梨",
+    "push_ipdatetime" : "03/28 18:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cerberi",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 18:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobscott0915",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 18:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "whathefuc",
+    "push_content" : ": 我看第二張圖就知道這篇會是啥了",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "calvin0319",
+    "push_content" : ": 先推",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gaiaesque",
+    "push_content" : ": 靠杯啊XDD",
+    "push_ipdatetime" : "03/28 18:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hschow",
+    "push_content" : ": 笑死哈哈哈哈",
+    "push_ipdatetime" : "03/28 18:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jellyfish64",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 19:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LanceHaHa",
+    "push_content" : ": 噁心 真的噁心",
+    "push_ipdatetime" : "03/28 19:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tuii7412",
+    "push_content" : ": 隨便XDDDDD",
+    "push_ipdatetime" : "03/28 19:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "b852258",
+    "push_content" : ": 你最好有，阿不是，是你有最好，我快笑死XDDD",
+    "push_ipdatetime" : "03/28 19:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimono1022",
+    "push_content" : ": 好像奇片",
+    "push_ipdatetime" : "03/28 19:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tetsu0401",
+    "push_content" : ": 有夠靠北XD",
+    "push_ipdatetime" : "03/28 19:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mimiasd0722",
+    "push_content" : ": 蔥油餅之外都滿好笑的",
+    "push_ipdatetime" : "03/28 19:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iso90024",
+    "push_content" : ": 睡到一點滿好笑的",
+    "push_ipdatetime" : "03/28 19:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PS110061",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 19:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimicino",
+    "push_content" : ": 看到小王子就笑了",
+    "push_ipdatetime" : "03/28 19:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ppiigg319",
+    "push_content" : ": 蠻好笑的 哈哈",
+    "push_ipdatetime" : "03/28 19:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "robin52114",
+    "push_content" : ": 第二篇了無新意",
+    "push_ipdatetime" : "03/28 19:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sweetie196",
+    "push_content" : ": 內戰富堅",
+    "push_ipdatetime" : "03/28 19:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "anna89",
+    "push_content" : ": 加屁香菜啊幹XDDD",
+    "push_ipdatetime" : "03/28 19:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ZOBP6XO4",
+    "push_content" : ": ㄊㄨㄟ",
+    "push_ipdatetime" : "03/28 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "puda",
+    "push_content" : ": 噁心啊，我是說包含香菜的.......",
+    "push_ipdatetime" : "03/28 19:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nice2u",
+    "push_content" : ": 笑死 師兄真有才",
+    "push_ipdatetime" : "03/28 19:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "trenteric",
+    "push_content" : ": 鳳梨分開放笑死",
+    "push_ipdatetime" : "03/28 19:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jantim102",
+    "push_content" : ": XDDDDDDDD",
+    "push_ipdatetime" : "03/28 19:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Feishawn",
+    "push_content" : ": 跟上次那篇太像不行",
+    "push_ipdatetime" : "03/28 19:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "k7p83n",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 19:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jordan5168",
+    "push_content" : ": 笑死 對方也超白癡",
+    "push_ipdatetime" : "03/28 19:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "H9",
+    "push_content" : ": 這種葉配手法看第二次就不有趣了",
+    "push_ipdatetime" : "03/28 19:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rogerliu",
+    "push_content" : ": 二師兄必須推！",
+    "push_ipdatetime" : "03/28 19:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "keith780902",
+    "push_content" : ": 還不錯",
+    "push_ipdatetime" : "03/28 19:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winnietslock",
+    "push_content" : ": 謝謝二師兄給我一個開心的下午XD",
+    "push_ipdatetime" : "03/28 19:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sixB",
+    "push_content" : ": ：）",
+    "push_ipdatetime" : "03/28 19:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chris529tw",
+    "push_content" : ": 怎麼少兩塊啊幹XDDD",
+    "push_ipdatetime" : "03/28 19:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ayianayian",
+    "push_content" : ": 內戰有空吃披薩",
+    "push_ipdatetime" : "03/28 19:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "magic1104",
+    "push_content" : ": 推 XD",
+    "push_ipdatetime" : "03/28 19:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wl02433799",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 19:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lin91223",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KGTW",
+    "push_content" : ": 學妹那段不錯啊",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ning0201",
+    "push_content" : ": 這次不行有點無聊",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "tom12122323",
+    "push_content" : ": 有香菜給箭頭",
+    "push_ipdatetime" : "03/28 19:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxxxxxxxxx",
+    "push_content" : ": 還不錯啦哈哈哈 特色葉配",
+    "push_ipdatetime" : "03/28 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "emmabest",
+    "push_content" : ": 小編好嗆XD",
+    "push_ipdatetime" : "03/28 19:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a3456727",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 19:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy095722",
+    "push_content" : ": 我覺得很好笑 推",
+    "push_ipdatetime" : "03/28 19:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wwjd198323",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 19:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "markkao456",
+    "push_content" : ": 靠北 XDDD",
+    "push_ipdatetime" : "03/28 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "warden",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 19:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dj2004j",
+    "push_content" : ": 有梗給推",
+    "push_ipdatetime" : "03/28 19:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "clinder",
+    "push_content" : ": 學妹撿到槍喔",
+    "push_ipdatetime" : "03/28 19:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "buster520798",
+    "push_content" : ": 我有笑",
+    "push_ipdatetime" : "03/28 19:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "etboiteli",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 19:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevinQQ",
+    "push_content" : ": 推~",
+    "push_ipdatetime" : "03/28 20:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amiucat",
+    "push_content" : ": 很好笑啊XDDD",
+    "push_ipdatetime" : "03/28 20:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ihatechina",
+    "push_content" : ": 梗超多 快笑死",
+    "push_ipdatetime" : "03/28 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JOJOttt",
+    "push_content" : ": 笑死XD",
+    "push_ipdatetime" : "03/28 20:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flow5168",
+    "push_content" : ": 幹就說不要加起司",
+    "push_ipdatetime" : "03/28 20:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Lineage5566",
+    "push_content" : ": 我要加菱角啦",
+    "push_ipdatetime" : "03/28 20:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "onepiecesea",
+    "push_content" : ": 笑歪XD",
+    "push_ipdatetime" : "03/28 20:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aweee",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 20:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flowersuger",
+    "push_content" : ": 真的很噁心！！！分開放上面明明還有鳳梨",
+    "push_ipdatetime" : "03/28 20:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "beautygooday",
+    "push_content" : ": 推 披薩加香菜",
+    "push_ipdatetime" : "03/28 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fghj142",
+    "push_content" : ": 我覺得不錯丫",
+    "push_ipdatetime" : "03/28 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Bewho",
+    "push_content" : ": 學妹凶人那段超好笑",
+    "push_ipdatetime" : "03/28 20:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Trulli",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/28 20:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greenteakigh",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 20:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "memoryautumn",
+    "push_content" : ": 對 所以我還在睡 你是哪句聽不懂 XD",
+    "push_ipdatetime" : "03/28 20:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kevin951tw",
+    "push_content" : ": 狗幹邊緣",
+    "push_ipdatetime" : "03/28 20:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yzvr",
+    "push_content" : ": 有香菜！",
+    "push_ipdatetime" : "03/28 20:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "JingShen0805",
+    "push_content" : ": 笑歪",
+    "push_ipdatetime" : "03/28 20:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "black0614",
+    "push_content" : ": 喔喔，原來達美樂這麼便宜～怒定一波～",
+    "push_ipdatetime" : "03/28 20:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ruby19940630",
+    "push_content" : ": 幹超好笑XD",
+    "push_ipdatetime" : "03/28 20:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hybridchaos",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/28 20:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "insingW",
+    "push_content" : ": 這篇沒那麼自然",
+    "push_ipdatetime" : "03/28 20:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Kreen",
+    "push_content" : ": XDDDD",
+    "push_ipdatetime" : "03/28 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "monkjohnny",
+    "push_content" : ": 很好笑啊！看到業配就噓的人還真清高啊！",
+    "push_ipdatetime" : "03/28 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hsiaochung",
+    "push_content" : ": 我不是說鳳梨wwwwww",
+    "push_ipdatetime" : "03/28 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a12345165",
+    "push_content" : ": 那就是蔥油餅啊！",
+    "push_ipdatetime" : "03/28 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "karol1995",
+    "push_content" : ": 哈哈乾這業配可以",
+    "push_ipdatetime" : "03/28 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fallen01",
+    "push_content" : ": 業配",
+    "push_ipdatetime" : "03/28 20:41",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "a4567850",
+    "push_content" : ": 還我內戰",
+    "push_ipdatetime" : "03/28 20:51",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "se2422",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Vinxer",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/28 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "brian910615",
+    "push_content" : ": 幹我要看內戰啦",
+    "push_ipdatetime" : "03/28 20:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "snooker",
+    "push_content" : ": 你是哪句聽不懂笑死 XDDDDDD",
+    "push_ipdatetime" : "03/28 20:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kakukakuka",
+    "push_content" : ": 業配就是要這種",
+    "push_ipdatetime" : "03/28 20:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s9245034",
+    "push_content" : ": 葉配完該更新內戰了",
+    "push_ipdatetime" : "03/28 21:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ogcinging",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "warmich",
+    "push_content" : ": 真的好笑",
+    "push_ipdatetime" : "03/28 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "juncc118",
+    "push_content" : ": 很好笑，前面還小王子",
+    "push_ipdatetime" : "03/28 21:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DukeMonkey",
+    "push_content" : ": 看到鳳梨笑死",
+    "push_ipdatetime" : "03/28 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ImaiLisa",
+    "push_content" : ": 幹 真的蠻好笑的",
+    "push_ipdatetime" : "03/28 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lf25074428",
+    "push_content" : ": 原來這裡可以業配XDD",
+    "push_ipdatetime" : "03/28 21:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skhten",
+    "push_content" : ": 我可以接受鳳梨分開放",
+    "push_ipdatetime" : "03/28 21:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HowieH",
+    "push_content" : ": 趕快點個拿坡里炸雞壓壓驚",
+    "push_ipdatetime" : "03/28 21:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "princeyu",
+    "push_content" : ": 學妹那段很可以",
+    "push_ipdatetime" : "03/28 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "PSLEE",
+    "push_content" : ": 啊鳳梨怎麼沒分開放啦 XD",
+    "push_ipdatetime" : "03/28 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lapis1999",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ImMACACO",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/28 21:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AWNESS",
+    "push_content" : ": 靠邀 我在鳳梨分開放那邊失守了",
+    "push_ipdatetime" : "03/28 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zChika",
+    "push_content" : ": 後面幾張要配FB的相片註解看",
+    "push_ipdatetime" : "03/28 21:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ymca227",
+    "push_content" : ": 好喜歡這系列喔",
+    "push_ipdatetime" : "03/28 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "s62582100",
+    "push_content" : ": 推XD",
+    "push_ipdatetime" : "03/28 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lindada78",
+    "push_content" : ": 看到蔥油餅嘴角就失守了",
+    "push_ipdatetime" : "03/28 21:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nba407t",
+    "push_content" : ": 學妹部分笑死",
+    "push_ipdatetime" : "03/28 21:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iohnvanq",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/28 21:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "guasooo",
+    "push_content" : ": 真有才",
+    "push_ipdatetime" : "03/28 21:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goodgodgd",
+    "push_content" : ": 廢",
+    "push_ipdatetime" : "03/28 21:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "montyui",
+    "push_content" : ": 想學誰啊?",
+    "push_ipdatetime" : "03/28 21:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "elfindor",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 22:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "park228",
+    "push_content" : ": 老哏",
+    "push_ipdatetime" : "03/28 22:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "j65p4m3",
+    "push_content" : ": 學妹那邊笑死",
+    "push_ipdatetime" : "03/28 22:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lbjstar",
+    "push_content" : ": 這很可以~",
+    "push_ipdatetime" : "03/28 22:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Sha1377",
+    "push_content" : ": 幹xD",
+    "push_ipdatetime" : "03/28 22:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "needshe520",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/28 22:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "p5555555jay",
+    "push_content" : ": XDDD",
+    "push_ipdatetime" : "03/28 22:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Donababy",
+    "push_content" : ": 這業配有好笑到XD",
+    "push_ipdatetime" : "03/28 22:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cowaksor",
+    "push_content" : ": 6666",
+    "push_ipdatetime" : "03/28 22:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goldhan",
+    "push_content" : ": 可惡,想吃。請問晚上台北哪裡有賣蔥油餅",
+    "push_ipdatetime" : "03/28 22:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k6635285619",
+    "push_content" : ": 666666",
+    "push_ipdatetime" : "03/28 22:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mlb93525",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 22:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AEae2014",
+    "push_content" : ": 虛擬學妹好兇XDDDDDD",
+    "push_ipdatetime" : "03/28 22:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BryceChang",
+    "push_content" : ": 幹XD",
+    "push_ipdatetime" : "03/28 22:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LeMirage2000",
+    "push_content" : ": 內戰還能吃比薩？",
+    "push_ipdatetime" : "03/28 22:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gospursgo21",
+    "push_content" : ": 很好笑哈哈",
+    "push_ipdatetime" : "03/28 22:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jodawa",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/28 22:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ghyt11",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 22:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Wing7512",
+    "push_content" : ": 這業配ok",
+    "push_ipdatetime" : "03/28 22:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy860204",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 22:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GohHiong",
+    "push_content" : ": 這次稍失水準呀不過二師兄還是要推",
+    "push_ipdatetime" : "03/28 23:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "namon",
+    "push_content" : ": 以葉配來說，這樣已經很好笑了啦XD",
+    "push_ipdatetime" : "03/28 23:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asxc530530",
+    "push_content" : ": 工商每次都笑死",
+    "push_ipdatetime" : "03/28 23:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "showingstar",
+    "push_content" : ": 回留言有個屌打超好笑",
+    "push_ipdatetime" : "03/28 23:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "m025885200",
+    "push_content" : ": 太想抄小熊貓了",
+    "push_ipdatetime" : "03/28 23:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dalipkid",
+    "push_content" : ": 學妹夠兇",
+    "push_ipdatetime" : "03/28 23:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chuikov",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/28 23:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MapleCat",
+    "push_content" : ": 我覺得可以",
+    "push_ipdatetime" : "03/28 23:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ddd1264",
+    "push_content" : ": XD正面行銷",
+    "push_ipdatetime" : "03/28 23:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miabcd199",
+    "push_content" : ": 我到現在才知道是hut 不是hot= =",
+    "push_ipdatetime" : "03/28 23:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "NM515",
+    "push_content" : ": 這joke好高端 xDDD",
+    "push_ipdatetime" : "03/28 23:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ashen19",
+    "push_content" : ": 推業配啦",
+    "push_ipdatetime" : "03/28 23:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jj920408",
+    "push_content" : ": 幹你香菜",
+    "push_ipdatetime" : "03/28 23:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qq5771313",
+    "push_content" : ": 好笑 哈哈",
+    "push_ipdatetime" : "03/28 23:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "clark145",
+    "push_content" : ": 唱獨角戲很好玩哦",
+    "push_ipdatetime" : "03/28 23:52",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "love7210x",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/28 23:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bruce18356",
+    "push_content" : ": 爆",
+    "push_ipdatetime" : "03/28 23:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nighthunt",
+    "push_content" : ": 有加香菜我就 嘔嘔嘔嘔嘔",
+    "push_ipdatetime" : "03/28 23:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "katzlee",
+    "push_content" : ": 你的業配比較好笑也",
+    "push_ipdatetime" : "03/28 23:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yahan0123",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/28 23:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vizardfox",
+    "push_content" : ": 我選擇蔥油餅",
+    "push_ipdatetime" : "03/28 23:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wtlin0099",
+    "push_content" : ": 蔥油餅也太好笑了吧",
+    "push_ipdatetime" : "03/28 23:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HaHaPoint",
+    "push_content" : ": 有機會就噹死學妹",
+    "push_ipdatetime" : "03/29 00:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "v320i",
+    "push_content" : ": @@",
+    "push_ipdatetime" : "03/29 00:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cawba",
+    "push_content" : ": 要笑語了",
+    "push_ipdatetime" : "03/29 00:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qmaper",
+    "push_content" : ": 蠻好笑的",
+    "push_ipdatetime" : "03/29 00:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kobeee",
+    "push_content" : ": 真的笑死",
+    "push_ipdatetime" : "03/29 00:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DeaGoo",
+    "push_content" : ": 你是哪句聽不懂XD",
+    "push_ipdatetime" : "03/29 00:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "goodday5566",
+    "push_content" : ": 噁心 真的很噁心 我不是說鳳梨 XDDDDD",
+    "push_ipdatetime" : "03/29 00:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "holynight123",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/29 00:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a34567",
+    "push_content" : ": 第二句就笑了XD",
+    "push_ipdatetime" : "03/29 00:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dglin",
+    "push_content" : ": 驚！第一次知道必勝客的圖案是屋頂不是帽子",
+    "push_ipdatetime" : "03/29 00:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "armysong",
+    "push_content" : ": 真的好笑",
+    "push_ipdatetime" : "03/29 00:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SS159",
+    "push_content" : ": 還是很好笑啊幹 哈哈",
+    "push_ipdatetime" : "03/29 00:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pulululu",
+    "push_content" : ": 學妹那段笑死",
+    "push_ipdatetime" : "03/29 00:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheng31507",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 00:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "raindayla",
+    "push_content" : ": XD 這樣也能業配",
+    "push_ipdatetime" : "03/29 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deanisme",
+    "push_content" : ": 有梗XD",
+    "push_ipdatetime" : "03/29 00:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ruruto49",
+    "push_content" : ": 二師兄長得跟拉斐爾好像喔(?",
+    "push_ipdatetime" : "03/29 00:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AlvaroMorata",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/29 01:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sh981215",
+    "push_content" : ": 業配 噁",
+    "push_ipdatetime" : "03/29 01:09",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "POCARI5566",
+    "push_content" : ": 學妹太凶了吧XD",
+    "push_ipdatetime" : "03/29 01:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wadechen",
+    "push_content" : ": 不少人的影子呢",
+    "push_ipdatetime" : "03/29 01:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "papple23g",
+    "push_content" : ": 隨便XDD",
+    "push_ipdatetime" : "03/29 01:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "code666666",
+    "push_content" : ": 梗比2浩好的多，但逐漸母湯，下次再業配就噓",
+    "push_ipdatetime" : "03/29 01:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alisha2224",
+    "push_content" : ": 麗莎嗆人很好笑 XD",
+    "push_ipdatetime" : "03/29 01:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "anjackie45",
+    "push_content" : ": 這個讚",
+    "push_ipdatetime" : "03/29 01:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thomas890612",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 01:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "penguin0172",
+    "push_content" : ": 笑死 推",
+    "push_ipdatetime" : "03/29 02:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ducan783",
+    "push_content" : ": 這篇讚，看完肚子都餓了",
+    "push_ipdatetime" : "03/29 02:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YingYing565",
+    "push_content" : ": 內戰了啦",
+    "push_ipdatetime" : "03/29 02:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skyprayer",
+    "push_content" : ": 鳳梨分開放~",
+    "push_ipdatetime" : "03/29 02:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rickey1270",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 02:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "web946719",
+    "push_content" : ": 每次都被廠商嗆爆",
+    "push_ipdatetime" : "03/29 03:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "psypoorer",
+    "push_content" : ": 餓了",
+    "push_ipdatetime" : "03/29 03:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RC8377",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 03:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "omegajoker",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 03:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "oiolo",
+    "push_content" : ": 北齊www",
+    "push_ipdatetime" : "03/29 03:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BILLYTHEKID",
+    "push_content" : ": 超北七",
+    "push_ipdatetime" : "03/29 04:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "x04bp6",
+    "push_content" : ": 學妹撿到槍",
+    "push_ipdatetime" : "03/29 04:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deton",
+    "push_content" : ": 笑死人",
+    "push_ipdatetime" : "03/29 06:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "adidas168",
+    "push_content" : ": 看完快笑死XDD",
+    "push_ipdatetime" : "03/29 06:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dbckdf",
+    "push_content" : ": 噁心 真的噁心 嗚嗚嗚……",
+    "push_ipdatetime" : "03/29 06:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vomer",
+    "push_content" : ": 你有最好xdddd",
+    "push_ipdatetime" : "03/29 06:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ytcc",
+    "push_content" : ": HatXDDDD",
+    "push_ipdatetime" : "03/29 07:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "orton417",
+    "push_content" : ": 回去寫內戰啦",
+    "push_ipdatetime" : "03/29 07:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linchaoyang",
+    "push_content" : ": 最後還是灑了大把香菜…",
+    "push_ipdatetime" : "03/29 07:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yccm",
+    "push_content" : ": 先推再笑",
+    "push_ipdatetime" : "03/29 07:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weavergirlka",
+    "push_content" : ": 噁心 真的很噁心",
+    "push_ipdatetime" : "03/29 07:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ShaEric63ck",
+    "push_content" : ": 後面那張圖笑死",
+    "push_ipdatetime" : "03/29 07:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c280019",
+    "push_content" : ": 這業配很棒",
+    "push_ipdatetime" : "03/29 07:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Robinwe",
+    "push_content" : ": 催屁催",
+    "push_ipdatetime" : "03/29 08:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kwinner",
+    "push_content" : ": 香菜XDD",
+    "push_ipdatetime" : "03/29 08:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gelephant",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 08:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pttnews",
+    "push_content" : ": 二師兄，大師兄在那？",
+    "push_ipdatetime" : "03/29 08:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "madeinhell",
+    "push_content" : ": 我覺得可以",
+    "push_ipdatetime" : "03/29 08:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pttouch",
+    "push_content" : ": 很像小熊貓的風格XD",
+    "push_ipdatetime" : "03/29 08:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "purplemagic",
+    "push_content" : ": 反詐騙",
+    "push_ipdatetime" : "03/29 08:42",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "robert0805",
+    "push_content" : ": 優質業配，哈哈哈哈哈，看完想買了",
+    "push_ipdatetime" : "03/29 08:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "weishi",
+    "push_content" : ": 哈哈哈哈哈",
+    "push_ipdatetime" : "03/29 08:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "OldYuanshen",
+    "push_content" : ": 那就是蔥油餅啊幹",
+    "push_ipdatetime" : "03/29 08:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "JHNJHNJHN",
+    "push_content" : ": 讓我想到小熊貓",
+    "push_ipdatetime" : "03/29 09:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kele1206",
+    "push_content" : ": 你朋友可怕死了XDDD",
+    "push_ipdatetime" : "03/29 09:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kele1206",
+    "push_content" : ": 啊少騙我了就是業配啊乾",
+    "push_ipdatetime" : "03/29 09:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mpcyl",
+    "push_content" : ": 有笑",
+    "push_ipdatetime" : "03/29 09:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jay022137",
+    "push_content" : ": 我覺得超好笑XDDD",
+    "push_ipdatetime" : "03/29 09:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tery623",
+    "push_content" : ": 鳳梨另外放 會是放罐頭吧！！！",
+    "push_ipdatetime" : "03/29 09:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DWmadao",
+    "push_content" : ": XDD",
+    "push_ipdatetime" : "03/29 09:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ganynian",
+    "push_content" : ": 還我內戰",
+    "push_ipdatetime" : "03/29 09:40",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "v2266514",
+    "push_content" : ": 學妹你 XD",
+    "push_ipdatetime" : "03/29 09:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxc1357959",
+    "push_content" : ": 不能自動開圖嗎",
+    "push_ipdatetime" : "03/29 09:52",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jfh071136",
+    "push_content" : ": 亂噓的真沒品",
+    "push_ipdatetime" : "03/29 09:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CriminalCAO",
+    "push_content" : ": 幹，你大軍是要做濁水溪了沒有？",
+    "push_ipdatetime" : "03/29 10:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "elsa50320",
+    "push_content" : ": 還不錯啊XD",
+    "push_ipdatetime" : "03/29 10:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TenGaKu1809",
+    "push_content" : ": 所以我還在睡 你是哪句聽不懂XDDD",
+    "push_ipdatetime" : "03/29 10:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zero86",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 10:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Yakei",
+    "push_content" : ": xddddd",
+    "push_ipdatetime" : "03/29 10:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LeeAnAn",
+    "push_content" : ": 學妹那段笑翻我了",
+    "push_ipdatetime" : "03/29 10:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gibson2014",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/29 11:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cuteman991",
+    "push_content" : ": 最後面那一張合照好像擺的兩個金童玉女",
+    "push_ipdatetime" : "03/29 11:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gipo776",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 11:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Toffy",
+    "push_content" : ": 這篇業配很成功！！",
+    "push_ipdatetime" : "03/29 11:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hehehehe",
+    "push_content" : ": 不覺得有趣就滾啊 留言幹嘛 可悲",
+    "push_ipdatetime" : "03/29 11:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alfonso4546",
+    "push_content" : ": 內戰別富奸拜託",
+    "push_ipdatetime" : "03/29 11:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ekmund",
+    "push_content" : ": ...我去買披薩 XD",
+    "push_ipdatetime" : "03/29 11:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kria5304",
+    "push_content" : ": 夏威夷根本邪門歪道！",
+    "push_ipdatetime" : "03/29 12:00",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jenqhau",
+    "push_content" : ": 所以二師兄跟皮卡忠是同個人嗎？",
+    "push_ipdatetime" : "03/29 12:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "howardhope",
+    "push_content" : ": 你是哪句聽不懂XDDDDD",
+    "push_ipdatetime" : "03/29 12:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imacexd",
+    "push_content" : ": 笑死 超多梗",
+    "push_ipdatetime" : "03/29 12:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sasa22444",
+    "push_content" : ": 我家巷口屌打！",
+    "push_ipdatetime" : "03/29 12:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tikowm",
+    "push_content" : ": 噁心，我不是說鳳梨",
+    "push_ipdatetime" : "03/29 12:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alau",
+    "push_content" : ": 台灣內戰 別在拖稿了",
+    "push_ipdatetime" : "03/29 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TitanEric",
+    "push_content" : ": 學妹那段笑死",
+    "push_ipdatetime" : "03/29 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jay87877878",
+    "push_content" : ": 超級好笑",
+    "push_ipdatetime" : "03/29 13:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ming0803",
+    "push_content" : ": 有洨王子的梗",
+    "push_ipdatetime" : "03/29 13:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "suop",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 13:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "glion",
+    "push_content" : ": 二師兄很適合作業配啊wwww",
+    "push_ipdatetime" : "03/29 13:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "photoB1N",
+    "push_content" : ": 這可以XDDD",
+    "push_ipdatetime" : "03/29 13:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Duagi",
+    "push_content" : ": 突然好想吃蔥油餅",
+    "push_ipdatetime" : "03/29 13:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "WenD0732",
+    "push_content" : ": 笑翻",
+    "push_ipdatetime" : "03/29 13:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "user1120",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/29 14:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tzoimi",
+    "push_content" : ": 梗爛 廢到笑",
+    "push_ipdatetime" : "03/29 15:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asd60367",
+    "push_content" : ": 可以",
+    "push_ipdatetime" : "03/29 15:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "forevercryer",
+    "push_content" : ": 鳳梨很鬧",
+    "push_ipdatetime" : "03/29 15:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "iamoldtwo",
+    "push_content" : ": https://imgur.com/Y1QbGTf.jpg",
+    "push_ipdatetime" : "03/29 15:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rollbanana",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 16:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "allenball",
+    "push_content" : ": XDDDDDDD",
+    "push_ipdatetime" : "03/29 16:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dreamcloud",
+    "push_content" : ": 不能自動開圖嗎？",
+    "push_ipdatetime" : "03/29 16:33",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "NingK",
+    "push_content" : ": 買一送一然後單點六折，還是歧視沒朋友阿幹",
+    "push_ipdatetime" : "03/29 16:47",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jacky0122",
+    "push_content" : ": 怎麼有點情史煌的既視感？",
+    "push_ipdatetime" : "03/29 17:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qoo60606",
+    "push_content" : ": 有梗XD",
+    "push_ipdatetime" : "03/29 18:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "e04su3no",
+    "push_content" : ": 晚上就吃必勝客了",
+    "push_ipdatetime" : "03/29 18:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mist0310",
+    "push_content" : ": 你是哪句聽不懂哈哈哈",
+    "push_ipdatetime" : "03/29 18:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tiramisu77",
+    "push_content" : ": 隨便…XD",
+    "push_ipdatetime" : "03/29 18:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cobrangelk",
+    "push_content" : ": 學妹撿到槍xDD笑死",
+    "push_ipdatetime" : "03/29 19:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "satiie",
+    "push_content" : ": 給我內戰辣",
+    "push_ipdatetime" : "03/29 19:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XseraphimX",
+    "push_content" : ": 不錯XDDDD",
+    "push_ipdatetime" : "03/29 19:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "phyBomber",
+    "push_content" : ": 唱獨角戲逆",
+    "push_ipdatetime" : "03/29 19:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chith",
+    "push_content" : ": 哈哈哈我週末剛好要吃達美樂，很應景喔",
+    "push_ipdatetime" : "03/29 20:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yoshihuang8",
+    "push_content" : ": 沒有分開放阿幹",
+    "push_ipdatetime" : "03/29 20:22",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "bomda",
+    "push_content" : ": 你是哪句聽不懂",
+    "push_ipdatetime" : "03/29 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "B9702115",
+    "push_content" : ": 披薩加鳳梨真的噁心",
+    "push_ipdatetime" : "03/29 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winneruou",
+    "push_content" : ": 推～～",
+    "push_ipdatetime" : "03/29 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "g9122xj",
+    "push_content" : ": 噁心，真的很噁心，啊，我是說加香菜的披薩",
+    "push_ipdatetime" : "03/29 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tonywu49",
+    "push_content" : ": 心甘情願推業配，哈哈哈哈哈哈哈",
+    "push_ipdatetime" : "03/29 20:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wesley723386",
+    "push_content" : ": 花蓮篇到底要不要吃啦幹",
+    "push_ipdatetime" : "03/29 20:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zx11758",
+    "push_content" : ": 笑死",
+    "push_ipdatetime" : "03/29 21:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "grf7186",
+    "push_content" : ": 這篇不錯XE",
+    "push_ipdatetime" : "03/29 22:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "STARKWANG",
+    "push_content" : ": 哇靠不愧是二師兄",
+    "push_ipdatetime" : "03/29 22:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pooomei",
+    "push_content" : ": 有笑有推",
+    "push_ipdatetime" : "03/29 23:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vingfing",
+    "push_content" : ": 笑死，這是啥鬼啦",
+    "push_ipdatetime" : "03/29 23:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "celine1234",
+    "push_content" : ": 這次業配我的菜",
+    "push_ipdatetime" : "03/29 23:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wu0h9685921",
+    "push_content" : ": 每一張圖都超好笑XDDD",
+    "push_ipdatetime" : "03/30 00:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jimhall",
+    "push_content" : ": 真的沒放起司啊，說沒改過配方我不信，以前吃都會牽絲，",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jimhall",
+    "push_content" : ": 應該是馬扎瑞拉起司，現在根本連起司都懶得放了，真以為",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jimhall",
+    "push_content" : ": 台灣人不懂披薩，沒放牽絲的起司，那是要吃啥，難怪大家",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jimhall",
+    "push_content" : ": 去買蔥油餅",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cph1721",
+    "push_content" : ": 幹笑死",
+    "push_ipdatetime" : "03/30 01:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "amber922",
+    "push_content" : ": 笑死，這個很可以哈哈哈",
+    "push_ipdatetime" : "03/30 01:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tim0619123",
+    "push_content" : ": 不是阿 阿不就是葉配 搞什麼啊",
+    "push_ipdatetime" : "03/30 01:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "greencapave",
+    "push_content" : ": 純文學寫到有人找業配 這也滿屌的 有業配才有純文學",
+    "push_ipdatetime" : "03/30 02:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greencapave",
+    "push_content" : ": 看 推囉 別墮落嘿~",
+    "push_ipdatetime" : "03/30 02:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "XtrEmeMasTeR",
+    "push_content" : ": 梗蠻有趣的 雖然沒笑",
+    "push_ipdatetime" : "03/30 04:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ste3699stes",
+    "push_content" : ": 笑死 哈哈哈哈哈",
+    "push_ipdatetime" : "03/30 04:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t0042380",
+    "push_content" : ": 學妹好兇",
+    "push_ipdatetime" : "03/30 08:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hirosimamika",
+    "push_content" : ": 好笑",
+    "push_ipdatetime" : "03/30 08:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gangboy",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 08:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "RRGS1230",
+    "push_content" : ": 他外送送來因該要是 披薩+香菜 外加鳳梨罐頭",
+    "push_ipdatetime" : "03/30 08:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winiS",
+    "push_content" : ": 鳳梨另外放有戳到，真的可以這樣叫?",
+    "push_ipdatetime" : "03/30 09:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ro22446688",
+    "push_content" : ": 夏威夷加香菜…這是什麼應該毀滅的地獄組合",
+    "push_ipdatetime" : "03/30 10:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mcnightcc",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 10:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wuhoho",
+    "push_content" : ": 很好笑啊",
+    "push_ipdatetime" : "03/30 10:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ZBeta",
+    "push_content" : ": 內戰呢",
+    "push_ipdatetime" : "03/30 10:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TommyTora",
+    "push_content" : ": 夏威夷加香菜，餓了想吃w請問加香菜免費嗎？",
+    "push_ipdatetime" : "03/30 11:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "matt88200",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 11:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "redbeanbread",
+    "push_content" : ": 跟上",
+    "push_ipdatetime" : "03/30 13:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wadeedaw",
+    "push_content" : ": 噁心 真的很噁心",
+    "push_ipdatetime" : "03/30 14:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alexjeter",
+    "push_content" : ": 哪句聽不懂 哈哈",
+    "push_ipdatetime" : "03/30 15:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcoog7880",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 18:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hareluyac",
+    "push_content" : ": 其實理論上是可以切九片的，三等份後再各分三",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  } ]
+}
