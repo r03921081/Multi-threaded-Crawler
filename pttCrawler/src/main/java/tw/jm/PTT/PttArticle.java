@@ -3,7 +3,9 @@ package tw.jm.PTT;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PttArticle {
+import tw.jm.Crawler.Article;
+
+public class PttArticle extends Article {
 	
 	private String author;
 	private String title;

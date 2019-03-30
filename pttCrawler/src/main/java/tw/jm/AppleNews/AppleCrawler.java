@@ -21,7 +21,7 @@ public class AppleCrawler implements Processor {
 
 		AppleParser parser = new AppleParser();
 		AppleArticle article = parser.parseArticle(url);
-		u.crawlAPPLE(article);
+		u.crawlFunction(article);
 		
 	}
 

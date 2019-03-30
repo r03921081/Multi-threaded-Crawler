@@ -21,7 +21,7 @@ public class PttCrawler implements Processor {
 
 		PttParser parser = new PttParser();
 		PttArticle article = parser.parseArticle(url);
-		u.crawlPTT(article);
+		u.crawlFunction(article);
 		
 	}
 

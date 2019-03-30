@@ -2,7 +2,10 @@ package tw.jm.AppleNews;
 
 import java.util.List;
 
-public class AppleArticle {
+import tw.jm.Crawler.Article;
+
+public class AppleArticle extends Article {
+	
 	private String title;
 	private String view;
 	private String date;

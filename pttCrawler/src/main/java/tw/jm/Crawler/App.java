@@ -46,9 +46,8 @@ public class App {
 			logger.info("--- Stop " + target + " ---");
 		}
 
+		TimeUnit.SECONDS.sleep(5);
 		terminateExecutorService(taskList);
-		
-//		TimeUnit.SECONDS.sleep(3);
 //		checkAllThreadsStatus();
 
 	}

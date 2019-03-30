@@ -54,7 +54,7 @@ public class PttParser {
 			}
 
 			Element tmp = mainContent.select("div").remove().get(0);
-			String[] contentObject = tmp.text().split("��");
+			String[] contentObject = tmp.text().split("※");
 			Integer contentSize = contentObject.length;
 
 			String articleContent = "";

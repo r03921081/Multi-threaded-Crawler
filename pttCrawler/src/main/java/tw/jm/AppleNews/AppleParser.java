@@ -32,6 +32,7 @@ private static final Logger logger = LogManager.getLogger("Crawler");
 				keywords.add(key.trim());
 			}			
 			article.setKeywords(keywords);
+			logger.info(article);
 		} catch (IOException e) {
 			logger.error("Parser Error", e);
 		}

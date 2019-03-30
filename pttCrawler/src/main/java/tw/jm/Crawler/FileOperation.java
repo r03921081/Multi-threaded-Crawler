@@ -20,7 +20,7 @@ public class FileOperation {
 
 	public List<String> getBoardConfig() {
 		List<String> pttBoard = new ArrayList<>();
-		String file = UserDefinedFunction.pttBoardPath;
+		String file = UserDefinedFunction.websitesPath;
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {
 			String line;
 			while ((line = br.readLine()) != null) {
@@ -72,6 +72,7 @@ public class FileOperation {
 					out.newLine();
 				}
 			}
+			out.flush();
 			out.close();
 		} catch (IOException e) {
 			logger.error("FileWriter", e);
