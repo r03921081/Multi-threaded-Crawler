@@ -1,0 +1,790 @@
+{
+  "title" : "[爆卦] 林飛帆接受專訪 正在申請讀博士班",
+  "author" : "protagoras",
+  "board" : "Gossiping",
+  "content" : "318學運能夠發生，功勞最大的是林飛帆。在長達將近一小時的專訪中，林飛帆覺得感嘆的 是「五年前服貿的事，五年後來看對很多人而言可能已經拋諸腦後了」。 31歲的林飛帆剛拿到碩士學位，他也表示自己正在申請倫敦政經學院的博士班，申請上的 話老婆可能也會跟著去。主持人問他要不要生小孩，林飛帆表示他自己蠻喜歡小孩的，老 婆也想生，但一切就順其自然。 專訪影片網址：https://www.youtube.com/watch?v=JkIscfTo-XE -- ",
+  "date" : "Sat Mar 30 20:27:57 2019",
+  "ip" : "223.140.98.183",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553948879.A.CA3.html",
+  "pushList" : [ {
+    "push_userid" : "Rrrxddd",
+    "push_content" : ": 不用 有一個好爸爸 就好了",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pchion2002",
+    "push_content" : ": 幸福 有錢到31歲還在唸書",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "althea0628",
+    "push_content" : ": 反觀另一位摸摸樂",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cp109",
+    "push_content" : ": ...2020不回來救台灣?",
+    "push_ipdatetime" : "03/30 20:28",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "flavorBZ",
+    "push_content" : ": 正港專業學生!!",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ams9",
+    "push_content" : ": 真夠爽",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hkcdc",
+    "push_content" : ": 專業的學生",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fireda",
+    "push_content" : ": 碩士不是24歲就該拿到的學位",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wawaking1",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 20:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lwamp",
+    "push_content" : ": 這樣才能繼續裝覺青 其實已經是覺叔了",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flavorBZ",
+    "push_content" : ": 讀完剛好回來抗議國民黨",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zeldo",
+    "push_content" : ": 有什麼好眼紅的？",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alcpeon911",
+    "push_content" : ": 有錢真好",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YLTYY",
+    "push_content" : ": 原來31了，看不太出來",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tmlisgood",
+    "push_content" : ": 31歲沒工作還在唸書的人有啥資格批評服貿，當大家都像",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tmlisgood",
+    "push_content" : ": 他一樣不用擔心沒飯吃嗎",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "linhsiuwei",
+    "push_content" : ": 讀書讀到30歲，根本職業學生",
+    "push_ipdatetime" : "03/30 20:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "guardian93",
+    "push_content" : ": 為了學運，犧牲很多東西，荒廢好幾年吧",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dans",
+    "push_content" : ": 有個好爸爸才能讀LSE呀",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mij",
+    "push_content" : ": 真爽 好老的學生...",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "simon860730",
+    "push_content" : ": 中間沒有當兵或工作嗎...?",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiaobai",
+    "push_content" : ": 沒被台灣慣老闆壓榨過的在那屁三小",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hugh509",
+    "push_content" : ": 職業:學生",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chaunen",
+    "push_content" : ": 靠 我還以為他26....",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hkcdc",
+    "push_content" : ": 妖西也還是青年",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "jab",
+    "push_content" : ": 9.2混雜 服貿就垃圾黑箱 怕人罵喔？",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ms0545173",
+    "push_content" : ": 能讀到博士的就是準備啃老了",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fatslave",
+    "push_content" : ": 幹 是要讀到50歲嗎",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jeff0811",
+    "push_content" : ": 有錢真好",
+    "push_ipdatetime" : "03/30 20:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Anikk",
+    "push_content" : ": 31歲 碩士畢業 還要繼續念書...家裡也太有",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "superob",
+    "push_content" : ": 太陽花領袖",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "darkdogoblin",
+    "push_content" : ": 這樣算不算啃老",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hugh509",
+    "push_content" : ": 文組的博士應該不難拿吧",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "phyfeynman",
+    "push_content" : ": 到底家裡要多有錢，才可以31歲不用工作準備讀博班",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "huikmn",
+    "push_content" : ": 反觀另一位......................",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dans",
+    "push_content" : ": LSE就貴族學校呀，號稱英國輔仁大學",
+    "push_ipdatetime" : "03/30 20:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ms0545173",
+    "push_content" : ": 31歲還沒出過社會 服兵役 還想繼續啃老念書 真棒",
+    "push_ipdatetime" : "03/30 20:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t81511270",
+    "push_content" : ": 職業學生唷 還是系太好念",
+    "push_ipdatetime" : "03/30 20:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mij",
+    "push_content" : ": 反正什麼工作都沒有最後還可以回來台灣搞政治...",
+    "push_ipdatetime" : "03/30 20:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Anikk",
+    "push_content" : ": 請問倫敦讀書484很便宜~?",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "morichi",
+    "push_content" : ": 會不會40歲才要出社會阿",
+    "push_ipdatetime" : "03/30 20:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dahanjian",
+    "push_content" : ": ?",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "steve91240",
+    "push_content" : ": 沒工作也有人嫁 人帥真好",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "slimak",
+    "push_content" : ": 難道要當韓粉，在路邊擺攤嗎？",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "XZXie",
+    "push_content" : ": 覺醒中年",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fajita",
+    "push_content" : ": 有心唸書都鼓勵啦，不要市長當到只會賣菜不知道在幹嘛",
+    "push_ipdatetime" : "03/30 20:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Grothendieck",
+    "push_content" : ": 娶老婆都叫爸爸出錢 真有臉",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lynchen",
+    "push_content" : ": 念到40歲剛好選總統",
+    "push_ipdatetime" : "03/30 20:36",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Grothendieck",
+    "push_content" : ": 這種大概就常常聽到唸10年的XD",
+    "push_ipdatetime" : "03/30 20:37",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tchachavsky",
+    "push_content" : ": 文組雙碩31歲 沒工作 也有台女嫁 誰說台女勢利的",
+    "push_ipdatetime" : "03/30 20:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mixings",
+    "push_content" : ": 真D爽",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 讀完博士快40歲剛好回來選民代..真他媽有夠爽XD",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HiSop",
+    "push_content" : ": 多讀點 反正是未來的吳音寧不用怕吧 有DPP在保底當大官",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tchachavsky",
+    "push_content" : ": 文組博班再加五六年吧 剛好下次選舉回來當官",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "funkD",
+    "push_content" : ": 31了還在念書啊==",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jiaching",
+    "push_content" : ": 過太爽了吧 30多歲了還能無憂無慮的讀書",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shutout5566",
+    "push_content" : ": 31歲 沒工作還在唸書 怎麼結婚的？怎麼生活？生小孩",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asgardgogo",
+    "push_content" : ": 好爽政治是有錢人搞的",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 公平正義為民喉舌..他媽也是要看背景的好嗎.操",
+    "push_ipdatetime" : "03/30 20:38",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "x007",
+    "push_content" : ": 出社會直上總統 棒",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shutout5566",
+    "push_content" : ": 怎麼養？讀博班誰出錢？留學老婆一起去 生活費怎麼",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shutout5566",
+    "push_content" : ": 來？",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "venomsoul",
+    "push_content" : ": 有點羨慕，我25歲開始只能吃自己都被嫌晚了",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a123454698",
+    "push_content" : ": 台獨替代役，覺青的最愛",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Mei5566",
+    "push_content" : ": 哈哈哈，爽死",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Witting",
+    "push_content" : ": 英國好像畢業年限比較短",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "CenaC",
+    "push_content" : ": 唸書唸一輩子 家裡要有錢才辦的到",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Mei5566",
+    "push_content" : ": 覺青果然不一樣",
+    "push_ipdatetime" : "03/30 20:39",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "arhuro",
+    "push_content" : ": 沒出去工作過 跟台灣很多政治人物一樣 不知道台灣基層社會",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deathrow",
+    "push_content" : ": 他可是島國前進基金會董事長",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 有沒有幹賴缺德啊..噴學姊一副大義凜然.對賴勒?????",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tchachavsky",
+    "push_content" : ": 英國這麼便宜嗎 讀完才想到要再申請 不都徑博拿獎金",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Atwo",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Grothendieck",
+    "push_content" : ": 他應該也過得蠻辛苦的 現在叫他去蹲助理是不可能的",
+    "push_ipdatetime" : "03/30 20:40",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ChungLi5566",
+    "push_content" : ": 31歲還不用上班真爽",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chaunen",
+    "push_content" : ": 這一年學費+生活費不知道要不要200W",
+    "push_ipdatetime" : "03/30 20:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 一輩子活在自己的夢境.然後檢驗他人都在比清高的XD",
+    "push_ipdatetime" : "03/30 20:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HiSop",
+    "push_content" : ": ==多讀點 反正是未來的吳音寧和 駐美口譯哥 等著坐大官====",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "qk3380888",
+    "push_content" : ": 好爽",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "betahalien",
+    "push_content" : ": 哈哈哈真的猜中,不敢噴賴功德躲回英國吃炸魚薯條",
+    "push_ipdatetime" : "03/30 20:43",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "betahalien",
+    "push_content" : ": 是說他才吃兩年就腫成那樣,吃個四年會不會勝文化啊",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tchachavsky",
+    "push_content" : ": 發現嗆學姊完 不敢嗆賴神XDDD躲回英國 四年後再求官",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa01081008tw",
+    "push_content" : ": 狗是不會咬自己主人的.但放出去咬別人都超兇的XD",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "teren",
+    "push_content" : ": 有種東西叫獎學金",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tchachavsky",
+    "push_content" : ": 這次分裂應該輸定了 先計畫四年後大選再回來嗆XDDDDD",
+    "push_ipdatetime" : "03/30 20:44",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cycling",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 20:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxzxcv",
+    "push_content" : ": 家裡有錢真好，根本啃老族",
+    "push_ipdatetime" : "03/30 20:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hihimen",
+    "push_content" : ": 職業覺青",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "hosen",
+    "push_content" : ": 唸書唸到31歲還在念不怕餓死，難怪不需要服貿",
+    "push_ipdatetime" : "03/30 20:47",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "zebirlin",
+    "push_content" : ": 文組還念到30歲才碩士 看來40歲都還在啃老",
+    "push_ipdatetime" : "03/30 20:48",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "fedona",
+    "push_content" : ": 文組替代役不意外",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yyy855029",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "imsphzzz",
+    "push_content" : ": 家裡有錢的覺青，當然可以整天說風涼話",
+    "push_ipdatetime" : "03/30 20:49",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "sunchen0201",
+    "push_content" : ": 人生勝利組 這輩子大概都不用出社會賺$$",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sunchen0201",
+    "push_content" : ": 我看這個英國博士應該可以讓他在英國玩到40歲...",
+    "push_ipdatetime" : "03/30 20:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "angeltear15",
+    "push_content" : ": 廢物9.2快來噓 因為9.2註定一輩子廢物",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Zombieslayer",
+    "push_content" : ": 50歲醫師娘",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cp109",
+    "push_content" : ": 難怪同溫層 很厚",
+    "push_ipdatetime" : "03/30 20:51",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "HOWEAT",
+    "push_content" : ": 家裡真有啊…",
+    "push_ipdatetime" : "03/30 20:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jkl852",
+    "push_content" : ": 沒出去工作過就可以娶老婆再去繼續當學生XD 投胎決定勝負",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "duo0518",
+    "push_content" : ": 意外嗎?不然你以為這些人可以整天抗議不用工作嗎?",
+    "push_ipdatetime" : "03/30 20:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sionxp",
+    "push_content" : ": 有錢真好",
+    "push_ipdatetime" : "03/30 20:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mengche",
+    "push_content" : ": 有錢可以不用工作，還能中出生小孩",
+    "push_ipdatetime" : "03/30 20:55",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mengche",
+    "push_content" : ": 根本是綠版的勝文，一直玩 一直玩",
+    "push_ipdatetime" : "03/30 20:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ru8ru8",
+    "push_content" : ": 31歲還在唸書，感覺家裡很有錢",
+    "push_ipdatetime" : "03/30 20:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "pickchu22001",
+    "push_content" : ": 靠爸正常,和勝文一樣.非凡公子家裡有錢不是新聞.",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pickchu22001",
+    "push_content" : ": 大家怎麼這時候才嘴?",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "FFAA",
+    "push_content" : ": 念博班還好吧 正正當當的 總比那隻摸奶還躲在時力裡面混的好",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "joshualiu",
+    "push_content" : ": ㄏ",
+    "push_ipdatetime" : "03/30 20:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "satan04",
+    "push_content" : ": 一堆學店生崩潰耶",
+    "push_ipdatetime" : "03/30 20:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sionxp",
+    "push_content" : ": 以後ㄧ定是民進黨 黨主席",
+    "push_ipdatetime" : "03/30 20:59",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "MotleyCrue",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 21:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ilovelol",
+    "push_content" : ": 躲在英國煽動台灣戰爭就可以申請難民了",
+    "push_ipdatetime" : "03/30 21:02",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "oldchang1205",
+    "push_content" : ": 相比之下 吱八魯蛇領22k 跟有錢人搞大腸花",
+    "push_ipdatetime" : "03/30 21:03",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "wailman",
+    "push_content" : ": 雖然有個人努力，但羨慕背有靠山可讓他不用煩惱生活。",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yangchisheng",
+    "push_content" : ": 以前大學觀察到 覺青普遍家境都不錯",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 31歲 唸完大概快40歲 果然是有錢公子哥",
+    "push_ipdatetime" : "03/30 21:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "mirac1e",
+    "push_content" : ": 外套換一件了沒",
+    "push_ipdatetime" : "03/30 21:05",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "palapalanhu",
+    "push_content" : ": 覺青麻",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "makono",
+    "push_content" : ": 如果帆神進政治圈 我就挺",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "eddie04",
+    "push_content" : ": 簡單來說還沒出過社會自己賺錢啦",
+    "push_ipdatetime" : "03/30 21:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 他爸幾年前就已經退休了 還跟他老婆(當時是女友)在台南",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HRyan",
+    "push_content" : ": 推!出國深造",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "muscle1069",
+    "push_content" : ": 家裡有錢，有人也要眼紅，他家又不缺那幾萬薪水",
+    "push_ipdatetime" : "03/30 21:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "simata",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ps51304",
+    "push_content" : ": 職業學生",
+    "push_ipdatetime" : "03/30 21:08",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "muscle1069",
+    "push_content" : ": 美國沒在工作的富二代才是一堆，家裡根本不靠薪水過",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "apteekki",
+    "push_content" : ": 欣賞他",
+    "push_ipdatetime" : "03/30 21:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "muscle1069",
+    "push_content" : ": 活，賺不了什麼錢，還可能把公司搞垮",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 開一間店",
+    "push_ipdatetime" : "03/30 21:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 拿美國跟台灣比 美國富二代不工作在搞政治的 會比笑死",
+    "push_ipdatetime" : "03/30 21:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "akay08",
+    "push_content" : ": 總比連D好",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 美國富二代想搞政治的 會去從軍 唸法律當律師或DA為從政",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "muscle1069",
+    "push_content" : ": n大說川普？",
+    "push_ipdatetime" : "03/30 21:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 舖路 哪像台灣當萬年職業學生還有人護航",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "muscle1069",
+    "push_content" : ": 川普還被統計，他經營的是賠錢",
+    "push_ipdatetime" : "03/30 21:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nikewang",
+    "push_content" : ": 所以川普現在就被人笑啊 我沒講錯",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nttc",
+    "push_content" : ": 真爽不用工作",
+    "push_ipdatetime" : "03/30 21:14",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "knare",
+    "push_content" : ": 31歲還在唸書 罵到一堆人了，自己舉手吧",
+    "push_ipdatetime" : "03/30 21:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "littleaoc",
+    "push_content" : ": 有錢真好",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "taker627",
+    "push_content" : ": 不用賺錢就能娶老婆了 羨慕",
+    "push_ipdatetime" : "03/30 21:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gunfighter",
+    "push_content" : ": 人家學運領袖耶 民進黨自有安排",
+    "push_ipdatetime" : "03/30 21:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MinoltaSTF",
+    "push_content" : ": 以後台灣的總統",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lX",
+    "push_content" : ": 遇到綠營 中心思想都沒了",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gamania10000",
+    "push_content" : ": 不用找工作真好",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "garyrush",
+    "push_content" : ": 文組讀到博士幹嘛",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "yuxds",
+    "push_content" : ": 借轉政黑",
+    "push_ipdatetime" : "03/30 21:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "horseorange",
+    "push_content" : ": 發這幹麼？",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "r13974682",
+    "push_content" : ": 笑死人 遇到中共 反統一都不敢講是誰",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bluecrown",
+    "push_content" : ": 推文完美的反映現在的反智社會 笑死xd",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jajoy",
+    "push_content" : ": 他31了 看不出來",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SamMark",
+    "push_content" : ": http://i.imgur.com/bV0wFyB.jpg",
+    "push_ipdatetime" : "03/30 21:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "CaTkinGG",
+    "push_content" : ": 在國外替台灣發聲",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ttbxKuoChing",
+    "push_content" : ": 有錢真好",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TheDragonBug",
+    "push_content" : ": 看上面一堆失智推文 台灣還是給中國統一統算了 = =",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Cezaill",
+    "push_content" : ": 好強R",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "推"
+  } ]
+}

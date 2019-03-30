@@ -421,5 +421,350 @@
     "push_content" : ": 這種廢文也要爆?",
     "push_ipdatetime" : "03/30 21:20",
     "push_tag" : "→"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 白粉仔公關公司快call義勇軍阿 噓爆",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Liebig",
+    "push_content" : ": 當然爆 氣死五毛",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tenoopy",
+    "push_content" : ": 五毛噓 我就推",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mayjan",
+    "push_content" : ": 死馬當活馬醫了......",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛:民調最低還能推爆 呵呵 假民調的受害者4ni",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "henryK",
+    "push_content" : ": 習維尼根本很愛資本主義的東西啊！牆有夠好翻",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dymagic",
+    "push_content" : ": 打呵欠",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "love90619",
+    "push_content" : ": 推推 氣死五毛XD",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "glissando",
+    "push_content" : ": 不台獨的賴缺德滾",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛柯粉喜韓兒最愛那種mou式的民調",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "petshopboys",
+    "push_content" : ": 垃圾菜 執政無能只會口號治國",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "poloa",
+    "push_content" : ": 已打卡啦",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kidolin",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linhsiuwei",
+    "push_content" : ": 1450又有工作了",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LierX",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jasonmv123",
+    "push_content" : ": 五毛噓好噓滿就能領骨頭",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 9.25毛又要拿（假）民調最低被推爆來說嘴了",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "ymuit",
+    "push_content" : ": 這篇是各報的臥底記者搶來搶去推..",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "msekili",
+    "push_content" : ": 廠工們 上班囉 別偷懶",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "crazy211037",
+    "push_content" : ": 還真的沒進去過總統府",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ymuit",
+    "push_content" : ": 也是搶來搶去噓 想帶風向才能寫一則報導 辛苦了你們",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "koala0919",
+    "push_content" : ": 五毛上班了 還不快翻牆去噓文",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lovejamwu",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Luvsic",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jackie5678",
+    "push_content" : ": 還沒爆???上班認真點",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "NODINO",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "window77",
+    "push_content" : ": 還沒爆 廠公加油點好嗎",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andy1018",
+    "push_content" : ": 推個",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "walyun",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 假民調受害者又要嘴民調了 幫QQ",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "b5566",
+    "push_content" : ": 每年說不定看不到了",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rickcoo",
+    "push_content" : ": 公關公司努力一點噓啊，這樣能達到KPI嗎",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Muqeem",
+    "push_content" : ": 網軍推快一點好嗎 才幾個字",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "mow1982",
+    "push_content" : ": 廠公出賣靈魂，必下地獄",
+    "push_ipdatetime" : "03/30 21:24",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tearness",
+    "push_content" : ": 廠工快點啊",
+    "push_ipdatetime" : "03/30 21:24",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": （假）民調最低蔡英文又要推爆了 9.25毛7pupu",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Arks",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rekakase",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jcici",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joe00477",
+    "push_content" : ": 推推呵呵",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 蔡英文民調最低居然造假 怎沒有國安局抓去關三天",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wawe896",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "richardjian",
+    "push_content" : ": 推小英連任",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pprisa",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "MinoltaSTF",
+    "push_content" : ": 支那賤畜來噓囉",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "SilentBob",
+    "push_content" : ": 還活著？",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "paulispig",
+    "push_content" : ": ㄎㄎ",
+    "push_ipdatetime" : "03/30 21:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "han0471",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:28",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rekakase",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 21:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ristart",
+    "push_content" : ": 媽的。國民黨威權時期留下的。你在這邊炫耀幹嘛？",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "TrevorStory",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a759282001",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "popy8789",
+    "push_content" : ": 蔡英文民調最低是假的 不要再被騙了",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yyff",
+    "push_content" : ": 公關加油呦 啾咪",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "linhunk",
+    "push_content" : ": 加油 加油 支持",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Myfun",
+    "push_content" : ": 推了",
+    "push_ipdatetime" : "03/30 21:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ez0980",
+    "push_content" : ": https://i.imgur.com/qFL0PHH.jpg",
+    "push_ipdatetime" : "03/30 21:30",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "skywinner",
+    "push_content" : ": 趕快推 萬一初選敗 公關公司就全跑到賴那裡了",
+    "push_ipdatetime" : "03/30 21:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bobyth",
+    "push_content" : ": 打卡打卡",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "alonb",
+    "push_content" : ": 大家快去看",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "m4tl6",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "fujimoto",
+    "push_content" : ": 英帝推",
+    "push_ipdatetime" : "03/30 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "great5566",
+    "push_content" : ": 推小英！台灣最好的總統",
+    "push_ipdatetime" : "03/30 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "testutw",
+    "push_content" : ": 說得好 缺德癩退散",
+    "push_ipdatetime" : "03/30 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "reexamor",
+    "push_content" : ": https://i.imgur.com/4iIVOkj.jpg 覺得影片拍得很生動",
+    "push_ipdatetime" : "03/30 21:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "userpeter",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 21:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cc7770926",
+    "push_content" : ": 十點回文有算大夜薪水嗎",
+    "push_ipdatetime" : "03/30 21:34",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "reexamor",
+    "push_content" : ": https://youtu.be/oprcry29sjs?t=44 喜歡這段影片 ^Q^",
+    "push_ipdatetime" : "03/30 21:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greenpine",
+    "push_content" : ": 打不過就加入 >>>>>母豬最好吃",
+    "push_ipdatetime" : "03/30 21:35",
+    "push_tag" : "推"
   } ]
 }

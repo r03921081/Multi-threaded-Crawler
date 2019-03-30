@@ -486,5 +486,10 @@
     "push_content" : ": 感吧XD",
     "push_ipdatetime" : "03/30 20:46",
     "push_tag" : "→"
+  }, {
+    "push_userid" : "otakuwill",
+    "push_content" : ": 幹 我覺得滿好笑的耶",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
   } ]
 }

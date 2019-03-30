@@ -671,5 +671,205 @@
     "push_content" : ": 不冒進不屈服跟不統不獨維持現狀有什麼不一樣?",
     "push_ipdatetime" : "03/30 21:19",
     "push_tag" : "推"
+  }, {
+    "push_userid" : "funkman5566",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sazdj",
+    "push_content" : ": 聞畢 元氣滿點",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sazdj",
+    "push_content" : ": 這味道真的很棒",
+    "push_ipdatetime" : "03/30 21:20",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "unsocial",
+    "push_content" : ": 充滿信心",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ims531",
+    "push_content" : ": 小英加油 韓粉柯粉都去死",
+    "push_ipdatetime" : "03/30 21:21",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "yutinbabe",
+    "push_content" : ": 大家加油吧",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "poloa",
+    "push_content" : ": 外交推起來",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "almondchoco",
+    "push_content" : ": 推小英",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nanako1001",
+    "push_content" : ": 加油",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "r13974682",
+    "push_content" : ": 笑死 不統變不排除統一 你有嗆馬嗎",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ben1013",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "youjan",
+    "push_content" : ": 看起來白粉id怕被抄了",
+    "push_ipdatetime" : "03/30 21:24",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "carissababy",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Chaser1482",
+    "push_content" : ": 這個要推一下",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awesomeSS66",
+    "push_content" : ": 柯：蔡又在挑釁中國了",
+    "push_ipdatetime" : "03/30 21:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "IEEE1394",
+    "push_content" : ": 總統加油",
+    "push_ipdatetime" : "03/30 21:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "richardjian",
+    "push_content" : ": 支持小英連任百年",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "petshopboys",
+    "push_content" : ": 垃圾菜好好想想初選落敗的文稿吧 哈哈哈",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meredith001",
+    "push_content" : ": 柯粉9.2五毛賤畜又在崩潰亂噓",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jcici",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "coastlinee",
+    "push_content" : ": 其實蔡英文的路線是最穩定的",
+    "push_ipdatetime" : "03/30 21:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "joe00477",
+    "push_content" : ": 黨公來推推",
+    "push_ipdatetime" : "03/30 21:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "v2v2123",
+    "push_content" : ": 我廠工",
+    "push_ipdatetime" : "03/30 21:28",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yida0725",
+    "push_content" : ": 到底要幾篇",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "cocobo",
+    "push_content" : ": 讚啦！",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "A320",
+    "push_content" : ": 支那人快來噓啊啊啊啊",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "TrevorStory",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:29",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tionterly",
+    "push_content" : ": 幾篇都想支持小英啦",
+    "push_ipdatetime" : "03/30 21:30",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "artdeco1",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BatZ05",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Myfun",
+    "push_content" : ": 讚",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lu670320",
+    "push_content" : ": 支持小英",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linhunk",
+    "push_content" : ": 好",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "xslayer",
+    "push_content" : ": 9.2要來噓了",
+    "push_ipdatetime" : "03/30 21:31",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "devidevi",
+    "push_content" : ": 翻譯:維持現狀",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pieces53",
+    "push_content" : ": 外交是真的不錯啊 難道你沒發現 綠的當總統才不用擔心一",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pieces53",
+    "push_content" : ": 國兩制 藍的從偷渡服貿 92共識 和平協議 賣水果妖僧 哪",
+    "push_ipdatetime" : "03/30 21:32",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Pieces53",
+    "push_content" : ": 個不是在幫著中共溫水煮青蛙...",
+    "push_ipdatetime" : "03/30 21:33",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "WOWO5566",
+    "push_content" : ": 台灣加油 這道路是正確的",
+    "push_ipdatetime" : "03/30 21:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Pieces53",
+    "push_content" : ": 賣水果超可笑的 台灣有缺那點支票哦 兌現多少能賺多少不",
+    "push_ipdatetime" : "03/30 21:35",
+    "push_tag" : "→"
   } ]
 }

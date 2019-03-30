@@ -551,5 +551,10 @@
     "push_content" : ": 高調",
     "push_ipdatetime" : "03/30 21:20",
     "push_tag" : "推"
+  }, {
+    "push_userid" : "theHum",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 21:22",
+    "push_tag" : "推"
   } ]
 }
