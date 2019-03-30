@@ -9,8 +9,6 @@ public class AppleArticle extends Article {
 	private String title;
 	private String view;
 	private String date;
-	private String imageURL;
-	private String imageContent;
 	private String content;
 	private String url;
 	private List<String> keywords;
@@ -39,22 +37,6 @@ public class AppleArticle extends Article {
 		this.date = date;
 	}
 
-	public String getImageURL() {
-		return imageURL;
-	}
-
-	public void setImageURL(String imageURL) {
-		this.imageURL = imageURL;
-	}
-
-	public String getImageContent() {
-		return imageContent;
-	}
-
-	public void setImageContent(String imageContent) {
-		this.imageContent = imageContent;
-	}
-
 	public String getContent() {
 		return content;
 	}
@@ -81,9 +63,8 @@ public class AppleArticle extends Article {
 
 	@Override
 	public String toString() {
-		return "AppleArticle [title=" + title + ", view=" + view + ", date=" + date + ", imageURL=" + imageURL
-				+ ", imageContent=" + imageContent + ", content=" + content + ", url=" + url + ", keywords=" + keywords
-				+ "]";
+		return "AppleArticle [title=" + title + ", view=" + view + ", date=" + date + ", content=" + content + ", url="
+				+ url + ", keywords=" + keywords + "]";
 	}
 
 }
