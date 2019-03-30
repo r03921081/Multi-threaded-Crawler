@@ -4,6 +4,9 @@
 	* By default, the system saves the crawl results to txt files.
 
 ## Output format
+- Real system outputs  
+https://github.com/r03921081/Multi-threaded-Crawler/tree/master/multiCrawler/Data  
+
 1. PTT  
 https://www.ptt.cc/bbs/index.html 
 
@@ -40,8 +43,6 @@ https://tw.appledaily.com/new/realtime/
 			url: URL,
 			keywords: [ keyword_1, keyword_2, ... ]
 		}
-- Real system outputs  
-https://github.com/r03921081/Multi-threaded-Crawler/tree/master/multiCrawler/Data
 	
 ## Manual
 	Once the first initialization is completed, the system will automatically update all documents in the future. 	
@@ -82,3 +83,19 @@ https://github.com/r03921081/Multi-threaded-Crawler/tree/master/multiCrawler/Dat
 
 	In a period of time, the cumulative number of pushes does not necessarily reach the popularity standard.
 	Therefore, we need to review the articles within 10 pages.
+
+## APPLEDAILY Mapping keywords
+	生活	life
+	財經	busi
+	地產	property
+	政治	polit
+	體育	sport
+	副刊	strange
+	社會	local
+	3C	ccc
+	娛樂	enter
+	論壇	blog
+	國際	inter
+	時尚	fashion
+	壹週刊	nextmag
+	車市	auto
