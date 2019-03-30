@@ -53,7 +53,7 @@ https://tw.appledaily.com/new/realtime/
 
 ## System Flow
 
-![](https://github.com/r03921081/Multi-threaded-Crawler/blob/master/pttCrawler/Image/Crawler.png)
+![](https://github.com/r03921081/Multi-threaded-Crawler/blob/master/multiCrawler/Image/Crawler.png)
 
 ## Threads life
 	1. Dispatcher
