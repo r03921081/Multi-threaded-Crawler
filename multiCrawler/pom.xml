@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>tw.jm</groupId>
-	<artifactId>pttCrawler</artifactId>
+	<artifactId>multiCrawler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>pttCrawler</name>
+	<name>multiCrawler</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -26,7 +26,6 @@
 		</dependency>
 
 		<dependency>
-			<!-- jsoup HTML parser library @ https://jsoup.org/ -->
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
 			<version>1.11.3</version>
