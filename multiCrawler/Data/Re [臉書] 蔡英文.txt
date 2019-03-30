@@ -1,0 +1,495 @@
+{
+  "title" : "Re: [臉書] 蔡英文",
+  "author" : "XiDaDa5566",
+  "board" : "Gossiping",
+  "content" : " 引述《arsonlolita (XJ87)》之銘言： :  引述《jimgene (jimgene)》之銘言： : : J是三小 : : 我真的覺得蔡英文這幾年做的很爛 : : 但是，剛剛翻了一下 : : 從去年12/20開始 : : 只要把蔡英文臉書po到八卦版 : : 幾分鐘內都會被推爆 : : 是我跟不上嗎？ : : 怎麼瞬間蔡英文這麼好了！ : 到現在還有人不知道 : 年初開始有這麼一群督割帳號開始密集在蔡英文陳其邁下面推文 : 另外在不同議題也會開分身把自己推爆或是推噓對自己有利的文帶風向 : 拿這蔡英文這篇臉書好了 : 發文的37分到47分結束 : 以下督割名單內 : 十分鐘內總共有3X個id重覆推文 : l314520 : Sattar : joy2001billy : winwinnow : funccore : Hariclia : remem : IEEE1394 : Liebig : croy89 : love90619 : jasonmv123 : momom : flooke : Capaneus : koala0919 : chhoher : ffffffffff : nomono : Sattar : qickly : winwinnow : joy2001billy : Hariclia : ps45689 : notnew : Deanfluenza : flooke : werock : Liebig : love90619 : ryan970784 : jasonmv123 : ninstagram00 : 有新增幾個三月才密集使用的新帳號 : 老樣子,有誤會的請站內信 : 附錄: : 公關公司黑名單 : 使用軟體:pttstar 黑名單功能 : https://www.ptt.cc/bbs/EZsoft/M.1546241396.A.D95.html : https://www.plytic.com/ : 發現ptt : 黑名單ID清單(新增pttchrome格式) : http://bit.ly/2SAA0ut : 督割90ID清單 這篇有IP 這篇有IP 這篇有IP 這篇有IP : http://bit.ly/2NVisIH : 爆卦] 大量帳號行為異常 : http://bit.ly/2NXgQ1i : [爆卦] 抓到啦！大量帳號行為異常 : https://reurl.cc/34jQX : https://www.ptt.cc/bbs/Gossiping/M.1553438052.A.0F9.html : [問卦] 有沒有ptt站長想要永久停止註冊的八卦? : 這篇站長表示會去查之前的檢舉文為什麼不見了 : 這篇黑黃國昌被噓到自刪 : https://www.ptt.cc/bbs/Gossiping/M.1553005936.A.CA3.html : Re: [爆卦] 美智庫顧問葛萊儀：柯文哲要解釋親中問題 : https://www.ptt.cc/bbs/Gossiping/M.1553359839.A.850.html : □ [爆卦] 督割再起？9000元帳號懶人包 : https://www.ptt.cc/bbs/Gossiping/M.1535488936.A.771.html : 不認識督割的可以爬這串 我就先認同你的說法好了 所以你的原文我也不刪 那些id也保留 搞不好裡面真的有幾個廠工 不過我就用你附的工具來搜尋id arsonlolita https://i.imgur.com/8rrQIVN.png 你這個帳號 在去年12月以前幾乎都沒有活動 但是今年1月以後突然爆出大量推文跟噓文 而且都是推柯文哲 所以你是柯請的公關公司? https://i.imgur.com/41sZGf4.png ip 每次都不同，感覺是浮動 ip 我是用你的邏輯 你的工具來搜你的id 有錯請站內信 -- ",
+  "date" : "Sat Mar 30 17:02:59 2019",
+  "ip" : "140.114.253.24",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553936584.A.2D0.html",
+  "pushList" : [ {
+    "push_userid" : "arumi416",
+    "push_content" : ": 開戰啦！",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": XDDDDDDDDDDDDDD讓我們繼續看下去",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "reason",
+    "push_content" : ": 繼續看下去",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 那種自己公關公司/黨工還整天說人公關黨工的死一死辣",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lovegensokyo",
+    "push_content" : ": 愛死這種文了 先推",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "GreenScatter",
+    "push_content" : ": 支持賴清德",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jun1981",
+    "push_content" : ": 不然你覺得柯臉書po文 怎麼被推爆的",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 笑死我了結果自己原來是公關公司",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "roger1976",
+    "push_content" : ": 破腦傻雞 嘻嘻",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 去看一下柯文哲臉書推文爆的重複id有多少就知道了好意思",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chaunen",
+    "push_content" : ": 樓上XDDDDDDDD",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 破殼智障雞",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "chengune",
+    "push_content" : ": 哈哈哈哈",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chaunen",
+    "push_content" : ": 我說4F 大家也推太快了吧XDDD",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chaunen",
+    "push_content" : ": 等等 改5F 嗚嗚... 今天怎麼了....",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "rial",
+    "push_content" : ": 嘻嘻",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "notea",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "angraer",
+    "push_content" : ": 四樓在自介嗎XD",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "hyuchi0202",
+    "push_content" : ": 綠畜智障加油喔 現在八卦看來跟現實反指標只有蔡的FB",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "signm",
+    "push_content" : ": 想不到這東西真好用",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 所以意思是一堆假英粉真柯粉?",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 閱讀理解能力悲劇的被戳中惱羞惹",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 習大大6666666",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "daniel229",
+    "push_content" : ": 很會耶！黨工棒棒",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 別這樣啦 柯文哲都義勇軍 藍綠都是黨工",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 以為人人都跟腦粉一樣沒有是非臉皮超厚?XD",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Haine",
+    "push_content" : ": 都割不就是在柯底下做事嗎 那個什麼台獨機關槍的",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 柯糞自己一群智障公關公司狂推還以為別人都看不出來",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cul287",
+    "push_content" : ": 義蛹軍會來噓",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zxcelephant",
+    "push_content" : ": 是短時間推噓好幾次的吧",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 真是智商低才會去當柯韓糞",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "flux",
+    "push_content" : ": 那個推發文紀錄真的有準??我查自己也是12月前幾乎沒紀錄",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 幫你高調呢...哈哈哈",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 只有白粉仔自命清高 整天超越藍綠 實際上幹的事都差不多",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 結果一堆公關喊人公關，領錢的還那麼廢根本新水小偷XD",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 哈 還自認年輕學歷高，跟藍綠腦粉幹一樣的事情",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aclahm",
+    "push_content" : ": 板凳",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dostey",
+    "push_content" : ": 打臉文",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 樓下我分身",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 有臉狂罵藍綠認為自己超越藍綠的，難怪會作賊喊抓賊",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wtosister",
+    "push_content" : ": 笑炸",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 所以這個白粉仔要不要出來說一下自己是買帳號的還是公關",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Hariclia",
+    "push_content" : ": 幫你高調",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 公司還是五毛阿?",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "joy2001billy",
+    "push_content" : ": 推推",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 再說一次公關喊人公關的死全家啦廢物 崩潰惱羞吧XD",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Liebig",
+    "push_content" : ": 白粉吸到神智不清嗎 XD",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "W0970055",
+    "push_content" : ": 先這樣說好了，樓下也是我分身啦",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 其他公關白粉仔還會點名你出來挑戰 我快笑死",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "targoo",
+    "push_content" : ": 就很北七啊，有臉說別人沒臉看自己",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "noread",
+    "push_content" : ": 哇嗚直接一槍斃命",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Deanfluenza",
+    "push_content" : ": 腦殘",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gefroren",
+    "push_content" : ": 分身術！！！！白粉吸多一點才可以看見更多！",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 現在純白粉仔只會半夜沒人偷偷洗白柯文哲",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "zxc03211130",
+    "push_content" : ": 可憐",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 柯糞每天都要跟著柯Seafood轉彎所以可能他已經被甩尾了",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lad270184",
+    "push_content" : ": XD",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 哈哈哈笑到炸",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "creay222",
+    "push_content" : ": 別在說我廠工了 謝謝",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AlianF",
+    "push_content" : ": 嘻嘻 浮動IP很簡單啊 我每天都不一樣r 政黑仔應該都聽得",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kimicino",
+    "push_content" : ": 嘻嘻",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "AlianF",
+    "push_content" : ": 懂",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sun41102",
+    "push_content" : ": 忘記用乾淨的帳號po文了",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cup18",
+    "push_content" : ": 我懷疑白粉智商是不是輸給喜韓兒= =",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k10055960",
+    "push_content" : ": 不好說 我就義勇軍阿 蔡英文的 好歹人家支持率還有20%",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 網軍又在高潮了",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "ginoweng",
+    "push_content" : ": 北七",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "k10055960",
+    "push_content" : ": 當那20%之一也很正常 阿不然20%哪裡來的",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hugh509",
+    "push_content" : ": 紅明顯 那東西不準 我也是去年都沒紀錄",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rave16",
+    "push_content" : ": 白圾力量都這樣奧梨子裝蘋果",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "matthew0129",
+    "push_content" : ": 有病",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": XD超多弱炮腦粉/公關XD 無法回擊只能亂TAG又講不出啥",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "love90619",
+    "push_content" : ": 柯糞自打臉XD",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wemeyou",
+    "push_content" : ": 哈哈哈哈一槍斃命",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 你再說 等一下白粉仔去蝦皮買5800元帳號來嗆你廠工",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 等一下會有柯糞噓文防爆小組出現嗎?",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jasonmv123",
+    "push_content" : ": 柯老師信徒還是很活躍呢",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "deityfire",
+    "push_content" : ": 08才懶得管他們在靠北三小，一群只會造謠的廢物",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "raymondabcd",
+    "push_content" : ": 腦子是很棒的東西希望你有",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "awaydd0929",
+    "push_content" : ": 哈哈 白粉吸多了 整天幻想別人都是黨工",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "koala0919",
+    "push_content" : ": 我開一下分身來推",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "louis0210",
+    "push_content" : ": https://imgur.com/RD8IFEk",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "islyking",
+    "push_content" : ": 這個ID很誇張 公關文很多",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chhoher",
+    "push_content" : ": 臉好腫 哈哈",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "injanine",
+    "push_content" : ": 該不會都是你的分身自打嘴巴吧",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "meredith001",
+    "push_content" : ": 柯粉不意外 做賊喊捉賊最厲害了",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Birken",
+    "push_content" : ": 幹 怎麼沒有我",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lice0225",
+    "push_content" : ": 呵呵 uccu",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kaodio",
+    "push_content" : ": 大家都是自己人麻 別這麼認真",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kiemets",
+    "push_content" : ": 丟人現眼 包一包回去睡啦可憐",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "linchw",
+    "push_content" : ": 公關公司內戰",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "joy2001billy",
+    "push_content" : ": 製杖",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "philmaru",
+    "push_content" : ": XDDDDD",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "islyking",
+    "push_content" : ": 柯糞出來打球",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cothade",
+    "push_content" : ": 柯糞視野真的很小",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "winwinnow",
+    "push_content" : ": 錢呢 我沒領到啊 耖",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  } ]
+}

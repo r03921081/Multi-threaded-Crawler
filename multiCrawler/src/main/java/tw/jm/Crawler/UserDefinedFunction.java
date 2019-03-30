@@ -19,6 +19,7 @@ public class UserDefinedFunction {
 //	An "article" is an object that contains all the information about each article.
 	public void crawlFunction(Article article) {
 		logger.info(article.toString());
+		article.saveToFile();
 	}
 	
 	

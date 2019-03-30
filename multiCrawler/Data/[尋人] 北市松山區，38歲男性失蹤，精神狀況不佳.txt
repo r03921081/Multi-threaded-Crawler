@@ -1,0 +1,540 @@
+{
+  "title" : "[尋人] 北市松山區，38歲男性失蹤，精神狀況不佳",
+  "author" : "azoooo",
+  "board" : "Gossiping",
+  "content" : "各位大大好，我的朋友【石石】失蹤三天了!! 3/26(二)晚間他從台北市【八德路】附近住家處走出，到現在還沒回家。 家人已報警，但調閱監視器至【撫遠街】即失去蹤跡。 因為他的精神狀況不佳，親友非常擔心， 拜託神通廣大鄉民好朋友們幫忙找人!! 以下是石石的相關資訊，如果您有曾經看到他，或有任何線索， 可留言告知或直接聯繫他母親王小姐0952820148，非常感謝大家的幫忙!! 【相關資訊】 姓名：尹存華 外號：石石 男性38歲，約170cm，中等身材 灰黑色平頭，有鬍子 出門時穿黑色衣服、光腳、沒戴眼鏡、沒帶包包 【照片】 https://imgur.com/sVZPAdt https://imgur.com/gVDU0js 【FB協尋啟示】請幫忙轉發 https://www.facebook.com/yuru.hsieh.9/posts/10156947534646698 拜託大家幫忙了!!謝謝!! --  發信站: 批踢踢實業坊(ptt.cc), 來自: 36.224.5.111 ",
+  "date" : "Sat Mar 30 00:41:24 2019",
+  "ip" : "36.224.5.111",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553877690.A.7E4.html",
+  "pushList" : [ {
+    "push_userid" : "JonDoe297",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 00:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kagaline",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leftavoid",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:41",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "DongWooNeKo",
+    "push_content" : ": = =",
+    "push_ipdatetime" : "03/30 00:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "DongWooNeKo",
+    "push_content" : ": Joke??????",
+    "push_ipdatetime" : "03/30 00:42",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a741085",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 00:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "farnorth",
+    "push_content" : ": 光腳應該沒辦法走遠吧，附近便利商店或速食店多留意",
+    "push_ipdatetime" : "03/30 00:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LnBeIsFgDn",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a27588679",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tony900735",
+    "push_content" : ": 為啥有人轉Joke板？？此外，希望平安",
+    "push_ipdatetime" : "03/30 00:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tony900735",
+    "push_content" : ": 口頭禪看來應該是蠻和善的人啊",
+    "push_ipdatetime" : "03/30 00:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "willy90597",
+    "push_content" : ": 祝順利",
+    "push_ipdatetime" : "03/30 00:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "a741085",
+    "push_content" : ": 轉就可應該沒啥用意吧 就純粹幫忙高調而已",
+    "push_ipdatetime" : "03/30 00:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lulocke",
+    "push_content" : ": 有的只是幫轉到人多的板幫忙找",
+    "push_ipdatetime" : "03/30 00:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lockbolt",
+    "push_content" : ": 撫遠街那邊可能過橋或沿河岸走",
+    "push_ipdatetime" : "03/30 00:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "zzh1014",
+    "push_content" : ": 剛開北高警廣也1直在講，請大家幫忙留意",
+    "push_ipdatetime" : "03/30 00:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tom282f3",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "gakkiandyui",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Chuhar",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 00:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "victciv",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 00:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "arashi81",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 00:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "franz10123",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ipadmini6",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "scott0717",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "playboy78945",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "blahblah753",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "LaAc",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "q121074498",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sad0soul",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thankyoualot",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wsx26997785",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ink7777",
+    "push_content" : ": 您好！",
+    "push_ipdatetime" : "03/30 01:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "curly7",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:15",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "doraemon00",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tokiyo",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "simpsons",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jacky81005",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rapnose",
+    "push_content" : ": 幫高調。",
+    "push_ipdatetime" : "03/30 01:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "poiuqwer",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "frank00427",
+    "push_content" : ": 幫高",
+    "push_ipdatetime" : "03/30 01:20",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "viscount",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Seiran",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 01:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "leo42054205",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Moratti",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "smb851231",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cychine",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "z881331",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 01:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:43",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "vm5566",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kill77845",
+    "push_content" : ": 幫",
+    "push_ipdatetime" : "03/30 01:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "spring719",
+    "push_content" : ": 再高調一次",
+    "push_ipdatetime" : "03/30 01:47",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "irisyu0305",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:48",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ko234488",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "SweetChildO",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 01:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "laroserose",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 02:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "avsay",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 02:10",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "YamatoAl",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 02:14",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tdu87",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 02:21",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "lena411100",
+    "push_content" : ": 推高調",
+    "push_ipdatetime" : "03/30 02:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "st86188go",
+    "push_content" : ": ，",
+    "push_ipdatetime" : "03/30 02:27",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sumiho",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 02:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nzsrr",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 02:33",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mplutto13",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 02:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "julia66",
+    "push_content" : ": 光腳…",
+    "push_ipdatetime" : "03/30 02:37",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Julibea",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 02:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sismiku",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 02:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Ryonsky",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 03:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "captainmm",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 03:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cyrich",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 03:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BEBEBABA",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 03:22",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tin989",
+    "push_content" : ": 高調，希望平安回家",
+    "push_ipdatetime" : "03/30 03:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "MBHB",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 03:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "FakeBlack",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 05:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jj980734",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 06:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "t0510523",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 06:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kobe5566183",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 07:19",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kay1994",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 07:26",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "waa006",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 07:29",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "rutp6j35566",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 07:35",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "princeguitar",
+    "push_content" : ": 高調 ！",
+    "push_ipdatetime" : "03/30 07:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dcdrkim",
+    "push_content" : ": 高",
+    "push_ipdatetime" : "03/30 07:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "abb123456",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 08:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "diesel1845",
+    "push_content" : ": 啊",
+    "push_ipdatetime" : "03/30 09:42",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chiuchang",
+    "push_content" : ": 推",
+    "push_ipdatetime" : "03/30 09:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "greenfavor",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 10:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asizi",
+    "push_content" : ": 高ㄉㄧㄠ",
+    "push_ipdatetime" : "03/30 10:23",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "investigate9",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 10:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "momeow",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 11:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "blueskymaple",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 11:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "chooxs",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 11:25",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wadelover",
+    "push_content" : ": https://i.imgur.com/qYtpBKK.jpg",
+    "push_ipdatetime" : "03/30 11:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nine1031",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 12:16",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jimmy60318",
+    "push_content" : ": 高調推",
+    "push_ipdatetime" : "03/30 12:39",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "galaxyku",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 12:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "pumpkinYF",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 13:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dennishao",
+    "push_content" : ": 幫高調",
+    "push_ipdatetime" : "03/30 13:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sepn",
+    "push_content" : ": 幫",
+    "push_ipdatetime" : "03/30 13:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "bubonemtaco",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 13:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "feelingon",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 13:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kalikala",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 14:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sincere77",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 14:45",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "wuke",
+    "push_content" : ":",
+    "push_ipdatetime" : "03/30 15:04",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "night0204",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 16:34",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "panhoho",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 16:46",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BoYan",
+    "push_content" : ": 高調",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  } ]
+}

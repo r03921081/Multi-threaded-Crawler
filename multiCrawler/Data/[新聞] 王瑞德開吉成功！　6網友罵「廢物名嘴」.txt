@@ -1,0 +1,900 @@
+{
+  "title" : "[新聞] 王瑞德開吉成功！　6網友罵「廢物名嘴」",
+  "author" : "ash9911911",
+  "board" : "Gossiping",
+  "content" : "媒體來源:蘋果日報 完整新聞標題:王瑞德開吉成功！　6網友罵「廢物名嘴」遭起訴 完整新聞內文: 資深媒體人、名嘴王瑞德不滿網友動輒在有關他的新聞下方留言辱罵他，去年9月起陸續 對21名網友提告公然侮辱。新北地檢署查出有6名網友涉嫌在台大批踢踢實業坊（PTT）、 《蘋果》新聞頁面留言罵王瑞德「白痴」、「廢物名嘴」、「與周玉蔻是姦夫淫婦」等字 眼，涉嫌公然侮辱，今起訴陳姓、黃姓、賴姓、侯姓、連姓與游姓等6名網友，其餘涉案 網友身份仍待調查。 王瑞德去年9月間在個人臉書頁面PO出報案三聯單，指有21名網友在網路上公開留言侮辱 他，王瑞德並PO文說：「人人在鍵盤上宛如一尾活龍，彷彿不在乎打官司，還興致勃勃， 本人很高興能成全你們，而且絕不和解，準備接招吧！」表示他已對這些網友提告。 檢警查出，陳姓、黃姓、賴姓網友去年6月初，在PTT的八卦版一篇「【FB】王瑞德：是台 灣人就投民進黨」的文章下留言，罵王瑞德「白痴瑞德」、「王瑞德真的很智障」、「幹 Ｘ娘廢物名嘴收錢講幹話就直接說」。 另有侯姓網友在PTT以「王瑞德：我與周玉蔻是姦夫淫婦狗男女」為標題發表文章。而連 姓網友則是去年11月初在《蘋果即時》有關王瑞德批評行政院長賴清德是幹話王的報導下 ，留言罵：「長得一付78臉」。 游姓網友則是在臉書上一篇辱罵「王瑞德有狂犬病」的留言，跟著回覆寫道「台灣人說的 ，吃嘴流氓，靠張嘴混吃，斜嘴歪了嗎？」 檢警查出這6名網友身份後，傳喚他們出庭，他們坦承PO文留言，但辯稱是因為不認同王 瑞德的言論才這樣做，但檢方認為他們涉犯公然侮辱犯行明確，今起訴6人。（游仁汶／ 新北報導） 完整新聞連結 (或短網址): https://tw.appledaily.com/new/realtime/20190329/1542095/ 備註:怕爆 有沒有參加版聚的鄉民要出來發表一下心得 -- ",
+  "date" : "Sat Mar 30 16:48:47 2019",
+  "ip" : "112.105.151.250",
+  "url" : "https://www.ptt.cc/bbs/Gossiping/M.1553935733.A.C35.html",
+  "pushList" : [ {
+    "push_userid" : "s820912gmail",
+    "push_content" : ": 樓下88",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "a000000000",
+    "push_content" : ": 五樓被吉",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "redDest",
+    "push_content" : ": 旋風蓋",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "skbshawn",
+    "push_content" : ": 幫QQ",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "CharleneTsai",
+    "push_content" : ": 還好我只認識許瑞德",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 起訴而已 成功三小",
+    "push_ipdatetime" : "03/30 16:49",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 柯師父神力破功沒保佑柯粉們",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "QB5566",
+    "push_content" : ": 瑞德:哈哈不能當保全了齁活該",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 一堆愛嘴的被告剛好",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa1052026",
+    "push_content" : ": 一般都是不起訴居多 能被起訴 看來真的罵很大",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "love0504",
+    "push_content" : ": 怕",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "rei196",
+    "push_content" : ": 法院沒有認證就不用貼了",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 也不能當物流士了",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "signm",
+    "push_content" : ": 推文小心",
+    "push_ipdatetime" : "03/30 16:50",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BDG",
+    "push_content" : ": 加油 再來就是法院認證與否",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "c255120",
+    "push_content" : ": 八卦-6",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 柯粉們可以去查看看刑事訴訟公然侮辱的定罪率啊",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "nicholassys",
+    "push_content" : ": uccu",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "deep5566",
+    "push_content" : ": 集合!!沒出來的我一個一個點名了喔",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "g005522",
+    "push_content" : ": 這種案件起訴就差不多要被判了",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "kaodio",
+    "push_content" : ": 起訴而已又不代表成功 柯粉不要怕 八卦版永遠精神上支持",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "slimak",
+    "push_content" : ": 保全-6",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "KCKCLIN",
+    "push_content" : ": 哈哈",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fytnship",
+    "push_content" : ": 如果扮成忍者龜出庭一定大爆笑",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 讚 網路本來就不能亂講話",
+    "push_ipdatetime" : "03/30 16:51",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 我買pchome24h的時候，不希望這種人幫我送貨",
+    "push_ipdatetime" : "03/30 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "kaodio",
+    "push_content" : ": red人很好的 他一定會再給你們機會上來PO道歉文",
+    "push_ipdatetime" : "03/30 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 這都上報了 應該是有起訴的都會成功的辣 柯粉拍拍",
+    "push_ipdatetime" : "03/30 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 加油，不要妥協啊鄉民，這樣我們會看不起你",
+    "push_ipdatetime" : "03/30 16:52",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "flux",
+    "push_content" : ": 打球嚕",
+    "push_ipdatetime" : "03/30 16:52",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 還定罪率勒 定罪率70%也不代表這些都在70%裡",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 不知道被告柯粉最後是來這道歉 還是有骨氣死不道歉呢",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "fytnship",
+    "push_content" : ": 但是你怎麼知道不是柯黑反串被吉?",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hihi29",
+    "push_content" : ": 柯粉版聚?",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 了不起罰錢嘛，你自曝帳號真名打球得不償失",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "diesel1845",
+    "push_content" : ": 禍從口出",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "cheinshin",
+    "push_content" : ": 哈哈哈哈 柯粉 哈哈哈哈",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 還是柯糞們以為和法官說我挺柯師父法官就會判柯糞們沒有罪",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 87就是87",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "judogirl",
+    "push_content" : ": 批評和謾罵意思不同啊 愛亂罵的人遲早有一天會踢到鐵板",
+    "push_ipdatetime" : "03/30 16:53",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "arumi416",
+    "push_content" : ": 好奇裡面柯粉有幾個",
+    "push_ipdatetime" : "03/30 16:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qscxz",
+    "push_content" : ": 怕!",
+    "push_ipdatetime" : "03/30 16:54",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 果然關鍵字一出，藍鳥就忍不住跑出來了0.0",
+    "push_ipdatetime" : "03/30 16:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa1052026",
+    "push_content" : ": 會直接罵髒話的都是綠粉反串居多啦 沒看到檯面上有個幹",
+    "push_ipdatetime" : "03/30 16:54",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "samuncle123",
+    "push_content" : ": 調皮的結果 嘻嘻",
+    "push_ipdatetime" : "03/30 16:54",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 柯糞幫RED繳車貸房貸 人真好",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "aa1052026",
+    "push_content" : ": 你娘罵得特別順口的?還兩個",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gohow",
+    "push_content" : ": 太恐怖了",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yankeehater",
+    "push_content" : ": 爽",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 去跟檢察官說我們白圾力量刀槍不入 你要判我無罪",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Szss",
+    "push_content" : ": 柯粉-6",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Roger5566",
+    "push_content" : ": 法院變成鬥爭的工具了",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 基本上會批瑞德兄的 應該只有韓粉跟柯粉 就看那個中獎了",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "lu82034",
+    "push_content" : ": 哈哈哈",
+    "push_ipdatetime" : "03/30 16:55",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "dslite",
+    "push_content" : ": 跟某打臉xx一樣叫小雞斗內啊 自己人不救嗎?",
+    "push_ipdatetime" : "03/30 16:56",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "iWatch2",
+    "push_content" : ": 柯師傅神通力太神了 柯粉一眼就看出是綠粉反串",
+    "push_ipdatetime" : "03/30 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 果然關鍵字一出 一堆智障出來了0.0",
+    "push_ipdatetime" : "03/30 16:56",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "godofaluba",
+    "push_content" : ": 侯姓不是道歉了嗎",
+    "push_ipdatetime" : "03/30 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sanshin",
+    "push_content" : ": 廢物",
+    "push_ipdatetime" : "03/30 16:56",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nniip",
+    "push_content" : ": 哈哈柯糞要瓦解了",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "willy90597",
+    "push_content" : ": 支持瑞德",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sking",
+    "push_content" : ": 雖然不欣賞他~但覺得他告網友是對的~網上太多講話不負責的",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sanshin",
+    "push_content" : ": 幹話王這評論還滿中肯的",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 藍鳥最聰明，支持的人都是最棒最優秀的!!",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 柯糞們先喊先贏趕快大喊司法不公2020教訓DPP",
+    "push_ipdatetime" : "03/30 16:57",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 還是乖乖罵政客吧 名嘴政客分不清 難怪只能當低階柯糞",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "aa1052026",
+    "push_content" : ": 拎北在罵柯文哲政策腦殘時 綠粉還在跟柯粉雜交中",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "sanshin",
+    "push_content" : ": 看來妓者跟中天也不能罵啦。",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 我沒有最聰明 比低能兒聰明而已 哈哈",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 柯糞當到被當提款機 真可憐",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 我也支持告 而且不和解 所以我看大概都要有前科了",
+    "push_ipdatetime" : "03/30 16:58",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tw2000",
+    "push_content" : ": 瑞德加油XDDDDDDDD",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 這篇備份下來 等判決出來再嘲笑這些推文高潮的智障",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 你比我聰明是必須的，你可是拉風的男人耶，怎能平凡",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 連起訴也在高潮 快笑死 一堆智障法盲",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 瑞德哥說他絕不和解阿",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 要是我就會直接在法院自殺 死給red看 都是theyB我的",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 名嘴記者明明就常被告 台灣妨礙名譽沒除罪化 要不要告都看",
+    "push_ipdatetime" : "03/30 16:59",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "BlueBird5566",
+    "push_content" : ": 我是說低能兒 我沒說你啊? 啊 原來你是…",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 都不和解了 怎麼幫瑞德兄繳房代車代 直接+前科 很划算",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "AlianF",
+    "push_content" : ": 保全-6",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 對方 政客沒告你是因為他們還要選票加上你太小咖",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hodj",
+    "push_content" : ": 恐龍檢察官，明知道浪費社會資源硬要跟著起舞",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 我就是阿，我又不會告你。也不會生氣= =",
+    "push_ipdatetime" : "03/30 17:00",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "G8PIG",
+    "push_content" : ": 柯p會救網友的",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 柯糞吃了柯屁的屎平時嘴那麼臭 終於踢到鐵板了吼",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "snowmag",
+    "push_content" : ": 傻了要罵也要罵得高明呀，罵的人這麼多怎就告你們這幾個",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "snowmag",
+    "push_content" : ": 能成案",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "L1ON",
+    "push_content" : ": 不能當保全ㄌ",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "nosheep",
+    "push_content" : ": 台灣司法不意外",
+    "push_ipdatetime" : "03/30 17:01",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 而且RED是老記者了 知道告誰成功率更高 這幾個乖乖繳錢吧",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 看來了 司法不公來了",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "jorden",
+    "push_content" : ": 柯粉敢死隊-6",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "mizuhara",
+    "push_content" : ": 我等著看有人是否真有那種膽量在法院自殺啊www",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "asclepias",
+    "push_content" : ": 要進去蹲嗎，屁股要洗乾淨",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 瑞德兄是偏綠的 會批的想也知只有韓粉跟柯粉 還柯糞咧",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": RED可不是家裡蹲訟棍 比社會經驗屌打柯糞",
+    "push_ipdatetime" : "03/30 17:02",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 想知道調解庭 裡面的人對瑞德哥瘋狂跳針說給我面子和解",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 瑞德兄都說過很多次 他個人非常杜爛KMT",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Mei5566",
+    "push_content" : ": 整天嘴人，不能被嘴，標準",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "sanshin",
+    "push_content" : ": 這個絕對易科罰金，哪有可能進去蹲...",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 會怎樣?",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 我認為自認沒錯就不要和解。正確的事不能妥協",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Dinenger",
+    "push_content" : ": 法律會給你們一個公道",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 柯粉可以去和台北市政府借場地戴口罩召開記者會控訴司法迫",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hyuchi0202",
+    "push_content" : ": 鬼島所有的名嘴都是廢物 藍綠都是垃圾",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 害",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": RED當名嘴就被告過好幾次了好嗎 柯糞要知道嘴人是有風險的",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "miisoo4u",
+    "push_content" : ": 起訴而已",
+    "push_ipdatetime" : "03/30 17:03",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 的確啦 就易科罰金 但重點是 送前科",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 不是你要不要和解的問題，你開過庭就知道，會先進去調解庭",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hyuchi0202",
+    "push_content" : ": 歡迎垃圾智障藍綠賤畜名嘴來告",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 然後會一直說三洨 給我面子 和解一下之類的話",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "hyuchi0202",
+    "push_content" : ": 另外愛滋甲都是智障 歡迎愛滋甲來告",
+    "push_ipdatetime" : "03/30 17:04",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 起訴而已 小事情 上法院再說吧",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "e86117934",
+    "push_content" : ": 起訴而已，有定罪再說。",
+    "push_ipdatetime" : "03/30 17:05",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ck901372",
+    "push_content" : ": 記者真的要想想社會風評為什麼這麼差",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "miisoo4u",
+    "push_content" : ": 請大家愛用AOE大招 別指名道姓",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tsucomi69",
+    "push_content" : ": 王瑞德批評行政院長賴清德是幹話王的報導下，留言罵：",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "wulaw5566",
+    "push_content" : ": 自業自得",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "Tsucomi69",
+    "push_content" : ": 「長得一付78臉」。",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Tsucomi69",
+    "push_content" : ": 有個賴粉耶",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "Rrrxddd",
+    "push_content" : ": 廢物無誤",
+    "push_ipdatetime" : "03/30 17:06",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "peter0625",
+    "push_content" : ": 罵三字經那個確認是柯粉 為了挺柯還真不惜留下前科",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 法院地檢署律師多或是專門在濫訴的人也很多 你們不用害怕",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 有問題在那附近隨便抓個路人來問問 就好",
+    "push_ipdatetime" : "03/30 17:07",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 一般去告大多都不起訴好嗎 能被起訴就很大條了",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 會在網路罵人通常都是社會邊緣人 像我就是QQ",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 柯屁應該會覺得他選總統的捐款又了六筆吧",
+    "push_ipdatetime" : "03/30 17:08",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 起訴就算大條了XDDDDDDDDDDDDDDDD",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 這種事跟記者有什麼關係 你要罵一定要謾罵才爽",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 邊緣人連在網路刷存在都要被檢討 這社會一點都不公平",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "dos1019",
+    "push_content" : ": 再亂嘴啊 XD",
+    "push_ipdatetime" : "03/30 17:09",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 好好的說道理不會嗎",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "DDDDRR",
+    "push_content" : ": 被起訴後有罪比例超高的，大家說的不用怕是通常不會起訴",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 先不談定不定罪 光那6位收到傳票 尿就快漏了",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 一定要開口就這麼臭 幾字經",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 我要是檢察官就挖個坑給他跳 讓法院認證真的是78臉",
+    "push_ipdatetime" : "03/30 17:10",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 在檢座那基本上已送起訴 大都是跑不太掉",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HsiangMing",
+    "push_content" : ": 網路刷存在就可以亂講話罵人嗎",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 有夠沒水準",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "gary2011",
+    "push_content" : ": 白圾力量-6",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "ko782",
+    "push_content" : ": 活該",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 以前訟棍之亂就是亂告 可是基本上起訴的機率都很低",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "yycbr",
+    "push_content" : ": 王瑞德吹牛告了一百五十多人 怎麼才這幾個",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 能被檢座認定要起訴的 基本上做好心理準備吧",
+    "push_ipdatetime" : "03/30 17:11",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "HwaSIn",
+    "push_content" : ": 除非你能在神不知鬼不覺的情況下 在RED哥臉上畫個78再拍照",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 我看一堆五毛亂罵都沒事 台灣根本雙標社會 老實人錯了嗎",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 都到起訴這一步了 還覺得問題不大 柯糞真的好笑",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "meredith001",
+    "push_content" : ": 爽 政黑9.2柯粉-6",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "impressive",
+    "push_content" : ": 起訴而已 廢物還是廢物",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 那也要抓的到5毛啊 一堆翻強來的要怎麼抓怎麼傳喚",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "impact999",
+    "push_content" : ": 噁心",
+    "push_ipdatetime" : "03/30 17:12",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "GoaCorolla",
+    "push_content" : ": 爽！告死五毛喜韓兒",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 某樓根本就是在危言聳聽",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 應該很多跳板仔捉不到",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": ptt一堆沒骨氣的都在各網拍賣帳號了 一支都賣2千起跳",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "cocabell",
+    "push_content" : ": 藍綠敗類真是心疼冥嘴 噁",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 因為抓不到 就只處理抓得到的這不是很怪嗎",
+    "push_ipdatetime" : "03/30 17:13",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 被跳板仔挑撥 最後戰友沒事 你有事",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 怎會奇怪 本來就殺雞警猴啊 抓不到的只能怪太多人賣帳號",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "tedpc",
+    "push_content" : ": 起訴定罪率例可是檢察官們的績效指標誰會拿這個來和你開玩",
+    "push_ipdatetime" : "03/30 17:14",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 我純粹就是討厭王瑞德這個人 非常瞧不起他",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 藍綠明嘴敗類 所以你就可以嘴臭喔 XD",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 都已經說了 被檢座認定要起訴的 基本上都跑不掉了",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "patoo",
+    "push_content" : ": 原來是那個挺姚 害姚文智17%的RED",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shengyeh",
+    "push_content" : ": 有沒有對自己標準這麼低",
+    "push_ipdatetime" : "03/30 17:15",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 起訴不成功的 在檢座那關就己經先刷掉了",
+    "push_ipdatetime" : "03/30 17:16",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 你喜歡討厭是一回事 但不代表他不能執行他的權力去告",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 有一群人故意在搞對立 激化台灣族群互相討厭 結果社會處理",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "thatear",
+    "push_content" : ": 不能當保全了嗚嗚嗚 怎麼辦這輩子都毀了QQ",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "seamen",
+    "push_content" : ": 不了 開始檢討為什麼有人會被激化 這不是本末倒置嗎",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 沒錯 危言聳聽 只是被起訴而已 柯糞都很硬頸 絕不和解",
+    "push_ipdatetime" : "03/30 17:17",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "guemao",
+    "push_content" : ": 看到鍵盤法官的高見就覺得好笑",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "langeo",
+    "push_content" : ": 和解的柯糞都會被白圾力量驅逐",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "→"
+  }, {
+    "push_userid" : "shiajih",
+    "push_content" : ": 哈哈哈",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "推"
+  }, {
+    "push_userid" : "qsccft123",
+    "push_content" : ": 吉得好 讚啦 臭酸民",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "噓"
+  }, {
+    "push_userid" : "andytaso",
+    "push_content" : ": 瑞德兄都說不和解了 柯粉當然也說絕不和解啊 XD",
+    "push_ipdatetime" : "03/30 17:18",
+    "push_tag" : "→"
+  } ]
+}
