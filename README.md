@@ -35,8 +35,6 @@ https://tw.appledaily.com/new/realtime/
 			title: Title,
 			view: View,
 			date: Date,
-			imageURL: ImageURL,
-			imageContent: ImageContent,
 			content: Content,
 			url: URL,
 			keywords: [ keyword_1, keyword_2, ... ]
