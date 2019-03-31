@@ -4,10 +4,10 @@
 	* By default, the system saves the crawl results to txt files.
 
 ## Extensiblity
-		- Add a new website source.
-		1. Dispatcher
-		2. Crawler
-		3. Article format
+	- Add a new website source.
+	  1. Dispatcher
+	  2. Crawler
+	  3. Article format
 
 ## Output format
 - Real system outputs  
