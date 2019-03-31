@@ -4,10 +4,17 @@
 	* By default, the system saves the crawl results to txt files.
 
 ## Extensiblity
-	- Add a new website source.
-	  1. Dispatcher
-	  2. Crawler
-	  3. Article format
+- Add a new website source.
+1. Dispatcher
+2. Crawler
+3. Article parser
+4. Article format
+5. Configuration
+	  
+- Take Apple Daily as an example.  
+https://github.com/r03921081/Multi-threaded-Crawler/tree/master/multiCrawler/src/main/java/tw/jm/AppleNews	
+
+	
 
 ## Output format
 - Real system outputs  
