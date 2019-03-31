@@ -1,7 +1,13 @@
 # Multi-threaded-Crawler
-- A scalable multi-threaded system for crawling multiple website articles.  
+- An extensible multi-threaded system for crawling multiple website articles.  
 	* Provide users with an interface to crawl articles based on user-defined standard.
 	* By default, the system saves the crawl results to txt files.
+
+## Extensiblity
+		- Add a new website source.
+		1. Dispatcher
+		2. Crawler
+		3. Article format
 
 ## Output format
 - Real system outputs  
