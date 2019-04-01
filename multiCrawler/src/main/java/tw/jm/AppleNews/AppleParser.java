@@ -28,19 +28,18 @@ public class AppleParser {
 
 			article.setTitle(list.select("h1").text().trim());
 			article.setView(list.select(".ndArticle_view").text());
-			
+
 			String myTime = list.select(".ndArticle_creat").text();
 			Pattern pattern = Pattern.compile("\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}");
 			Matcher matcher = pattern.matcher(myTime);
-			if (matcher.find())
-			{
+			if (matcher.find()) {
 				String dateInString = matcher.group(0);
-			    
-			    SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd HH:mm", Locale.TAIWAN);
-			    Date date = formatter.parse(dateInString);
-			    article.setDate(date.toString());
+
+				SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd HH:mm", Locale.TAIWAN);
+				Date date = formatter.parse(dateInString);
+				article.setDate(date.toString());
 			}
-			
+
 			article.setContent(list.select(".ndArticle_margin p").text());
 			article.setUrl(url);
 
