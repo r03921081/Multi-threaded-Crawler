@@ -3,9 +3,11 @@ package tw.jm.Crawler;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -13,6 +15,10 @@ import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import com.fasterxml.jackson.core.JsonGenerationException;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class FileOperation {
 
@@ -76,6 +82,31 @@ public class FileOperation {
 			out.close();
 		} catch (IOException e) {
 			logger.error("FileWriter", e);
+		}
+	}
+	
+	public void saveArticlesToFiles(Article article) {
+		String articleTitle = article.getTitle();
+		articleTitle = articleTitle.replaceAll("[\\\\!<>:\"|?\\*\\./]", "");
+		String f = "Data\\" + articleTitle + ".txt";
+		logger.info(f);
+
+		ObjectMapper mapper = new ObjectMapper();
+
+		try {
+			String jsonInString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(article);
+			logger.info(jsonInString);
+
+			OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream(new File(f)), "utf-8");
+			writer.append(jsonInString);
+			writer.close();
+
+		} catch (JsonGenerationException e) {
+			logger.error(e);
+		} catch (JsonMappingException e) {
+			logger.error(e);
+		} catch (IOException e) {
+			logger.error(e);
 		}
 	}
 
