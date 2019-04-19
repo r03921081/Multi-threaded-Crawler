@@ -56,21 +56,22 @@ https://tw.appledaily.com/new/realtime/
 			url: URL,
 			keywords: [ keyword_1, keyword_2, ... ]
 		}
-	
-## Manual
-	Once the first initialization is completed, the system will automatically update all documents in the future. 	
-	1. Add (subscribed web-subscribed board) into "websites" for initialization.
-	2. Check user-defined standard.	
-	
-	For example: 
-	1. Add PTT "Lifeismoney"  	
-	  - websites: PTT-Lifeismoney
-	2. Add AppleDaily "life"
-	  - websites: APPLE-life
 
 ## System Flow
 
 ![](https://github.com/r03921081/Multi-threaded-Crawler/blob/master/multiCrawler/Image/Crawler.png)
+
+## Documents
+	* UserDefinedFunction.java
+		* User-defined functions for articles that meet the standards.
+	* MySQL - website  
+		* Record the source of the website that the user wants to crawl.  
+		Schema : id ,  web , board , createAt
+		         '1', 'PTT', 'joke', '2019-04-19 15:43:11'
+	* MySQL - donelist  
+		* Record article information that has been crawled.  
+		Schema : id ,  web , board ,               article              , articleDate, createAt
+		         '1', 'PTT', 'joke', '/bbs/joke/M.1555471681.A.378.html',   '4/17'   , '2019-04-19 19:19:08'
 
 ## Threads life
 	1. Dispatcher
@@ -79,18 +80,6 @@ https://tw.appledaily.com/new/realtime/
 	2. Crawler
 		* New: At the beginning of the program.
 		* Terminated: At the end of the program.
-
-## Documents
-	* UserDefinedFunction.java
-		* User-defined functions for articles that meet the standards.
-	* websites  
-		* Record the source of the website that the user wants to crawl. 
-		- (Websites-Board)  
-		- (PTT-Gossiping)
-	* doneList  
-		* Record article information that has been crawled.  
-		- (Board ArticleURL(ID) ArticleDate)  
-		- (PTT-Gossiping /bbs/Gossiping/M.1553917773.A.69A.html 3/30)
 
 ## PTT Concept
 
