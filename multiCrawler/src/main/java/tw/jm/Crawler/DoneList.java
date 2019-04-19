@@ -1,7 +1,9 @@
 package tw.jm.Crawler;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class DoneList {
 
@@ -22,6 +24,7 @@ public class DoneList {
 	}
 
 	private Map<String, Map<String, String>> doneMap = new HashMap<>();
+	private Set<String> oldDoneArticle = new HashSet<>();
 
 	public void initDoneMap() {
 		FileOperation f = new FileOperation();
@@ -49,6 +52,14 @@ public class DoneList {
 	public void saveDoneList() {
 		FileOperation f = new FileOperation();
 		f.setDoneListConfig();
+	}
+	
+	public void setOldDoneArticle(String article) {
+		oldDoneArticle.add(article);
+	}
+	
+	public Set<String> getOldDoneArticle() {
+		return oldDoneArticle;
 	}
 	
 //	Future improvement
